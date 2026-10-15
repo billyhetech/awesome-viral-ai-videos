@@ -1,0 +1,2446 @@
+[
+ {
+  "slug": "imjustnewatai-168580",
+  "seo_slug": "human-progress-as-one-day-animation",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106081142143168580",
+  "title": "Human progress, as one day — THE SECOND DAY",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas",
+   "web-audio"
+  ],
+  "prompt": "A video of all human progress, then 30 years into the future",
+  "prompt_partial": false,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 355293,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "imjustnewatai-180510",
+  "seo_slug": "quarks-to-observable-universe-in-94-seconds",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106162924331180510",
+  "title": "From 3 quarks to the observable universe in 94 seconds",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas",
+   "web-audio"
+  ],
+  "prompt": "Come up with a video idea yourself — the requirement is that it makes people go \"I had no idea AI could do this.\"",
+  "prompt_partial": true,
+  "added": "2026-10-10"
+ },
+ {
+  "slug": "chetaslua-504862",
+  "seo_slug": "superman-5000-years-of-art-in-20-styles",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105757136219504862",
+  "title": "Superman through 5,000 years of art history, in 20 styles",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 537000,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "mesmerlord-049235",
+  "seo_slug": "marvel-dc-heroes-javascript-eyes-follow-mouse",
+  "model": "fable-5.5",
+  "author": "mesmerlord",
+  "author_url": "https://x.com/mesmerlord",
+  "post_url": "https://x.com/mesmerlord/status/2105758042830549235",
+  "title": "Marvel & DC heroes drawn in pure JavaScript, eyes follow the mouse",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10"
+ },
+ {
+  "slug": "ishuagra02-359470",
+  "seo_slug": "nintendo-switch-svg-boot-animation",
+  "model": "fable-5.5",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2105779174921359470",
+  "title": "Nintendo Switch SVG boot-up animation",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "Create an SVG of a Nintendo Switch, with an animation of the controllers getting snapped into the console, and the screen booting up with the logo.",
+  "prompt_partial": false,
+  "added": "2026-10-10"
+ },
+ {
+  "slug": "cherry-mx-reds-432073",
+  "seo_slug": "dot-prompt-pixar-style-animation",
+  "model": "fable-5.5",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2105825930799432073",
+  "title": "Dot prompt becomes Pixar-style animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 828141,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "zadrielsan-001360",
+  "seo_slug": "three-body-problem-physics-simulation",
+  "model": "fable-5.5",
+  "author": "zAdrielsan",
+  "author_url": "https://x.com/zAdrielsan",
+  "post_url": "https://x.com/zAdrielsan/status/2105822678519001360",
+  "title": "Three-body problem physics simulation in Bend2",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 344224,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "cherry-mx-reds-144331",
+  "seo_slug": "40000-years-of-art-history-video",
+  "model": "fable-5.5",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2106095190285144331",
+  "title": "40,000 years of art history video",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 213254,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "cherry-mx-reds-009224",
+  "seo_slug": "simple-prompt-cool-animation",
+  "model": "fable-5.5",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+  "title": "Cool animation generated from simple prompt",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 164140,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "imjustnewatai-354669",
+  "seo_slug": "short-animated-video-from-one-prompt",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2105808539495354669",
+  "title": "Short generated animated video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 155246,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "mindblown-ai-199037",
+  "seo_slug": "waymo-lombard-street-drive-simulation",
+  "model": "fable-5.5",
+  "author": "mindblown_ai",
+  "author_url": "https://x.com/mindblown_ai",
+  "post_url": "https://x.com/mindblown_ai/status/2106112279079199037",
+  "title": "Waymo drive down Lombard Street",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 108932,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-419727",
+  "seo_slug": "day-in-the-life-of-claude-animation",
+  "model": "fable-5.5",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106045364868419727",
+  "title": "Day in the life of Claude animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 84869,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "saccc-c-377531",
+  "seo_slug": "one-prompt-motion-demo",
+  "model": "fable-5.5",
+  "author": "Saccc_c",
+  "author_url": "https://x.com/Saccc_c",
+  "post_url": "https://x.com/Saccc_c/status/2105985484472377531",
+  "title": "One-prompt motion demo clip",
+  "category": "motion",
+  "tech_tags": [
+   "remotion",
+   "hyperframes"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 77035,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-387163",
+  "seo_slug": "short-motion-design-video",
+  "model": "fable-5.5",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2106031355922387163",
+  "title": "Short motion design video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 77009,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-782557",
+  "seo_slug": "hugging-face-incident-animated-short",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105884276864782557",
+  "title": "Hugging Face incident animated short",
+  "category": "long-form",
+  "tech_tags": [
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 76088,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "spac89-318451",
+  "seo_slug": "fable-vs-gpt-6-1-speed-quality-test",
+  "model": "fable-5.5",
+  "author": "SPAC89",
+  "author_url": "https://x.com/SPAC89",
+  "post_url": "https://x.com/SPAC89/status/2105783511433318451",
+  "title": "Fable 5.5 vs GPT 6.1 speed/quality test",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 70556,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-147541",
+  "seo_slug": "marvel-dc-heroes-one-shot-animation",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105792187200147541",
+  "title": "Marvel and DC heroes one-shot animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 66349,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-900621",
+  "seo_slug": "pixel-art-boss-battle-game",
+  "model": "fable-5.5",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2107108802440900621",
+  "title": "Pixel art boss-battle game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 62724,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-594134",
+  "seo_slug": "character-vignette-animation-synced-to-beat",
+  "model": "fable-5.5",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106369929813594134",
+  "title": "Character vignette animation synced to a beat",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 61533,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "abhinavflac-373114",
+  "seo_slug": "eminem-godzilla-music-video-in-javascript",
+  "model": "fable-5.5",
+  "author": "abhinavflac",
+  "author_url": "https://x.com/abhinavflac",
+  "post_url": "https://x.com/abhinavflac/status/2106638839666373114",
+  "title": "Eminem Godzilla video redrawn in JavaScript",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 56942,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "maxblade-529606",
+  "seo_slug": "50-player-battle-royale-browser-game",
+  "model": "fable-5.5",
+  "author": "_MaxBlade",
+  "author_url": "https://x.com/_MaxBlade",
+  "post_url": "https://x.com/_MaxBlade/status/2103847223557529606",
+  "title": "50-player battle royale browser game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 54566,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-760024",
+  "seo_slug": "brainrot-video-edit",
+  "model": "fable-5.5",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2107459553369760024",
+  "title": "Brainrot Video Edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 47091,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "imjustnewatai-109991",
+  "seo_slug": "3d-rube-goldberg-machine-simulation",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2105889407056109991",
+  "title": "3D Rube Goldberg machine simulation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Extremely complicated 3d rube goldberg machine, accurate physics, aaa gfx, vfx",
+  "prompt_partial": false,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 42747,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "vib3coded-029473",
+  "seo_slug": "interactive-jelly-watermelon-toy",
+  "model": "fable-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2106056420131029473",
+  "title": "Interactive jelly watermelon toy",
+  "category": "games-interactive",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 42502,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ziwenxu-741045",
+  "seo_slug": "civilization-history-animated-film",
+  "model": "fable-5.5",
+  "author": "ziwenxu_",
+  "author_url": "https://x.com/ziwenxu_",
+  "post_url": "https://x.com/ziwenxu_/status/2105983571848741045",
+  "title": "Civilization history animated film",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 41771,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "mesmerlord-288692",
+  "seo_slug": "model-release-trailer-comparison",
+  "model": "fable-5.5",
+  "author": "mesmerlord",
+  "author_url": "https://x.com/mesmerlord",
+  "post_url": "https://x.com/mesmerlord/status/2105771088374288692",
+  "title": "Release trailer comparison between two models",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 40451,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-055242",
+  "seo_slug": "minecraft-clone-browser-game",
+  "model": "fable-5.5",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2108221060655055242",
+  "title": "Minecraft clone built with Fable 5.5",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 40119,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-082297",
+  "seo_slug": "viral-memes-timeline-2010-2026",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106076940558082297",
+  "title": "Viral memes 2010-2026 timeline video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 39539,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-701214",
+  "seo_slug": "hugging-face-incident-music-video",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2105934928483701214",
+  "title": "Hugging Face incident music video",
+  "category": "music-videos",
+  "tech_tags": [
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 35983,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "saccc-c-761094",
+  "seo_slug": "15-second-motion-graphics-showcase",
+  "model": "fable-5.5",
+  "author": "Saccc_c",
+  "author_url": "https://x.com/Saccc_c",
+  "post_url": "https://x.com/Saccc_c/status/2106376222309761094",
+  "title": "15-Second Motion Graphics Showcase",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 25251,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-978867",
+  "seo_slug": "spider-man-comic-eras-animation",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106248621519978867",
+  "title": "Spider-Man comic eras",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 24104,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-599730",
+  "seo_slug": "ai-model-showdown-animation",
+  "model": "fable-5.5",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2107129409576599730",
+  "title": "AI Model Showdown Animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 23427,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-641241",
+  "seo_slug": "claude-mascot-coworker-animation",
+  "model": "fable-5.5",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106138602073641241",
+  "title": "Claude mascot coworker mod demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "create a motion video that shows the various animations/states of each claude state every beat with music",
+  "prompt_partial": false,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 23216,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-710023",
+  "seo_slug": "code-painted-animation",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106833074302710023",
+  "title": "Code-painted animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 22834,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "spac89-202591",
+  "seo_slug": "fable-vs-gpt-6-1-comparison",
+  "model": "fable-5.5",
+  "author": "SPAC89",
+  "author_url": "https://x.com/SPAC89",
+  "post_url": "https://x.com/SPAC89/status/2105968361725202591",
+  "title": "Fable 5.5 vs GPT-6.1 comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 20436,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "badboyfoxy-543348",
+  "seo_slug": "side-by-side-design-output-comparison",
+  "model": "fable-5.5",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2106073473361543348",
+  "title": "Side-by-side design output comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 20419,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "explorax-444396",
+  "seo_slug": "animated-website-from-one-image-opus-vs-gpt",
+  "model": "fable-5.5",
+  "author": "exploraX_",
+  "author_url": "https://x.com/exploraX_",
+  "post_url": "https://x.com/exploraX_/status/2107435761490444396",
+  "title": "Animated website from a single image: Opus vs GPT-6.1",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 19588,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "andrewonxyz-395712",
+  "seo_slug": "agi-declaration-animated-short",
+  "model": "fable-5.5",
+  "author": "AndrewOnXYZ",
+  "author_url": "https://x.com/AndrewOnXYZ",
+  "post_url": "https://x.com/AndrewOnXYZ/status/2106097745098395712",
+  "title": "Animated AGI declaration short",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 18640,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "blueemi99-655748",
+  "seo_slug": "history-of-humanity-animation",
+  "model": "fable-5.5",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2106041578204655748",
+  "title": "History of humanity animation",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 18258,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "vikktorrrre-588084",
+  "seo_slug": "voxel-japanese-garden-threejs",
+  "model": "fable-5.5",
+  "author": "vikktorrrre",
+  "author_url": "https://x.com/vikktorrrre",
+  "post_url": "https://x.com/vikktorrrre/status/2105955048018588084",
+  "title": "Voxel Japanese garden in Three.js",
+  "category": "motion",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 18218,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "emostaque-091943",
+  "seo_slug": "21-world-boss-battle-game",
+  "model": "fable-5.5",
+  "author": "EMostaque",
+  "author_url": "https://x.com/EMostaque",
+  "post_url": "https://x.com/EMostaque/status/2106065029850091943",
+  "title": "21-world boss battle game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 17307,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "chetaslua-792415",
+  "seo_slug": "strait-of-hormuz-debate-animation",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2106060047805792415",
+  "title": "Strait of Hormuz debate animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 14223,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "notjazii-998967",
+  "seo_slug": "3d-controller-model-comparison",
+  "model": "fable-5.5",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2106050222828998967",
+  "title": "3D controller model comparison",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 11546,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "jaydendavisnc-474652",
+  "seo_slug": "pelican-voxel-scene",
+  "model": "fable-5.5",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2106960127987474652",
+  "title": "Pelican voxel scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 10311,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "imjustnewatai-956427",
+  "seo_slug": "atomic-bomb-history-3d-film",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106238699872956427",
+  "title": "Atomic bomb history 3D film",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 9899,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "oalanicolas-241037",
+  "seo_slug": "history-of-humanity-sketch-animation",
+  "model": "fable-5.5",
+  "author": "oalanicolas",
+  "author_url": "https://x.com/oalanicolas",
+  "post_url": "https://x.com/oalanicolas/status/2107958931230241037",
+  "title": "History of humanity sketch animation",
+  "category": "motion",
+  "tech_tags": [
+   "ffmpeg",
+   "python"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 8756,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "devteamdrew-021549",
+  "seo_slug": "claude-introduction-video",
+  "model": "fable-5.5",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2106155815707021549",
+  "title": "Claude introduction video",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 8735,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "maxt3chno-672708",
+  "seo_slug": "playable-island-game",
+  "model": "fable-5.5",
+  "author": "maxt3chno",
+  "author_url": "https://x.com/maxt3chno",
+  "post_url": "https://x.com/maxt3chno/status/2106838003561672708",
+  "title": "Playable island game preview",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 7063,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "ishuagra02-784118",
+  "seo_slug": "watercolor-autumn-animation",
+  "model": "fable-5.5",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2106000055706784118",
+  "title": "Watercolor fall animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 6308,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "harshithlucky3-903602",
+  "seo_slug": "superintelligence-era-3d-scene",
+  "model": "fable-5.5",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2105765253799903602",
+  "title": "Superintelligence era scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-10",
+  "stats_snapshot": {
+   "views": 5133,
+   "captured_at": "2026-10-10"
+  }
+ },
+ {
+  "slug": "notjazii-706221",
+  "seo_slug": "minecraft-style-sandbox-weather-mobs-weapons",
+  "model": "fable-5.5",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2108590346309706221",
+  "title": "Minecraft-style sandbox with weather, mobs and weapons",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-12",
+  "stats_snapshot": {
+   "views": 10119,
+   "captured_at": "2026-10-12"
+  }
+ },
+ {
+  "slug": "beyondwudan-957122",
+  "seo_slug": "spacecraft-orbiting-earth-threejs",
+  "model": "fable-5.5",
+  "author": "beyondwudan",
+  "author_url": "https://x.com/beyondwudan",
+  "post_url": "https://x.com/beyondwudan/status/2109432722250957122",
+  "title": "A spacecraft orbiting Earth in Three.js",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-462070",
+  "seo_slug": "four-movement-symphony-every-note-visualized",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2109191246715462070",
+  "title": "A four-movement symphony with every note visualized",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Write a beautiful symphony\n\nrecord a video of it when you're done.",
+  "prompt_partial": false,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 37701,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "imjustnewatai-345211",
+  "seo_slug": "pi-proof-3d-walkthrough",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107970825542345211",
+  "title": "A 3D walkthrough of the new proof about pi",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-960144",
+  "seo_slug": "free-group-factor-proof-3d-explainer",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107625700307960144",
+  "title": "A 3D explainer of the free group factor proof",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "thomas-jorgen-408349",
+  "seo_slug": "swat-shooter-game-threejs",
+  "model": "fable-5.5",
+  "author": "Thomas_jorgen",
+  "author_url": "https://x.com/Thomas_jorgen",
+  "post_url": "https://x.com/Thomas_jorgen/status/2107273424884408349",
+  "title": "A SWAT shooter game built with Three.js",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "ishuagra02-604925",
+  "seo_slug": "claude-product-promo-animation",
+  "model": "fable-5.5",
+  "author": "ishuagra02",
+  "author_url": "https://x.com/ishuagra02",
+  "post_url": "https://x.com/ishuagra02/status/2107164574239604925",
+  "title": "A calm product promo animation for Claude",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-449392",
+  "seo_slug": "new-optical-illusion-animation",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107092333720449392",
+  "title": "An optical illusion nobody has seen before",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "jaydendavisnc-870617",
+  "seo_slug": "dots-mascots-blender-animation",
+  "model": "fable-5.5",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2107086714820870617",
+  "title": "A Blender animation starring the dots mascots",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 290869,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "aisuperdomain-318838",
+  "seo_slug": "channel-intro-film",
+  "model": "fable-5.5",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106988921125318838",
+  "title": "A channel intro film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "wokidev-511754",
+  "seo_slug": "postrush-launch-film",
+  "model": "fable-5.5",
+  "author": "wokidev",
+  "author_url": "https://x.com/wokidev",
+  "post_url": "https://x.com/wokidev/status/2106981754653511754",
+  "title": "PostRush launch film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "congcongtang-846301",
+  "seo_slug": "website-intro-film-from-one-sentence",
+  "model": "fable-5.5",
+  "author": "congcongtang",
+  "author_url": "https://x.com/congcongtang",
+  "post_url": "https://x.com/congcongtang/status/2106960360053846301",
+  "title": "A website intro film from one sentence",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "syskasof-547945",
+  "seo_slug": "blue-gold-nocturne-animation",
+  "model": "fable-5.5",
+  "author": "SysKaSof",
+  "author_url": "https://x.com/SysKaSof",
+  "post_url": "https://x.com/SysKaSof/status/2106955391632547945",
+  "title": "A blue-and-gold nocturne in a frame",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "jaydendavisnc-788537",
+  "seo_slug": "pelican-cycling-at-sunset-svg",
+  "model": "fable-5.5",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2106938093785788537",
+  "title": "A pelican cycling at sunset, in SVG",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-323550",
+  "seo_slug": "black-hole-renderer-from-scratch",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106925762582323550",
+  "title": "A black hole renderer from scratch",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 26155,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "imjustnewatai-945180",
+  "seo_slug": "ten-visual-illusions",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106909392301945180",
+  "title": "Ten visual illusions",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "blushneyy-928305",
+  "seo_slug": "vizzbees-brand-motion-design",
+  "model": "fable-5.5",
+  "author": "Blushneyy",
+  "author_url": "https://x.com/Blushneyy",
+  "post_url": "https://x.com/Blushneyy/status/2106893568828928305",
+  "title": "Vizzbees brand motion design",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "make a motion design for vizzbees",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "noreply134882-957013",
+  "seo_slug": "fable-announces-itself-new-paradigm",
+  "model": "fable-5.5",
+  "author": "Noreply134882",
+  "author_url": "https://x.com/Noreply134882",
+  "post_url": "https://x.com/Noreply134882/status/2106888758062957013",
+  "title": "A New Paradigm: Fable announces itself",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "aisuperdomain-226720",
+  "seo_slug": "life-from-cambrian-to-quaternary-animation",
+  "model": "fable-5.5",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106762365438226720",
+  "title": "Life from the Cambrian to the Quaternary",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "turbonexic-835934",
+  "seo_slug": "math-edit-animation",
+  "model": "fable-5.5",
+  "author": "TurboNexic",
+  "author_url": "https://x.com/TurboNexic",
+  "post_url": "https://x.com/TurboNexic/status/2106710792590835934",
+  "title": "A math edit",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-730419",
+  "seo_slug": "how-large-language-models-are-made",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106546810793730419",
+  "title": "How a large language model is made",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "cocoloba-970458",
+  "seo_slug": "humanity-biggest-opportunity-no-words",
+  "model": "fable-5.5",
+  "author": "cocoloba_",
+  "author_url": "https://x.com/cocoloba_",
+  "post_url": "https://x.com/cocoloba_/status/2106512963414970458",
+  "title": "Humanity's biggest opportunity, no words",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "whats the biggest opportunity in humanity, no words allowed",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "olddonkeyblog-330750",
+  "seo_slug": "glucose-to-ethanol-animated-svg",
+  "model": "fable-5.5",
+  "author": "olddonkeyblog",
+  "author_url": "https://x.com/olddonkeyblog",
+  "post_url": "https://x.com/olddonkeyblog/status/2106508425211330750",
+  "title": "Glucose to ethanol, as an animated SVG",
+  "category": "explainer",
+  "tech_tags": [
+   "svg",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "olddonkeyblog-403485",
+  "seo_slug": "16-starships-launching-animated-svg",
+  "model": "fable-5.5",
+  "author": "olddonkeyblog",
+  "author_url": "https://x.com/olddonkeyblog",
+  "post_url": "https://x.com/olddonkeyblog/status/2106507742454403485",
+  "title": "16 Starships launching, as an animated SVG",
+  "category": "explainer",
+  "tech_tags": [
+   "svg",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "olddonkeyblog-756165",
+  "seo_slug": "pelican-riding-bicycle-animation",
+  "model": "fable-5.5",
+  "author": "olddonkeyblog",
+  "author_url": "https://x.com/olddonkeyblog",
+  "post_url": "https://x.com/olddonkeyblog/status/2106507429265756165",
+  "title": "A pelican riding a bicycle",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "dassetbuzz-592838",
+  "seo_slug": "what-would-make-fable-better",
+  "model": "fable-5.5",
+  "author": "DAssetBuzz",
+  "author_url": "https://x.com/DAssetBuzz",
+  "post_url": "https://x.com/DAssetBuzz/status/2106505100575592838",
+  "title": "What would make Fable better",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-197771",
+  "seo_slug": "next-150-years-of-humanity",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106489784382197771",
+  "title": "The next 150 years of humanity",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "jaydendavisnc-822008",
+  "seo_slug": "reawakening-horror-short",
+  "model": "fable-5.5",
+  "author": "JaydenDavisNC",
+  "author_url": "https://x.com/JaydenDavisNC",
+  "post_url": "https://x.com/JaydenDavisNC/status/2106440774367822008",
+  "title": "Reawakening, a horror short",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "0xashtonx-914423",
+  "seo_slug": "40-second-brand-launch-ad",
+  "model": "fable-5.5",
+  "author": "0xashtonx",
+  "author_url": "https://x.com/0xashtonx",
+  "post_url": "https://x.com/0xashtonx/status/2106421702783914423",
+  "title": "A 40-second brand launch ad",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "mathisbuilds-418097",
+  "seo_slug": "nintendo-switch-3-concept-demo",
+  "model": "fable-5.5",
+  "author": "mathisbuilds",
+  "author_url": "https://x.com/mathisbuilds",
+  "post_url": "https://x.com/mathisbuilds/status/2106407842240418097",
+  "title": "Nintendo Switch 3 concept demo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "aisuperdomain-526445",
+  "seo_slug": "art-history-speedrun",
+  "model": "fable-5.5",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106397756491526445",
+  "title": "Art history speedrun",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "aisuperdomain-360272",
+  "seo_slug": "palace-of-versailles-3d-walkthrough",
+  "model": "fable-5.5",
+  "author": "AISuperDomain",
+  "author_url": "https://x.com/AISuperDomain",
+  "post_url": "https://x.com/AISuperDomain/status/2106396754539360272",
+  "title": "A 3D walk through the Palace of Versailles",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "hungryturbo-019904",
+  "seo_slug": "sanxingdui-animated-history",
+  "model": "fable-5.5",
+  "author": "hungryturbo",
+  "author_url": "https://x.com/hungryturbo",
+  "post_url": "https://x.com/hungryturbo/status/2106339115642019904",
+  "title": "Sanxingdui, animated",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "hungryturbo-695508",
+  "seo_slug": "silk-road-animated-history",
+  "model": "fable-5.5",
+  "author": "hungryturbo",
+  "author_url": "https://x.com/hungryturbo",
+  "post_url": "https://x.com/hungryturbo/status/2106294812261695508",
+  "title": "The Silk Road, animated",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "badboyfoxy-387799",
+  "seo_slug": "illuminati-scary-video",
+  "model": "fable-5.5",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2106241189976387799",
+  "title": "A scary video about the Illuminati",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "ckmichael8-878248",
+  "seo_slug": "3d-sailor-girl-7400-lines-of-code",
+  "model": "fable-5.5",
+  "author": "ckmichael8",
+  "author_url": "https://x.com/ckmichael8",
+  "post_url": "https://x.com/ckmichael8/status/2106223791877878248",
+  "title": "A 3D sailor girl in 7,400 lines of code",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-276065",
+  "seo_slug": "altman-amodei-feud-explained",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106204392588276065",
+  "title": "The Altman–Amodei feud, explained",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "synthshareai-446028",
+  "seo_slug": "ai-music-video-12-hours-of-work",
+  "model": "fable-5.5",
+  "author": "synthshareai",
+  "author_url": "https://x.com/synthshareai",
+  "post_url": "https://x.com/synthshareai/status/2106195060140446028",
+  "title": "A music video, 12 hours of work",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-097663",
+  "seo_slug": "three-quarks-to-observable-universe",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2106190594775097663",
+  "title": "From three quarks to the observable universe",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "layton-gott-035096",
+  "seo_slug": "the-world-in-2076",
+  "model": "fable-5.5",
+  "author": "Layton_Gott",
+  "author_url": "https://x.com/Layton_Gott",
+  "post_url": "https://x.com/Layton_Gott/status/2106190496075035096",
+  "title": "The world in 2076",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "nroze22-381661",
+  "seo_slug": "lower-manhattan-year-by-year",
+  "model": "fable-5.5",
+  "author": "nroze22",
+  "author_url": "https://x.com/nroze22",
+  "post_url": "https://x.com/nroze22/status/2106183281293381661",
+  "title": "Lower Manhattan, drawn year by year",
+  "category": "explainer",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "yanqingcheng-269728",
+  "seo_slug": "seikilos-epitaph-in-one-html-file",
+  "model": "fable-5.5",
+  "author": "YanqingCheng",
+  "author_url": "https://x.com/YanqingCheng",
+  "post_url": "https://x.com/YanqingCheng/status/2106158746938269728",
+  "title": "The Seikilos epitaph, in one HTML file",
+  "category": "long-form",
+  "tech_tags": [
+   "web-audio",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "maciejkrupowies-338850",
+  "seo_slug": "post-apocalyptic-hearthstone-clone",
+  "model": "fable-5.5",
+  "author": "maciejkrupowies",
+  "author_url": "https://x.com/maciejkrupowies",
+  "post_url": "https://x.com/maciejkrupowies/status/2106153578029338850",
+  "title": "A post-apocalyptic Hearthstone clone",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "noreply134882-478746",
+  "seo_slug": "threejs-3d-scene-demo",
+  "model": "fable-5.5",
+  "author": "Noreply134882",
+  "author_url": "https://x.com/Noreply134882",
+  "post_url": "https://x.com/Noreply134882/status/2106116572389478746",
+  "title": "A Three.js 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "devswha-114186",
+  "seo_slug": "motion-film-from-one-line",
+  "model": "fable-5.5",
+  "author": "devswha",
+  "author_url": "https://x.com/devswha",
+  "post_url": "https://x.com/devswha/status/2106072107365114186",
+  "title": "A motion film from one line",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "cherry-mx-reds-447590",
+  "seo_slug": "halloween-animation",
+  "model": "fable-5.5",
+  "author": "cherry_mx_reds",
+  "author_url": "https://x.com/cherry_mx_reds",
+  "post_url": "https://x.com/cherry_mx_reds/status/2106056643255447590",
+  "title": "Something for Halloween",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "cocoloba-772413",
+  "seo_slug": "colosseum-in-44754-3d-parts",
+  "model": "fable-5.5",
+  "author": "cocoloba_",
+  "author_url": "https://x.com/cocoloba_",
+  "post_url": "https://x.com/cocoloba_/status/2106029181607772413",
+  "title": "The Colosseum in 44,754 3D parts",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "mszzz0011-853642",
+  "seo_slug": "one-shot-animation",
+  "model": "fable-5.5",
+  "author": "mszzz0011",
+  "author_url": "https://x.com/mszzz0011",
+  "post_url": "https://x.com/mszzz0011/status/2106025576972853642",
+  "title": "A one-shot animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "iancarscadden-789360",
+  "seo_slug": "non-template-ui-animation-sequence",
+  "model": "fable-5.5",
+  "author": "iancarscadden",
+  "author_url": "https://x.com/iancarscadden",
+  "post_url": "https://x.com/iancarscadden/status/2106018048792789360",
+  "title": "A non-template UI animation sequence",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "xodud-rkd-950161",
+  "seo_slug": "motion-graphics-with-beats",
+  "model": "fable-5.5",
+  "author": "xodud_rkd",
+  "author_url": "https://x.com/xodud_rkd",
+  "post_url": "https://x.com/xodud_rkd/status/2106008546248950161",
+  "title": "Motion and beats from Fable 5.5 Max",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "eviljoker88-005816",
+  "seo_slug": "scp-8517-animated",
+  "model": "fable-5.5",
+  "author": "eviljoker88",
+  "author_url": "https://x.com/eviljoker88",
+  "post_url": "https://x.com/eviljoker88/status/2106003621402005816",
+  "title": "SCP-8517, animated",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "l-mejiac-360673",
+  "seo_slug": "the-universe-looks-at-itself",
+  "model": "fable-5.5",
+  "author": "l_mejiaC",
+  "author_url": "https://x.com/l_mejiaC",
+  "post_url": "https://x.com/l_mejiaC/status/2105988529671360673",
+  "title": "The universe looks at itself",
+  "category": "long-form",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "maciejkrupowies-321785",
+  "seo_slug": "duke-decibel-retro-boss-fight",
+  "model": "fable-5.5",
+  "author": "maciejkrupowies",
+  "author_url": "https://x.com/maciejkrupowies",
+  "post_url": "https://x.com/maciejkrupowies/status/2105914965387321785",
+  "title": "Duke Decibel, a retro boss fight",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "robiw-dev-476225",
+  "seo_slug": "paracortex-terminal-update-film",
+  "model": "fable-5.5",
+  "author": "RobIW_dev",
+  "author_url": "https://x.com/RobIW_dev",
+  "post_url": "https://x.com/RobIW_dev/status/2105894547796476225",
+  "title": "Paracortex Terminal update film",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "I'd like a motion design video to present on X for our update to paracortex terminal and pi 1.0\n25 seconds should do and I'm giving you free range for what it shows, how it shows it and what to highlight and what to merely mention\nmake it lively",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "scrappy-4-661167",
+  "seo_slug": "playable-15-second-animation-javascript",
+  "model": "fable-5.5",
+  "author": "Scrappy__4",
+  "author_url": "https://x.com/Scrappy__4",
+  "post_url": "https://x.com/Scrappy__4/status/2105866966988661167",
+  "title": "A playable 15-second animation in pure JS",
+  "category": "motion",
+  "tech_tags": [
+   "playable",
+   "canvas"
+  ],
+  "prompt": "Create a cool 15s playable animation with pure js",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "scrappy-4-560379",
+  "seo_slug": "lava-lamp-animation-test",
+  "model": "fable-5.5",
+  "author": "Scrappy__4",
+  "author_url": "https://x.com/Scrappy__4",
+  "post_url": "https://x.com/Scrappy__4/status/2105844734409560379",
+  "title": "A lava lamp test",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "imjustnewatai-084841",
+  "seo_slug": "dig-dug-remake-in-one-html-file",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2105831117677084841",
+  "title": "Dig Dug, rebuilt in one HTML file",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Recreate the hit arcade game Dig Dug 1:1 as it is in the arcade. Make it as exact as possible. Implement as many features as possible (from music to visuals to EVERYTHING) Use anything and everything to make this game as similar and good as possible. Create it in an HTML file.",
+  "prompt_partial": false,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "l-mejiac-850793",
+  "seo_slug": "humanity-walks-30000-years-of-art",
+  "model": "fable-5.5",
+  "author": "l_mejiaC",
+  "author_url": "https://x.com/l_mejiaC",
+  "post_url": "https://x.com/l_mejiaC/status/2105801379956850793",
+  "title": "Humanity walks: 30,000 years of art",
+  "category": "explainer",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "tonytonggg-754036",
+  "seo_slug": "2000-follower-celebration-animation",
+  "model": "fable-5.5",
+  "author": "tonytonggg",
+  "author_url": "https://x.com/tonytonggg",
+  "post_url": "https://x.com/tonytonggg/status/2104424144498754036",
+  "title": "A 2,000-follower celebration",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13"
+ },
+ {
+  "slug": "mozetech-983710",
+  "seo_slug": "minecraft-pokemon-mashup-game",
+  "model": "fable-5.5",
+  "author": "MozeTech",
+  "author_url": "https://x.com/MozeTech",
+  "post_url": "https://x.com/MozeTech/status/2106590326634983710",
+  "title": "I just merged two of the highest grossing games ($5 billion+) in history using…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 1725611,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "anshuc-075488",
+  "seo_slug": "worst-pun-browser-game",
+  "model": "fable-5.5",
+  "author": "anshuc",
+  "author_url": "https://x.com/anshuc",
+  "post_url": "https://x.com/anshuc/status/2107180724399075488",
+  "title": "Finally got Fable 5.5 access, so I made a game based on the worst pun I could t…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 774871,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "chetaslua-275680",
+  "seo_slug": "claude-opus-model-routing-rumor",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2109244702235275680",
+  "title": "🚨 Claude Opus 5.5 is routing to a new model &lt; this can be fable 5.5 or new o…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 255295,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "vib3coded-489436",
+  "seo_slug": "jelly-watermelon-slice-animation",
+  "model": "fable-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2109205399513489436",
+  "title": "Opus made my favorite jelly slice - for almost a third of the price 🍉🤯",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 234768,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "superalesha-109624",
+  "seo_slug": "dario-dropping-fable-animation",
+  "model": "fable-5.5",
+  "author": "superalesha",
+  "author_url": "https://x.com/superalesha",
+  "post_url": "https://x.com/superalesha/status/2109192419145109624",
+  "title": "dario dropping fable 5.5",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 189739,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "vib3coded-016076",
+  "seo_slug": "jelly-king-model-comparison",
+  "model": "fable-5.5",
+  "author": "vib3coded",
+  "author_url": "https://x.com/vib3coded",
+  "post_url": "https://x.com/vib3coded/status/2109424502237016076",
+  "title": "Jelly King: Opus 5.5 Mogged Astra, Fable and Sonnet",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 133042,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "oalanicolas-936679",
+  "seo_slug": "gta-6-recreation-game",
+  "model": "fable-5.5",
+  "author": "oalanicolas",
+  "author_url": "https://x.com/oalanicolas",
+  "post_url": "https://x.com/oalanicolas/status/2107803303832936679",
+  "title": "Criei um GTA6 com Fable 5.5 + Opus 5.5 antes da Rockstar lançar o dela sem quer…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 84194,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "m-ferreira28-788429",
+  "seo_slug": "insane-browser-game-demo",
+  "model": "fable-5.5",
+  "author": "m_ferreira28",
+  "author_url": "https://x.com/m_ferreira28",
+  "post_url": "https://x.com/m_ferreira28/status/2107218218955788429",
+  "title": "FABLE 5.5 IS INSANE",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 66479,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "blueemi99-664708",
+  "seo_slug": "oil-painting-with-timelapse",
+  "model": "fable-5.5",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2106755903223664708",
+  "title": "Fable 5.5 made this oil painting and the timelapse",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 65548,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "testingcatalog-377583",
+  "seo_slug": "opus-routed-to-different-model-report",
+  "model": "fable-5.5",
+  "author": "testingcatalog",
+  "author_url": "https://x.com/testingcatalog",
+  "post_url": "https://x.com/testingcatalog/status/2109633920568377583",
+  "title": "ANTHROPIC 🔥: Claude Opus 5.5 is reportedly routed to a different model with muc…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 61030,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "justin-lords-345660",
+  "seo_slug": "how-to-create-animation-videos",
+  "model": "fable-5.5",
+  "author": "Justin_lords",
+  "author_url": "https://x.com/Justin_lords",
+  "post_url": "https://x.com/Justin_lords/status/2106610341694345660",
+  "title": "How to create animation videos with GPT-Astra 6",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 59857,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "dr-cintas-559974",
+  "seo_slug": "claude-money-saving-workflow",
+  "model": "fable-5.5",
+  "author": "dr_cintas",
+  "author_url": "https://x.com/dr_cintas",
+  "post_url": "https://x.com/dr_cintas/status/2107939634705559974",
+  "title": "This workflow will save you thousands with Claude.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 56036,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "andrewonxyz-544435",
+  "seo_slug": "classic-stick-fight-animation",
+  "model": "fable-5.5",
+  "author": "AndrewOnXYZ",
+  "author_url": "https://x.com/AndrewOnXYZ",
+  "post_url": "https://x.com/AndrewOnXYZ/status/2107262468502544435",
+  "title": "Fable 5.5… wow! Asked it to make a classic stick fight, it got the animation so…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 46253,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "karanc-12-311765",
+  "seo_slug": "claude-opus-model-routing-explainer",
+  "model": "fable-5.5",
+  "author": "karanC_12",
+  "author_url": "https://x.com/karanC_12",
+  "post_url": "https://x.com/karanC_12/status/2109248100892311765",
+  "title": "🚨 WAIT… Claude Opus 5.5 is now routing to another model.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 43523,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "spakhm-738228",
+  "seo_slug": "ai-agents-defuse-bomb-low-bandwidth",
+  "model": "fable-5.5",
+  "author": "spakhm",
+  "author_url": "https://x.com/spakhm",
+  "post_url": "https://x.com/spakhm/status/2107523510079738228",
+  "title": "I asked AI agents to defuse a bomb by collaborating over an ultra-low bandwidth…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 37457,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "notjazii-933951",
+  "seo_slug": "anthropic-new-model-3d-test",
+  "model": "fable-5.5",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2109283855282933951",
+  "title": "anthropic is testing a new model",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 28646,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "ann-nnng-711057",
+  "seo_slug": "holo-cd-effect-model-comparison",
+  "model": "fable-5.5",
+  "author": "ann_nnng",
+  "author_url": "https://x.com/ann_nnng",
+  "post_url": "https://x.com/ann_nnng/status/2109853948647711057",
+  "title": "holo CD effect by Muse Wonder, GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 29986,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "artificialanlys-885209",
+  "seo_slug": "artificial-analysis-intelligence-game",
+  "model": "fable-5.5",
+  "author": "ArtificialAnlys",
+  "author_url": "https://x.com/ArtificialAnlys",
+  "post_url": "https://x.com/ArtificialAnlys/status/2109791341802885209",
+  "title": "We have measured intelligence. Now it's time to see it.",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 28279,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "chrisgpt-649086",
+  "seo_slug": "ai-model-introduction-song-3d",
+  "model": "fable-5.5",
+  "author": "ChrisGPT",
+  "author_url": "https://x.com/ChrisGPT",
+  "post_url": "https://x.com/ChrisGPT/status/2109570757579649086",
+  "title": "Me and just asked Fable 5.5 to create a song introducing itself, and it made a…",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "elevenlabs",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-13",
+  "stats_snapshot": {
+   "views": 25485,
+   "captured_at": "2026-10-13"
+  }
+ },
+ {
+  "slug": "kirillk-web3-319580",
+  "seo_slug": "zuckerberg-meta-frontier-model-explainer",
+  "model": "fable-5.5",
+  "author": "kirillk_web3",
+  "author_url": "https://x.com/kirillk_web3",
+  "post_url": "https://x.com/kirillk_web3/status/2109948006770319580",
+  "title": "🚨do you understand what Zuckerberg just admitted about Meta's first frontier mo…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-14",
+  "stats_snapshot": {
+   "views": 700682,
+   "captured_at": "2026-10-14"
+  }
+ },
+ {
+  "slug": "devteamdrew-286005",
+  "seo_slug": "model-launch-teaser-animation",
+  "model": "fable-5.5",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2110178012759286005",
+  "title": "Is it finally time for Fable 5.5?",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-14",
+  "stats_snapshot": {
+   "views": 24202,
+   "captured_at": "2026-10-14"
+  }
+ },
+ {
+  "slug": "campbellkaleb23-259487",
+  "seo_slug": "dario-office-live-footage-parody",
+  "model": "fable-5.5",
+  "author": "CampbellKaleb23",
+  "author_url": "https://x.com/CampbellKaleb23",
+  "post_url": "https://x.com/CampbellKaleb23/status/2110377591450259487",
+  "title": "What I imagine the live footage from Dario’s office looks like 15 minutes befor…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15",
+  "stats_snapshot": {
+   "views": 69171,
+   "captured_at": "2026-10-15"
+  }
+ },
+ {
+  "slug": "imjustnewatai-193174",
+  "seo_slug": "navier-stokes-proof-3d-explainer",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107590323128193174",
+  "title": "Mathematicians are still working through OpenAI's 160+ page Navier–Stokes proof…",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15",
+  "stats_snapshot": {
+   "views": 60424,
+   "captured_at": "2026-10-15"
+  }
+ },
+ {
+  "slug": "imjustnewatai-453187",
+  "seo_slug": "quasi-riemann-hypothesis-proof-explainer",
+  "model": "fable-5.5",
+  "author": "imjustnewatai",
+  "author_url": "https://x.com/imjustnewatai",
+  "post_url": "https://x.com/imjustnewatai/status/2107615459822453187",
+  "title": "I asked Claude Fable 5.5 to explain OpenAI's new 199-page quasi hiemann hypothe…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15",
+  "stats_snapshot": {
+   "views": 50774,
+   "captured_at": "2026-10-15"
+  }
+ }
+]

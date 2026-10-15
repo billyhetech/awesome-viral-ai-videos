@@ -1,0 +1,309 @@
+#!/usr/bin/env python3
+"""Generate README.md (English) and README.zh-CN.md (Chinese) from data/videos.json.
+
+Usage:
+    python scripts/build_readme.py          # write both READMEs
+    python scripts/build_readme.py --check  # exit 1 if either file is out of sync
+
+README files are NEVER edited by hand. All content changes go through
+data/videos.json (use scripts/add_entry.py to add entries).
+"""
+import json
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data" / "videos.json"
+
+REPO_URL = "https://github.com/billyhetech/awesome-viral-ai-videos"
+SUBMIT_URL = REPO_URL + "/issues/new?template=submit-video.yml"
+CLAWSHELF_URL = "https://clawshelf.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"
+SATELLITES = [
+    ("Fable 5.5", "https://github.com/billyhetech/awesome-fable5-5-videos"),
+]
+
+# Display label per model id. Order here = badge order nowhere; ids are per-entry.
+MODEL_LABELS = {
+    "fable-5.5": "Fable 5.5",
+    "opus-5.5": "Opus 5.5",
+    "gemini-4-argon": "Gemini 4 Argon",
+    "gpt-6-astra": "GPT-6 Astra",
+    "seedance-2.5": "Seedance 2.5",
+    "minimax-h3": "MiniMax H3",
+    "kling-4": "Kling 4.0",
+    "grok-imagine": "Grok Imagine",
+}
+
+# (slug, English display name, Chinese display name) — order is the README order.
+CATEGORIES = [
+    ("motion", "Motion graphics", "动态图形"),
+    ("explainer", "Explainers", "讲解动画"),
+    ("3d-scenes", "3D scenes", "3D 场景"),
+    ("games-interactive", "Games & interactive", "游戏与交互"),
+    ("long-form", "Long-form", "长片"),
+    ("music-videos", "Music videos", "音乐视频"),
+]
+
+TAG_LABELS = {
+    "canvas": "Canvas",
+    "svg": "SVG",
+    "threejs": "Three.js",
+    "glsl": "GLSL",
+    "gsap": "GSAP",
+    "css": "CSS",
+    "webgl": "WebGL",
+    "web-audio": "Web Audio",
+    "particles": "Particles",
+    "pixel-art": "Pixel art",
+    "playable": "Playable",
+    "ai-image": "AI image",
+    "physics": "Physics",
+    "webgpu": "WebGPU",
+    "remotion": "Remotion",
+    "hyperframes": "HyperFrames",
+    "blender": "Blender",
+    "elevenlabs": "ElevenLabs",
+    "ffmpeg": "FFmpeg",
+    "python": "Python",
+}
+
+STRINGS = {
+    "en": {
+        "intro": (
+            "Viral videos made with AI — **Fable 5.5, Gemini 4 Argon** and whatever "
+            "breaks out next. Code-rendered animations, 3D scenes, games, short films: "
+            "every entry links to the creator's original post and, where the creator "
+            "shared it, the prompt behind it."
+        ),
+        "satellites_line": "Single-model lists: {links}",
+        "shelf_line": (
+            "💎 Turning the best prompts into ready-to-run skill packs on "
+            "[clawshelf.com]({shelf_url})"
+        ),
+        "stats_line": (
+            "**{n_videos} videos** across {n_models} models · **{n_prompts} prompts** in "
+            "[`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every "
+            "entry links to the creator's original post · [submit a video]({submit_url})"
+        ),
+        "latest_update": "- Latest update ({date}): {n} videos total",
+        "contents": "Contents",
+        "empty_category": "_No entries yet — [submit one]({submit_url})._",
+        "prompt_link": "Prompt",
+        "details_link": "Details",
+        "verified": "✅ verified",
+        "howto_heading": "How to use a prompt",
+        "howto_body": (
+            "1. Open a prompt file and copy the block under **Prompt**.\n"
+            "2. Paste it into the model the video was made with (shown on the entry) — "
+            "for code-rendered videos, ask for the result as a single HTML file.\n"
+            "3. Record the page if you want a video.\n"
+            "\n"
+            "Some creators shared only part of their prompt, or only described the "
+            "result in their post; those files say so."
+        ),
+        "credits_heading": "Credits",
+        "credits_body": (
+            "Every video and prompt belongs to its creator, linked from each entry. "
+            "If you are a creator and want an entry changed or removed, open an issue — "
+            "handled within 72 hours, no questions asked. See [CREDITS.md](CREDITS.md)."
+        ),
+        "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
+    },
+    "zh": {
+        "intro": (
+            "AI 爆款视频合集 —— 覆盖 **Fable 5.5、Gemini 4 Argon** 及下一个出圈的模型。"
+            "代码渲染动画、3D 场景、游戏、短片:每个条目都链接到创作者的原始帖子,"
+            "并附上作者公开的 prompt(如有)。"
+        ),
+        "satellites_line": "单模型专集:{links}",
+        "shelf_line": (
+            "💎 正在把最好的 prompt 做成开箱即用的 skill 包:"
+            "[clawshelf.com]({shelf_url})"
+        ),
+        "stats_line": (
+            "共 **{n_videos} 条视频**、{n_models} 个模型 · [`prompts/`](prompts/) 与 "
+            "[`data/videos.json`](data/videos.json) 中收录 **{n_prompts} 条 prompt** · "
+            "每个条目均链接原帖并署名 · [提交视频]({submit_url})"
+        ),
+        "latest_update": "- 最近更新({date}):共 {n} 条",
+        "contents": "目录",
+        "empty_category": "_还没有收录 —— [来提交第一个]({submit_url})。_",
+        "prompt_link": "提示词",
+        "details_link": "详情",
+        "verified": "✅ 已复跑验证",
+        "howto_heading": "如何使用 prompt",
+        "howto_body": (
+            "1. 打开 prompt 文件,复制 **Prompt** 下方的代码块。\n"
+            "2. 粘贴给该视频所用的模型(条目上有标注)——代码渲染类视频可要求输出为单个 HTML 文件。\n"
+            "3. 需要视频的话录屏即可。\n"
+            "\n"
+            "部分作者只公开了部分 prompt,或只在帖子里描述了效果;这类文件会注明。"
+        ),
+        "credits_heading": "版权与致谢",
+        "credits_body": (
+            "每个视频与 prompt 的版权归创作者所有,条目均链接回原帖。如果你是创作者,"
+            "希望修改或移除某个条目,开个 issue 即可 —— 72 小时内处理,无需理由。"
+            "详见 [CREDITS.md](CREDITS.md)。"
+        ),
+        "lang_switch": "[English](README.md) · [中文](README.zh-CN.md)",
+    },
+}
+
+
+def anchor(text):
+    """GitHub-style heading anchor: lowercase, spaces -> hyphens, drop punctuation."""
+    out = []
+    for ch in text.lower():
+        if ch == " ":
+            out.append("-")
+        elif ch.isalnum() or ch in "-_":
+            out.append(ch)
+    return "".join(out)
+
+
+def fmt_views(n):
+    if n >= 1_000_000:
+        return f"{n / 1_000_000:.1f}M"
+    if n >= 1_000:
+        return f"{n / 1_000:.0f}K"
+    return str(n)
+
+
+def model_label(entry):
+    return MODEL_LABELS.get(entry.get("model", ""), entry.get("model", ""))
+
+
+def tag_labels(entry):
+    return " · ".join(TAG_LABELS.get(t, t) for t in entry["tech_tags"])
+
+
+def has_prompt(entry):
+    return bool(entry.get("prompt", "").strip())
+
+
+def cell(entry, lang):
+    s = STRINGS[lang]
+    thumb = entry.get("thumbnail")
+    if thumb:
+        top = (
+            f'<a href="{entry["post_url"]}"><img src="{thumb["url"]}" '
+            f'alt="{model_label(entry)} video by @{entry["author"]}" width="100%"></a>'
+        )
+    else:
+        top = f'<a href="{entry["post_url"]}"><b>{entry["title"]}</b></a>'
+
+    link_label = s["prompt_link"] if has_prompt(entry) else s["details_link"]
+    line2 = (
+        f'<a href="{entry["author_url"]}"><b>@{entry["author"]}</b></a> · '
+        f'{model_label(entry)} · '
+        f'<a href="prompts/{entry["slug"]}.md">{link_label}</a>'
+    )
+    if entry.get("verification", {}).get("rerun"):
+        line2 += f' · {s["verified"]}'
+
+    sub = tag_labels(entry)
+    views = entry.get("stats_snapshot", {}).get("views")
+    if views:
+        sub = (sub + " · " if sub else "") + fmt_views(views) + " views"
+
+    return f'<td width="33%" valign="top">{top}<br>{line2}<br><sub>{sub}</sub></td>'
+
+
+def section(cat_slug, name, entries, lang):
+    s = STRINGS[lang]
+    lines = [f"## {name}", ""]
+    if not entries:
+        lines.append(s["empty_category"].format(submit_url=SUBMIT_URL))
+        lines.append("")
+        return "\n".join(lines)
+    entries = sorted(entries, key=lambda v: v.get("added", ""), reverse=True)
+    cells = [cell(v, lang) for v in entries]
+    lines.append("<table>")
+    for i in range(0, len(cells), 3):
+        lines.append("<tr>" + "".join(cells[i : i + 3]) + "</tr>")
+    lines.append("</table>")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def build(lang):
+    data = json.loads(DATA.read_text(encoding="utf-8"))
+    s = STRINGS[lang]
+    name_idx = 1 if lang == "en" else 2
+
+    n_prompts = sum(1 for v in data if has_prompt(v))
+    n_models = len({v.get("model") for v in data if v.get("model")})
+    by_cat = {slug: [] for slug, _, _ in CATEGORIES}
+    for v in data:
+        by_cat.setdefault(v["category"], []).append(v)
+
+    sat_links = " · ".join(f"[{name}]({url})" for name, url in SATELLITES)
+
+    lines = [
+        "<!-- AUTO-GENERATED by scripts/build_readme.py — edit data/videos.json instead, "
+        "then run: python scripts/build_readme.py -->",
+        "# Awesome Viral AI Videos",
+        "",
+        s["lang_switch"],
+        "",
+        s["intro"],
+        "",
+        s["satellites_line"].format(links=sat_links),
+        "",
+        s["shelf_line"].format(shelf_url=CLAWSHELF_URL),
+        "",
+        s["stats_line"].format(n_videos=len(data), n_models=n_models,
+                               n_prompts=n_prompts, submit_url=SUBMIT_URL),
+        "",
+    ]
+
+    if data:
+        latest = max(v.get("added", "") for v in data)
+        lines += [s["latest_update"].format(date=latest, n=len(data)), ""]
+
+    lines += [f'## {s["contents"]}', ""]
+    for slug, en, zh in CATEGORIES:
+        name = (en, zh)[name_idx - 1]
+        lines.append(f"- [{name}](#{anchor(name)}) ({len(by_cat.get(slug, []))})")
+    lines.append("")
+
+    for slug, en, zh in CATEGORIES:
+        name = (en, zh)[name_idx - 1]
+        lines.append(section(slug, name, by_cat.get(slug, []), lang))
+
+    lines += [
+        f'## {s["howto_heading"]}',
+        "",
+        s["howto_body"],
+        "",
+        f'## {s["credits_heading"]}',
+        "",
+        s["credits_body"],
+        "",
+    ]
+    return "\n".join(lines)
+
+
+def main():
+    check = "--check" in sys.argv
+    targets = {"en": ROOT / "README.md", "zh": ROOT / "README.zh-CN.md"}
+    stale = []
+    for lang, path in targets.items():
+        text = build(lang)
+        if check:
+            current = path.read_text(encoding="utf-8") if path.exists() else ""
+            if current != text:
+                stale.append(path.name)
+        else:
+            path.write_text(text, encoding="utf-8")
+            print(f"wrote {path.name}")
+    if check:
+        if stale:
+            print("README out of sync: " + ", ".join(stale))
+            print("Run: python scripts/build_readme.py")
+            sys.exit(1)
+        print("README files are in sync with data/videos.json")
+
+
+if __name__ == "__main__":
+    main()

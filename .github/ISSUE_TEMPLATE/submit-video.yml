@@ -1,0 +1,59 @@
+name: Submit a video
+description: Suggest a viral AI video for the list / 推荐一个 AI 爆款视频
+labels: [submission]
+body:
+  - type: input
+    id: post_url
+    attributes:
+      label: Original post URL / 原帖链接
+      description: Link to the X (Twitter) post with the video
+      placeholder: https://x.com/<user>/status/<id>
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Video title / 视频标题
+      description: Short English title for the entry
+    validations:
+      required: true
+  - type: dropdown
+    id: model
+    attributes:
+      label: Model / 模型
+      description: The model the video was made with
+      options:
+        - fable-5.5
+        - opus-5.5
+        - gemini-4-argon
+        - gpt-6-astra
+        - seedance-2.5
+        - minimax-h3
+        - kling-4
+        - grok-imagine
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category / 分类
+      options:
+        - motion
+        - explainer
+        - 3d-scenes
+        - games-interactive
+        - long-form
+        - music-videos
+    validations:
+      required: true
+  - type: input
+    id: tech_tags
+    attributes:
+      label: Tech tags / 技术标签
+      description: "Comma separated: canvas, svg, threejs, glsl, gsap, css, webgl, web-audio, particles, pixel-art, playable, ai-image, physics"
+      placeholder: canvas, threejs
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt text / Prompt 文本
+      description: Only what the creator publicly shared in their post or replies. 仅填写作者公开发布的内容。
