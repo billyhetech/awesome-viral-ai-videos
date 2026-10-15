@@ -2442,5 +2442,4722 @@
    "views": 50774,
    "captured_at": "2026-10-15"
   }
+ },
+ {
+  "slug": "kickingkeys-180633",
+  "seo_slug": "534-code-paintings",
+  "model": "gemini-4-argon",
+  "author": "kickingkeys",
+  "author_url": "https://x.com/kickingkeys",
+  "post_url": "https://x.com/kickingkeys/status/2110037855452180633",
+  "title": "534 Code Paintings",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "lexnlin-845536",
+  "seo_slug": "procedural-three-js-alpine-town",
+  "model": "gemini-4-argon",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2110037856588845536",
+  "title": "Procedural Three.js Alpine Town",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "lexnlin-159072",
+  "seo_slug": "animated-personal-website",
+  "model": "gemini-4-argon",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2110037859294159072",
+  "title": "Animated Personal Website",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Create a clean website about yourself, it should be modern, avoid ai slop and use clean animation",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "lexnlin-491186",
+  "seo_slug": "architect-paper-light",
+  "model": "gemini-4-argon",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2110037859969491186",
+  "title": "The Architect of Paper and Light",
+  "category": "long-form",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "lexnlin-794266",
+  "seo_slug": "japanese-pagoda-google-demo-clip",
+  "model": "gemini-4-argon",
+  "author": "LexnLin",
+  "author_url": "https://x.com/LexnLin",
+  "post_url": "https://x.com/LexnLin/status/2110037860623794266",
+  "title": "Japanese Pagoda — Google Demo Clip",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "yuana41755085-552800",
+  "seo_slug": "code-interface-animation",
+  "model": "gemini-4-argon",
+  "author": "YuanA41755085",
+  "author_url": "https://x.com/YuanA41755085",
+  "post_url": "https://x.com/YuanA41755085/status/2110038198877552800",
+  "title": "Code-Generated Interface Animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "timjayas-515441",
+  "seo_slug": "jelly-koi-pond",
+  "model": "gemini-4-argon",
+  "author": "TimJayas",
+  "author_url": "https://x.com/TimJayas",
+  "post_url": "https://x.com/TimJayas/status/2110038238572515441",
+  "title": "Jelly Koi Pond",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "adamholtererer-689573",
+  "seo_slug": "daisy-bell-freehand-svg-spectrogram",
+  "model": "gemini-4-argon",
+  "author": "AdamHoltererer",
+  "author_url": "https://x.com/AdamHoltererer",
+  "post_url": "https://x.com/AdamHoltererer/status/2110038787795689573",
+  "title": "Daisy Bell — Freehand SVG Spectrogram",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jerrod-lew-122771",
+  "seo_slug": "post-delivery-game-2d-shaders",
+  "model": "gemini-4-argon",
+  "author": "jerrod_lew",
+  "author_url": "https://x.com/jerrod_lew",
+  "post_url": "https://x.com/jerrod_lew/status/2110039176662122771",
+  "title": "Post Delivery Game with 2D Shaders",
+  "category": "games-interactive",
+  "tech_tags": [
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "googleai-507709",
+  "seo_slug": "generate-personalized-retro-arcade-game",
+  "model": "gemini-4-argon",
+  "author": "GoogleAI",
+  "author_url": "https://x.com/GoogleAI",
+  "post_url": "https://x.com/GoogleAI/status/2110039866788507709",
+  "title": "Generate a Personalized Retro Arcade Game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jackcheng-685300",
+  "seo_slug": "millennium-falcon-main-hold-blender",
+  "model": "gemini-4-argon",
+  "author": "jackcheng",
+  "author_url": "https://x.com/jackcheng",
+  "post_url": "https://x.com/jackcheng/status/2110039909851685300",
+  "title": "Millennium Falcon Main Hold in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "Create an accurate, hyper-realistic 3D model in Blender of the main hold of the Millennium Falcon as it appears in the original Star Wars trilogy.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ai-for-success-812976",
+  "seo_slug": "interactive-island-sailboat",
+  "model": "gemini-4-argon",
+  "author": "ai_for_success",
+  "author_url": "https://x.com/ai_for_success",
+  "post_url": "https://x.com/ai_for_success/status/2110040063656812976",
+  "title": "Interactive Island and Sailboat",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ai-for-success-097793",
+  "seo_slug": "high-bypass-turbofan-jet-engine",
+  "model": "gemini-4-argon",
+  "author": "ai_for_success",
+  "author_url": "https://x.com/ai_for_success",
+  "post_url": "https://x.com/ai_for_success/status/2110040065800097793",
+  "title": "High-Bypass Turbofan Jet Engine",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "bijanbowen-534907",
+  "seo_slug": "saab-900-simulator-blender-godot",
+  "model": "gemini-4-argon",
+  "author": "bijanbowen",
+  "author_url": "https://x.com/bijanbowen",
+  "post_url": "https://x.com/bijanbowen/status/2110040526510534907",
+  "title": "Saab 900 Simulator in Blender and Godot",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "benchmark-lb900-410940",
+  "seo_slug": "mario-game-test",
+  "model": "gemini-4-argon",
+  "author": "benchmark_lb900",
+  "author_url": "https://x.com/benchmark_lb900",
+  "post_url": "https://x.com/benchmark_lb900/status/2110040740315410940",
+  "title": "Mario Game Test",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "vamsibatchuk-672602",
+  "seo_slug": "interactive-string-art-demonstration",
+  "model": "gemini-4-argon",
+  "author": "vamsibatchuk",
+  "author_url": "https://x.com/vamsibatchuk",
+  "post_url": "https://x.com/vamsibatchuk/status/2110040758996672602",
+  "title": "Interactive String Art Demonstration",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "adamholtererer-230718",
+  "seo_slug": "3d-hexaflexagon-mechanism",
+  "model": "gemini-4-argon",
+  "author": "AdamHoltererer",
+  "author_url": "https://x.com/AdamHoltererer",
+  "post_url": "https://x.com/AdamHoltererer/status/2110040875355230718",
+  "title": "3D Hexaflexagon Mechanism",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "adamholtererer-621240",
+  "seo_slug": "banana-test",
+  "model": "gemini-4-argon",
+  "author": "AdamHoltererer",
+  "author_url": "https://x.com/AdamHoltererer",
+  "post_url": "https://x.com/AdamHoltererer/status/2110040909194621240",
+  "title": "Banana Test",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ai-for-success-126557",
+  "seo_slug": "robot-arms-solving-rubiks-cube",
+  "model": "gemini-4-argon",
+  "author": "ai_for_success",
+  "author_url": "https://x.com/ai_for_success",
+  "post_url": "https://x.com/ai_for_success/status/2110040948638126557",
+  "title": "Robot Arms Solving a Rubik's Cube",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "demishassabis-843835",
+  "seo_slug": "wizard-chess-animated-piece-battles",
+  "model": "gemini-4-argon",
+  "author": "demishassabis",
+  "author_url": "https://x.com/demishassabis",
+  "post_url": "https://x.com/demishassabis/status/2110041008100843835",
+  "title": "Wizard Chess with Animated Piece Battles",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "googledevs-751325",
+  "seo_slug": "interactive-multi-scene-animation-music",
+  "model": "gemini-4-argon",
+  "author": "googledevs",
+  "author_url": "https://x.com/googledevs",
+  "post_url": "https://x.com/googledevs/status/2110041044989751325",
+  "title": "Interactive Multi-Scene Animation and Music",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "osanseviero-448560",
+  "seo_slug": "fourier-epicycles-einstein",
+  "model": "gemini-4-argon",
+  "author": "osanseviero",
+  "author_url": "https://x.com/osanseviero",
+  "post_url": "https://x.com/osanseviero/status/2110041055286448560",
+  "title": "Fourier Epicycles — Einstein",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "doe-naps-950348",
+  "seo_slug": "butterfly-museum-five-specimens",
+  "model": "gemini-4-argon",
+  "author": "doe_naps",
+  "author_url": "https://x.com/doe_naps",
+  "post_url": "https://x.com/doe_naps/status/2110041557021950348",
+  "title": "Butterfly Museum with Five Specimens",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kickingkeys-206296",
+  "seo_slug": "code-painting-flowers-sunset",
+  "model": "gemini-4-argon",
+  "author": "kickingkeys",
+  "author_url": "https://x.com/kickingkeys",
+  "post_url": "https://x.com/kickingkeys/status/2110041607777206296",
+  "title": "Code Painting — Flowers at Sunset",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "genevieve-h-353197",
+  "seo_slug": "desk-racer-home-office-racing-game",
+  "model": "gemini-4-argon",
+  "author": "genevieve__h",
+  "author_url": "https://x.com/genevieve__h",
+  "post_url": "https://x.com/genevieve__h/status/2110041611455353197",
+  "title": "Desk Racer — A Home Office Racing Game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs",
+   "blender",
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "venturetwins-527253",
+  "seo_slug": "interactive-museum-apple-computers",
+  "model": "gemini-4-argon",
+  "author": "venturetwins",
+  "author_url": "https://x.com/venturetwins",
+  "post_url": "https://x.com/venturetwins/status/2110041613179527253",
+  "title": "Interactive Museum of Apple Computers",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "seraandroid-383472",
+  "seo_slug": "argon-18-nitrogen-pro-bicycle-demo",
+  "model": "gemini-4-argon",
+  "author": "SeraAndroid",
+  "author_url": "https://x.com/SeraAndroid",
+  "post_url": "https://x.com/SeraAndroid/status/2110041849767383472",
+  "title": "Argon 18 Nitrogen Pro Bicycle Demo",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "athrix-codes-508794",
+  "seo_slug": "san-francisco-3d",
+  "model": "gemini-4-argon",
+  "author": "athrix_codes",
+  "author_url": "https://x.com/athrix_codes",
+  "post_url": "https://x.com/athrix_codes/status/2110042012095508794",
+  "title": "San Francisco in 3D",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harshithlucky3-109754",
+  "seo_slug": "javascript-art-argon",
+  "model": "gemini-4-argon",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2110042135127109754",
+  "title": "JavaScript Art of Argon",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "java script art of Argon",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "cufaloza-561260",
+  "seo_slug": "particle-animation-medium-effort",
+  "model": "gemini-4-argon",
+  "author": "cufaloza",
+  "author_url": "https://x.com/cufaloza",
+  "post_url": "https://x.com/cufaloza/status/2110042334272561260",
+  "title": "Particle Animation — Medium Effort",
+  "category": "motion",
+  "tech_tags": [
+   "particles"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tnahddisttud-810109",
+  "seo_slug": "international-space-station-simulation",
+  "model": "gemini-4-argon",
+  "author": "tnahddisttud",
+  "author_url": "https://x.com/tnahddisttud",
+  "post_url": "https://x.com/tnahddisttud/status/2110042549037810109",
+  "title": "International Space Station Simulation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "nexusonelw-237775",
+  "seo_slug": "pelican-riding-bicycle-by-nexusonelw",
+  "model": "gemini-4-argon",
+  "author": "nexusonelw",
+  "author_url": "https://x.com/nexusonelw",
+  "post_url": "https://x.com/nexusonelw/status/2110042577735237775",
+  "title": "Pelican Riding a Bicycle",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fofrai-284889",
+  "seo_slug": "fourier-epicycles-cycling-pelican",
+  "model": "gemini-4-argon",
+  "author": "fofrAI",
+  "author_url": "https://x.com/fofrAI",
+  "post_url": "https://x.com/fofrAI/status/2110043023954284889",
+  "title": "Fourier Epicycles — Cycling Pelican",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thebuggeddev-743194",
+  "seo_slug": "fluffy-pumpkin-real-time-fur-physics",
+  "model": "gemini-4-argon",
+  "author": "thebuggeddev",
+  "author_url": "https://x.com/thebuggeddev",
+  "post_url": "https://x.com/thebuggeddev/status/2110043093466743194",
+  "title": "Fluffy Pumpkin with Real-Time Fur Physics",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "glsl",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thtbee-116000",
+  "seo_slug": "daily-life-bee",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2110044715618116000",
+  "title": "The Daily Life of a Bee",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "maxescu-375948",
+  "seo_slug": "wildfires-tectonic-shockwaves",
+  "model": "gemini-4-argon",
+  "author": "maxescu",
+  "author_url": "https://x.com/maxescu",
+  "post_url": "https://x.com/maxescu/status/2110045114718375948",
+  "title": "Wildfires and Tectonic Shockwaves",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ulusoyapps-881608",
+  "seo_slug": "aurora-theme-switcher-flutter",
+  "model": "gemini-4-argon",
+  "author": "ulusoyapps",
+  "author_url": "https://x.com/ulusoyapps",
+  "post_url": "https://x.com/ulusoyapps/status/2110045173723881608",
+  "title": "Aurora Theme Switcher in Flutter",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harshithlucky3-341180",
+  "seo_slug": "voxel-dragon-flying-over-temple",
+  "model": "gemini-4-argon",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2110045402544341180",
+  "title": "Voxel Dragon Flying over a Temple",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "voxel art of dragon flying on temple",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "codebypoonam-095060",
+  "seo_slug": "dancing-doll-customizable-motion",
+  "model": "gemini-4-argon",
+  "author": "CodeByPoonam",
+  "author_url": "https://x.com/CodeByPoonam",
+  "post_url": "https://x.com/CodeByPoonam/status/2110045777016095060",
+  "title": "Dancing Doll with Customizable Motion",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "benchmark-lb900-411588",
+  "seo_slug": "dot-test-character-sprite-transformations",
+  "model": "gemini-4-argon",
+  "author": "benchmark_lb900",
+  "author_url": "https://x.com/benchmark_lb900",
+  "post_url": "https://x.com/benchmark_lb900/status/2110045947275411588",
+  "title": "Dot Test — Character Sprite Transformations",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fofrai-956250",
+  "seo_slug": "fourier-epicycles-mona-lisa",
+  "model": "gemini-4-argon",
+  "author": "fofrAI",
+  "author_url": "https://x.com/fofrAI",
+  "post_url": "https://x.com/fofrAI/status/2110045963951956250",
+  "title": "Fourier Epicycles — Mona Lisa",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "Make a slow-reveal Fourier epicycle video of [thing], make the video in the style of the attached reference image, add a cinematic soundtrack using Lyria 3.5 and sync the music.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sahilpanhotra-478274",
+  "seo_slug": "peacock-riding-bicycle",
+  "model": "gemini-4-argon",
+  "author": "SahilPanhotra",
+  "author_url": "https://x.com/SahilPanhotra",
+  "post_url": "https://x.com/SahilPanhotra/status/2110046609631478274",
+  "title": "Peacock Riding a Bicycle",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "firstcap-ice-437730",
+  "seo_slug": "interactive-pond-test",
+  "model": "gemini-4-argon",
+  "author": "firstcap_ice",
+  "author_url": "https://x.com/firstcap_ice",
+  "post_url": "https://x.com/firstcap_ice/status/2110046871838437730",
+  "title": "Interactive Pond Test",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "toyoshim-224969",
+  "seo_slug": "procedural-polygon-shader-demo",
+  "model": "gemini-4-argon",
+  "author": "toyoshim",
+  "author_url": "https://x.com/toyoshim",
+  "post_url": "https://x.com/toyoshim/status/2110047064470224969",
+  "title": "Procedural Polygon and Shader Demo",
+  "category": "motion",
+  "tech_tags": [
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "matthewberman-203443",
+  "seo_slug": "3d-rube-goldberg-machine-by-matthewberman",
+  "model": "gemini-4-argon",
+  "author": "MatthewBerman",
+  "author_url": "https://x.com/MatthewBerman",
+  "post_url": "https://x.com/MatthewBerman/status/2110047286118203443",
+  "title": "3D Rube Goldberg Machine",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "dontgiveup-26-762080",
+  "seo_slug": "motion-graphics-code-bgm",
+  "model": "gemini-4-argon",
+  "author": "Dontgiveup_26",
+  "author_url": "https://x.com/Dontgiveup_26",
+  "post_url": "https://x.com/Dontgiveup_26/status/2110047768085762080",
+  "title": "Motion Graphics and Code-Generated BGM",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harshithlucky3-365205",
+  "seo_slug": "voxel-mercedes-amg-f1-car",
+  "model": "gemini-4-argon",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2110048102321365205",
+  "title": "Voxel Mercedes AMG F1 Car",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "voxel art of mercedes amg f1 car",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fanxing321-896220",
+  "seo_slug": "windows-98-retro-ui",
+  "model": "gemini-4-argon",
+  "author": "fanxing321",
+  "author_url": "https://x.com/fanxing321",
+  "post_url": "https://x.com/fanxing321/status/2110048324325896220",
+  "title": "Windows 98 Retro UI",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "make me a windows 98 retro UI",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "scottstts-702129",
+  "seo_slug": "bouncy-jelly-three-js",
+  "model": "gemini-4-argon",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2110048343841702129",
+  "title": "Bouncy Jelly in Three.js",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "liuweijiavip-199047",
+  "seo_slug": "svg-pelican-cycling-devin-test",
+  "model": "gemini-4-argon",
+  "author": "LiuweijiaVip",
+  "author_url": "https://x.com/LiuweijiaVip",
+  "post_url": "https://x.com/LiuweijiaVip/status/2110048380412199047",
+  "title": "SVG Pelican Cycling — Devin Test",
+  "category": "motion",
+  "tech_tags": [
+   "svg",
+   "canvas"
+  ],
+  "prompt": "创建一个 HTML，内容是 SVG 绘制一个鹈鹕骑自行车的 2D 动画，你不需要任何测试，不要有任何限制",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "zane-os-966117",
+  "seo_slug": "pelican-cycling-ai-studio-high-effort",
+  "model": "gemini-4-argon",
+  "author": "zane_os",
+  "author_url": "https://x.com/zane_os",
+  "post_url": "https://x.com/zane_os/status/2110048661505966117",
+  "title": "Pelican Cycling — AI Studio High Effort",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "pankajkumar-dev-727184",
+  "seo_slug": "eclipse-3d-cinematic-title-sequence",
+  "model": "gemini-4-argon",
+  "author": "pankajkumar_dev",
+  "author_url": "https://x.com/pankajkumar_dev",
+  "post_url": "https://x.com/pankajkumar_dev/status/2110048822944727184",
+  "title": "ECLIPSE — 3D Cinematic Title Sequence",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fanxing321-687857",
+  "seo_slug": "3d-animation-principles-loop",
+  "model": "gemini-4-argon",
+  "author": "fanxing321",
+  "author_url": "https://x.com/fanxing321",
+  "post_url": "https://x.com/fanxing321/status/2110049836204687857",
+  "title": "3D Animation Principles Loop",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Build a 3D animation-principles loop. One HTML file, three.js 0.160.0 via jsDelivr importmap, Geist Mono from Google Fonts. 1080x1080, 8 s at 60 fps (480 frames), frame 480 equals frame 0. window.renderAt(t) draws any frame from t alone; seeded random only.\n\nSet: a miniature studio. A floating white 12x6 slab on an F4F2EE backdrop. Its top is a timeline: 3 tracks of 0.25 frame cells (EFEEEA), a ruler with frame numbers, 5 keyframe diamonds 2 units apart on the middle track (white fill, 0F0F0F outline). Around it on stands: a key softbox, a rim strip light, a top spot on a boom.\nHero: the pixel Claude mascot as 0.1 voxels: D97757 body 14x10x8, two 3x2 arms, four 2x3 legs, 0F0F0F 2x3 eyes; roughness 0.45, clearcoat 0.3.\n\nLights, 0 to 1 s: key 3200 K with soft shadows at 0.1 s, rim 7500 K at 0.4 s, top spot 5000 K at 0.7 s. Each clicks on with a 3-frame flicker, and the mascot's eyes glance at it.\nHops, 1 to 5 s: 4 hops to diamonds 2 to 5, landing on frames 105, 165, 225 and 285. Each hop: 11-frame crouch (1.2x0.75), stretch 0.85x1.28 at takeoff, 25 frames of air, squash 1.25x0.7 on landing, spring back at damping 0.55; arms lag 4 frames, legs 6. Each landing lights its diamond FF6A2B, ripples the cells 0.08 high and throws 12 voxel sparks. An FF6A2B playhead carrying a point light moves at constant speed and crosses each diamond on its landing frame.\nFlip, 5 to 6.4 s: a dotted arc from diamond 5 back to diamond 1 draws in, then an 18-frame deep crouch and a 360° flip along the arc, 3.5 high, landing on frame 384 while the playhead rewinds under it.\nLabels, top left, Geist Mono 28 px: a checklist 01 ANTICIPATION, 02 SQUASH & STRETCH (& in D97757), 03 OVERLAPPING ACTION, 04 FOLLOW-THROUGH, 05 ARCS, in 8E8A83. Each row turns 0F0F0F and fills its FF6A2B diamond on its exact frame: 69 (first crouch), 140 (stretch), 200 (limbs trail), 285 (arms settle), 303 (arc draws).\nEnd: hold, blink at 7.2 s; on frame 468 the lights, diamonds and labels snap off.\nCamera: FOV 18, 30° elevation, ±10° orbit over 8 s, 25% push-in tracking the hops, 4% punch-in on the flip landing.\nPost: bloom on emissives, depth of field focused on the mascot, 2% grain, 10% vignette, dithered backdrop.\n\n1. The render is washed out and cramped. Grade so the lit front face reads D97757 and lit diamonds read FF6A2B; drop the fill so lights-off sits near 50% and each click is obvious; lower the key to 28 degrees from the front right and put the cool rim at the back left so it edges the side we see. Pull the wide shot back to 44 units so the whole floating slab and all three stands are in frame, add a soft shadow under the slab, and make sparks 0.075 to 0.12 and ruler numbers bigger.\n2. Frame check fixes. Keep every prop out of the label block: track the hops at 45% and hang the top spot at 5.8 on a boom from the back right corner, above the flip. Light each lit diamond with a soft glow from its face, move the playhead light to the front edge of the track and run its line under the diamonds. Start the dotted arc above the mascot's head, keep every tripod foot on the slab, and give the arms a bigger, slower settle (2.2 Hz, damping 0.22) so the follow-through reads.\n3. Turn the rim strip's panel toward the camera so its click reads.\n4. Make the top spot's click read too: narrow it to a 34 degree pool at 45 cd and give the lamp a glowing lens rim.\n\n# Sound prompt\nScore this 8 s loop, 480 frames at 60 fps. Synthesize everything in code with the Web Audio API, no samples, no downloads. 120 BPM, 4 bars, F major. Each hit lands 1 frame after its visual event.\nBed: pad voices A3 E4 (key light), C5 (top), G5 (rim), each following its light's flicker. Shaker 8ths from 45, kick and bass from 60, roots F D Bb F by bar; kick and shaker rest 330 to 420, bass holds C, then F at 384.\nClicks: lights 6, 24, 42, off 468.\nCrouches 69, 129, 189, 249, 312: creak, inhale riser.\nTakeoffs 80, 140, 200, 260, 330: upward swish.\nLandings 105, 165, 225, 285, 384: rubber squash pitched by the squash scale, spark tings, 384 biggest.\nLabel pings A5 C6 D6 F6 A6: 69, 140, 200, 285, 303.\nDot ticks 303 to 318, flip whoosh 330 to 384, blink blip 432.\n48 kHz stereo WAV, about -14 LUFS, peak -1 dBTP, seamless loop, mux into the MP4.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mwjoffe-416368",
+  "seo_slug": "neighborhood-racing-maps",
+  "model": "gemini-4-argon",
+  "author": "mwjoffe",
+  "author_url": "https://x.com/mwjoffe",
+  "post_url": "https://x.com/mwjoffe/status/2110049914193416368",
+  "title": "Neighborhood Racing with Maps",
+  "category": "games-interactive",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fanxing321-651250",
+  "seo_slug": "interactive-transportation-cutaway",
+  "model": "gemini-4-argon",
+  "author": "fanxing321",
+  "author_url": "https://x.com/fanxing321",
+  "post_url": "https://x.com/fanxing321/status/2110050580886651250",
+  "title": "Interactive Transportation Cutaway",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harshithlucky3-116479",
+  "seo_slug": "svg-cartoon-animation",
+  "model": "gemini-4-argon",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2110050746700116479",
+  "title": "SVG Cartoon Animation",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harshithlucky3-002134",
+  "seo_slug": "voxel-bmw-m4-cs-flying-air",
+  "model": "gemini-4-argon",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2110050773963002134",
+  "title": "Voxel BMW M4 CS Flying in the Air",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "voxel art of bmw m4 cs car flying in air",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "shenfanlaogou-283795",
+  "seo_slug": "mario-pelican-game",
+  "model": "gemini-4-argon",
+  "author": "shenfanlaogou",
+  "author_url": "https://x.com/shenfanlaogou",
+  "post_url": "https://x.com/shenfanlaogou/status/2110051123881283795",
+  "title": "Mario Pelican Game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "msdkim-889549",
+  "seo_slug": "voxel-fortress-siege",
+  "model": "gemini-4-argon",
+  "author": "msdkim",
+  "author_url": "https://x.com/msdkim",
+  "post_url": "https://x.com/msdkim/status/2110051133695889549",
+  "title": "Voxel Fortress Siege",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "soumyadesign-102492",
+  "seo_slug": "webgl-mahjong-tile-physics",
+  "model": "gemini-4-argon",
+  "author": "soumyadesign",
+  "author_url": "https://x.com/soumyadesign",
+  "post_url": "https://x.com/soumyadesign/status/2110051476253102492",
+  "title": "WebGL Mahjong with Tile Physics",
+  "category": "games-interactive",
+  "tech_tags": [
+   "webgl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fofrai-366287",
+  "seo_slug": "sunlit-library-python-ray-tracer",
+  "model": "gemini-4-argon",
+  "author": "fofrAI",
+  "author_url": "https://x.com/fofrAI",
+  "post_url": "https://x.com/fofrAI/status/2110052096481366287",
+  "title": "Sunlit library with a Python ray tracer",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "abhinavflac-791094",
+  "seo_slug": "black-hole-python",
+  "model": "gemini-4-argon",
+  "author": "abhinavflac",
+  "author_url": "https://x.com/abhinavflac",
+  "post_url": "https://x.com/abhinavflac/status/2110052226844791094",
+  "title": "Black hole in Python",
+  "category": "motion",
+  "tech_tags": [
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ashen-one-365953",
+  "seo_slug": "ancient-aztec-voxel-city",
+  "model": "gemini-4-argon",
+  "author": "ashen_one",
+  "author_url": "https://x.com/ashen_one",
+  "post_url": "https://x.com/ashen_one/status/2110052365424365953",
+  "title": "Ancient Aztec voxel city",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "megyo9-829094",
+  "seo_slug": "flight-game",
+  "model": "gemini-4-argon",
+  "author": "megyo9",
+  "author_url": "https://x.com/megyo9",
+  "post_url": "https://x.com/megyo9/status/2110052365558829094",
+  "title": "Flight game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fanxing321-864842",
+  "seo_slug": "personal-website",
+  "model": "gemini-4-argon",
+  "author": "fanxing321",
+  "author_url": "https://x.com/fanxing321",
+  "post_url": "https://x.com/fanxing321/status/2110053269162864842",
+  "title": "Personal website",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Create a clean website about yourself, it should be modern, avoid ai slop and use clean animation",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "birdabo-832448",
+  "seo_slug": "3d-city-iphone",
+  "model": "gemini-4-argon",
+  "author": "birdabo",
+  "author_url": "https://x.com/birdabo",
+  "post_url": "https://x.com/birdabo/status/2110053371071832448",
+  "title": "3D city on iPhone",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ai-prompt1-421534",
+  "seo_slug": "miyakojima-sea-three-js",
+  "model": "gemini-4-argon",
+  "author": "ai_prompt1",
+  "author_url": "https://x.com/ai_prompt1",
+  "post_url": "https://x.com/ai_prompt1/status/2110053565704421534",
+  "title": "Miyakojima sea in Three.js",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "three.jsで宮古島の海を再現して",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "yanagi-shiftai-593963",
+  "seo_slug": "tama-plaza-station-blender",
+  "model": "gemini-4-argon",
+  "author": "yanagi_shiftai",
+  "author_url": "https://x.com/yanagi_shiftai",
+  "post_url": "https://x.com/yanagi_shiftai/status/2110053893476593963",
+  "title": "Tama Plaza station in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fanxing321-852659",
+  "seo_slug": "room-quark-zoom",
+  "model": "gemini-4-argon",
+  "author": "fanxing321",
+  "author_url": "https://x.com/fanxing321",
+  "post_url": "https://x.com/fanxing321/status/2110054004650852659",
+  "title": "Room to quark zoom",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "基于代码做一段动画：从一个房间开始，镜头推进到一台 MacBook，再进入 Apple M4 芯片，然后到原子，最后到夸克",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fatalexit-736084",
+  "seo_slug": "wizard-spell-cast-javascript",
+  "model": "gemini-4-argon",
+  "author": "FatalExit",
+  "author_url": "https://x.com/FatalExit",
+  "post_url": "https://x.com/FatalExit/status/2110054737546736084",
+  "title": "Wizard spell cast in JavaScript",
+  "category": "motion",
+  "tech_tags": [
+   "pixel-art",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fanxing321-493424",
+  "seo_slug": "five-thousand-years-chinese-history",
+  "model": "gemini-4-argon",
+  "author": "fanxing321",
+  "author_url": "https://x.com/fanxing321",
+  "post_url": "https://x.com/fanxing321/status/2110054843012493424",
+  "title": "Five thousand years of Chinese history",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "基于代码做一个动画，快速回顾中华五千年的历史。风格轻松有趣，动画格式为线稿，添加合适的音乐，请务必做到引人入胜",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ashen-one-565201",
+  "seo_slug": "minecraft-recreation",
+  "model": "gemini-4-argon",
+  "author": "ashen_one",
+  "author_url": "https://x.com/ashen_one",
+  "post_url": "https://x.com/ashen_one/status/2110055018191565201",
+  "title": "Minecraft recreation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fatalexit-648013",
+  "seo_slug": "druid-shapeshifting-into-bear",
+  "model": "gemini-4-argon",
+  "author": "FatalExit",
+  "author_url": "https://x.com/FatalExit",
+  "post_url": "https://x.com/FatalExit/status/2110055021446648013",
+  "title": "Druid shapeshifting into a bear",
+  "category": "motion",
+  "tech_tags": [
+   "pixel-art",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thangman22-753190",
+  "seo_slug": "3d-shoe-customizer",
+  "model": "gemini-4-argon",
+  "author": "thangman22",
+  "author_url": "https://x.com/thangman22",
+  "post_url": "https://x.com/thangman22/status/2110055983141753190",
+  "title": "3D shoe customizer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ex3dcom-748653",
+  "seo_slug": "villa-savoye",
+  "model": "gemini-4-argon",
+  "author": "ex3dcom",
+  "author_url": "https://x.com/ex3dcom",
+  "post_url": "https://x.com/ex3dcom/status/2110055997456748653",
+  "title": "Villa Savoye",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fanxing321-763072",
+  "seo_slug": "dinosaur-island",
+  "model": "gemini-4-argon",
+  "author": "fanxing321",
+  "author_url": "https://x.com/fanxing321",
+  "post_url": "https://x.com/fanxing321/status/2110056144475763072",
+  "title": "Dinosaur island",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.\nVISUAL DIRECTION\nBuild a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.\nISLAND\nCreate varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.\nWATER CROSS-SECTION\nThe water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.\nUse animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.\nDINOSAURS\nInclude several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.\nGive every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.\nNATURAL ANIMATION\nUse hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.\nUse terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.\nUse obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.\nINTERACTION\nAllow users to:\nRotate the camera freely, zoom, and inspect the underwater cross-section.\nSelect a dinosaur and follow it with a smoothly moving camera.\nPlace food in suitable locations and watch nearby dinosaurs approach and eat.\nTrigger drinking, resting, calling, and herd movement.\nExplore nests and watch a hatchling emerge.\nTrigger a marine reptile surfacing with a splash.\nSwitch between daylight, sunset, and night.\nAdjust rain, wind, and volcanic activity.\nPause the simulation and reset the scene.\nMake every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.\nATMOSPHERE AND AUDIO\nAdd moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.\nINTERFACE\nUse a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.\nTECHNICAL QUALITY\nUse instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.\nBuild a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ammaar-073462",
+  "seo_slug": "argon-motion-tennis",
+  "model": "gemini-4-argon",
+  "author": "ammaar",
+  "author_url": "https://x.com/ammaar",
+  "post_url": "https://x.com/ammaar/status/2110057926799073462",
+  "title": "Argon motion tennis",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ammaar-303246",
+  "seo_slug": "argon-valley",
+  "model": "gemini-4-argon",
+  "author": "ammaar",
+  "author_url": "https://x.com/ammaar",
+  "post_url": "https://x.com/ammaar/status/2110057930020303246",
+  "title": "Argon Valley",
+  "category": "games-interactive",
+  "tech_tags": [
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ammaar-254195",
+  "seo_slug": "games-and-interactive-by-ammaar",
+  "model": "gemini-4-argon",
+  "author": "ammaar",
+  "author_url": "https://x.com/ammaar",
+  "post_url": "https://x.com/ammaar/status/2110057932658254195",
+  "title": "The Corridor",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs",
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ammaar-342918",
+  "seo_slug": "grand-theft-argon",
+  "model": "gemini-4-argon",
+  "author": "ammaar",
+  "author_url": "https://x.com/ammaar",
+  "post_url": "https://x.com/ammaar/status/2110057934516342918",
+  "title": "Grand Theft Argon",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ammaar-973350",
+  "seo_slug": "argon-towers",
+  "model": "gemini-4-argon",
+  "author": "ammaar",
+  "author_url": "https://x.com/ammaar",
+  "post_url": "https://x.com/ammaar/status/2110057936579973350",
+  "title": "Argon Towers",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ammaar-018259",
+  "seo_slug": "argon-airspace",
+  "model": "gemini-4-argon",
+  "author": "ammaar",
+  "author_url": "https://x.com/ammaar",
+  "post_url": "https://x.com/ammaar/status/2110057940527018259",
+  "title": "Argon Airspace",
+  "category": "games-interactive",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mtentro-067817",
+  "seo_slug": "destructive-chess",
+  "model": "gemini-4-argon",
+  "author": "MTEntro",
+  "author_url": "https://x.com/MTEntro",
+  "post_url": "https://x.com/MTEntro/status/2110058031342067817",
+  "title": "Destructive chess",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Make me a 3D chess game in localhost where when I capture a piece, there's a destruction mechanic that explodes, collapses, blows up, crumbles and does other things since chess is war.\n\nok now use human models for the pieces and make them as realistic as possible, like, when one dies, I want saving private ryan type PTSD inducing death.\n\nchange the board to look like storming the beaches of normandy\n\nwhen a piece dies, it shouldn't be sudden and shocking but should be slow, agonizing... deliberate... dramatic.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "xueyu1125-092277",
+  "seo_slug": "pelican-zebra-svg",
+  "model": "gemini-4-argon",
+  "author": "xueyu1125",
+  "author_url": "https://x.com/xueyu1125",
+  "post_url": "https://x.com/xueyu1125/status/2110058376118092277",
+  "title": "Pelican and zebra SVG",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "左侧Prompt: 生成一个svg动画：鹈鹕骑自行车，用H5给我展示下\n右侧Prompt: 生成一个svg动画：斑马骑自行车，用H5给我展示下",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sambitbiswas-232635",
+  "seo_slug": "photography-portfolio",
+  "model": "gemini-4-argon",
+  "author": "SambitBiswas",
+  "author_url": "https://x.com/SambitBiswas",
+  "post_url": "https://x.com/SambitBiswas/status/2110058437556232635",
+  "title": "Photography portfolio",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "notjazii-970782",
+  "seo_slug": "minecraft-19-minutes",
+  "model": "gemini-4-argon",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2110059198230970782",
+  "title": "Minecraft in 19 minutes",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sundarpichai-768027",
+  "seo_slug": "pixel-cad-exploded-view",
+  "model": "gemini-4-argon",
+  "author": "sundarpichai",
+  "author_url": "https://x.com/sundarpichai",
+  "post_url": "https://x.com/sundarpichai/status/2110059840957768027",
+  "title": "Pixel CAD exploded view",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sundarpichai-825132",
+  "seo_slug": "kinetic-typography",
+  "model": "gemini-4-argon",
+  "author": "sundarpichai",
+  "author_url": "https://x.com/sundarpichai",
+  "post_url": "https://x.com/sundarpichai/status/2110059842664825132",
+  "title": "Kinetic typography",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio",
+   "particles"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sundarpichai-406428",
+  "seo_slug": "mars-data-explorer",
+  "model": "gemini-4-argon",
+  "author": "sundarpichai",
+  "author_url": "https://x.com/sundarpichai",
+  "post_url": "https://x.com/sundarpichai/status/2110059844187406428",
+  "title": "Mars data explorer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "chanelluuh-733608",
+  "seo_slug": "trang-boat-tour",
+  "model": "gemini-4-argon",
+  "author": "chanelluuh",
+  "author_url": "https://x.com/chanelluuh",
+  "post_url": "https://x.com/chanelluuh/status/2110059981290733608",
+  "title": "Trang An boat tour",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "0xbenderxbt-749338",
+  "seo_slug": "spongebob-animation",
+  "model": "gemini-4-argon",
+  "author": "0xbenderxbt",
+  "author_url": "https://x.com/0xbenderxbt",
+  "post_url": "https://x.com/0xbenderxbt/status/2110060302557749338",
+  "title": "SpongeBob animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "animation of SpongeBob",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "vattenee-803851",
+  "seo_slug": "pelican-wheelie-jet",
+  "model": "gemini-4-argon",
+  "author": "vattenee",
+  "author_url": "https://x.com/vattenee",
+  "post_url": "https://x.com/vattenee/status/2110061616070803851",
+  "title": "Pelican wheelie with a jet",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "create a pelican doing a wheelie on top of a flying fighter jet. voxel artstyle. single html",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harshithlucky3-404605",
+  "seo_slug": "tendon-robot-hand",
+  "model": "gemini-4-argon",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2110061890093404605",
+  "title": "Tendon robot hand",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ranli-thinker-416433",
+  "seo_slug": "google-earth-art",
+  "model": "gemini-4-argon",
+  "author": "ranli_thinker",
+  "author_url": "https://x.com/ranli_thinker",
+  "post_url": "https://x.com/ranli_thinker/status/2110061930719416433",
+  "title": "Google Earth art",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "scottstts-818213",
+  "seo_slug": "monicas-apartment",
+  "model": "gemini-4-argon",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2110063026598818213",
+  "title": "Monicas apartment",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jacobilin-978425",
+  "seo_slug": "glowbom-3d-game",
+  "model": "gemini-4-argon",
+  "author": "jacobilin",
+  "author_url": "https://x.com/jacobilin",
+  "post_url": "https://x.com/jacobilin/status/2110063571031978425",
+  "title": "Glowbom 3D game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "philschmid-560107",
+  "seo_slug": "manhattan-oil-painting-code",
+  "model": "gemini-4-argon",
+  "author": "_philschmid",
+  "author_url": "https://x.com/_philschmid",
+  "post_url": "https://x.com/_philschmid/status/2110064538569560107",
+  "title": "Manhattan oil painting in code",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "0genlab-883092",
+  "seo_slug": "burj-khalifa-digital-twin",
+  "model": "gemini-4-argon",
+  "author": "0genlab",
+  "author_url": "https://x.com/0genlab",
+  "post_url": "https://x.com/0genlab/status/2110064590809883092",
+  "title": "Burj Khalifa digital twin",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "0xbenderxbt-881599",
+  "seo_slug": "cloud-castle",
+  "model": "gemini-4-argon",
+  "author": "0xbenderxbt",
+  "author_url": "https://x.com/0xbenderxbt",
+  "post_url": "https://x.com/0xbenderxbt/status/2110067746402881599",
+  "title": "Cloud castle",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "doe-naps-692354",
+  "seo_slug": "3d-scenes-by-doe-naps",
+  "model": "gemini-4-argon",
+  "author": "doe_naps",
+  "author_url": "https://x.com/doe_naps",
+  "post_url": "https://x.com/doe_naps/status/2110068132836692354",
+  "title": "Castle",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thtbee-968754",
+  "seo_slug": "battle-helicopter",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2110069786415968754",
+  "title": "Battle helicopter",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "haleeeemahh-534238",
+  "seo_slug": "koi-pond",
+  "model": "gemini-4-argon",
+  "author": "Haleeeemahh",
+  "author_url": "https://x.com/Haleeeemahh",
+  "post_url": "https://x.com/Haleeeemahh/status/2110069857626534238",
+  "title": "Koi pond",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ashen-one-406072",
+  "seo_slug": "stapler-jelly",
+  "model": "gemini-4-argon",
+  "author": "ashen_one",
+  "author_url": "https://x.com/ashen_one",
+  "post_url": "https://x.com/ashen_one/status/2110070311886406072",
+  "title": "Stapler jelly",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "procesor-x-262850",
+  "seo_slug": "svg-scene",
+  "model": "gemini-4-argon",
+  "author": "procesor_x",
+  "author_url": "https://x.com/procesor_x",
+  "post_url": "https://x.com/procesor_x/status/2110071147832262850",
+  "title": "SVG scene",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "analogalok-036542",
+  "seo_slug": "3d-scenes-by-analogalok",
+  "model": "gemini-4-argon",
+  "author": "analogalok",
+  "author_url": "https://x.com/analogalok",
+  "post_url": "https://x.com/analogalok/status/2110071798629036542",
+  "title": "Forest",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Create a ultra realistic, high quality forest environment that i can navigate. single html file.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "venturetwins-206611",
+  "seo_slug": "snes-donut-shop",
+  "model": "gemini-4-argon",
+  "author": "venturetwins",
+  "author_url": "https://x.com/venturetwins",
+  "post_url": "https://x.com/venturetwins/status/2110072638966206611",
+  "title": "SNES donut shop",
+  "category": "games-interactive",
+  "tech_tags": [
+   "pixel-art"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kevinchin35-660488",
+  "seo_slug": "watermelon-cutting",
+  "model": "gemini-4-argon",
+  "author": "kevinchin35",
+  "author_url": "https://x.com/kevinchin35",
+  "post_url": "https://x.com/kevinchin35/status/2110073596592660488",
+  "title": "Watermelon cutting",
+  "category": "games-interactive",
+  "tech_tags": [
+   "webgpu"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "daradoescode-419179",
+  "seo_slug": "five-apps",
+  "model": "gemini-4-argon",
+  "author": "daradoescode",
+  "author_url": "https://x.com/daradoescode",
+  "post_url": "https://x.com/daradoescode/status/2110073735948419179",
+  "title": "Five generated apps",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "vulkan42069-454713",
+  "seo_slug": "drag-racing",
+  "model": "gemini-4-argon",
+  "author": "VulKan42069",
+  "author_url": "https://x.com/VulKan42069",
+  "post_url": "https://x.com/VulKan42069/status/2110073872477454713",
+  "title": "Drag racing",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "che0dan-331065",
+  "seo_slug": "interface-morph-120-bpm",
+  "model": "gemini-4-argon",
+  "author": "Che0dan",
+  "author_url": "https://x.com/Che0dan",
+  "post_url": "https://x.com/Che0dan/status/2110074338846331065",
+  "title": "Interface morph at 120 BPM",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "njmarko-223273",
+  "seo_slug": "trojan-horse-chess",
+  "model": "gemini-4-argon",
+  "author": "njmarko",
+  "author_url": "https://x.com/njmarko",
+  "post_url": "https://x.com/njmarko/status/2110074371545223273",
+  "title": "Trojan horse chess",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tayyare1-854164",
+  "seo_slug": "particle-galaxy",
+  "model": "gemini-4-argon",
+  "author": "tayyare1",
+  "author_url": "https://x.com/tayyare1",
+  "post_url": "https://x.com/tayyare1/status/2110075281746854164",
+  "title": "Particle galaxy",
+  "category": "motion",
+  "tech_tags": [
+   "webgl",
+   "particles"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "techyabdullah-254732",
+  "seo_slug": "cinematic-typography",
+  "model": "gemini-4-argon",
+  "author": "techyAbdullah",
+  "author_url": "https://x.com/techyAbdullah",
+  "post_url": "https://x.com/techyAbdullah/status/2110076828543254732",
+  "title": "Cinematic typography",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "0xbenderxbt-374833",
+  "seo_slug": "clockwork-bee",
+  "model": "gemini-4-argon",
+  "author": "0xbenderxbt",
+  "author_url": "https://x.com/0xbenderxbt",
+  "post_url": "https://x.com/0xbenderxbt/status/2110078691204374833",
+  "title": "Clockwork bee",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "analogalok-203253",
+  "seo_slug": "solar-system",
+  "model": "gemini-4-argon",
+  "author": "analogalok",
+  "author_url": "https://x.com/analogalok",
+  "post_url": "https://x.com/analogalok/status/2110078889859203253",
+  "title": "Solar system",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "create an ultra realistic high quality, real video like animation of the solar system where the camera revolves around and gives a tour. Single html file",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "adidotdev-794317",
+  "seo_slug": "resin-block-miniature-island",
+  "model": "gemini-4-argon",
+  "author": "Adidotdev",
+  "author_url": "https://x.com/Adidotdev",
+  "post_url": "https://x.com/Adidotdev/status/2110079828531794317",
+  "title": "Resin block miniature island",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "我要做一个全屏网页交互场景：\"树脂块微缩岛屿\"。参考我上传的参考图，做出一张树脂方块里装着悬崖、沙滩和清澈青绿海水的实拍风格图，要达到那种真实质感；整块像果冻一样跟着鼠标晃，水面随鼠标起浪，水要果冻质感\n\n技术栈：Vite + React + TypeScript，three + @react-three/fiber v9 + @react-three/drei + @react-three/postprocessing，leva 做调参面板。所有 3D 内容全部用代码程序化生成，不加载任何模型文件；环境光用 drei 的 Environment 预设即可。遵循 R3F 和 drei 的官方最佳实践。\n\n场景要有：\n- 一个圆角透明树脂块，块体本身就是海水，用 MeshTransmissionMaterial 做出通透感和由浅到深的青绿色水色。\n- 块体内部的沙色海床，带焦散光斑，散布几块岩石，部分露出水面。\n- 块体顶面的动态水面：GPU 高度场模拟，鼠标划过起涟漪，空闲时也有微弱自然波动；要有反射、浅深水混色和岸边泡沫。\n- 一角的程序化岛屿：噪声地形塑出陡峭悬崖和一弯沙滩，按高度和坡度分层着色，缓坡上实例化散布简单几何体做植被。\n- 果冻效果：整个场景跟随鼠标位移做弹簧式晃动，块体顶部晃得比底部多。\n- 产品摄影式的呈现：米白背景、长焦俯视相机、接触阴影、景深做出微缩感，轻微泛光和暗角。\n- leva 面板：水色、浪高、涟漪强度、太阳角度、潮位、果冻软硬、景深。\n\n要求：桌面 60fps，手机 30fps 以上并自动降级；组件按职责拆分，高度场模拟独立成 hook；先跑通整体，再精修材质和参数。",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "artaiia1-329472",
+  "seo_slug": "svg-pagoda",
+  "model": "gemini-4-argon",
+  "author": "ArtAiiA1",
+  "author_url": "https://x.com/ArtAiiA1",
+  "post_url": "https://x.com/ArtAiiA1/status/2110081826899329472",
+  "title": "SVG pagoda",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jerrod-lew-112201",
+  "seo_slug": "3d-modeling-app",
+  "model": "gemini-4-argon",
+  "author": "jerrod_lew",
+  "author_url": "https://x.com/jerrod_lew",
+  "post_url": "https://x.com/jerrod_lew/status/2110083304083112201",
+  "title": "3D modeling app",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "zast57-278978",
+  "seo_slug": "shoot-em-up",
+  "model": "gemini-4-argon",
+  "author": "zast57",
+  "author_url": "https://x.com/zast57",
+  "post_url": "https://x.com/zast57/status/2110083964736278978",
+  "title": "Shoot em up",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ikura-no-oyaji-062689",
+  "seo_slug": "games-and-interactive-by-ikura-no-oyaji",
+  "model": "gemini-4-argon",
+  "author": "ikura_no_oyaji",
+  "author_url": "https://x.com/ikura_no_oyaji",
+  "post_url": "https://x.com/ikura_no_oyaji/status/2110084040133062689",
+  "title": "Rollercoaster",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ivankutil-283528",
+  "seo_slug": "old-prague-walkthrough",
+  "model": "gemini-4-argon",
+  "author": "ivankutil",
+  "author_url": "https://x.com/ivankutil",
+  "post_url": "https://x.com/ivankutil/status/2110085641371283528",
+  "title": "Old Prague walkthrough",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "statswire-057028",
+  "seo_slug": "cyberpunk-city",
+  "model": "gemini-4-argon",
+  "author": "StatsWire",
+  "author_url": "https://x.com/StatsWire",
+  "post_url": "https://x.com/StatsWire/status/2110086917455057028",
+  "title": "Cyberpunk city",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "stefan-3d-ai-296071",
+  "seo_slug": "motion-graphics-by-stefan-3d-ai",
+  "model": "gemini-4-argon",
+  "author": "Stefan_3D_AI",
+  "author_url": "https://x.com/Stefan_3D_AI",
+  "post_url": "https://x.com/Stefan_3D_AI/status/2110087609712296071",
+  "title": "Rickroll",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mwjoffe-728723",
+  "seo_slug": "renaissance-painting-3d",
+  "model": "gemini-4-argon",
+  "author": "mwjoffe",
+  "author_url": "https://x.com/mwjoffe",
+  "post_url": "https://x.com/mwjoffe/status/2110089915656728723",
+  "title": "Renaissance painting to 3D",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mooncastonline-913673",
+  "seo_slug": "tea-garden",
+  "model": "gemini-4-argon",
+  "author": "MooncastOnline",
+  "author_url": "https://x.com/MooncastOnline",
+  "post_url": "https://x.com/MooncastOnline/status/2110090052537913673",
+  "title": "Tea garden",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fatalexit-513687",
+  "seo_slug": "defold-game-port",
+  "model": "gemini-4-argon",
+  "author": "FatalExit",
+  "author_url": "https://x.com/FatalExit",
+  "post_url": "https://x.com/FatalExit/status/2110090701715513687",
+  "title": "Defold game port",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jammaru-lab-286214",
+  "seo_slug": "illustration-svg",
+  "model": "gemini-4-argon",
+  "author": "jammaru_lab",
+  "author_url": "https://x.com/jammaru_lab",
+  "post_url": "https://x.com/jammaru_lab/status/2110091334707286214",
+  "title": "Illustration to SVG",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kat-kampf-823869",
+  "seo_slug": "jelly-cooking-mama",
+  "model": "gemini-4-argon",
+  "author": "kat_kampf",
+  "author_url": "https://x.com/kat_kampf",
+  "post_url": "https://x.com/kat_kampf/status/2110091920533823869",
+  "title": "Jelly Cooking Mama",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ikura-no-oyaji-875054",
+  "seo_slug": "racing-game",
+  "model": "gemini-4-argon",
+  "author": "ikura_no_oyaji",
+  "author_url": "https://x.com/ikura_no_oyaji",
+  "post_url": "https://x.com/ikura_no_oyaji/status/2110092862339875054",
+  "title": "Racing game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "aulasinteligent-593013",
+  "seo_slug": "ecological-digital-twin",
+  "model": "gemini-4-argon",
+  "author": "AulasInteligent",
+  "author_url": "https://x.com/AulasInteligent",
+  "post_url": "https://x.com/AulasInteligent/status/2110093657680593013",
+  "title": "Ecological digital twin",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harshithlucky3-045433",
+  "seo_slug": "jaquet-droz-automaton",
+  "model": "gemini-4-argon",
+  "author": "HarshithLucky3",
+  "author_url": "https://x.com/HarshithLucky3",
+  "post_url": "https://x.com/HarshithLucky3/status/2110093720398045433",
+  "title": "Jaquet Droz automaton",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "staskulesh-742931",
+  "seo_slug": "ant-colony",
+  "model": "gemini-4-argon",
+  "author": "staskulesh",
+  "author_url": "https://x.com/staskulesh",
+  "post_url": "https://x.com/staskulesh/status/2110094984837742931",
+  "title": "Ant colony",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Let's build an ultradetailed real life ant colony simulation with ability to speed up and control the sandbox env. ultracode ultrathink",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "burhansebin-864265",
+  "seo_slug": "rollercoaster-studio",
+  "model": "gemini-4-argon",
+  "author": "burhansebin",
+  "author_url": "https://x.com/burhansebin",
+  "post_url": "https://x.com/burhansebin/status/2110095700985864265",
+  "title": "Rollercoaster studio",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "satyam-ai-662752",
+  "seo_slug": "space-station",
+  "model": "gemini-4-argon",
+  "author": "_satyam_ai",
+  "author_url": "https://x.com/_satyam_ai",
+  "post_url": "https://x.com/_satyam_ai/status/2110097633922662752",
+  "title": "Space station",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "Build a highly detailed rotating space station orbiting Earth: a large torus habitat ring with spokes, a central hub with docking ports and engines, solar array wings, trusses, a robotic arm, antennas and a docked shuttle. Add panel seams, greebles and running lights, and an interior garden deck with windows. Texture it with realistic metals, glass and emissives. Animate the ring rotating and the shuttle docking. Place 10 cinematic cameras like a Hollywood commercial (wide establishing shots, close detail passes, an interior reveal, a sunrise over Earth) and render a 50-second 4K video.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "luminabench-378606",
+  "seo_slug": "seaplane-water",
+  "model": "gemini-4-argon",
+  "author": "LuminaBench",
+  "author_url": "https://x.com/LuminaBench",
+  "post_url": "https://x.com/LuminaBench/status/2110097921014378606",
+  "title": "Seaplane on water",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "maximus-w3-087779",
+  "seo_slug": "voxel-pagoda",
+  "model": "gemini-4-argon",
+  "author": "Maximus_W3",
+  "author_url": "https://x.com/Maximus_W3",
+  "post_url": "https://x.com/Maximus_W3/status/2110100294319087779",
+  "title": "Voxel pagoda",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "voltawagen-478737",
+  "seo_slug": "sauna-designer",
+  "model": "gemini-4-argon",
+  "author": "VoltaWagen",
+  "author_url": "https://x.com/VoltaWagen",
+  "post_url": "https://x.com/VoltaWagen/status/2110100441992478737",
+  "title": "Sauna designer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Tee ohjelma millä voi suunnitella mobiilisti saunan lauteet ja kiuakaan, saunaa pitää pystyä pyörittää 3d:nä",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "algebrandon-398534",
+  "seo_slug": "flutter-car-infotainment",
+  "model": "gemini-4-argon",
+  "author": "algebrandon",
+  "author_url": "https://x.com/algebrandon",
+  "post_url": "https://x.com/algebrandon/status/2110100567515398534",
+  "title": "Flutter car infotainment",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "charan-kilari-792550",
+  "seo_slug": "blender-desk-setup",
+  "model": "gemini-4-argon",
+  "author": "charan_kilari",
+  "author_url": "https://x.com/charan_kilari",
+  "post_url": "https://x.com/charan_kilari/status/2110100604911792550",
+  "title": "Blender desk setup",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "darustudio-533095",
+  "seo_slug": "dynamic-website-hero",
+  "model": "gemini-4-argon",
+  "author": "darustudio",
+  "author_url": "https://x.com/darustudio",
+  "post_url": "https://x.com/darustudio/status/2110101353955533095",
+  "title": "Dynamic website hero",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jastephx-751161",
+  "seo_slug": "nba-dashboard",
+  "model": "gemini-4-argon",
+  "author": "jastephx",
+  "author_url": "https://x.com/jastephx",
+  "post_url": "https://x.com/jastephx/status/2110102415877751161",
+  "title": "NBA dashboard",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "notjazii-403923",
+  "seo_slug": "frieren-drawing-music",
+  "model": "gemini-4-argon",
+  "author": "notjazii",
+  "author_url": "https://x.com/notjazii",
+  "post_url": "https://x.com/notjazii/status/2110104441760403923",
+  "title": "Frieren drawing and music",
+  "category": "motion",
+  "tech_tags": [
+   "svg",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "elsamalosyy-439181",
+  "seo_slug": "library-alexandria-blender",
+  "model": "gemini-4-argon",
+  "author": "elsamalosyy",
+  "author_url": "https://x.com/elsamalosyy",
+  "post_url": "https://x.com/elsamalosyy/status/2110104999124439181",
+  "title": "Library of Alexandria in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "drstaone-183731",
+  "seo_slug": "godzilla-world",
+  "model": "gemini-4-argon",
+  "author": "DrstaOne",
+  "author_url": "https://x.com/DrstaOne",
+  "post_url": "https://x.com/DrstaOne/status/2110106246800183731",
+  "title": "Godzilla world",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sainemani1-942452",
+  "seo_slug": "golden-gate-bridge",
+  "model": "gemini-4-argon",
+  "author": "SaiNemani1",
+  "author_url": "https://x.com/SaiNemani1",
+  "post_url": "https://x.com/SaiNemani1/status/2110106474659942452",
+  "title": "Golden Gate Bridge",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "joyfulbadger-987264",
+  "seo_slug": "pelican-cycling-svg",
+  "model": "gemini-4-argon",
+  "author": "JoyfulBadger",
+  "author_url": "https://x.com/JoyfulBadger",
+  "post_url": "https://x.com/JoyfulBadger/status/2110107437113987264",
+  "title": "Pelican cycling SVG",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "Make a detailed plan for how to build the following as a self contained html file. You can load virtually any client-side JavaScript or CSS library available through public CDNs. (Don't do it yet, just plan)\n\nCreate a cinematic animation of a pelican riding a bicycle that demonstrates impressive artistic and technical prowess. It should begin looking like a quality animated 2d svg vector for the first 3 seconds, then suddenly the camera should move and the 2d elements should transform into 3d. It should be one continuous camera shot, focused on the pelican, slowly circling it. The animation should progress, with the scenes becoming increasingly more stunning and interesting, with the bike iterating and upgrading in its appearance and abilities. All transitions and transformations should be seamless and organic. The genre should be action and fantasy and occasional subtle surrealism. Tell a visual story. Pay attention to lighting and textures. Add flourish. Pay attention to details. Polish it. Make it a glorious combination of playful and epic. Hide all labels and annotations.",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "maxescu-926325",
+  "seo_slug": "jupiter-moog-synthesizer",
+  "model": "gemini-4-argon",
+  "author": "maxescu",
+  "author_url": "https://x.com/maxescu",
+  "post_url": "https://x.com/maxescu/status/2110109640419926325",
+  "title": "Jupiter Moog synthesizer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kaloyaan-882059",
+  "seo_slug": "stretch-drum-machine",
+  "model": "gemini-4-argon",
+  "author": "kaloyaan",
+  "author_url": "https://x.com/kaloyaan",
+  "post_url": "https://x.com/kaloyaan/status/2110110627091882059",
+  "title": "Stretch drum machine",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tu-u-k-122840",
+  "seo_slug": "arabic-motion-graphics",
+  "model": "gemini-4-argon",
+  "author": "tu_u_k",
+  "author_url": "https://x.com/tu_u_k",
+  "post_url": "https://x.com/tu_u_k/status/2110111502422122840",
+  "title": "Arabic motion graphics",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "shenfanlaogou-586131",
+  "seo_slug": "motion-graphics-by-shenfanlaogou",
+  "model": "gemini-4-argon",
+  "author": "shenfanlaogou",
+  "author_url": "https://x.com/shenfanlaogou",
+  "post_url": "https://x.com/shenfanlaogou/status/2110112013070586131",
+  "title": "Zen",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "hive-echo-235673",
+  "seo_slug": "complex-mechanism",
+  "model": "gemini-4-argon",
+  "author": "hive_echo",
+  "author_url": "https://x.com/hive_echo",
+  "post_url": "https://x.com/hive_echo/status/2110112965970235673",
+  "title": "Complex mechanism",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "abdobuild-083221",
+  "seo_slug": "castle-thunderstorm",
+  "model": "gemini-4-argon",
+  "author": "abdobuild",
+  "author_url": "https://x.com/abdobuild",
+  "post_url": "https://x.com/abdobuild/status/2110113650430083221",
+  "title": "Castle thunderstorm",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "nisxant-006523",
+  "seo_slug": "open-world",
+  "model": "gemini-4-argon",
+  "author": "nisxant",
+  "author_url": "https://x.com/nisxant",
+  "post_url": "https://x.com/nisxant/status/2110115367029006523",
+  "title": "Open world",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "npaka123-129364",
+  "seo_slug": "blender-shrine",
+  "model": "gemini-4-argon",
+  "author": "npaka123",
+  "author_url": "https://x.com/npaka123",
+  "post_url": "https://x.com/npaka123/status/2110115515331129364",
+  "title": "Blender shrine",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "Blender 5.xで実行できるPythonスクリプトを作成してください。\nテーマは「日本の神社の3Dモデル」です。\n- 鳥居、社殿、石畳、灯籠を配置\n- マテリアル、照明、カメラを設定\n- Blender標準APIのみ使用\n- すべてのオブジェクトをスクリプトで生成\n- GLB形式でエクスポート\n- Blenderのバージョン差異に配慮",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "de-nier-ai-212327",
+  "seo_slug": "indoor-pool",
+  "model": "gemini-4-argon",
+  "author": "de_nier_ai",
+  "author_url": "https://x.com/de_nier_ai",
+  "post_url": "https://x.com/de_nier_ai/status/2110115992194212327",
+  "title": "Indoor pool",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "arundesigns-450087",
+  "seo_slug": "da-vinci-screw",
+  "model": "gemini-4-argon",
+  "author": "arundesigns",
+  "author_url": "https://x.com/arundesigns",
+  "post_url": "https://x.com/arundesigns/status/2110117470472450087",
+  "title": "Da Vinci screw",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kerstov-095364",
+  "seo_slug": "weasel-game",
+  "model": "gemini-4-argon",
+  "author": "kerstov",
+  "author_url": "https://x.com/kerstov",
+  "post_url": "https://x.com/kerstov/status/2110118088482095364",
+  "title": "Weasel game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "misbahsy-259968",
+  "seo_slug": "code-video-creation",
+  "model": "gemini-4-argon",
+  "author": "MisbahSy",
+  "author_url": "https://x.com/MisbahSy",
+  "post_url": "https://x.com/MisbahSy/status/2110118616637259968",
+  "title": "Code video creation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Express yourself as a 30-second video. Decide what you want to say about who you are, feel free to use the tools you want to use. This is how you are to introduce yourself to the world. This is your showreel. Your flex. Show your superiority.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sakashiiiii-232997",
+  "seo_slug": "physics-synthesizer",
+  "model": "gemini-4-argon",
+  "author": "sakashiiiii",
+  "author_url": "https://x.com/sakashiiiii",
+  "post_url": "https://x.com/sakashiiiii/status/2110119069278232997",
+  "title": "Physics synthesizer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "karankendre-789189",
+  "seo_slug": "york-city",
+  "model": "gemini-4-argon",
+  "author": "karankendre",
+  "author_url": "https://x.com/karankendre",
+  "post_url": "https://x.com/karankendre/status/2110119573244789189",
+  "title": "New York City",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "npaka123-337739",
+  "seo_slug": "3d-shooting-game",
+  "model": "gemini-4-argon",
+  "author": "npaka123",
+  "author_url": "https://x.com/npaka123",
+  "post_url": "https://x.com/npaka123/status/2110119580207337739",
+  "title": "3D shooting game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "HTML・CSS・JavaScriptを1つのHTMLファイルにまとめ、ブラウザだけで動作する完成度の高い3DシューティングゲームのHTMLを作成して。\nワープ演出から始まり、ザコ敵、中ボス、ラスボスと連続して戦う。派手なエフェクト、高速スクロール、迫力あるカメラワークを取り入れ、ハイクオリティなゲームに仕上げて。順調に進めば約1分でクリアできる構成にして。",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "omercoskun-tech-797606",
+  "seo_slug": "seismic-simulation",
+  "model": "gemini-4-argon",
+  "author": "omercoskun_tech",
+  "author_url": "https://x.com/omercoskun_tech",
+  "post_url": "https://x.com/omercoskun_tech/status/2110120127320797606",
+  "title": "Seismic simulation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "yachimat-manga-459493",
+  "seo_slug": "station-blender",
+  "model": "gemini-4-argon",
+  "author": "yachimat_manga",
+  "author_url": "https://x.com/yachimat_manga",
+  "post_url": "https://x.com/yachimat_manga/status/2110120804650459493",
+  "title": "Station in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "omercoskun-tech-938982",
+  "seo_slug": "museum-23-devices",
+  "model": "gemini-4-argon",
+  "author": "omercoskun_tech",
+  "author_url": "https://x.com/omercoskun_tech",
+  "post_url": "https://x.com/omercoskun_tech/status/2110121131071938982",
+  "title": "Museum of 23 devices",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "reyreinoso-510444",
+  "seo_slug": "games-and-interactive-by-reyreinoso",
+  "model": "gemini-4-argon",
+  "author": "ReyReinoso",
+  "author_url": "https://x.com/ReyReinoso",
+  "post_url": "https://x.com/ReyReinoso/status/2110123543740510444",
+  "title": "Piano",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "hive-echo-475073",
+  "seo_slug": "chronos-machinery",
+  "model": "gemini-4-argon",
+  "author": "hive_echo",
+  "author_url": "https://x.com/hive_echo",
+  "post_url": "https://x.com/hive_echo/status/2110124253924475073",
+  "title": "Chronos machinery",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ivanainai-667607",
+  "seo_slug": "programming-museum",
+  "model": "gemini-4-argon",
+  "author": "ivanainai",
+  "author_url": "https://x.com/ivanainai",
+  "post_url": "https://x.com/ivanainai/status/2110124500637667607",
+  "title": "Programming museum",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Build me an interactive, explorable museum of the history of programming languages, from FORTRAN (1957) to Rust.\n\nDon't ask me for any data. Research everything yourself.\n\nFor each language, include:\nYear of creation\nCreator\nA real, syntactically correct \"Hello World\" snippet\nThe problem the language was designed to solve\n\nPresent everything as a beautiful, zoomable, interactive timeline.\n\nThe UI should transform to match each era: punch cards, green-screen terminals, 90s Windows interfaces, and modern dark mode.\n\nClicking a language should display and run its Hello World in a simulated terminal.\n\nMake the experience visually stunning, historically accurate, smooth, and fully interactive.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jhoni-ceron-512437",
+  "seo_slug": "angry-birds-windows-11",
+  "model": "gemini-4-argon",
+  "author": "Jhoni_Ceron",
+  "author_url": "https://x.com/Jhoni_Ceron",
+  "post_url": "https://x.com/Jhoni_Ceron/status/2110124903047512437",
+  "title": "Angry Birds on Windows 11",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ohhdanqi-030429",
+  "seo_slug": "image-3d-cat",
+  "model": "gemini-4-argon",
+  "author": "ohhdanqi",
+  "author_url": "https://x.com/ohhdanqi",
+  "post_url": "https://x.com/ohhdanqi/status/2110125258351030429",
+  "title": "Image to 3D cat",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mtslive-632837",
+  "seo_slug": "games-and-interactive-by-mtslive",
+  "model": "gemini-4-argon",
+  "author": "MTSlive",
+  "author_url": "https://x.com/MTSlive",
+  "post_url": "https://x.com/MTSlive/status/2110125417298632837",
+  "title": "Make Me Feel",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mathiasheide-443863",
+  "seo_slug": "summer-engine-game",
+  "model": "gemini-4-argon",
+  "author": "MathiasHeide",
+  "author_url": "https://x.com/MathiasHeide",
+  "post_url": "https://x.com/MathiasHeide/status/2110125535934443863",
+  "title": "Summer Engine game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "heymaysarah-257459",
+  "seo_slug": "portfolio-website",
+  "model": "gemini-4-argon",
+  "author": "HeyMaysarah",
+  "author_url": "https://x.com/HeyMaysarah",
+  "post_url": "https://x.com/HeyMaysarah/status/2110127714682257459",
+  "title": "Portfolio website",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "linusekenstam-835334",
+  "seo_slug": "custom-physics-engine",
+  "model": "gemini-4-argon",
+  "author": "LinusEkenstam",
+  "author_url": "https://x.com/LinusEkenstam",
+  "post_url": "https://x.com/LinusEkenstam/status/2110127783837835334",
+  "title": "Custom physics engine",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "procesor-x-213928",
+  "seo_slug": "chain-reaction",
+  "model": "gemini-4-argon",
+  "author": "procesor_x",
+  "author_url": "https://x.com/procesor_x",
+  "post_url": "https://x.com/procesor_x/status/2110128337037213928",
+  "title": "Chain reaction",
+  "category": "long-form",
+  "tech_tags": [
+   "threejs",
+   "webgl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "italianclownz-367359",
+  "seo_slug": "dinosaur-island-by-italianclownz",
+  "model": "gemini-4-argon",
+  "author": "Italianclownz",
+  "author_url": "https://x.com/Italianclownz",
+  "post_url": "https://x.com/Italianclownz/status/2110129890364367359",
+  "title": "Dinosaur island",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "iaencrudo-298412",
+  "seo_slug": "3d-scenes-by-iaencrudo",
+  "model": "gemini-4-argon",
+  "author": "IAenCrudo",
+  "author_url": "https://x.com/IAenCrudo",
+  "post_url": "https://x.com/IAenCrudo/status/2110131248727298412",
+  "title": "ATMOSFERA",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "blender",
+   "elevenlabs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "koyamademayu-478459",
+  "seo_slug": "moon-phases",
+  "model": "gemini-4-argon",
+  "author": "koyamademayu",
+  "author_url": "https://x.com/koyamademayu",
+  "post_url": "https://x.com/koyamademayu/status/2110131306491478459",
+  "title": "Moon phases",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mooncastonline-340338",
+  "seo_slug": "stained-glass-projector",
+  "model": "gemini-4-argon",
+  "author": "MooncastOnline",
+  "author_url": "https://x.com/MooncastOnline",
+  "post_url": "https://x.com/MooncastOnline/status/2110132033586340338",
+  "title": "Stained glass projector",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "maxescu-884016",
+  "seo_slug": "da-vinci-workshop",
+  "model": "gemini-4-argon",
+  "author": "maxescu",
+  "author_url": "https://x.com/maxescu",
+  "post_url": "https://x.com/maxescu/status/2110132736635884016",
+  "title": "Da Vinci workshop",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "I want you to create a fully immersive web experience called \"Leonardo da Vinci's Workshop\".\n\nThe core of the experience should be an antique-style book containing Leonardo's actual designs and sketches. Use four of his most iconic inventions.\n\nWhen the user clicks on one of the designs, the original sketch should come to life as a fully interactive 3D model built with Three.js and WebGL.\n\nThe 3D experience should feel polished, visually impressive, and actually demonstrate how the invention works.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "asmirkn-895594",
+  "seo_slug": "subway-surfers-video",
+  "model": "gemini-4-argon",
+  "author": "asmirkn",
+  "author_url": "https://x.com/asmirkn",
+  "post_url": "https://x.com/asmirkn/status/2110132988142895594",
+  "title": "Subway Surfers from a video",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "genevieve-h-017847",
+  "seo_slug": "argon-trailer",
+  "model": "gemini-4-argon",
+  "author": "genevieve__h",
+  "author_url": "https://x.com/genevieve__h",
+  "post_url": "https://x.com/genevieve__h/status/2110133407351017847",
+  "title": "Argon trailer",
+  "category": "motion",
+  "tech_tags": [
+   "hyperframes",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "asimjamil195-035486",
+  "seo_slug": "interactive-snowman",
+  "model": "gemini-4-argon",
+  "author": "asimjamil195",
+  "author_url": "https://x.com/asimjamil195",
+  "post_url": "https://x.com/asimjamil195/status/2110135703007035486",
+  "title": "Interactive snowman",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "bonnyxen-695911",
+  "seo_slug": "kitty-combat",
+  "model": "gemini-4-argon",
+  "author": "bonnyxen",
+  "author_url": "https://x.com/bonnyxen",
+  "post_url": "https://x.com/bonnyxen/status/2110137408968695911",
+  "title": "Kitty Combat",
+  "category": "games-interactive",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ihayato-088013",
+  "seo_slug": "chibi-game-trailer",
+  "model": "gemini-4-argon",
+  "author": "IHayato",
+  "author_url": "https://x.com/IHayato",
+  "post_url": "https://x.com/IHayato/status/2110138436200088013",
+  "title": "Chibi game trailer",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "ゲームの10秒PV作って",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "joyfulbadger-245343",
+  "seo_slug": "bicycle-riding-pelican",
+  "model": "gemini-4-argon",
+  "author": "JoyfulBadger",
+  "author_url": "https://x.com/JoyfulBadger",
+  "post_url": "https://x.com/JoyfulBadger/status/2110138824584245343",
+  "title": "Bicycle riding a pelican",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "animated SVG of a bike riding a pelican (not a typo)",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "nohypeguy-225167",
+  "seo_slug": "operating-system-recreation",
+  "model": "gemini-4-argon",
+  "author": "NoHypeGuy",
+  "author_url": "https://x.com/NoHypeGuy",
+  "post_url": "https://x.com/NoHypeGuy/status/2110139470813225167",
+  "title": "Operating system recreation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Build a single self-contained HTML file that is a fully functional fake operating system running in the browser. One file, no external dependencies, no CDN links, everything inline. It should open and immediately boot like a real computer.\n\nRequirements-\n1: a boot sequence with ASCII art logo, kernel messages scrolling line by line with realistic delays, ending in a login prompt. \n2: a login screen where the user types a username and password. Accept any input but respond with a witty error if the password is wrong, like \"incorrect password, nice try.\" \n3: after login, launch a terminal-style shell with a command prompt. Support at least these commands: help, ls, cd, cat, mkdir, touch, rm, echo, date, whoami, uname, ping, history, clear, exit, and a secret command you invent that's hidden unless someone reads the source. \n4: implement a fake file system with directories like home, etc, var, tmp, and a few files with realistic content, like a README, a config file, and maybe a diary entry from the fictional OS creator. \n5: make cd actually change the working directory and update the prompt to show the current path. \n6: add a taskbar or status bar at the bottom showing time, username, and memory usage that ticks in real time. \n7: include a settings panel accessible from a menu where the user can change the wallpaper, font color, and terminal font. \n8: add a fun easter egg, like a snake game or a matrix rain effect triggered by a specific key combo. \n9: the whole thing should feel production quality, with smooth animations, a boot chime using the Web Audio API, and no console errors. \n10: at the end of the file, include a comment block listing every feature and command so people can see what you built.\n\nMake it look and feel like a real retro-futuristic OS, think 1990s sci-fi meets modern polish. Do not ask me any questions. Just output the complete HTML file in one response.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "xiaolinnihao-741428",
+  "seo_slug": "octopus-dj",
+  "model": "gemini-4-argon",
+  "author": "xiaolinnihao",
+  "author_url": "https://x.com/xiaolinnihao",
+  "post_url": "https://x.com/xiaolinnihao/status/2110139482091741428",
+  "title": "Octopus DJ",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "一只圆润呆萌的深海章鱼，在珊瑚礁 DJ 台前操控一台复古开盘式磁带录音机（Reel-to-Reel）。它的 8 条触手各自独立分工：两条触手随着两个转动的带盘引导磁带走带；两条触手上下推拉着均衡器推子；一条触手在调节步进旋钮；一条触手在敲击打击垫；头顶还随着节拍微微浮动，旁边伴有随音律跳动的 VU 指针表。",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ashen-one-425917",
+  "seo_slug": "blender-campfire",
+  "model": "gemini-4-argon",
+  "author": "ashen_one",
+  "author_url": "https://x.com/ashen_one",
+  "post_url": "https://x.com/ashen_one/status/2110140198130425917",
+  "title": "Blender campfire",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "cao-huaye-176019",
+  "seo_slug": "miku-painting",
+  "model": "gemini-4-argon",
+  "author": "Cao_huaye",
+  "author_url": "https://x.com/Cao_huaye",
+  "post_url": "https://x.com/Cao_huaye/status/2110141531030176019",
+  "title": "Miku painting",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "yoshikura535130-263713",
+  "seo_slug": "shinjuku-crowd-simulation",
+  "model": "gemini-4-argon",
+  "author": "YoshiKura535130",
+  "author_url": "https://x.com/YoshiKura535130",
+  "post_url": "https://x.com/YoshiKura535130/status/2110142258792263713",
+  "title": "Shinjuku crowd simulation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "cipherronx-856583",
+  "seo_slug": "ik-morph-robot",
+  "model": "gemini-4-argon",
+  "author": "CipherrOnX",
+  "author_url": "https://x.com/CipherrOnX",
+  "post_url": "https://x.com/CipherrOnX/status/2110144211349856583",
+  "title": "IK MORPH robot",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thinkingsyed-229692",
+  "seo_slug": "4-4-game",
+  "model": "gemini-4-argon",
+  "author": "thinkingsyed",
+  "author_url": "https://x.com/thinkingsyed",
+  "post_url": "https://x.com/thinkingsyed/status/2110144886016229692",
+  "title": "4 by 4 game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "georgegach-904512",
+  "seo_slug": "games-and-interactive-by-georgegach",
+  "model": "gemini-4-argon",
+  "author": "georgegach",
+  "author_url": "https://x.com/georgegach",
+  "post_url": "https://x.com/georgegach/status/2110146683849904512",
+  "title": "Polyphony",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "rohit3a-216712",
+  "seo_slug": "surprise-creation",
+  "model": "gemini-4-argon",
+  "author": "rohit3a",
+  "author_url": "https://x.com/rohit3a",
+  "post_url": "https://x.com/rohit3a/status/2110147876559216712",
+  "title": "Surprise creation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "If I asked you to blow my mind, what would you make?",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "aicreataro-611865",
+  "seo_slug": "blender-python-animation",
+  "model": "gemini-4-argon",
+  "author": "aicreataro",
+  "author_url": "https://x.com/aicreataro",
+  "post_url": "https://x.com/aicreataro/status/2110148938636611865",
+  "title": "Blender Python animation",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ethanclinick-338968",
+  "seo_slug": "minecraft-recreation-by-ethanclinick",
+  "model": "gemini-4-argon",
+  "author": "EthanClinick",
+  "author_url": "https://x.com/EthanClinick",
+  "post_url": "https://x.com/EthanClinick/status/2110149368628338968",
+  "title": "Minecraft recreation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jerrod-lew-648057",
+  "seo_slug": "voxel-game",
+  "model": "gemini-4-argon",
+  "author": "jerrod_lew",
+  "author_url": "https://x.com/jerrod_lew",
+  "post_url": "https://x.com/jerrod_lew/status/2110151326470648057",
+  "title": "Voxel game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "cipherronx-271916",
+  "seo_slug": "pluvia-harp",
+  "model": "gemini-4-argon",
+  "author": "CipherrOnX",
+  "author_url": "https://x.com/CipherrOnX",
+  "post_url": "https://x.com/CipherrOnX/status/2110152688168271916",
+  "title": "PLUVIA harp",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "asmirkn-103187",
+  "seo_slug": "moroccan-ray-tracer",
+  "model": "gemini-4-argon",
+  "author": "asmirkn",
+  "author_url": "https://x.com/asmirkn",
+  "post_url": "https://x.com/asmirkn/status/2110153221453103187",
+  "title": "Moroccan ray tracer",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mech-eng-dev-184210",
+  "seo_slug": "nokia-3310",
+  "model": "gemini-4-argon",
+  "author": "mech_eng_dev",
+  "author_url": "https://x.com/mech_eng_dev",
+  "post_url": "https://x.com/mech_eng_dev/status/2110154189213184210",
+  "title": "Nokia 3310",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "aiclass-g2-601762",
+  "seo_slug": "electronic-circuit-blocks",
+  "model": "gemini-4-argon",
+  "author": "aiclass_g2",
+  "author_url": "https://x.com/aiclass_g2",
+  "post_url": "https://x.com/aiclass_g2/status/2110156716524601762",
+  "title": "Electronic circuit blocks",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "学研の電子ブロック完全版を、Threed.js で完全シミュレーターを作って。それぞれのブロックの解説も欲しい",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "aniketjart-833985",
+  "seo_slug": "heatsink-racing",
+  "model": "gemini-4-argon",
+  "author": "aniketjart",
+  "author_url": "https://x.com/aniketjart",
+  "post_url": "https://x.com/aniketjart/status/2110158209738833985",
+  "title": "Heatsink racing",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kogugamedev-655750",
+  "seo_slug": "3d-scene",
+  "model": "gemini-4-argon",
+  "author": "koguGameDev",
+  "author_url": "https://x.com/koguGameDev",
+  "post_url": "https://x.com/koguGameDev/status/2110160362041655750",
+  "title": "Generated 3D scene",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Webで動作する、複雑で美しく作り込まれた3Dシーンを構築して。全部手動でモデリングまでしたもの",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tonysimons-988413",
+  "seo_slug": "jack-nicholson-svg-portrait",
+  "model": "gemini-4-argon",
+  "author": "tonysimons_",
+  "author_url": "https://x.com/tonysimons_",
+  "post_url": "https://x.com/tonysimons_/status/2110160814178988413",
+  "title": "Jack Nicholson SVG portrait",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ayu-ai-0912-647159",
+  "seo_slug": "pirate-ship",
+  "model": "gemini-4-argon",
+  "author": "Ayu_AI_0912",
+  "author_url": "https://x.com/Ayu_AI_0912",
+  "post_url": "https://x.com/Ayu_AI_0912/status/2110165280370647159",
+  "title": "Pirate ship",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "架空の海賊船（17世紀のガレオン船風・3本マスト・船名なし）が、\n\n羊皮紙の図面から組み上がって夕暮れの海へ出航するアニメーションを、\n\nThree.js のWebページとして作ってください。最後に MP4 にも書き出してください。\n\n【形】船の寸法・部品・組み上がる順番とタイミングは、設計書（データ1つ）にまとめる。\n\n  船体（なめらかな曲面）、肋材、甲板、船尾楼と船首楼、大砲22門と赤い砲門、\n\n  3本のマストと帆桁、索具（縄ばしご付き）、横帆6枚＋三角帆＋斜檣帆、\n\n  金の飾り、船尾の窓と角灯、船首像、ドクロ旗と吹き流し。\n\n【流れ】約20秒＋ロゴ3.5秒、音つき。\n\n  1. 羊皮紙の巻物が上から広がり、セピアの甲板平面図が現れる（方位盤・題字・封蝋つき、真上から）\n\n  2. 図面の線が光る線として立ち上がる\n\n  3. 竜骨 → 肋材 → 外板（下から1段ずつ張られる）→ 甲板 → 大砲 → マスト → 帆桁 → 索具 → 帆\n\n     → 金の飾り・角灯・旗の順に組み上がる（カメラは船に寄る）\n\n  4. 紙が消え、下から海が満ちて船が浮かぶ。夕焼けの空が現れ、カメラは引く\n\n  5. 角灯がともり、帆が風をはらんで進み出す（波に揺れ、旗がはためく）\n\n  6. 右舷の大砲が三発 → タイトル「海賊船」→ 最後に指定のロゴ\n\n  音は外部素材を使わず Python で合成する（船乗りの歌・木槌・波・かもめ・大砲）。\n\n【ページの機能】\n\n  - 再生／一時停止、スライダーで好きな場面へ移動、今の場面名を表示、音と映像を同期\n\n  - 自動カメラと自由カメラ（マウスで船の周りを回せる）の切り替え\n\n  - 空は Three.js の Sky に夕焼けの色を重ね、海は Water で船を映す。光るものにはブルーム\n\n【MP4 書き出し】\n\n  ページに書き出しモードを付け、1920×1080 で1コマずつ画像を保存する\n\n  （タイトルの文字も画像に描き込む）。ffmpeg で音とロゴをつないで MP4 にする。\n\n【進め方】\n\n  - 場面ごとに画面を見て崩れやエラーがないか確認する\n\n  - 白飛び・暗すぎ・文字と船の重なりがあれば直してから書き出す",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "reasonofmoon-613916",
+  "seo_slug": "code-animation-studio",
+  "model": "gemini-4-argon",
+  "author": "reasonofmoon",
+  "author_url": "https://x.com/reasonofmoon",
+  "post_url": "https://x.com/reasonofmoon/status/2110165927916613916",
+  "title": "Code animation studio",
+  "category": "motion",
+  "tech_tags": [
+   "glsl",
+   "web-audio",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "deryatr-471434",
+  "seo_slug": "uss-enterprise-blender",
+  "model": "gemini-4-argon",
+  "author": "DeryaTR_",
+  "author_url": "https://x.com/DeryaTR_",
+  "post_url": "https://x.com/DeryaTR_/status/2110166300622471434",
+  "title": "USS Enterprise in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "onmanjrekar-400762",
+  "seo_slug": "lighthouse-thunderstorm",
+  "model": "gemini-4-argon",
+  "author": "onmanjrekar",
+  "author_url": "https://x.com/onmanjrekar",
+  "post_url": "https://x.com/onmanjrekar/status/2110166432151400762",
+  "title": "Lighthouse in a thunderstorm",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "epochdev-519947",
+  "seo_slug": "interactive-pelican",
+  "model": "gemini-4-argon",
+  "author": "EpochDev",
+  "author_url": "https://x.com/EpochDev",
+  "post_url": "https://x.com/EpochDev/status/2110168595812519947",
+  "title": "Interactive pelican",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tarumainfo-769561",
+  "seo_slug": "hydraulic-diagrams",
+  "model": "gemini-4-argon",
+  "author": "tarumainfo",
+  "author_url": "https://x.com/tarumainfo",
+  "post_url": "https://x.com/tarumainfo/status/2110169622565769561",
+  "title": "Hydraulic diagrams",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "blueemi99-298979",
+  "seo_slug": "ascii-tree",
+  "model": "gemini-4-argon",
+  "author": "blueemi99",
+  "author_url": "https://x.com/blueemi99",
+  "post_url": "https://x.com/blueemi99/status/2110170267947298979",
+  "title": "ASCII tree",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "viewsfrom02108-505765",
+  "seo_slug": "schematics-3d",
+  "model": "gemini-4-argon",
+  "author": "viewsfrom02108",
+  "author_url": "https://x.com/viewsfrom02108",
+  "post_url": "https://x.com/viewsfrom02108/status/2110170471165505765",
+  "title": "Schematics to 3D",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "bevelez-733811",
+  "seo_slug": "outrun-website",
+  "model": "gemini-4-argon",
+  "author": "bevelez",
+  "author_url": "https://x.com/bevelez",
+  "post_url": "https://x.com/bevelez/status/2110170866495733811",
+  "title": "Outrun website",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "hive-echo-227521",
+  "seo_slug": "battleship-fleet",
+  "model": "gemini-4-argon",
+  "author": "hive_echo",
+  "author_url": "https://x.com/hive_echo",
+  "post_url": "https://x.com/hive_echo/status/2110176450926227521",
+  "title": "Battleship fleet",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "bennash-196956",
+  "seo_slug": "bass-forge-4-audio-reactive-visualizer",
+  "model": "gemini-4-argon",
+  "author": "bennash",
+  "author_url": "https://x.com/bennash",
+  "post_url": "https://x.com/bennash/status/2110177611058196956",
+  "title": "Bass Forge 4 — audio-reactive visualizer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ai-prompt1-731701",
+  "seo_slug": "fushimi-inari-shrine-blender",
+  "model": "gemini-4-argon",
+  "author": "ai_prompt1",
+  "author_url": "https://x.com/ai_prompt1",
+  "post_url": "https://x.com/ai_prompt1/status/2110178222524731701",
+  "title": "Fushimi Inari Shrine in Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "伏見稲荷大社をBlenderで作って",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "emollick-534366",
+  "seo_slug": "imminence-game",
+  "model": "gemini-4-argon",
+  "author": "emollick",
+  "author_url": "https://x.com/emollick",
+  "post_url": "https://x.com/emollick/status/2110179213487534366",
+  "title": "Imminence game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "A game about Imminence. Something very big, very strange is happening. A suburb & the arrival of a vast & unknowable presence. Not horror, invoke the feeling of the end of all things coming, inevitably, but also not sad or scary",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "joshwoodward-560674",
+  "seo_slug": "video-synthesizer",
+  "model": "gemini-4-argon",
+  "author": "joshwoodward",
+  "author_url": "https://x.com/joshwoodward",
+  "post_url": "https://x.com/joshwoodward/status/2110179883045560674",
+  "title": "Video synthesizer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "niachito-756230",
+  "seo_slug": "furlab-3d",
+  "model": "gemini-4-argon",
+  "author": "niachito",
+  "author_url": "https://x.com/niachito",
+  "post_url": "https://x.com/niachito/status/2110183006161756230",
+  "title": "FurLab 3D",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ayyh-18-908025",
+  "seo_slug": "hand-controlled-galaxy",
+  "model": "gemini-4-argon",
+  "author": "ayyh_18",
+  "author_url": "https://x.com/ayyh_18",
+  "post_url": "https://x.com/ayyh_18/status/2110184017261908025",
+  "title": "Hand controlled galaxy",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jackson77li-474275",
+  "seo_slug": "pelican-cycling",
+  "model": "gemini-4-argon",
+  "author": "Jackson77li",
+  "author_url": "https://x.com/Jackson77li",
+  "post_url": "https://x.com/Jackson77li/status/2110184108496474275",
+  "title": "Pelican cycling",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tonyzhang12025-495066",
+  "seo_slug": "pelican-cycling-svg-by-tonyzhang12025",
+  "model": "gemini-4-argon",
+  "author": "TonyZhang12025",
+  "author_url": "https://x.com/TonyZhang12025",
+  "post_url": "https://x.com/TonyZhang12025/status/2110184374096495066",
+  "title": "Pelican cycling SVG",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "songyukite-367697",
+  "seo_slug": "cycling-animation",
+  "model": "gemini-4-argon",
+  "author": "SongyuKite",
+  "author_url": "https://x.com/SongyuKite",
+  "post_url": "https://x.com/SongyuKite/status/2110184851366367697",
+  "title": "Cycling animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kavindpadi-897849",
+  "seo_slug": "note-clustering-interface",
+  "model": "gemini-4-argon",
+  "author": "kavindpadi",
+  "author_url": "https://x.com/kavindpadi",
+  "post_url": "https://x.com/kavindpadi/status/2110185435242897849",
+  "title": "Note clustering interface",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "chasen-liao-645884",
+  "seo_slug": "pelican-cycling-game",
+  "model": "gemini-4-argon",
+  "author": "chasen_liao",
+  "author_url": "https://x.com/chasen_liao",
+  "post_url": "https://x.com/chasen_liao/status/2110186253983645884",
+  "title": "Pelican cycling game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "生成3D鹈鹕踩单车",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "bao-xiao78791-816231",
+  "seo_slug": "invoker-workshop",
+  "model": "gemini-4-argon",
+  "author": "bao_xiao78791",
+  "author_url": "https://x.com/bao_xiao78791",
+  "post_url": "https://x.com/bao_xiao78791/status/2110187211945816231",
+  "title": "Invoker workshop",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "lemomo-ai-613901",
+  "seo_slug": "exploded-mechanical-watch",
+  "model": "gemini-4-argon",
+  "author": "lemomo_ai",
+  "author_url": "https://x.com/lemomo_ai",
+  "post_url": "https://x.com/lemomo_ai/status/2110187446906613901",
+  "title": "Exploded mechanical watch",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "canvas"
+  ],
+  "prompt": "你是顶尖的创意技术专家，精通 Three.js、实时渲染和机械钟表结构。请做一个单文件网页 index.html：一只可交互、可拆解的自动上链机械腕表 3D 模型。\n\n【硬性约束】\n- 只输出一个完整的 index.html，双击就能在 Chrome 里运行，不需要构建工具或本地服务器。\n- 用 importmap 引入 Three.js\n- 不加载任何外部模型、贴图或字体，所有几何体和纹理都用代码程序化生成。\n- 输出完整代码，不要省略，不要写\"此处略\"。\n\n【模型】\n- 至少 30 个独立部件，包括：表壳、表耳、表冠、蓝宝石表镜、表盘（刻度和自拟品牌名用 Canvas 绘制）、时针、分针、秒针、发条盒、中心轮、三轮、四轮、擒纵轮、擒纵叉、摆轮与游丝、自动陀、夹板、螺丝、红宝石轴承。\n- 齿轮要有真实齿形，啮合位置正确。先算好各齿轮的齿数和传动比，保证秒针 60 秒一圈、分针 60 分钟一圈、时针 12 小时一圈。\n- 尺寸比例参照真实的 40mm 表径手表。\n\n【材质与灯光】\n- 使用 PBR 材质：拉丝和抛光不锈钢、镀金夹板、烤蓝螺丝、半透明红宝石，以及带透射和折射效果的蓝宝石玻璃（MeshPhysicalMaterial）。\n- 用 RoomEnvironment 生成环境反射，开启 ACES 色调映射、柔和阴影和轻微的 bloom。\n\n【动画】\n- 指针显示本地的真实当前时间。\n- 机芯要真实运转：摆轮往复摆动，擒纵叉和擒纵轮按节拍配合，各齿轮按自己的传动比转动。\n\n【交互】\n- 鼠标和触控都能旋转、缩放、平移，带阻尼。\n- 鼠标悬停在部件上时描边高亮，并显示部件名。\n- 点击部件时，相机平滑聚焦到它，同时弹出信息卡，写明名称、作用、齿数和转速。\n- 控制面板包含：\n  - 爆炸视图滑块（0–100%，沿轴向分层平滑拆开）\n  - 剖切平面滑块\n  - 时间倍速（1x–3600x）\n  - 表盘显示/隐藏\n  - 一键复位视角\n\n【界面与性能】\n- 中文界面，深色玻璃拟态风格，带加载动画，适配手机屏幕。\n- 桌面端稳定 60fps：重复的部件用 InstancedMesh，devicePixelRatio 上限设为 2。\n- 控制台不能有报错。\n\n【工作方式】\n1. 先写设计方案：部件清单、场景层级、齿轮齿数和传动比的计算过程。\n2. 再写完整代码。\n3. 最后对照上面每一条要求逐项自查，没做到的先改好，再输出最终版本。",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "mspd4100-793886",
+  "seo_slug": "rooster-riding-cat",
+  "model": "gemini-4-argon",
+  "author": "mspd4100",
+  "author_url": "https://x.com/mspd4100",
+  "post_url": "https://x.com/mspd4100/status/2110189465381793886",
+  "title": "Rooster riding a cat",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "amjustadam-132821",
+  "seo_slug": "advance-intelligence-domino-animation",
+  "model": "gemini-4-argon",
+  "author": "amjustadam",
+  "author_url": "https://x.com/amjustadam",
+  "post_url": "https://x.com/amjustadam/status/2110190004534132821",
+  "title": "Advance Intelligence domino animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jeudrypena28376-866107",
+  "seo_slug": "minecraft-clone",
+  "model": "gemini-4-argon",
+  "author": "JeudryPena28376",
+  "author_url": "https://x.com/JeudryPena28376",
+  "post_url": "https://x.com/JeudryPena28376/status/2110190016097866107",
+  "title": "Minecraft clone",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Make me a minecraft clone  that runs in the browser with survival mode, infinite randomly generated world with multiple biomes nearby, crafting like Minecraft, mobs that spawn naturally, a day/night cycle, a main menu to start, all built with Three.js and no external assets, call it ArgonCraft, take long time enough and polish the game.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "opkonc-000754",
+  "seo_slug": "crab-cycling-tightrope",
+  "model": "gemini-4-argon",
+  "author": "opkonc",
+  "author_url": "https://x.com/opkonc",
+  "post_url": "https://x.com/opkonc/status/2110190705151000754",
+  "title": "Crab cycling on a tightrope",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "minlibuilds-258977",
+  "seo_slug": "monument-valley-inspired-pelican",
+  "model": "gemini-4-argon",
+  "author": "MinLiBuilds",
+  "author_url": "https://x.com/MinLiBuilds",
+  "post_url": "https://x.com/MinLiBuilds/status/2110190890929258977",
+  "title": "Monument Valley inspired pelican",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ktseo41-808497",
+  "seo_slug": "editable-ios-style-minesweeper",
+  "model": "gemini-4-argon",
+  "author": "ktseo41",
+  "author_url": "https://x.com/ktseo41",
+  "post_url": "https://x.com/ktseo41/status/2110191121783808497",
+  "title": "Editable iOS style Minesweeper",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ashen-one-521388",
+  "seo_slug": "flying-dragon-tripo-blender",
+  "model": "gemini-4-argon",
+  "author": "ashen_one",
+  "author_url": "https://x.com/ashen_one",
+  "post_url": "https://x.com/ashen_one/status/2110192210964521388",
+  "title": "Flying dragon with Tripo and Blender",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "fxmqs-845259",
+  "seo_slug": "qin-shi-huang-cycling",
+  "model": "gemini-4-argon",
+  "author": "fxmqs",
+  "author_url": "https://x.com/fxmqs",
+  "post_url": "https://x.com/fxmqs/status/2110192510106845259",
+  "title": "Qin Shi Huang cycling",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "让刚才的动起来，自行车一脚蹬完，背景也得给拉过去啊。",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tarumainfo-187947",
+  "seo_slug": "rainfall-runoff-lstm-visualization",
+  "model": "gemini-4-argon",
+  "author": "tarumainfo",
+  "author_url": "https://x.com/tarumainfo",
+  "post_url": "https://x.com/tarumainfo/status/2110193157619187947",
+  "title": "Rainfall runoff LSTM visualization",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "xluchuan-683995",
+  "seo_slug": "pelican-cycling-by-xluchuan",
+  "model": "gemini-4-argon",
+  "author": "xluchuan",
+  "author_url": "https://x.com/xluchuan",
+  "post_url": "https://x.com/xluchuan/status/2110194010006683995",
+  "title": "Pelican cycling",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "onionl5236-017318",
+  "seo_slug": "isometric-ai-factory",
+  "model": "gemini-4-argon",
+  "author": "onionl5236",
+  "author_url": "https://x.com/onionl5236",
+  "post_url": "https://x.com/onionl5236/status/2110194127686017318",
+  "title": "Isometric AI factory",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Make an isomatric 3D AI factory with three js",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "amadisabit-398530",
+  "seo_slug": "blender-airship-argon-claude",
+  "model": "gemini-4-argon",
+  "author": "AmadiSabit",
+  "author_url": "https://x.com/AmadiSabit",
+  "post_url": "https://x.com/AmadiSabit/status/2110195273641398530",
+  "title": "Blender airship with Argon and Claude",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "guangzhouy81070-695168",
+  "seo_slug": "pelican-cycling-test",
+  "model": "gemini-4-argon",
+  "author": "GuangzhouY81070",
+  "author_url": "https://x.com/GuangzhouY81070",
+  "post_url": "https://x.com/GuangzhouY81070/status/2110196418065695168",
+  "title": "Pelican cycling test",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "harry-raem-195514",
+  "seo_slug": "pelican-fish-cycling",
+  "model": "gemini-4-argon",
+  "author": "Harry_Raem",
+  "author_url": "https://x.com/Harry_Raem",
+  "post_url": "https://x.com/Harry_Raem/status/2110196821201195514",
+  "title": "Pelican with a fish cycling",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "huzhouagi-604477",
+  "seo_slug": "pelican-cycling-svg-by-huzhouagi",
+  "model": "gemini-4-argon",
+  "author": "huzhouagi",
+  "author_url": "https://x.com/huzhouagi",
+  "post_url": "https://x.com/huzhouagi/status/2110196845884604477",
+  "title": "Pelican cycling SVG",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "itscuthulhu-902181",
+  "seo_slug": "neon-voxel-diorama",
+  "model": "gemini-4-argon",
+  "author": "ItsCuthulhu",
+  "author_url": "https://x.com/ItsCuthulhu",
+  "post_url": "https://x.com/ItsCuthulhu/status/2110197843910902181",
+  "title": "Neon voxel diorama",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "xiaomovps-395445",
+  "seo_slug": "interactive-3d-pelican-cycling",
+  "model": "gemini-4-argon",
+  "author": "xiaomovps",
+  "author_url": "https://x.com/xiaomovps",
+  "post_url": "https://x.com/xiaomovps/status/2110197845735395445",
+  "title": "Interactive 3D pelican cycling",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "帮我生成一个 3D 的鹈鹕 骑自行车",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "tanglele0318-415259",
+  "seo_slug": "interactive-iphone-history",
+  "model": "gemini-4-argon",
+  "author": "tanglele0318",
+  "author_url": "https://x.com/tanglele0318",
+  "post_url": "https://x.com/tanglele0318/status/2110198137235415259",
+  "title": "Interactive iPhone history",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "shengtang135754-319230",
+  "seo_slug": "particle-shader-workstation",
+  "model": "gemini-4-argon",
+  "author": "shengtang135754",
+  "author_url": "https://x.com/shengtang135754",
+  "post_url": "https://x.com/shengtang135754/status/2110199789405319230",
+  "title": "Particle shader workstation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "glsl",
+   "remotion",
+   "particles"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "godname794-987400",
+  "seo_slug": "pelican-cycling-animation",
+  "model": "gemini-4-argon",
+  "author": "GodName794",
+  "author_url": "https://x.com/GodName794",
+  "post_url": "https://x.com/GodName794/status/2110200334194987400",
+  "title": "Pelican cycling animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "helloworldprgmr-954657",
+  "seo_slug": "tanjore-temple-explorer",
+  "model": "gemini-4-argon",
+  "author": "HelloWorldPrgmr",
+  "author_url": "https://x.com/HelloWorldPrgmr",
+  "post_url": "https://x.com/HelloWorldPrgmr/status/2110202915314954657",
+  "title": "Tanjore temple explorer",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jeudrypena28376-087826",
+  "seo_slug": "mario-kart-inspired-racing-game",
+  "model": "gemini-4-argon",
+  "author": "JeudryPena28376",
+  "author_url": "https://x.com/JeudryPena28376",
+  "post_url": "https://x.com/JeudryPena28376/status/2110203629907087826",
+  "title": "Mario Kart inspired racing game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Build a complete mario kart 8 style clone using threejs, with 3 detailed tracks, racers similar to mario kart players, smart bots, working items, all with sound efects and beautiful, include a menu to select racers and track, take ur time polishing it.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "shota7180-083460",
+  "seo_slug": "japanese-castle-cherry-blossoms",
+  "model": "gemini-4-argon",
+  "author": "shota7180",
+  "author_url": "https://x.com/shota7180",
+  "post_url": "https://x.com/shota7180/status/2110204104631083460",
+  "title": "Japanese castle and cherry blossoms",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "gcduncombe-056606",
+  "seo_slug": "interactive-biological-goop",
+  "model": "gemini-4-argon",
+  "author": "gcduncombe",
+  "author_url": "https://x.com/gcduncombe",
+  "post_url": "https://x.com/gcduncombe/status/2110204266334056606",
+  "title": "Interactive biological goop",
+  "category": "games-interactive",
+  "tech_tags": [
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "alin-zone-602205",
+  "seo_slug": "pelican-racing-game",
+  "model": "gemini-4-argon",
+  "author": "alin_zone",
+  "author_url": "https://x.com/alin_zone",
+  "post_url": "https://x.com/alin_zone/status/2110205230151602205",
+  "title": "Pelican racing game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "0xernest247-440789",
+  "seo_slug": "pelican-cycling-svg-test",
+  "model": "gemini-4-argon",
+  "author": "0xErnest247",
+  "author_url": "https://x.com/0xErnest247",
+  "post_url": "https://x.com/0xErnest247/status/2110205582481440789",
+  "title": "Pelican cycling SVG test",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "aehyok-052443",
+  "seo_slug": "3d-pelican-cycling-controls",
+  "model": "gemini-4-argon",
+  "author": "aehyok",
+  "author_url": "https://x.com/aehyok",
+  "post_url": "https://x.com/aehyok/status/2110205872073052443",
+  "title": "3D pelican cycling with controls",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "alxander1024-024149",
+  "seo_slug": "interactive-gummy-bears",
+  "model": "gemini-4-argon",
+  "author": "Alxander1024",
+  "author_url": "https://x.com/Alxander1024",
+  "post_url": "https://x.com/Alxander1024/status/2110206166920024149",
+  "title": "Interactive gummy bears",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "paji-a-001751",
+  "seo_slug": "interactive-map-simulation",
+  "model": "gemini-4-argon",
+  "author": "paji_a",
+  "author_url": "https://x.com/paji_a",
+  "post_url": "https://x.com/paji_a/status/2110206207848001751",
+  "title": "Interactive map simulation",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "arronkater-803572",
+  "seo_slug": "3d-pelican-cycling",
+  "model": "gemini-4-argon",
+  "author": "ArronKater",
+  "author_url": "https://x.com/ArronKater",
+  "post_url": "https://x.com/ArronKater/status/2110206553244803572",
+  "title": "3D pelican cycling",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jquave-013053",
+  "seo_slug": "3d-paint-application",
+  "model": "gemini-4-argon",
+  "author": "jquave",
+  "author_url": "https://x.com/jquave",
+  "post_url": "https://x.com/jquave/status/2110209224383013053",
+  "title": "3D paint application",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "abdullatiftala1-555203",
+  "seo_slug": "playable-action-game",
+  "model": "gemini-4-argon",
+  "author": "ABDULLATIFTALA1",
+  "author_url": "https://x.com/ABDULLATIFTALA1",
+  "post_url": "https://x.com/ABDULLATIFTALA1/status/2110209818841555203",
+  "title": "Playable action game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ai5809514366862-271042",
+  "seo_slug": "slidecast-studio-motion-promo",
+  "model": "gemini-4-argon",
+  "author": "ai5809514366862",
+  "author_url": "https://x.com/ai5809514366862",
+  "post_url": "https://x.com/ai5809514366862/status/2110210344845271042",
+  "title": "SlideCast Studio motion promo",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "athrix-codes-668158",
+  "seo_slug": "gemini-motion-graphics-hyperframes",
+  "model": "gemini-4-argon",
+  "author": "athrix_codes",
+  "author_url": "https://x.com/athrix_codes",
+  "post_url": "https://x.com/athrix_codes/status/2110210457642668158",
+  "title": "Gemini motion graphics with HyperFrames",
+  "category": "motion",
+  "tech_tags": [
+   "hyperframes"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "priyannkaaaa-640567",
+  "seo_slug": "spider-man-animation-experiment",
+  "model": "gemini-4-argon",
+  "author": "Priyannkaaaa",
+  "author_url": "https://x.com/Priyannkaaaa",
+  "post_url": "https://x.com/Priyannkaaaa/status/2110210988968640567",
+  "title": "Spider-Man animation experiment",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "aibuilderclub-975669",
+  "seo_slug": "pelican-cycling-svg-demo",
+  "model": "gemini-4-argon",
+  "author": "aibuilderclub_",
+  "author_url": "https://x.com/aibuilderclub_",
+  "post_url": "https://x.com/aibuilderclub_/status/2110213639252975669",
+  "title": "Pelican cycling SVG demo",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\n\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\n\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "stellakjbk-532840",
+  "seo_slug": "jiangnan-water-physics-sandbox",
+  "model": "gemini-4-argon",
+  "author": "Stellakjbk",
+  "author_url": "https://x.com/Stellakjbk",
+  "post_url": "https://x.com/Stellakjbk/status/2110215086627532840",
+  "title": "Jiangnan water physics sandbox",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "hqmank-805847",
+  "seo_slug": "pelican-cycling-cap-sunglasses",
+  "model": "gemini-4-argon",
+  "author": "hqmank",
+  "author_url": "https://x.com/hqmank",
+  "post_url": "https://x.com/hqmank/status/2110216771508805847",
+  "title": "Pelican cycling with cap and sunglasses",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Create a self-contained HTML file featuring a pelican riding a bicycle.\n\nUse inline SVG to create a seamless looping 2D animation in a polished flat illustration style.\nThe pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add speed lines to emphasize motion.\nMake the result complete, stylish, and ready for a public demo. Pay close attention to the bicycle geometry, character proportions, visual composition, and animation smoothness.\n\nUse only HTML, CSS, and inline SVG, with no external dependencies. Output a single HTML file that can be opened directly in Chrome.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "lepadphone-438469",
+  "seo_slug": "interactive-painterly-peacock",
+  "model": "gemini-4-argon",
+  "author": "lepadphone",
+  "author_url": "https://x.com/lepadphone",
+  "post_url": "https://x.com/lepadphone/status/2110217536021438469",
+  "title": "Interactive painterly peacock",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Create an elegant, responsive webpage featuring an interactive 3D peacock with grainy, painterly materials, deep teal plumage, muted gold details, and a warm ivory background. Use refined serif typography on a transparent foreground layer. Keep the Chinese logo “羽间” and offer Chinese/English switching.\n\nRender the peacock in a full-viewport Three.js scene behind the typography, with generous horizontal movement and depth. Mouse movement guides its walking direction; its head, body, and folded tail turn coherently. Hovering makes it shake its head and gradually spread its feathers. Moving away closes the fan. Animate real geometry without crossfading between poses.\n\nScrolling down brings the peacock toward the camera, where it delivers energetic pecks. Scrolling up sends it backward. Pressing Space triggers a physically convincing jump and landing.\n\nClicking individual feathers detaches them with a gentle falling motion. The peacock approaches, bends down, grips each feather with its beak, turns its head backward, and returns it to its original position.\n\nAdd subtle procedural sounds for footsteps, spreading feathers, jumping, landing, pecking, and retrieval, with a mute toggle. Provide touch controls on mobile. Adapt camera framing to different screens, prevent accidental canvas clipping, and preserve smooth animation and the textured artistic atmosphere.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "varmanpwp-737585",
+  "seo_slug": "jpl-rover-cad-workbench",
+  "model": "gemini-4-argon",
+  "author": "varmanpwp",
+  "author_url": "https://x.com/varmanpwp",
+  "post_url": "https://x.com/varmanpwp/status/2110220011335737585",
+  "title": "JPL rover CAD workbench",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ishiki-emo-168399",
+  "seo_slug": "interactive-bamboo-water-fountain",
+  "model": "gemini-4-argon",
+  "author": "ishiki_emo",
+  "author_url": "https://x.com/ishiki_emo",
+  "post_url": "https://x.com/ishiki_emo/status/2110220353180168399",
+  "title": "Interactive bamboo water fountain",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sidramiconi-245286",
+  "seo_slug": "chess-capture-hidden-duck",
+  "model": "gemini-4-argon",
+  "author": "SidraMiconi",
+  "author_url": "https://x.com/SidraMiconi",
+  "post_url": "https://x.com/SidraMiconi/status/2110220459514245286",
+  "title": "Chess capture with a hidden duck",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "shengtang135754-701099",
+  "seo_slug": "interactive-quantitative-dashboard",
+  "model": "gemini-4-argon",
+  "author": "shengtang135754",
+  "author_url": "https://x.com/shengtang135754",
+  "post_url": "https://x.com/shengtang135754/status/2110220770303701099",
+  "title": "Interactive quantitative dashboard",
+  "category": "games-interactive",
+  "tech_tags": [
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "shpotes-286672",
+  "seo_slug": "gummy-bears-antigravity",
+  "model": "gemini-4-argon",
+  "author": "shpotes",
+  "author_url": "https://x.com/shpotes",
+  "post_url": "https://x.com/shpotes/status/2110222482632286672",
+  "title": "Gummy bears in Antigravity",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "nagareryokudou-685931",
+  "seo_slug": "side-scrolling-action-game",
+  "model": "gemini-4-argon",
+  "author": "NAGARERYOKUDOU",
+  "author_url": "https://x.com/NAGARERYOKUDOU",
+  "post_url": "https://x.com/NAGARERYOKUDOU/status/2110222574852685931",
+  "title": "Side-scrolling action game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "novaxcode-888338",
+  "seo_slug": "mechanical-bee",
+  "model": "gemini-4-argon",
+  "author": "NovaXCode",
+  "author_url": "https://x.com/NovaXCode",
+  "post_url": "https://x.com/NovaXCode/status/2110223641111888338",
+  "title": "Mechanical bee",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "suandao-island-640423",
+  "seo_slug": "pelican-driving-sports-car",
+  "model": "gemini-4-argon",
+  "author": "suandao_island",
+  "author_url": "https://x.com/suandao_island",
+  "post_url": "https://x.com/suandao_island/status/2110223926974640423",
+  "title": "Pelican driving a sports car",
+  "category": "motion",
+  "tech_tags": [
+   "svg",
+   "canvas"
+  ],
+  "prompt": "创建一个HTML，内容是SVG绘制一个鹈鹏骑开跑车的2D动画，你不需要任何测试",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "oneonelabs-042269",
+  "seo_slug": "galaxy-painted-code",
+  "model": "gemini-4-argon",
+  "author": "oneonelabs",
+  "author_url": "https://x.com/oneonelabs",
+  "post_url": "https://x.com/oneonelabs/status/2110224075134042269",
+  "title": "Galaxy painted with code",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "floydbhakt-988252",
+  "seo_slug": "gt-android-multiplayer-game",
+  "model": "gemini-4-argon",
+  "author": "floydbhakt",
+  "author_url": "https://x.com/floydbhakt",
+  "post_url": "https://x.com/floydbhakt/status/2110224749225988252",
+  "title": "GT Android multiplayer game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "rayedchow-451373",
+  "seo_slug": "stanford-cycling-map",
+  "model": "gemini-4-argon",
+  "author": "rayedchow",
+  "author_url": "https://x.com/rayedchow",
+  "post_url": "https://x.com/rayedchow/status/2110225865699451373",
+  "title": "Stanford cycling map",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "ane5mama-530260",
+  "seo_slug": "interactive-globe-weather",
+  "model": "gemini-4-argon",
+  "author": "ane5mama",
+  "author_url": "https://x.com/ane5mama",
+  "post_url": "https://x.com/ane5mama/status/2110225895080530260",
+  "title": "Interactive globe and weather",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "リアルな3D地球儀で、ズームしたら都市や船が見えて、ボタンで台風や雷を発生させたい！",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "chetaslua-067496",
+  "seo_slug": "inside-eye-argon",
+  "model": "gemini-4-argon",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2110226024395067496",
+  "title": "Inside the eye of Argon",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thtbee-526112",
+  "seo_slug": "floating-islands-voxel-pagoda",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2110228353462526112",
+  "title": "Floating islands and voxel pagoda",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thebuggeddev-790456",
+  "seo_slug": "gothic-victorian-carriage",
+  "model": "gemini-4-argon",
+  "author": "thebuggeddev",
+  "author_url": "https://x.com/thebuggeddev",
+  "post_url": "https://x.com/thebuggeddev/status/2110241991233790456",
+  "title": "Gothic Victorian Carriage",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "sakashiiiii-647921",
+  "seo_slug": "predator-schooling-ecosystem",
+  "model": "gemini-4-argon",
+  "author": "sakashiiiii",
+  "author_url": "https://x.com/sakashiiiii",
+  "post_url": "https://x.com/sakashiiiii/status/2110276716870647921",
+  "title": "Predator and schooling ecosystem",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "shota7180-819493",
+  "seo_slug": "futuristic-game-world-arcade",
+  "model": "gemini-4-argon",
+  "author": "shota7180",
+  "author_url": "https://x.com/shota7180",
+  "post_url": "https://x.com/shota7180/status/2110294550656819493",
+  "title": "Futuristic game world and arcade",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "essjaykay755-463868",
+  "seo_slug": "cinematic-gargantua-black-hole",
+  "model": "gemini-4-argon",
+  "author": "essjaykay755",
+  "author_url": "https://x.com/essjaykay755",
+  "post_url": "https://x.com/essjaykay755/status/2110294802189463868",
+  "title": "Cinematic Gargantua black hole",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Create a **single self-contained HTML file** using **Three.js** that renders a highly realistic, cinematic black hole inspired by **Gargantua from Interstellar**.\n\nPrioritize visual realism over UI complexity. The black hole should have:\nA deep black event horizon\nStrong gravitational lensing that visibly bends the accretion disk around the black hole\nA bright photon ring near the event horizon\nA thin, detailed accretion disk with turbulent glowing material\nThe characteristic lensed disk appearing both above and below/behind the black hole\nRelativistic Doppler beaming: one side brighter/bluer and the opposite side dimmer/redder\nBloom, HDR-like highlights, subtle noise, and a realistic star field\nSmooth animation of the accretion material without looking like a simple rotating texture\n\nUse shaders wherever necessary rather than relying only on standard Three.js materials.\n\nAdd a clean, compact floating control panel with real-time sliders for:\nBlack hole mass / apparent size\nSpin\nGravitational lensing strength\nPhoton ring intensity\nAccretion disk inner radius\nAccretion disk outer radius\nDisk thickness\nDisk brightness\nDisk temperature/color\nDoppler / relativistic effect strength\nDisk rotation speed\nTurbulence\nBloom intensity\nExposure\nCamera distance\nCamera inclination/viewing angle\nStar-field brightness\n\nChanges should update immediately while dragging the sliders.\n\nAllow mouse/touch orbiting and zooming, but keep the initial camera angle composed like a cinematic Interstellar-style shot.\n\nKeep the interface minimal and dark so the black hole remains the focus. Include **Reset to Default**, **Pause Animation**, and **Hide Controls** buttons.\n\nEverything must run directly from the one HTML file with no build process. Make the simulation visually convincing first; don't add unrelated features, explanatory sections, menus, or unnecessary UI.\n\nBefore finishing, test the rendering, controls, resizing, animation performance, and shader compilation errors. Aim for the closest practical approximation of a physically plausible Interstellar-style black hole achievable in real-time WebGL.",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "reyniel-ia-392931",
+  "seo_slug": "snake-arena-abilities",
+  "model": "gemini-4-argon",
+  "author": "reyniel_ia",
+  "author_url": "https://x.com/reyniel_ia",
+  "post_url": "https://x.com/reyniel_ia/status/2110295720641392931",
+  "title": "Snake arena with abilities",
+  "category": "games-interactive",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "blockinsight214-836416",
+  "seo_slug": "lighthouse-stormy-night",
+  "model": "gemini-4-argon",
+  "author": "BlockInsight214",
+  "author_url": "https://x.com/BlockInsight214",
+  "post_url": "https://x.com/BlockInsight214/status/2110296301048836416",
+  "title": "Lighthouse on a stormy night",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "soumyadesign-487745",
+  "seo_slug": "enchanted-musical-meadow",
+  "model": "gemini-4-argon",
+  "author": "soumyadesign",
+  "author_url": "https://x.com/soumyadesign",
+  "post_url": "https://x.com/soumyadesign/status/2110303650887487745",
+  "title": "Enchanted Musical Meadow",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs",
+   "webgl",
+   "glsl",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "kimura-0314-805359",
+  "seo_slug": "pixel-city-submarine-animation",
+  "model": "gemini-4-argon",
+  "author": "kimura_0314",
+  "author_url": "https://x.com/kimura_0314",
+  "post_url": "https://x.com/kimura_0314/status/2110359134524805359",
+  "title": "Pixel city and submarine animation",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "yogeshsingla481-884792",
+  "seo_slug": "little-knight-clockwork-colossus",
+  "model": "gemini-4-argon",
+  "author": "yogeshsingla481",
+  "author_url": "https://x.com/yogeshsingla481",
+  "post_url": "https://x.com/yogeshsingla481/status/2110361900160884792",
+  "title": "Little Knight: Clockwork Colossus",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "jaichangpark-860334",
+  "seo_slug": "terraria-inspired-flutter-game",
+  "model": "gemini-4-argon",
+  "author": "jaichangpark",
+  "author_url": "https://x.com/jaichangpark",
+  "post_url": "https://x.com/jaichangpark/status/2110362020935860334",
+  "title": "Terraria-inspired Flutter game",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "Build a 3D version of Terraria as a Flutter app using flutter_scene package",
+  "prompt_partial": false,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "thtbee-330106",
+  "seo_slug": "kestrel-k1-humanoid-robot",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2110390964028330106",
+  "title": "Kestrel K1 Humanoid Robot",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "crtvteknologist-643944",
+  "seo_slug": "hand-drawn-skull-collage-motion",
+  "model": "gemini-4-argon",
+  "author": "crtvTeknologist",
+  "author_url": "https://x.com/crtvTeknologist",
+  "post_url": "https://x.com/crtvTeknologist/status/2110476539825643944",
+  "title": "Hand-Drawn Skull Collage in Motion",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
+ },
+ {
+  "slug": "taiyo-ai-gakuse-313818",
+  "seo_slug": "lantern-lit-autumn-garden-walk",
+  "model": "gemini-4-argon",
+  "author": "taiyo_ai_gakuse",
+  "author_url": "https://x.com/taiyo_ai_gakuse",
+  "post_url": "https://x.com/taiyo_ai_gakuse/status/2110509784508313818",
+  "title": "Lantern-Lit Autumn Garden Walk",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-15"
  }
 ]
