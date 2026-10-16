@@ -1,0 +1,38 @@
+name: refresh-site
+
+# Tell clawshelf.com to re-read data/videos.json after it changes.
+# raw.githubusercontent.com caches files for up to 5 minutes, so wait that out
+# first; a newer push cancels the pending wait. Runs here (public repo, free
+# minutes) instead of in the private collector. Needs secret REVALIDATE_SECRET
+# (same value as on Vercel).
+on:
+  push:
+    branches: [main]
+    paths: [data/videos.json]
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-site
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Refresh clawshelf.com cache
+        env:
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          if [ -z "$REVALIDATE_SECRET" ]; then
+            echo "::warning::REVALIDATE_SECRET not set — skipping (site picks up data within 1h)"
+            exit 0
+          fi
+          [ "${{ github.event_name }}" = push ] && sleep 310
+          code=$(curl -sS -o out.txt -w '%{http_code}' -X POST \
+            -H "Authorization: Bearer $REVALIDATE_SECRET" \
+            "https://clawshelf.vercel.app/api/revalidate?tag=ai-videos" || true)
+          echo "HTTP $code: $(cat out.txt 2>/dev/null)"
+          [ "$code" = 200 ] || echo "::warning::site refresh failed (HTTP $code)"
