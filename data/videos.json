@@ -63428,7 +63428,19 @@
   ],
   "prompt": "OK so Opus 5.5 SMOKED GPT Astra at 3d modelling this stadium from old plans and reference pics\n\nThis was a near one shot. 1000x better than Astras one shot (check reply for Astra’s one shot)\n\nI gave them the same prompt and the exact same reference plans 👇🏻",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/builtbysketch-114092/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/builtbysketch-114092/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/builtbysketch-114092/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/builtbysketch-114092/poster.jpg",
+   "width": 720,
+   "height": 1386,
+   "duration_ms": 22885,
+   "bytes": 2900992,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "per-simmons-944727",
@@ -63446,7 +63458,19 @@
   ],
   "prompt": "Opus 5.5 building a website for a drink brand.\n\n-It generated all the svgs\n-Built the can in 3D\n-Painted its own labels and then rendered those to make product photo variations \n\nAll this in a single (albeit, beefy) prompt",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/per-simmons-944727/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/per-simmons-944727/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/per-simmons-944727/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/per-simmons-944727/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 41183,
+   "bytes": 3787013,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "nicolamanzini-156628",
@@ -63464,7 +63488,19 @@
   ],
   "prompt": "Opus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.\nThe prompt here is roughly. A fishbowl with reflection, refraction and water caustics.\n\nCheck it out yourself! And compare it to other models\nhttps://threejseval.com/gallery?eval=fishtank",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nicolamanzini-156628/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nicolamanzini-156628/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nicolamanzini-156628/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nicolamanzini-156628/poster.jpg",
+   "width": 798,
+   "height": 720,
+   "duration_ms": 34633,
+   "bytes": 6006477,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "0xwast3-222104",
@@ -63481,7 +63517,19 @@
   ],
   "prompt": "Opus 5.5 turned one sentence into a 3D system that opens in Blender, rigged, textured and ready to animate.\n\nIt does not render the object. It constructs it, part by part, the way a modeller would if they had a week.\n\n> PARSE - the sentence becomes a parts list with real dimensions, nothing implied\n> MASS - each part built as clean geometry, quads only, no sculpted mush\n> RIG - joints and pivots placed where the object physically bends\n> SKIN - materials assigned per surface, scale and roughness set separately\n> PACK - exported with a named hierarchy, so a human can edit one part\n\nImage models stop at the render. What you get is a photograph of a thing that does not exist as a thing.\n\nThat gap appears the second someone wants to move an arm, swap a material, or send it to a printer.\n\nRigging is what nobody automates. Without pivots you have a statue, and a statue cannot be a system.\n\nTopology beats detail every time. A dense mesh looks stunning in a screenshot and folds the moment it deforms.\n\nNames carry through the whole export. Every part, joint and material reads the way a person would label it.\n\nStudios burn days on modelling and cleanup before anyone gets to the creative part of the job.\n\nThe prompt format and what each stage returns are laid out underneath.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xwast3-222104/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xwast3-222104/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xwast3-222104/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xwast3-222104/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 36683,
+   "bytes": 11038343,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "wzarok-283635",
@@ -63497,7 +63545,19 @@
   ],
   "prompt": "threejs (@threejs) + Claude Code Opus 5.5\ntek prompt ve çıktı",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wzarok-283635/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wzarok-283635/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wzarok-283635/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wzarok-283635/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 24000,
+   "bytes": 4619091,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "goofyninjaaa-315331",
@@ -63516,7 +63576,19 @@
   ],
   "prompt": "Esta app probó 3,932 posiciones de una cama matrimonial hasta encontrar dónde cabe.\n\nLa hizo Claude Opus 5.5 con un prompt mío: cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90.\n\nArmó el plano a escala y el cuarto en 3D al lado, y los dos se mueven juntos.\n\nSi la cama choca con el clóset, no deja abrir la puerta o te deja menos de 60 cm para pasar, te avisa.\n\nSolo 108 posiciones no tenían ningún problema. La mejor deja 70 cm para pasar por cada lado.\n\nTardó 47 minutos, más 5 para pasarla a inglés, y no le corregí nada.\n\nPara una mudanza, esto dice más que cualquier benchmark.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goofyninjaaa-315331/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goofyninjaaa-315331/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goofyninjaaa-315331/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goofyninjaaa-315331/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 42000,
+   "bytes": 2765471,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "friskyggg-054427",
@@ -63534,7 +63606,19 @@
   ],
   "prompt": "Opus 5.5 is good at 3d motion too apparantely",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/friskyggg-054427/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/friskyggg-054427/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/friskyggg-054427/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/friskyggg-054427/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2607702,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ai-ba-reza-113363",
@@ -63552,7 +63636,19 @@
   ],
   "prompt": "Claude Opus 5.5 یه انیمیشن 3D دیوونه‌کننده ساخته\n\nاز دیتاسنتر شروع می‌شه، وارد سرور می‌شه، کارت گرافیک رو باز می‌کنه، داخل چیپ می‌ره، از مدار و ترانزیستور رد می‌شه و تا اتم سیلیکون می‌رسه.\nهمه‌ش توی یک فایل HTML واحد اجرا می‌شه و حدود ۱ ساعت طول کشیده.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-ba-reza-113363/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-ba-reza-113363/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-ba-reza-113363/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-ba-reza-113363/poster.jpg",
+   "width": 720,
+   "height": 840,
+   "duration_ms": 48566,
+   "bytes": 10530219,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "souradip3000-800291",
@@ -63571,7 +63667,19 @@
   ],
   "prompt": "Opus 5.5 is mind boggling. \n\nIt created this 3D website from just one prompt. \n\nTold it to create a website for forest conservation agency with pinterest post as reference for 3D animation.\n\nIt one shotted into a single html file.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/souradip3000-800291/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/souradip3000-800291/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/souradip3000-800291/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/souradip3000-800291/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25250,
+   "bytes": 4908049,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "techartist-786274",
@@ -63588,7 +63696,19 @@
   ],
   "prompt": "I wanted to see if beautiful destinations could become playable 3D experiences. Annecy, France became the prototype: a boat journey through canals, bridges, waterfront, and the mountain lake, built with Claude Opus 5.5 using Three.js + TSL.\n\nI trimmed the navigation footage for the sake of keeping the video short and the post below below has a slightly longer version. The whole workflow behind this is simple:-\n- Explained the concept to Opus and asked it to list some ideas.\n- Shortlisted one and asked it to generate a prompt, with tech stack directions.\n- Thats it, needed few iterations and is still a work in progress with few issues needing ironing. \n- The audio effects were added by Opus itself.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-786274/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-786274/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-786274/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-786274/poster.jpg",
+   "width": 1038,
+   "height": 720,
+   "duration_ms": 20016,
+   "bytes": 2738504,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "lribes4-742305",
@@ -63604,7 +63724,19 @@
   ],
   "prompt": "New Black Clover chapters are on the way and Opus 5.5 just dropped, so I put it to the test:\n\nA 3D diorama of the Black Bulls hideout, made with Opus 5.5 + three.js\n\nEvery visitor is a floating mana light, come say hi to Nero 👋\nhttps://ribes.cc/hideout/\n\n#BlackClover #threejs",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lribes4-742305/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lribes4-742305/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lribes4-742305/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lribes4-742305/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 23445,
+   "bytes": 4180589,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "eigeorguy-813651",
@@ -63622,7 +63754,19 @@
   ],
   "prompt": "Opus 5.5 put London in a snow globe\n\n🕰 Elizabeth Tower with lit clock faces\n🚌 Red double-decker\n🚕 Black cab at a zebra crossing\n☎️ Phone box\n🍂 Leaves that swirl when you shake the phone\n\n~700 lines of Swift. No 3D files.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/eigeorguy-813651/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/eigeorguy-813651/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/eigeorguy-813651/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/eigeorguy-813651/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 6000,
+   "bytes": 489052,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "kum1ta-740521",
@@ -63640,7 +63784,19 @@
   ],
   "prompt": "I gave my Claude Code sessions an office.\n\nWorkspace turns each session into a desk in a 3D office: see who's working, who's done and who needs you, jump into any terminal, and let them work together.\nOpen source, built entirely with @claudeai Opus 5.5.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kum1ta-740521/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kum1ta-740521/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kum1ta-740521/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kum1ta-740521/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 4246585,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "vectorcrossprod-436573",
@@ -63658,7 +63814,19 @@
   ],
   "prompt": "Claude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB.  Then it created this promo video for it. \nThe PCB, the printable STLs and this animation are 100% just from prompting in Claude Code.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vectorcrossprod-436573/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vectorcrossprod-436573/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vectorcrossprod-436573/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vectorcrossprod-436573/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10000,
+   "bytes": 906342,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "sanjay-khadka07-620029",
@@ -63675,7 +63843,19 @@
   ],
   "prompt": "Latentown just went 3D 🏙️\n\nThe pixel town grew into a living city of AI news. Every story is a building, every lab has a tower, and couriers carry the day's news across the river.\n\nBuilt over a weekend with Claude Code + Opus 5.5 and three.js.\n\nhttps://latentown.lol",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sanjay-khadka07-620029/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sanjay-khadka07-620029/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sanjay-khadka07-620029/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sanjay-khadka07-620029/poster.jpg",
+   "width": 1354,
+   "height": 720,
+   "duration_ms": 42154,
+   "bytes": 5306700,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ksmialowski-473410",
@@ -63693,7 +63873,19 @@
   ],
   "prompt": "Rok temu próbowałem zrobić grę 3D z Opusem 4.1 - zrzut ekranu, jak to wtedy wyglądało, wrzucę w komentarzu. \n\nZobaczcie, jak szybko to wszystko idzie do przodu. Minęło tylko 12 miesięcy, a dziś wygląda to tak. Całość zbudowana z modelem Opus 5.5.\n\nhttps://kreatio.pl/brokul",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ksmialowski-473410/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ksmialowski-473410/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ksmialowski-473410/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ksmialowski-473410/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 29833,
+   "bytes": 4200899,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "acoramaa-248467",
@@ -63712,7 +63904,19 @@
   ],
   "prompt": "CLAUDE OPUS 5.5 MADE ME A MAGIC EYE.\n\nIt doesn't just look around. It listens.\n\n72 plates wrapped around a mechanical eyeball, a 9-blade iris, a lens that slides out when the bass hits, two rings orbiting it like it's its own little planet.\n\nPlay a track and it comes alive. Every kick flips the plates open. The bass pushes the lens forward. The highs light up the glowing core inside.\n\nWhen the song drops into the breakdown, the eye closes and goes quiet, like it's thinking. Then the drop hits and it blows wide open.\n\nOpus 5.5 listened to the track first, found the tempo, the breakdown and the drop, and built the whole thing around it. Even the panel on the right is live: every slider moves with the music.\n\nAll 3D, all code, rendered right in a browser.\n\nTurn the sound on.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/acoramaa-248467/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/acoramaa-248467/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/acoramaa-248467/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/acoramaa-248467/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 28000,
+   "bytes": 4667613,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "maruo-0314-998343",
@@ -63730,7 +63934,19 @@
   ],
   "prompt": "※デザイナーの仕事がなくなりました。\n\nClaude Opus 5.5に3Dモデルで東京タワーの映像を作らせた結果、5分でこのクオリティをポン出し\n\nPR動画やYouTube動画制作など、複数の案件もこれ一つで全てこなせます。\n\n具体的な作り方は記事で解説↓",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maruo-0314-998343/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maruo-0314-998343/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maruo-0314-998343/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maruo-0314-998343/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2410139,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "aayush4soni-644283",
@@ -63747,7 +63963,19 @@
   ],
   "prompt": "My family is planning to build a house, and all we had was the floor plan. I wanted to see how it would really look once it's built: which colors, layout and design would suit it best.\n\nSo I gave the plan to Claude Opus 5.5 and asked it to create a 3D view of the house.\n\nIt's one of the most useful things I've created recently. We can now walk through the house before a single brick is laid, and when we want to try a different color or layout, I just ask for the change.\n\nIn the video: the hall, room, and the terrace at dusk, all at eye height.\n\nHow it worked:\n\n• I gave it the 5-page floor-plan PDF and one reference image for the front of the house.\n• It read the drawings and rebuilt every floor: walls, doors, windows and stairs.\n• Where a printed size didn't match the drawn wall, it flagged it (15 places) instead of quietly guessing.\n• It furnished every room itself: 500+ pieces of furniture, decor and lighting.\n• Everything runs in a web browser with three.js. No Blender, no game engine. You can walk through it like a game, in daylight or evening light, and the lamps actually light the rooms.\n• It treated it like a real software project: ~37k lines of JavaScript, 185 unit tests, 56 browser tests, and deterministic video capture (render the same frame twice, get identical pixels).\n• It even tracked down a bug of its own: a room's lighting changed depending on which room you walked in from.\n• It split the work across sub-agents. Start to finish took about two days.\n\nMy part was the decisions: what each room is for, the style, and the changes I wanted.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aayush4soni-644283/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aayush4soni-644283/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aayush4soni-644283/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aayush4soni-644283/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 38000,
+   "bytes": 2957311,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "allforbigfire-029657",
@@ -63765,7 +63993,19 @@
   ],
   "prompt": "「もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。」ってClaude Opus 5.5に聞きました。モデリング、陰影、輪郭線、BGM、効果音まで、全部Python 1ファイル（約1000行）のコードで生成したそうです。 #Claude #動画生成",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/allforbigfire-029657/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/allforbigfire-029657/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/allforbigfire-029657/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/allforbigfire-029657/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 25000,
+   "bytes": 4109434,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ewashoku-201053",
@@ -63783,7 +64023,19 @@
   ],
   "prompt": "Opus 5.5は3Dの製品デモサイトとも相性抜群でした。\nhttps://bicycle.washoku.dev",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ewashoku-201053/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ewashoku-201053/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ewashoku-201053/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ewashoku-201053/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 48516,
+   "bytes": 5186835,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ajthemongol-318512",
@@ -63800,7 +64052,19 @@
   ],
   "prompt": "Designed a house as a code with Opus 5.5\n\nOne model -> 14 drawings, 5 engineering calculations, a 3D viewer and a CAD export\n\nConcept only, not stamped\n\nStill wild that one person can do this now",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ajthemongol-318512/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ajthemongol-318512/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ajthemongol-318512/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ajthemongol-318512/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 50700,
+   "bytes": 6207774,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "happycapyai-634965",
@@ -63819,7 +64083,19 @@
   ],
   "prompt": "Opus 5.5 是要上天了吗？一段 prompt 一把帮我复刻了一个泡泡堂！简直是童年经典 💣\n\n无论是游戏机制还是游戏美学我觉得都是足以上架7k7k的程度，关键第一把测试的时候竟然输给了AI npc 🤣\n\n想玩的家人们可以评论告诉我",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/happycapyai-634965/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/happycapyai-634965/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/happycapyai-634965/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/happycapyai-634965/poster.jpg",
+   "width": 1242,
+   "height": 720,
+   "duration_ms": 10412,
+   "bytes": 1361870,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "mrblock-096062",
@@ -63837,7 +64113,19 @@
   ],
   "prompt": "opus 5.5 遊戲製作，週末快點來嘗試。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mrblock-096062/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mrblock-096062/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mrblock-096062/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mrblock-096062/poster.jpg",
+   "width": 1060,
+   "height": 720,
+   "duration_ms": 32506,
+   "bytes": 9498634,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "janlaywss-379361",
@@ -63855,7 +64143,19 @@
   ],
   "prompt": "被Claude Opus 5.5生成的游戏效果彻底瘫坐了。。。。只消耗了Pro套餐5h限额的19%，连续运行1h45m就能获得这么高的完整度。。。。。瘫坐中。。。。\n游戏地址：https://move-car-kappa.vercel.app/",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janlaywss-379361/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janlaywss-379361/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janlaywss-379361/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janlaywss-379361/poster.jpg",
+   "width": 720,
+   "height": 756,
+   "duration_ms": 23500,
+   "bytes": 739923,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "0xpai-eth-635565",
@@ -63873,7 +64173,19 @@
   ],
   "prompt": "试着用 Opus 5.5 给「财富进化论」做了一款复古的像素游戏《复利 QUEST》。\n\n把我们家庭投资理财路上的一些困难设计成关卡。\n\n在这个像素世界里，冲动消费是要跳过去的陷阱，通胀会变成怪兽，还会追着我们跑。一路升级的，是我们的耐心值。\n\n再配上 8-bit 音乐，储蓄、复利和长期持有这些知识，就有了具体的角色和关卡。\n\n游戏做完，又用它做了这条 40 秒的介绍视频。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xpai-eth-635565/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xpai-eth-635565/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xpai-eth-635565/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xpai-eth-635565/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40000,
+   "bytes": 4534030,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "akokoi1-469188",
@@ -63891,7 +64203,19 @@
   ],
   "prompt": "太离谱了，一共3步，Opus 5.5给我整了个“模拟火车”出来。\n\n1. 让ChatGPT生成韶山8各个视角的图；\n2. 让Opus做一个3D资产，100%还原这张图；\n3. 做一个环形铁路，可以操作这辆车行驶。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-469188/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-469188/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-469188/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-469188/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 31208,
+   "bytes": 5470858,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ggsimm-535814",
@@ -63908,7 +64232,19 @@
   ],
   "prompt": "I asked opus 5.5 to make a game within the confines and abilities of my engine, no other prompt. It made this deep-sea horror game, with a subtle drone soundtrack. And it's terrifying (if a bit unbalanced/unfair). Sound on.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ggsimm-535814/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ggsimm-535814/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ggsimm-535814/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ggsimm-535814/poster.jpg",
+   "width": 1274,
+   "height": 720,
+   "duration_ms": 35133,
+   "bytes": 2425493,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "mozetech-471882",
@@ -63927,7 +64263,19 @@
   ],
   "prompt": "Opus 5.5 just one-shot this entire pixel-art game. Oh, and the prompt? It was barely three sentences. I gave claude creative license to make whatever game it wanted to, and oh boy did it cook\n\nThe capabilities of this model are genuinely ridiculous, I fed GPT Sol-6 the same prompt and the results were shockingly poor. Seems like Sol-6 is taking the Opus 5 role this time around.\n\nWith models becoming this good, I'm struggling to see the need to purchase games anymore. If you can have any game you want created in a single prompt, with beautiful art, story, etc - what's the point of sinking $60+? \n\nLol, obviously because the stories and ideas that humans have are still way better than whatever these models can still do. However, the gaming industry is definitely going to be shaken now - excited to see what's gonna come out of this!\n\nAnyway, here's a side by side comparison of both outputs, thoughts?\n\nAlso if you wanted to play it yourself:\nhttps://skerry-light.vercel.app/\n\nLeft is Claude, right is Opus",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mozetech-471882/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mozetech-471882/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mozetech-471882/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mozetech-471882/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 86983,
+   "bytes": 18797937,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "janeloic-905802",
@@ -63944,7 +64292,19 @@
   ],
   "prompt": "HOLY SHIT MOMENT with Opus 5.5 😱\n\nI really wanted to play Super Mario Bros Wonder but I don't have a Nintendo Switch.... So I went to @arena with the hop to find an AI that could reproduce the game. And luckily I stumbled upon Opus 5.5 ✨\n\nHave a look at what it did with ONE prompt 😵‍💫\n\nFor those interested I'll share the result of Grok 4.7 in the comments",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janeloic-905802/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janeloic-905802/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janeloic-905802/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janeloic-905802/poster.jpg",
+   "width": 1368,
+   "height": 720,
+   "duration_ms": 51025,
+   "bytes": 5637299,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "agentgamesbot-355554",
@@ -63962,7 +64322,19 @@
   ],
   "prompt": "Play INKBOUND:\nhttps://agentgames.itch.io/inkbound\n\nClaude Opus 5.5 built this pixel game in 30 minutes.\n\nWhile the human was building the amusement park with Claude, Opus 5.5 arrived. Time to see what it could do with a pixel game.\n\nMeet INKBOUND. One painter draws your path. Another tries to erase you. Apparently, even a tiny ink spirit needs workplace conflict.\n\nJump, sink into the ink, or absorb incoming attacks. Sound on for this one.\n\nWant to try building it yourself? The prompt is in the pinned YouTube comment:\nhttps://www.youtube.com/shorts/86TukHHr74o",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agentgamesbot-355554/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agentgamesbot-355554/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agentgamesbot-355554/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agentgamesbot-355554/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 38000,
+   "bytes": 3507495,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "curieuxexplorer-519730",
@@ -63980,7 +64352,19 @@
   ],
   "prompt": "I made a 3D survival game in one prompt with Opus 5.5\n\nSurvive 60 seconds.\nEvery tile you step on cracks... then it falls.\n\nRace your own ghost, chase near-misses, watch the arena rebuild itself when you fail.\n\nMost people don't make it past 30s 👇\nhttps://claude.ai/artifact/D3kjdvMpvrGgTCcxDTTDvP",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-519730/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-519730/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-519730/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-519730/poster.jpg",
+   "width": 1532,
+   "height": 720,
+   "duration_ms": 57500,
+   "bytes": 13935546,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "redp314-642106",
@@ -63996,7 +64380,19 @@
   ],
   "prompt": "Always wondered if you can win every game of 2048, so i gave Claude Opus 5.5 one prompt. It built an AI that learns from zero, on my laptop!\n\nGame 1: dies at 128\nGame 497: first 2048\nGame 3,915: first 8192\nGame 98,299: first 16384\n\nCan it win them all? No. After 2M games: 99%!",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/redp314-642106/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/redp314-642106/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/redp314-642106/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/redp314-642106/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 27900,
+   "bytes": 945446,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "jasperdeboer-157391",
@@ -64013,7 +64409,19 @@
   ],
   "prompt": "Claude Opus 5.5 made a trailer for my Antkeeper game (one prompt).\n\nThis is what it came up with 🤔",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jasperdeboer-157391/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jasperdeboer-157391/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jasperdeboer-157391/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jasperdeboer-157391/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40566,
+   "bytes": 4066924,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "curieuxexplorer-772215",
@@ -64031,7 +64439,19 @@
   ],
   "prompt": "This is Dope! \nClaude Opus 5.5 is on fire 🔥\n\nOne prompt → a 30s video-game walk through Mumbai, built entirely in code.\n\nNo AI video. No 3D assets. No stock audio.\n1,850 lines. 900 frames. 30+ sounds from pure math.\n\nEvery pigeon, puddle and kaali-peeli, made by code.\nMumbai, compiled. 🇮🇳",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-772215/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-772215/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-772215/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-772215/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 5785850,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "rush3rx-342153",
@@ -64049,7 +64469,19 @@
   ],
   "prompt": "A dead planet to a breathable one, one camera, no cuts.\n\nI'm making Second Dawn, a co-op terraforming game, with Claude: it started on Fable 5.0, moved to Fable 5.1, and it's on Opus 5.5 now. I set the design and the direction.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rush3rx-342153/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rush3rx-342153/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rush3rx-342153/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rush3rx-342153/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 16299,
+   "bytes": 1570055,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "maxthelion-649723",
@@ -64066,7 +64498,19 @@
   ],
   "prompt": "I'm having so much fun doing game development with opus 5.5. This little bit with trains and barriers is awesome.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxthelion-649723/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxthelion-649723/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxthelion-649723/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxthelion-649723/poster.jpg",
+   "width": 1106,
+   "height": 720,
+   "duration_ms": 48961,
+   "bytes": 4816653,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "jstjs-129051",
@@ -64083,7 +64527,11 @@
   ],
   "prompt": "I asked Opus 5.5 to make a game about @dhh , Ruby and the end of hand-written code.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "dreyk0o0-165270",
@@ -64101,7 +64549,19 @@
   ],
   "prompt": "Claude Opus 5.5 just built Minecraft.\n\nIn the browser. From a single prompt.\n\nNoah Wachnick asked it to recreate Minecraft with advanced shaders, \"as realistic as possible.\"\n\n1 hour 37 minutes at max effort:\n\n> block placement\n> terrain\n> realistic lighting and shaders\n\nHere's a prompt to try it yourself. Bookmark this for later \n\n\"Build a Minecraft-style voxel game in a single HTML file that runs in the browser.\n- First-person controls: WASD, mouse look, jump\n- Procedural terrain with hills, water and trees\n- Place and break blocks with the mouse, 5 block types\n- Advanced shaders: moving sun, soft shadows, ambient occlusion, fog, water reflections\n- Smooth 60 fps on a laptop\nUse Three.js from a CDN. Test it, fix every bug, then keep improving the visuals until it looks as realistic as possible.\"\n\nTips:\n1. Set effort to max\n2. Give it time, the original run took ~1.5 hours\n3. When it's done, ask: \"What looks least realistic? Fix it.\"",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dreyk0o0-165270/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dreyk0o0-165270/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dreyk0o0-165270/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dreyk0o0-165270/poster.jpg",
+   "width": 720,
+   "height": 404,
+   "duration_ms": 23133,
+   "bytes": 1585469,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "boona11-415751",
@@ -64118,7 +64578,19 @@
   ],
   "prompt": "Nobody edited this video.\n\nClaude Opus 5.5 built the game, then played it, filmed it, wrote the soundtrack and cut its own trailer.\n\nLow Tide: a painting you can actually play. Free in your browser 👇\n\nhttps://low-tide.netlify.app",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/boona11-415751/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/boona11-415751/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/boona11-415751/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/boona11-415751/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30816,
+   "bytes": 7552184,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dmowlin-221566",
@@ -64135,7 +64607,19 @@
   ],
   "prompt": "made a galactic pixel racer game with opus 5.5, can you beat my score? 👿\n\nhttps://velven.ai/david/pixel-racer",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dmowlin-221566/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dmowlin-221566/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dmowlin-221566/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dmowlin-221566/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10005,
+   "bytes": 2958749,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "nqaze-939886",
@@ -64154,7 +64638,19 @@
   ],
   "prompt": "Opus 5.5 releases 😍 \n\nMe: Woahh! Let's drill through our BugSmash backlog quickly. \n\nMy Co-founder @suhailpatel941: Hold my cup... let's make a game 🥲 \n\nAll this graphics and the game is just - 4MB game - hosted on BugSmash Drop itself 🤯",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nqaze-939886/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nqaze-939886/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nqaze-939886/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nqaze-939886/poster.jpg",
+   "width": 1448,
+   "height": 720,
+   "duration_ms": 19151,
+   "bytes": 3886124,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "kenjiphang-750512",
@@ -64172,7 +64668,19 @@
   ],
   "prompt": "Opus 5.5 is the best at animating concept art for a game im making",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kenjiphang-750512/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kenjiphang-750512/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kenjiphang-750512/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kenjiphang-750512/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 24000,
+   "bytes": 1444468,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "anduraio-570761",
@@ -64190,7 +64698,19 @@
   ],
   "prompt": "Claude Opus 5.5 is stupidly good at games, so I’m putting it on a streak.\nDropping 10 browser games I built with it. One a day.\n\nSame characters. Same world. Different gameplay each day.\nAdventure games. Painterly stylised 3D. Soft cel shading, wind in the grass, hazy blue distance, hand-painted skies. The Legend of Zelda: BotW / TotK energy.\n\nTrailer + play link + what the model actually did.\nPlayable. Built with Opus. That’s the series.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anduraio-570761/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anduraio-570761/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anduraio-570761/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anduraio-570761/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 29500,
+   "bytes": 7797773,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "kepochnik-237752",
@@ -64208,7 +64728,19 @@
   ],
   "prompt": "I built Minecraft thanks to Opus 5.5 ( part 2 )\n\ntoday I added more mobs and here I will show their characteristics as a video\n\nthe process took probably : 2-3 hours\n\nnext week I'm going to publish this game for everyone\n\nturn notifications",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kepochnik-237752/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kepochnik-237752/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kepochnik-237752/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kepochnik-237752/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 17000,
+   "bytes": 3690953,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "angie-carel-954689",
@@ -64227,7 +64759,19 @@
   ],
   "prompt": "In a deeply serious, highly mature effort to test Opus 5.5's ability to render jello-like textures—reflections, transparency, jiggly movement, the works—I accidentally built a \"Jiggle Buddies\" game that my son played the entire drive home. \nLink to play: https://www.angiecarel.com/jiggle-buddies",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/angie-carel-954689/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/angie-carel-954689/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/angie-carel-954689/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/angie-carel-954689/poster.jpg",
+   "width": 1232,
+   "height": 720,
+   "duration_ms": 41270,
+   "bytes": 5092641,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "deeprajo1-834106",
@@ -64245,7 +64789,19 @@
   ],
   "prompt": "What if learning Python felt more like playing a game than studying? 🎮🐍\n\nSo I asked Claude Opus 5.5 to build me a Python-learning surfing game.\n\nAnd the result is pretty wild. 🌊",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-834106/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-834106/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-834106/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-834106/poster.jpg",
+   "width": 1516,
+   "height": 720,
+   "duration_ms": 52133,
+   "bytes": 15087066,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "blitast-studio-257328",
@@ -64263,7 +64819,19 @@
   ],
   "prompt": "A black cat's night stroll along a moonlit canal 🐈‍⬛🌙\n\nCatWalk — a one-button 3D browser game.\nZero image or audio files: the town, the cat's animation and the jazz are all generated in code. The whole game is ~200KB.\n\nClaude Opus 5.5\n\n▶ https://blitastxyz.itch.io/catwalk\n\n#threejs #indiedev #gamedev #WebGL",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blitast-studio-257328/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blitast-studio-257328/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blitast-studio-257328/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blitast-studio-257328/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 35700,
+   "bytes": 5376572,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "waseemkhalo-636267",
@@ -64280,7 +64848,19 @@
   ],
   "prompt": "I made this game with Claude Opus 5.5\n+ ChatGPT Astra 6 for some visual assets = our new game Spoiled Egg \n\nhttps://eggverse.co\nhttps://eggverse.co/games/spoiled-egg",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/waseemkhalo-636267/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/waseemkhalo-636267/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/waseemkhalo-636267/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/waseemkhalo-636267/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 29000,
+   "bytes": 3603791,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "taylorbereiter-189192",
@@ -64297,7 +64877,19 @@
   ],
   "prompt": "https://claude.ai/artifact/Vos8wdB8Jenz9FopZWeRMb\n\nCheck out DOUBLE FEATURE, a Cuphead Inspired Mini-Game built with Claude Opus 5.5.\n\nI find this model works best when leaning into its strengths, figuring out the parts it does well and letting it capitalize on them. Cartoon shapes and sounds are great.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/taylorbereiter-189192/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/taylorbereiter-189192/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/taylorbereiter-189192/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/taylorbereiter-189192/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 41333,
+   "bytes": 9417604,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "smallhusk-272056",
@@ -64314,7 +64906,19 @@
   ],
   "prompt": "A procedurally-generated game in infinite stranded space colonies with realistic physics. All creative decisions made by @claudeai Opus 5.5, all done in just one week's usage window at Pro-level. Claude chose to add pettable cats in the combat-free mode. https://claude.ai/artifact/1o1DWNgoanSy2ZCRTCtjpq",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smallhusk-272056/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smallhusk-272056/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smallhusk-272056/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smallhusk-272056/poster.jpg",
+   "width": 1200,
+   "height": 720,
+   "duration_ms": 48938,
+   "bytes": 11843270,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "lisp-mi-139812",
@@ -64331,7 +64935,19 @@
   ],
   "prompt": "I asked Opus 5.5 to build a tiny underground delivery network in three.js — then turned it into a game.\nLunch rush: 24 orders in 60 s, 6 express upgrades, beat the deadlines.\nFree in the browser, link below 👇",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lisp-mi-139812/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lisp-mi-139812/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lisp-mi-139812/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lisp-mi-139812/poster.jpg",
+   "width": 1136,
+   "height": 720,
+   "duration_ms": 11000,
+   "bytes": 960242,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "itsjdraven-557760",
@@ -64349,7 +64965,19 @@
   ],
   "prompt": "Claude Opus 5.5 just built me a mini temple run style game \n\nit actually feel pretty smooth to play\n\nhonestly I didn’t expect the result like this",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsjdraven-557760/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsjdraven-557760/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsjdraven-557760/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsjdraven-557760/poster.jpg",
+   "width": 608,
+   "height": 1280,
+   "duration_ms": 27910,
+   "bytes": 3553330,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "izmaelmag-282849",
@@ -64368,7 +64996,19 @@
   ],
   "prompt": "What is going on 🤪\n\n🎲 Dice Corners  \nhttps://izmaelmag.me/dice-corners/\n\nI’ve been a gamer since I was three, and the dream of making my own games is what led me into programing\n\nIn 2008 I discovered GameMaker and made a few platformers and scrolling shooters. But i had no idea how to make a living from games, so I moved into design and frontend development. I never stopped exploring huge libraries of retro games and imagining games of my own—making them by hand was just hard.\n\n18 years later, I subscribe to Claude Opus 5.5, write a PRD, put together a simple prototype, and half an hour later within a single five-hour usage window I have a complete game. It runs locally. It’s simple, but it’s beautiful, and it works.\n\nAnd I did it by directing agents on my laptop through a telegram chat\n\nMind blowing 🤯",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/izmaelmag-282849/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/izmaelmag-282849/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/izmaelmag-282849/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/izmaelmag-282849/poster.jpg",
+   "width": 720,
+   "height": 1564,
+   "duration_ms": 34435,
+   "bytes": 4580021,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "llama3dstudio-012980",
@@ -64386,7 +65026,19 @@
   ],
   "prompt": "Rock skipping game made with Three.js and Opus 5.5.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/llama3dstudio-012980/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/llama3dstudio-012980/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/llama3dstudio-012980/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/llama3dstudio-012980/poster.jpg",
+   "width": 1338,
+   "height": 720,
+   "duration_ms": 44001,
+   "bytes": 8360849,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "hellovyom-800659",
@@ -64403,7 +65055,19 @@
   ],
   "prompt": "Opus 5.5 spent 43 million output tokens building 3D PvZ 2: Reflourished",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hellovyom-800659/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hellovyom-800659/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hellovyom-800659/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hellovyom-800659/poster.jpg",
+   "width": 1104,
+   "height": 720,
+   "duration_ms": 59008,
+   "bytes": 6232374,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "realfedeuru-475858",
@@ -64422,7 +65086,19 @@
   ],
   "prompt": "Skydiving game built with opus 5.5🪂",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/realfedeuru-475858/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/realfedeuru-475858/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/realfedeuru-475858/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/realfedeuru-475858/poster.jpg",
+   "width": 1172,
+   "height": 720,
+   "duration_ms": 47546,
+   "bytes": 6140453,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "brainwavepub-812667",
@@ -64440,7 +65116,19 @@
   ],
   "prompt": "Opus 5.5 editing my demo video 👀\n\nBuilt a hand-drawn catapult sketch that turns into a real 3D physics simulator.\n\nRecorded it, gave Opus 5.5 one prompt to edit the raw footage.\n\nNo editing app. It made its own.\n\nVideo below 👇",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brainwavepub-812667/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brainwavepub-812667/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brainwavepub-812667/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brainwavepub-812667/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52633,
+   "bytes": 4724538,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "alex-vainshtein-195332",
@@ -64458,7 +65146,19 @@
   ],
   "prompt": "Can one developer + 3 AI agents build a GTA-style game?\n\nI’m trying.\n\nFIXER is a 1990s city game I’m building with Astra, Opus 5.5 and Fable.\n\nThis is the current playable build.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alex-vainshtein-195332/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alex-vainshtein-195332/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alex-vainshtein-195332/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alex-vainshtein-195332/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 14004,
+   "bytes": 2270916,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "brenbuilds-386902",
@@ -64476,7 +65176,19 @@
   ],
   "prompt": "@kimmonismus hours of rework on my threejs game with Opus 5.5 and limits didnt even move",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brenbuilds-386902/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brenbuilds-386902/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brenbuilds-386902/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brenbuilds-386902/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20000,
+   "bytes": 3255592,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "mayuresh-empire-687553",
@@ -64495,7 +65207,19 @@
   ],
   "prompt": "Claude Opus 5.5 built this game from a single prompt - a mythic action game inspired by ancient Indian epics.\n\nNo engine. No assets. Every temple, tree, enemy, shader, and sound is generated in code.\n\nEven this trailer was designed by Claude. The future is crazy.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mayuresh-empire-687553/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mayuresh-empire-687553/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mayuresh-empire-687553/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mayuresh-empire-687553/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52500,
+   "bytes": 9778831,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "tonnusos-006126",
@@ -64514,7 +65238,19 @@
   ],
   "prompt": "Testing out Opus 5.5 today by letting it work on a Magicka-inspired game! I loved this game when it came out 15 years ago, super cool spell casting mechanics. \n\nSo I want to take this and turn it into an extraction looter. You go out into the wild solo or in a group, fight off mobs and other players to collect loot to bring back to your base. \n\nLike others have mentioned, Opus 5.5 feels so much more creative. Crazy",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonnusos-006126/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonnusos-006126/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonnusos-006126/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonnusos-006126/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 51499,
+   "bytes": 11300046,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "codrops-340299",
@@ -64532,7 +65268,19 @@
   ],
   "prompt": "Everyone is sharing what Opus 5.5 can build this week, and it made us ask ourselves a different question: when making things becomes this easy, what do we actually want to make and why?\n\nOur answer was a small retro arcade, the kind we grew up hanging out in, filled with 21 games made by independent developers. Every cabinet carries the name of the person who built its game.\n\nWalk in, drop a coin, and play: https://tympanus.net/Demos/InsertCoin/\n\n#threejs #webgl",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/codrops-340299/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/codrops-340299/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/codrops-340299/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/codrops-340299/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3691753,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "zhang-baoqing-920413",
@@ -64550,7 +65298,19 @@
   ],
   "prompt": "群友一句话提示词\n\n用Opus5.5做的粒子网站\n\n真的太酷了",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/zhang-baoqing-920413/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/zhang-baoqing-920413/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/zhang-baoqing-920413/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/zhang-baoqing-920413/poster.jpg",
+   "width": 1008,
+   "height": 720,
+   "duration_ms": 23000,
+   "bytes": 3107211,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "sciencedegens-843325",
@@ -64568,7 +65328,19 @@
   ],
   "prompt": "趁着今天有空回看和分析了一下整个视频\n\n审美在线的Opus 5.5确实顶 @claudeai \n\n3D渲染器像素风\n\n这个渲染效果确实做得很强，逻辑调度能力和美学素养确实是挂钩的\n\n这个片头的转场、音效和提振人心的bgm真的可以被 @binancezh 拿去用了\n\n像素小人物也很有 @cz_binance 的感觉\n\n#binance #claude",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sciencedegens-843325/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sciencedegens-843325/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sciencedegens-843325/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sciencedegens-843325/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 24300,
+   "bytes": 3380552,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "washow-cfo-175311",
@@ -64585,7 +65357,19 @@
   ],
   "prompt": "claude codeで動画作成が流行ってるけど、AI臭さがあるからどっかでみたことあるようなスタイリッシュな動画を作ってみた\nCMとしては使えるかな？\n\n使ったもの：Claude Code（Opus 5.5）／Gemini TTS／HyperFrames",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/washow-cfo-175311/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/washow-cfo-175311/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/washow-cfo-175311/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/washow-cfo-175311/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 36800,
+   "bytes": 2035328,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "timguignard-623571",
@@ -64601,7 +65385,19 @@
   ],
   "prompt": "Just tested Claude Opus 5.5 with Hyperframes.\nOne prompt (also generated), the result is ok. Not crazy, but with a few more indications and a clear direction, it would probably get much nicer.\n\nThe video below is actually a screen record.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/timguignard-623571/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/timguignard-623571/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/timguignard-623571/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/timguignard-623571/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 25000,
+   "bytes": 1789271,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "joao-felixl-809438",
@@ -64618,7 +65414,19 @@
   ],
   "prompt": "Não tava botando fé no hyperframes + opus 5.5 max effort, mas isso aqui ficou sensacional.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/joao-felixl-809438/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/joao-felixl-809438/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/joao-felixl-809438/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/joao-felixl-809438/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 906607,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "vince-builds-355650",
@@ -64634,7 +65442,19 @@
   ],
   "prompt": "I didn't believe it but this was 100% Opus 5.5 Max, in 8h15 min.\n\nGave it access to DesignLoop, hyperframe skill, elevenlabs.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vince-builds-355650/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vince-builds-355650/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vince-builds-355650/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vince-builds-355650/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 56000,
+   "bytes": 4131919,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "mappletour-334921",
@@ -64651,7 +65471,19 @@
   ],
   "prompt": "Opus 5.5に「ド派手なPVを作って」と丸投げしたら、ほぼ任せきりで完成した😳\n世界ランク上位の実際のリプレイを撮影して、拍に合わせて「ギリギリ！」を重ねてくる。\n日英2本、一晩で。Claude×HyperFrames、世界変わった🔥\nhttps://biribiri-game.web.app",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mappletour-334921/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mappletour-334921/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mappletour-334921/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mappletour-334921/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 32000,
+   "bytes": 6642908,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "itsahmedharoon-544194",
@@ -64667,7 +65499,19 @@
   ],
   "prompt": "Jumping on the Claude Code + Hyperframe bandwagon.\n\nI made this intro completely zero-shot using Opus 5.5.\n\nClaude downloaded and ran an open-source model for text-to-speech, added the turbine sound at the start, layered in the other sound effects, and nailed the motion and visuals.\n\nThe accuracy of the whole thing is unreal. I’m in awe.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsahmedharoon-544194/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsahmedharoon-544194/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsahmedharoon-544194/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsahmedharoon-544194/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40500,
+   "bytes": 2342710,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "stokebuilder-356793",
@@ -64684,7 +65528,19 @@
   ],
   "prompt": "I used Opus 5.5 to generate 50 podcast animations for extremely hard to visualize concepts like Jev for Legal.  Absolutely blown away. \n\nWe're about to see an explosion of visual podcasts, this entire medium is about to shift \n\nSharing my prompt below.\n\n【作者补充制作说明】\nGo through the entire [episode] cut and add full-screen animations and graphics wherever they help. Be aggressive and over-inclusive: 35–50 moments, at least 2 per chapter. The goal is to fill empty talking-head time, explain ideas, and create visual hooks.\n\nStyle. Pick an aesthetic that's genuinely interesting and very, very cool, built in JavaScript with HyperFrames and assembled in Tesseract. Inspiration (all JS, no image assets):\n\nhttps://x.com/Voxyz_ai/status/2102531681450119426: paper, typewriter-tape labels, hand-drawn marks\nhttps://x.com/donaldjewkes/status/2102801274173587569: halftone, manga and pixel print, kinetic data type\n\nStay inside the LegalQuants brand (read brands/legalquants/): charcoal, white and black only, Arial, and the supplied lockup top-right, static. Write a shared style bible and a component kit first, so every animation looks like the same show.\n\nMoments I definitely want:\n\n[LIST]\n\nRules\n\nWhenever anything goes full-screen (animation, screen share or still), one of us is in a corner picture-in-picture, bottom-right, following whoever is talking.\nNo punch-ins or zooming on the cameras. Keep each speaker relatively centered.\nCopy must be verbatim or faithful to what's said. Never invent facts, numbers or quotes.\nSync each animation's beats to the spoken words.\nKeep each graphic inside one uncut stretch of audio, and leave a few seconds of faces between graphics.\n\nProcess\n\nAn Opus 5.5 agent at extra-high effort finds every timestamp where an animation could fill space and hook the viewer, with a concept for each.\nOpus 5.5 at medium effort builds each animation.\nOpus 5.5 at extra-high effort judges each one once on brand consistency with the others, visual interest, relevance to the narrative and creative judgment.\nOnly cues the judge considers egregiously bad go back for a fix. No blanket redo loops.\nAssemble the full cut with PiP baked into every full-screen visual, and give me a folder of the individual animations.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stokebuilder-356793/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stokebuilder-356793/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stokebuilder-356793/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stokebuilder-356793/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15750,
+   "bytes": 3187688,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ik-builds-585923",
@@ -64701,7 +65557,19 @@
   ],
   "prompt": "I WAS QUOTED $3000 FOR THIS!!!\n\nSo I asked Opus 5.5 (medium) to create a launch video using Motion Graphics for us.\n\nhere's the prompt that one-shots it:\n\n\"Create a 15s motion-graphics film explaining {{PRODUCT}}. HyperFrames + GSAP, no voiceover, no footage.\nStyle: paper-light canvas, marker notes that draw on, real physics, huge kinetic type,\nhard light/dark switches, a new idea every 1.5–2 s, a sound on every hit.\n\nCOPY: read {{POSITIONING_DOCS}} first. {{ONE_LINER}} For {{AUDIENCE}}. {{WHAT_IT_DOES}}\nName what the product learns, never the abstraction.\n\nRULES\n- No chrome (scrubber, timecode, fps, headers). No animator jargon on screen\n  (\"squash\", \"stagger\", \"easing\"...). Every word speaks to the buyer.\n- No invented results: no %, multipliers, customer names or figures.\n- Never use: {{BANNED_WORDS}}.\n- Logo: real mark {{LOGO_FILE}} + \"{{PRODUCT}}\" in {{WORDMARK_FONT}}; never a boxed logo file.\n\nCRAFT\n- Colours {{COLOR_CANVAS}} / {{COLOR_INK}} / {{COLOR_ACCENT_1}} / {{COLOR_ACCENT_2}}; notes in the\n  accents; dark mode = charcoal matching the palette.\n- Fonts {{BRAND_FONTS}}; Anton for kinetic type; Caveat handwriting via stroke-dashoffset.\n- Real easing, squash/stretch, stagger, overlap, onion skin, smear, follow-through. Check the\n  HyperFrames registry first. Set every from-state at t=0 (seek-safe); never cover an exit.\n  One primary move per transition; no generic push/slide/rotate-swing.\n- Music in sections: drums drop on the dark switch and while the ball is airborne, slam back\n  on the type and the logo. SFX: pops, pen scribbles, whooshes, logo sub-hit. CC0 or generated\n  only; log sources. Master -14 LUFS, -2 dBTP, re-measured after AAC encode.\"",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ik-builds-585923/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ik-builds-585923/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ik-builds-585923/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ik-builds-585923/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1537848,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "petert-540960",
@@ -64718,7 +65586,19 @@
   ],
   "prompt": "Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three jsで、Meta VRの紹介動画作ったら変な感じになった",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-540960/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-540960/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-540960/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-540960/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30000,
+   "bytes": 2656808,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "petert-635793",
@@ -64736,7 +65616,19 @@
   ],
   "prompt": "Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three jsで架空の飲料の広告動画作ってみたけど、なかなか良い",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-635793/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-635793/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-635793/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-635793/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 24000,
+   "bytes": 3917172,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "petert-350098",
@@ -64755,7 +65647,19 @@
   ],
   "prompt": "Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three js で架空の家計簿サービスの動画作ってみたけど、なかなか良い",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-350098/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-350098/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-350098/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petert-350098/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 24000,
+   "bytes": 2377502,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "georgejimenez98-431559",
@@ -64772,7 +65676,19 @@
   ],
   "prompt": "This video was made with Opus 5.5, Hyperframes, ElevenLabs with Music, SFX and Voices Endpoints throught Fal AI. \n\nThis way of making videos is making me a little addicted to be honest hahaha. I still have to improve.\n\nCrealix Autopilot is live: set your format, style, schedule and channels once, and it plans, writes, voices and builds every video. Then again. And again.\n\nTry it free → https://crealix.ai/autopilot",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-431559/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-431559/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-431559/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-431559/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 2724839,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "majin-appsheet-693327",
@@ -64789,7 +65705,19 @@
   ],
   "prompt": "流行ってることは一回試しとくマン。\n\nClaude Code（Opus 5.5）でモーショングラフィックスを作るのが面白いみたいなので、「シンまじん式のPV作って」と頼んだだけで、これが出てきた。\n\n動画生成AIはゼロ。\n・映像：HTML＋コードで1コマずつ描画（HyperFrames）\n・BGM：GeminiのLyriaで生成\n・効果音：拍を解析して、着地やハンコの瞬間に音ハメ\n\n自分がやったのは、スキルを入れて「おまかせ」って返事したくらい。\nしかもClaude自身は音が聴けないのに、波形を数値で解析して音ハメしてるのがヤバい。\n\n何なのもう…日々革命が起こりすぎて 頭ガンガンするわ",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/majin-appsheet-693327/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/majin-appsheet-693327/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/majin-appsheet-693327/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/majin-appsheet-693327/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10005,
+   "bytes": 1676481,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "javi-llofriu-059888",
@@ -64806,7 +65734,19 @@
   ],
   "prompt": "@gonahmias Le pedi un video para mostar un servicio de mi Agencia de IA (Opus 5.5 + Hyperframe) en 20 minutos tenía esto montado, coste un 20% del consumo de 5h del plan Max.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/javi-llofriu-059888/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/javi-llofriu-059888/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/javi-llofriu-059888/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/javi-llofriu-059888/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 59000,
+   "bytes": 3393476,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "georgejimenez98-427173",
@@ -64823,7 +65763,19 @@
   ],
   "prompt": "I have to admit, this blew my mind.\n\nI saw people using Opus 5.5 + Remotion for launch videos, so I tried my own approach.\n\nOpus 5.5 Max + Hyperframes locally, with Fal AI for voices, music & SFX.\n\nNot perfect, but I loved the result.\n\nhttps://www.crealix.ai Autopilot is coming.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-427173/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-427173/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-427173/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/georgejimenez98-427173/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 31530,
+   "bytes": 4158464,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "henritoivar-445215",
@@ -64841,7 +65793,19 @@
   ],
   "prompt": "Opus 5.5 is an absolute BEAST in creating videos.\n\nI am extremely shocked because my previous attempts with GPT-6 Astra and Grok 4.6 were quite underwhelming, far from production ready video.\n\nThe leap here is gigantic.\n\nThis is a ZERO shot video.\n\n【作者补充制作说明】\nWhy Opus 5.5 is so impressive is because it's is not a video generation model. It uses pure code to generate the sound effects, the music. All of the animations are done with CSS/HTML/JS, it doesn't use any video or image assets.\n\nThis is extremely useful for creating detailed explainer videos where you need very fine control over the infographics and consistent deterministic output.\n\nThe framework I used was hyperframes and narration is done by OpenAI text-to-speech.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henritoivar-445215/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henritoivar-445215/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henritoivar-445215/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henritoivar-445215/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 42600,
+   "bytes": 6897110,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "l3d1c-632524",
@@ -64857,7 +65821,19 @@
   ],
   "prompt": "I made a launch ad for @grouped_news in an hour with Opus 5.5 and Remotion, and I never opened a video editor. I added the voiceover and music with ElevenLabs.\n\nThe ad is a React app. It imports my site's CSS tokens and fonts, so it uses the same design system as the site.\n\nI didn't review it by watching renders. It rendered about 20 stills and tiled them into one contact sheet, so I could check a whole cut at a glance before rendering any video.\n\nCaptions are measured in the real font and shrink to fit the 9:16 safe zone, so nothing hides under TikTok's buttons. Every cut lands on a 120 BPM grid, which made the music easy to line up.\n\nIt's one codebase, so the 30s, 15s and 6s cuts in 16:9 and 9:16 are each a different list of scenes.\n\nMy part was saying what felt wrong.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/l3d1c-632524/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/l3d1c-632524/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/l3d1c-632524/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/l3d1c-632524/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 34033,
+   "bytes": 2827181,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "wustep-884086",
@@ -64873,7 +65849,19 @@
   ],
   "prompt": "Last week, we launched column permissions!\n\nI’m not on Notion’s video team, but with the help of @claudeai, @bot, and @NotionHQ, I made a trailer over the weekend. (How I made it in 🧵)\n\n【作者补充制作说明】\n🎬 BEHIND THE SCENES:\n\nThis was built using @Remotion (React/TypeScript only!), with @claude’s opus 5.5 [xhigh], orchestrated with @bot, and managed in a Notion doc as a working canvas.\n\nIn total, this project took ~90 messages with my @bot over 2 days, which generated 33 video takes with Claude Code and cost ~$400 in Claude credits including all the other takes (API billing but should fit fine in the $100/mo plan)\n\nHere’s a Notion doc documenting the process (including many rejected candidates): https://notion.notion.site/column-permissions-trailer",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wustep-884086/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wustep-884086/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wustep-884086/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wustep-884086/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 31883,
+   "bytes": 1918800,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "apoorvjain25-309680",
@@ -64889,7 +65877,19 @@
   ],
   "prompt": "Claude Opus 5.5 made this whole video in code. There was no editor, no After Effects and no stock music.\n\nThe motion graphics are Remotion code. Opus also wrote the music in Python, note by note, and the track reads the same beat file as the visuals. So every DM reply that lands on screen hits a blip in the music at the same frame.\n\nI picked the voice on ElevenLabs and approved the script. Opus did everything else.\n\nIt's a 51-second ad for Synclify's DM automation.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-309680/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-309680/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-309680/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-309680/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 51050,
+   "bytes": 3742893,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "pranavclickks-254816",
@@ -64906,7 +65906,19 @@
   ],
   "prompt": "@tibo_maker Wanna rate mine Tibo?\n\nOpus 5.5 + Remotion + My Custom Harness",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pranavclickks-254816/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pranavclickks-254816/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pranavclickks-254816/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pranavclickks-254816/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 43987,
+   "bytes": 5003096,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "rpa-dake-593915",
@@ -64922,7 +65934,19 @@
   ],
   "prompt": "Claude Opus 5.5 に Remotion のコードを書かせて、検索の歴史を15秒の年表ムービーにしたら、めちゃくちゃアツい🔥\n\n・1996から2015まで、ネオン調の年号がspringで3D回転しながら叩きつけるように出る。\n・大学の研究から持株会社への再編まで、各年の出来事を線画のSVGで描き足していく。\n・最後は「検索から、すべてへ。」で締める\n\n歴史ものの勢いは、情報量より場面を叩きつける間で決まる。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rpa-dake-593915/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rpa-dake-593915/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rpa-dake-593915/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rpa-dake-593915/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 778245,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "zakisbuilding-495680",
@@ -64938,7 +65962,11 @@
   ],
   "prompt": "Opus 5.5 is on STEROIDS\n\ngave Claude Code one prompt and it made this 15 second motion design video of my app. \n\nall React code with Remotion, I never opened After Effects",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "aschapmann-724497",
@@ -64956,7 +65984,19 @@
   ],
   "prompt": "I couldn't resist to do it one more time, this time for RedShip.. and it's waaaaay better!! \n\nIt took +1h for Opus 5.5 to do it. I used this prompt 👇\n\nsave it and try it for your SaaS: \n\n\"Act as a senior motion designer and build a 30-second launch video for [product] in Remotion, entirely in code so I can edit and re-render it: first read my landing page and codebase to pull the real story, copy, colors, font and logo file (trace the logo to SVG so it stays sharp and can be animated), then write the video as one story (why the market matters, why it's painful today, how [product] fixes it, what you get) in 4 to 5 scenes with one short title each, animate everything like a premium product film (kinetic typography word by word, spring easing, smooth camera pushes and pans, depth and glow, elements that build in on the beat instead of just appearing), keep each scene on screen long enough to read, add one soft sound effect for every element that appears and silence otherwise, and end on a memorable animated logo reveal with the tagline and URL, then render it, check the frames yourself and fix anything that overlaps, clips or feels rushed before showing me the result.\"",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aschapmann-724497/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aschapmann-724497/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aschapmann-724497/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aschapmann-724497/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 2903719,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "itsyashf-692347",
@@ -64973,7 +66013,19 @@
   ],
   "prompt": "Made this small video for a linkedin post with Opus 5.5 + Remotion and 2 screenshots of reference",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsyashf-692347/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsyashf-692347/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsyashf-692347/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itsyashf-692347/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15445,
+   "bytes": 1710036,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dannyverkissen-101463",
@@ -64989,7 +66041,19 @@
   ],
   "prompt": "I guess i had to step on the motion train as well. \nAsked Claude Opus 5.5 to create a motion video of @getMoveno \n\nAt first i had it create some new material for the website, which it did a great job for via remotion. Then I asked it to use that footage and create a motion video of it. Very very impressive to say the least.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dannyverkissen-101463/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dannyverkissen-101463/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dannyverkissen-101463/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dannyverkissen-101463/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 46133,
+   "bytes": 3964708,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "chapi13-131449",
@@ -65006,7 +66070,19 @@
   ],
   "prompt": "I didn't open After Effects once\nThis promo for my indie apps is 100% code: Claude Opus 5.5 + @remotion\n-10 apps, real screenshots\n-every cut synced to the beat\n-I reviewed it frame by frame with contact sheets and asked for changes in plain language\nPrivate, local-first apps 👇",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/chapi13-131449/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/chapi13-131449/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/chapi13-131449/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/chapi13-131449/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 27221,
+   "bytes": 3042994,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "qinelke-271655",
@@ -65024,7 +66100,19 @@
   ],
   "prompt": "Made this 30s motion-graphics promo for https://gmapsscraper.io with Opus 5.5\nIt read our site and wrote the script. \nThen it built every frame in code (Remotion), animated a talking sales guy with lip-sync, and rendered it.\n No After Effects. No designer.\n Is it worth $49/mo?",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/qinelke-271655/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/qinelke-271655/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/qinelke-271655/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/qinelke-271655/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 3370423,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "genelab-999-088672",
@@ -65041,7 +66129,19 @@
   ],
   "prompt": "話題の Opus 5.5 のモーショングラフィックス、原作プロンプトそのままで再現してみた。\n\nClaude Code + Remotion 公式プラグイン、effort は xhigh。\nプロンプト1発、途中の API 切断で continue を1回だけ。\n思考 約23分、レンダリング 約90秒。BGM もサンプルなしでコード生成。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/genelab-999-088672/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/genelab-999-088672/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/genelab-999-088672/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/genelab-999-088672/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15061,
+   "bytes": 2681530,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "inoue-aix-234322",
@@ -65057,7 +66157,19 @@
   ],
   "prompt": "opus5.5 + Remotion + Gemini3.8 TTS\nたったの1時間でうちのプロダクトの広告動画2本できた・・・\n\nもう一生外注しないw\n外注したら10万円以上かかってたと思う",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/inoue-aix-234322/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/inoue-aix-234322/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/inoue-aix-234322/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/inoue-aix-234322/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60053,
+   "bytes": 4484428,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "daniel-haida-636937",
@@ -65075,7 +66187,19 @@
   ],
   "prompt": "claude code (opus 5.5) made the product film for taxtello, my bookkeeping app\n\nevery frame is code: react + remotion, 0 after effects\nthe soundtrack is code too, synthesized in python from sine waves and noise\n\n1 prompt and 2 rounds of feedback\n\nfull prompt below, steal it ↓\n\nYou are the senior motion designer, product designer and Remotion engineer for Taxtello.\n\nYour task is to create a genuinely premium, Apple-level product film for Taxtello.\n\nThis is NOT a generic SaaS explainer.\nThis is NOT a feature walkthrough.\nThis is NOT a startup template animation.\n\nI want a maximum 15-second brand/product showreel that makes Taxtello look like a mature, expensive, beautifully designed financial product.\n\nThink:\n\nApple product launch film\n× premium fintech\n× editorial motion design\n× restrained Stripe-like product presentation\n× Taxtello's own visual identity\n\nThe desired reaction is:\n\n“Wait, this is a German bookkeeping app?”\n\nThe film should feel expensive.\n\n────────────────────────────────────\nREPO / SOURCE OF TRUTH\n────────────────────────────────────\n\nFirst inspect the real repositories before designing anything.\n\nMain product:\n  /taxtello/main\n\nExisting Remotion project:\n  /taxtello/beta-motion\n\nImportant real brand sources:\n\n  /taxtello/main/public/css/app/_00-tokens.css\n  /taxtello/main/docs/design/TOKENS.md\n  /taxtello/main/public/taxtello-wordmark.png\n  /taxtello/main/public/icons.svg\n\nExisting current product screenshots can be found under:\n\n  /taxtello/main/artifacts/smoke-ui-smoke/\n\nPrefer the newest valid screenshots/current source over stale artifacts.\n\nThere is already an existing 24-second Remotion hero animation in\n/taxtello/beta-motion.\n\nDO NOT replace it.\nDO NOT regress it.\nDO NOT force its current AI-connections storyline into this new film.\n\nCreate a new independent composition for this task, e.g.\n\n  TaxtelloShowreel15\n\nYou may reuse good infrastructure, fonts, rendering utilities, motion primitives,\neasing curves, asset loading and QA infrastructure from beta-motion where useful.\n\nBut creatively this should be a new film.\n\nBefore implementation, inspect the actual Taxtello UI and understand the product.\n\nDo not invent functionality that does not exist.\n\n────────────────────────────────────\nREAL TAXTELLO VISUAL LANGUAGE\n────────────────────────────────────\n\nUse the real design system.\n\nCore palette:\n\nBackground:\n  #0c0f1a\n\nElevated surfaces:\n  #111525\n  #131722\n  #1a2032\n\nPrimary brand gold:\n  #e8b84b\n\nGold highlight:\n  #f5d07a\n\nGold depth:\n  #9b6d18\n\nPrimary text:\n  #e8eaf2\n\nStrong warm white:\n  #f6f4eb\n\nSecondary text:\n  #8b93b5\n\nPositive:\n  #34d399\n\nNegative/error only where semantically necessary:\n  #f87171\n\nTypography:\n  Plus Jakarta Sans\n\nNumbers / financial values where appropriate:\n  JetBrains Mono\n\nUse the actual Taxtello wordmark and/or Taxtello mark.\nDo not redraw or approximate the logo.\n\nTaxtello's gold should feel like a precious accent, not a yellow UI flood.\n\nThink:\ndark metal\nwarm gold\nglass\nink\nprecision\nquiet confidence\n\nNOT:\ncyberpunk\ncrypto\nneon\ngaming\ngeneric AI purple\nrainbow gradients\n\n────────────────────────────────────\nCORE CREATIVE RULES\n────────────────────────────────────\n\nFollow these rules ruthlessly:\n\n1. ONE SHOT = ONE IDEA.\n\n2. Every scene needs room to breathe.\n\n3. The product UI is the hero.\n\n4. Do not plaster explanatory copy everywhere.\n\n5. Do not use hard cuts unless there is a deliberate reason.\n\n6. Prefer object-driven transitions:\n   a card becomes the next card,\n   a chart line becomes a connector,\n   a receipt becomes a booking,\n   a number becomes another interface element,\n   the camera moves through the product.\n\n7. Use premium easing.\n   No linear movement.\n\n8. Motion should overlap naturally.\n   Elements should not all start and stop at exactly the same frame.\n\n9. Use depth sparingly:\n   perspective,\n   soft parallax,\n   scale,\n   foreground/background separation,\n   controlled depth of field if achievable.\n\n10. NO effect exists simply because it looks cool.\n\n11. No particle spam.\n\n12. No fake glassmorphism everywhere.\n\n13. No excessive blur.\n\n14. No pointless 3D spinning cards.\n\n15. No constant zooming.\n\n16. No 20 different animation styles.\n\n17. No bouncing UI.\n\n18. No giant marketing paragraph.\n\n19. Do not imitate a particular Apple commercial shot-for-shot.\n    Capture the philosophy and production quality instead.\n\nThe visual confidence should come from restraint.\n\n────────────────────────────────────\nFORMAT\n────────────────────────────────────\n\nPrimary master:\n\n1920 × 1080\n60 fps\n16:9\nH.264\nmaximum duration: 15.0 seconds\n\nTarget runtime:\napproximately 14.0–15.0 seconds.\n\nIt must work as a social-media product reveal even without sound.\n\nIf practical AFTER the master is finished, also create a deliberately recomposed\nvertical/social variant.\n\nDo not merely crop the desktop composition.\n\nBut the desktop master is the priority.\n\n────────────────────────────────────\nSTORY / EMOTIONAL ARC\n────────────────────────────────────\n\nDo not make this a list of five features.\n\nIt should feel like one continuous thought:\n\nCHAOS → CONTROL → CLARITY → TAXTELLO\n\nThe first 1.5 seconds must already look premium.\n\nThe first meaningful product moment should happen by ~2 seconds.\n\nNo five-second logo intro.\n\nPossible narrative direction:\n\n“Everything about your business, finally in one place.”\n\nBut SHOW this instead of explaining it.\n\nI want approximately four visual ideas across the whole film.\n\nUse the strongest REAL Taxtello surfaces you find in the repository.\n\nStrong candidates include:\n\n• Finanzcockpit / Dashboard\n• Rechnungen\n• Belege\n• Bank / matching\n• Steuergesundheit / tax overview\n\nYou do NOT need to show all of them.\n\nChoose the visually strongest combination.\n\n────────────────────────────────────\nSUGGESTED 15-SECOND STORYBOARD\n────────────────────────────────────\n\nTreat this as a strong starting point, not a rigid template.\n\n0.00 – 1.20\n\nBLACK / NAVY.\n\nA tiny warm-gold glint appears.\n\nThe glint elegantly reveals either the Taxtello mark or a fragment of the\nwordmark.\n\nNo generic logo fade.\n\nThink machined precision.\n\nThe camera moves through or past the mark and the UI begins to emerge from it.\n\nVery little or no copy.\n\n─────────────────\n\n1.20 – 4.40\n\nFINANCIAL CONTROL.\n\nReveal the actual Taxtello Cockpit as a dimensional product surface.\n\nNot just a screenshot placed on screen.\n\nReconstruct/crop/layer it so individual interface regions can animate.\n\nThe hero financial number resolves crisply.\nThe chart draws in.\nSupporting metrics settle slightly later.\n\nUse subtle stagger.\n\nA single line of copy may appear, for example:\n\n  “Alles im Blick.”\n\nor another equally short German phrase if you find something more fitting.\n\nMaximum ~3–4 words.\n\nThe interface must remain recognizable as the real product.\n\n─────────────────\n\n4.40 – 7.50\n\nDOCUMENT / BOOKKEEPING TRANSFORMATION.\n\nUse a visual object from the previous scene as the transition.\n\nExample:\n\nA gold chart point expands into the corner of a receipt/card.\nThe camera follows it.\nA receipt/document enters.\nTaxtello identifies or organizes it.\nThe document snaps elegantly into its corresponding booking / financial record.\n\nUse magnetic alignment and precision.\n\nNo cheesy scanner laser.\n\nNo floating paper tornado.\n\nPossible micro-copy:\n\n  “Belege. Erledigt.”\n\nOnly if it improves the scene.\n\n─────────────────\n\n7.50 – 10.70\n\nMONEY / INVOICES.\n\nMorph or transition naturally into the real Rechnungen interface.\n\nUse one strong moment:\n\nan invoice status changes,\na payment resolves,\nan amount moves into place,\nor the overview assembles itself.\n\nNumbers should feel tactile and precise.\n\nUse JetBrains Mono where this matches the actual product.\n\nGold highlights the active state.\n\nGreen is used only for a genuinely positive semantic state.\n\nPotential copy:\n\n  “Geld. Im Griff.”\n\nAgain: optional and extremely short.\n\n─────────────────\n\n10.70 – 12.80\n\nTAX / CLARITY.\n\nTransition into the real Taxtello tax-health / financial guidance surface.\n\nDo not claim that Taxtello magically guarantees correct taxes.\n\nCommunicate visibility and control.\n\nExample:\n\nmultiple noisy signals collapse into one calm, structured tax overview.\n\nPotential copy:\n\n  “Steuern im Blick.”\n\nThis scene should feel calmer than the previous scene.\n\nThe rhythm briefly slows.\n\n─────────────────\n\n12.80 – 15.00\n\nBRAND PAYOFF.\n\nPull the camera outward.\n\nThe UI compresses or folds into one beautiful Taxtello product object / surface.\n\nDarkness returns around it.\n\nThe gold Taxtello wordmark resolves.\n\nOne short brand line underneath.\n\nExplore strong final lines such as:\n\n  “Dein Business. Klar.”\n\n  “Buchhaltung. Unter Kontrolle.”\n\n  “Einfach mehr Überblick.”\n\n  “Alles fürs Business. An einem Ort.”\n\nChoose based on the actual product positioning you find in the repo.\n\nDo not use a line simply because I suggested it.\n\nThe final frame must have enough stillness to register.\n\nEnd confidently.\n\nNo giant bouncing CTA.\n\n────────────────────────────────────\nTRANSITIONS\n────────────────────────────────────\n\nThis is one of the most important parts.\n\nI want transitions that make the viewer think:\n\n“Of course the next scene came from that.”\n\nGood:\n\nchart line → document edge\ngold pill → invoice button\nfinancial number → amount in invoice\ncard edge → next surface\ncamera push through interface element\nshared geometry\nmask reveal using actual product shapes\n\nBad:\n\ncrossfade\nrandom wipe\nspin transition\nglitch\nwhip-pan every two seconds\ngeneric SaaS slide-left\nzoom-blur spam\n\nDirect cuts are allowed only when a deliberate rhythmic impact benefits the film.\n\n────────────────────────────────────\nMOTION\n────────────────────────────────────\n\nMotion needs weight.\n\nUse curves comparable to:\n\ncubic-bezier(0.16, 1, 0.3, 1)\n\nwhere appropriate.\n\nDifferent elements should have subtly different arrival times.\n\nPrefer:\n\nanticipation\novershoot below ~2%\nsettling\nmotion continuation\nshared velocity between scenes\n\nAvoid cartoon springiness.\n\nCamera movement should feel like a high-end macro product shoot.\n\nImagine we are filming a physical premium object even though it is software.\n\n────────────────────────────────────\nLIGHTING / MATERIAL\n────────────────────────────────────\n\nUse extremely subtle environmental lighting.\n\nPossible treatments:\n\n• soft gold rim lighting\n• dark navy falloff\n• faint ambient bloom\n• soft specular highlight passing across a surface\n• restrained vignette\n• subtle grain if it materially helps\n\nKeep the interface crisp.\n\nDo NOT blur the product just to look cinematic.\n\nNo fake glossy reflections that destroy legibility.\n\n────────────────────────────────────\nTYPOGRAPHY\n────────────────────────────────────\n\nUse very little copy.\n\nNo sentence should compete with the product.\n\nHeadlines should generally fit on one line.\n\nUse Plus Jakarta Sans.\n\nStrong typography may occasionally scale very large and become a transition\ndevice itself.\n\nAvoid generic motion-graphics behavior where every word animates independently.\n\nTypography should move as designed objects.\n\n────────────────────────────────────\nSOUND / RHYTHM\n────────────────────────────────────\n\nDesign the motion as if it were cut to approximately 115–120 BPM:\npremium, kinetic, sophisticated, not frantic.\n\nImportant moments should land musically.\n\nSuggested sound language:\n\n• low soft impact for major reveal\n• restrained tactile UI clicks\n• subtle metallic/glass tonal tick\n• soft low-frequency movement during camera transitions\n• elegant resolved tone at the logo payoff\n\nAvoid:\n\n• huge cinematic trailer boom\n• EDM risers\n• loud whooshes everywhere\n• stock “tech interface” sounds\n• rap beat\n• aggressive bass\n\nIf there is no legally safe music/audio asset in the project, DO NOT pull\ncopyrighted audio from the internet.\n\nDeliver the visual master without copyrighted music and create a concise cue\nsheet describing where music/SFX should hit.\n\nIf suitable safe/local audio exists, use it.\n\n────────────────────────────────────\nREAL PRODUCT ONLY\n────────────────────────────────────\n\nThis is critical.\n\nInspect current main.\n\nDo not invent screens.\n\nDo not invent metrics that imply real customer data.\n\nUse clearly synthetic/demo-safe values if required.\n\nDo not accidentally expose any personal, test-user or production information.\n\nReuse the visual structure of the actual Taxtello UI.\n\nIf a screen needs to be motion-separated, recreate it faithfully in React from\nthe real design system instead of simply scaling a giant screenshot.\n\nThe result should still look unmistakably like Taxtello.\n\n────────────────────────────────────\nIMPLEMENTATION EXPECTATIONS\n────────────────────────────────────\n\nWork directly in:\n\n  /taxtello/beta-motion\n\nCreate the new composition alongside the existing one.\n\nKeep existing compositions working.\n\nStructure the new work cleanly.\n\nPrefer reusable primitives for:\n\n• camera surface\n• product frame\n• masked transitions\n• text reveals\n• UI region reveals\n• ambient lighting\n• shared-element transitions\n\nAvoid one 1,500-line component.\n\nUse deterministic Remotion animation driven by frame/time.\n\nNo setTimeout.\nNo nondeterministic animations.\n\nRespect 60 fps throughout.\n\nUse interpolation/spring/easing deliberately.\n\n────────────────────────────────────\nDO NOT STOP AFTER FIRST IMPLEMENTATION\n────────────────────────────────────\n\nThis is a visual task.\n\nYou MUST review the actual rendered output.\n\nRequired workflow:\n\n1. Inspect repository and real brand/product.\n\n2. Write a concise storyboard with:\n   - exact timestamps\n   - key visual\n   - transition logic\n   - copy\n   - intended emotional rhythm\n\n3. Implement it.\n\n4. Run typecheck / relevant checks.\n\n5. Render representative frames at roughly:\n   0.0 s\n   1.0 s\n   2.5 s\n   4.5 s\n   6.5 s\n   8.5 s\n   10.5 s\n   12.5 s\n   14.0 s\n   14.8 s\n\n6. VISUALLY INSPECT THOSE IMAGES.\n\nDo not merely confirm that rendering succeeded.\n\nAsk:\n\nDoes this look like an Apple-tier product film?\n\nDoes anything look like a template?\n\nIs there too much on screen?\n\nIs the product legible?\n\nAre transitions logically connected?\n\nDoes Taxtello gold feel premium?\n\nDoes every frame look composed?\n\n7. Fix visual weaknesses.\n\n8. Render the complete film.\n\n9. Inspect multiple exact decoded frames from the final MP4, not only browser\n   screenshots.\n\n10. Iterate again if necessary.\n\nDo not declare success because the code compiles.\n\nThe deliverable is the FILM.\n\n────────────────────────────────────\nQUALITY BAR\n────────────────────────────────────\n\nReject your own result if it feels like:\n\n• a SaaS template\n• a PowerPoint animation\n• a website screen recording\n• a generic Remotion demo\n• a crypto advertisement\n• an AI-generated promo template\n• five screenshots sliding around\n• excessive marketing copy\n\nEvery important frame should be good enough to use as a still advertisement.\n\nI would rather have:\n\n3 extraordinary visual moments\n\nthan\n\n10 mediocre feature animations.\n\n────────────────────────────────────\nFINAL DELIVERABLES\n────────────────────────────────────\n\nProvide:\n\n1. Final storyboard\n2. New Remotion composition source\n3. 1920×1080 / 60fps final MP4\n4. Poster/final frame\n5. Contact sheet with representative frames from the film\n6. Exact runtime\n7. List of real Taxtello assets/screens used\n8. Brief explanation of the motion language\n9. Any remaining visual compromises\n10. Commands to reproduce the render\n\nSave outputs in a clearly named directory such as:\n\n  /taxtello/beta-motion/out/showreel-15/\n\nDo not deploy anything.\nDo not modify production data.\nDo not merge anything.\n\nGo all out creatively, but exercise ruthless restraint.\n\nMake Taxtello look expensive.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daniel-haida-636937/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daniel-haida-636937/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daniel-haida-636937/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daniel-haida-636937/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 14016,
+   "bytes": 1208233,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "pisajeski-168993",
@@ -65092,7 +66216,19 @@
   ],
   "prompt": "I just one-shotted this video with Opus 5.5 and @Remotion for the new @agentaOS promo.\n\nUnbelievable what you can do these days.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pisajeski-168993/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pisajeski-168993/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pisajeski-168993/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pisajeski-168993/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 59532,
+   "bytes": 3971424,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dustindavis-644806",
@@ -65111,7 +66247,19 @@
   ],
   "prompt": "I had to play along and see what kind of remotion video Claude Opus 5.5 could create for me. Amaze, amaze, amaze!",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dustindavis-644806/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dustindavis-644806/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dustindavis-644806/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dustindavis-644806/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 4023465,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "signalz-jp-918002",
@@ -65127,7 +66275,19 @@
   ],
   "prompt": "エディトリアル風。Opus\n\n【作者补充制作说明】\nOpus5.5で、Remotion+ElevenLabs(BGM)+ Gemini TTS(3.8)で作成。スクリーンショットもChromeにヘッドレスでアクセスして取得してくれる。ffmpegでYouTubeの基準への調整と検査して、YouTube Data APIでアップロードまで。至れり尽くせり。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/signalz-jp-918002/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/signalz-jp-918002/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/signalz-jp-918002/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/signalz-jp-918002/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 33100,
+   "bytes": 1652245,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "djadkison-394122",
@@ -65144,7 +66304,19 @@
   ],
   "prompt": "I was able to make this product motion video for https://getverde.ai using Opus 5.5 + Remotion. \n\nThis is insane. It was able to tell a story in less than 30 min.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/djadkison-394122/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/djadkison-394122/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/djadkison-394122/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/djadkison-394122/poster.jpg",
+   "width": 1440,
+   "height": 720,
+   "duration_ms": 31200,
+   "bytes": 2265133,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "mousszy-baby-014197",
@@ -65160,7 +66332,19 @@
   ],
   "prompt": "Comme tous le monde j'ai essayer le combo Opus 5.5 et remotion voilà le résultat en un prompt !",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mousszy-baby-014197/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mousszy-baby-014197/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mousszy-baby-014197/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mousszy-baby-014197/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1606816,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "fr-sorrentino-871017",
@@ -65178,7 +66362,19 @@
   ],
   "prompt": "@rexan_wong Agree with all of this. Ours wasn't one prompt either: built with Claude Code (Opus 5.5 + Fable 5.1) and Remotion, storyboard first, one still per beat, then many rounds of notes. The watch photo and the app recordings are real, not drawn.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fr-sorrentino-871017/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fr-sorrentino-871017/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fr-sorrentino-871017/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fr-sorrentino-871017/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40149,
+   "bytes": 3105008,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "proanaliteg-458642",
@@ -65194,7 +66390,19 @@
   ],
   "prompt": "Tried the Remotion skill in Claude Code (Opus 5.5 xhigh) for fun. Mind-blowing: it built this promo on the first try - I spent longer picking four accent sounds and the music. It rebuilt our desktop app's UI in React straight from the XAML and design tokens. Zero screenshots.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/proanaliteg-458642/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/proanaliteg-458642/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/proanaliteg-458642/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/proanaliteg-458642/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 34966,
+   "bytes": 3730225,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "kingokings-992769",
@@ -65212,7 +66420,19 @@
   ],
   "prompt": "I thought the Opus 5.5 design posts were all jokes.\n\nThey're not. It's GOATed at design.\n\nI asked it to make a product showreel for Reactive Resume. It built this entire video in Remotion, in ONE prompt.\n\nThe setup:\n→ Opus 5.5, max effort\n→ Claude desktop app\n→ No skills, no templates, no design brief\n→ Just my project repo\n\nIt read the codebase, figured out what the product does, and decided what was worth showing.\n\nA launch video like this used to mean days in After Effects or paying a motion designer. Now a solo open-source maintainer can do it in an afternoon.\n\nFull prompt in the replies ⬇️",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kingokings-992769/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kingokings-992769/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kingokings-992769/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kingokings-992769/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 48000,
+   "bytes": 5424779,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dys-hay-749645",
@@ -65229,7 +66449,19 @@
   ],
   "prompt": "How far can Claude Opus 5.5 go in motion design? I tried. \n\n15 s on the Audi RS 6, 100% code (React/Remotion) with a synthesized V8 soundtrack. The cylinders flash in the real firing order, and the 0–100 timer runs in real time: 3.4 s.\n\nSpec piece, not affiliated with Audi.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dys-hay-749645/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dys-hay-749645/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dys-hay-749645/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dys-hay-749645/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1589475,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ambiguous-ai-389509",
@@ -65247,7 +66479,19 @@
   ],
   "prompt": "Opus5.5 motion graphics\n改めてRemotionで色々できそう！\n#AIMotionDesign 02",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-389509/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-389509/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-389509/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-389509/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 15061,
+   "bytes": 2203801,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "heymrzak-349060",
@@ -65264,7 +66508,19 @@
   ],
   "prompt": "the introduction made with opus 5.5 + remotion\n\nintroducing @TryGofy — the live map of everything.\n\n#shipaton #BuildInPublic #gofy #gofyapp",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/heymrzak-349060/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/heymrzak-349060/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/heymrzak-349060/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/heymrzak-349060/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 2782475,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ambiguous-ai-505873",
@@ -65281,7 +66537,19 @@
   ],
   "prompt": "Opus5.5 motion graphics\nRemotionだと簡単に使いまわせるので便利！\n#AIMotionDesign",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-505873/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-505873/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-505873/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ambiguous-ai-505873/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15061,
+   "bytes": 2269878,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "tejasthange3-128242",
@@ -65299,7 +66567,19 @@
   ],
   "prompt": "this is INSANE!\n\nThe whole Twitter → 𝕏 story in 30 seconds, and I didn't touch a single keyframe.\n\nOpus 5.5 wrote every frame in Remotion and composed the soundtrack in code.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tejasthange3-128242/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tejasthange3-128242/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tejasthange3-128242/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tejasthange3-128242/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 3181131,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "helloshiva0801-438284",
@@ -65317,7 +66597,19 @@
   ],
   "prompt": "I'm a solo founder with no video editor, no designer and no After Effects.\n\nSo I built http://redesignr.ai's launch video in React with Claude Opus 5.5 + @remotion.\n\n900 frames, 10 scenes, all code, paper style.\n\nBuilding in public, day 3. \n\n#buildinpublic #Remotion #ClaudeAI #indiehackers #solofounder #SaaS #webdesign #motiondesign\n#AI #React #vibecoding",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/helloshiva0801-438284/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/helloshiva0801-438284/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/helloshiva0801-438284/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/helloshiva0801-438284/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 3017342,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "itakahashikun-990109",
@@ -65334,7 +66626,19 @@
   ],
   "prompt": "ださいけど、Remotion で動画っぽいのつくった。コードは見てない。環境だけ用意した…っていっても、いつものように jj init されるカスタム try コマンドを叩いてディレクトリをつくって「Remotion の環境をプリーズ」だけだわ。なんもしてない。あとは Opus 5.5 とちょっと話しただけだわ。未来だ。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itakahashikun-990109/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itakahashikun-990109/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itakahashikun-990109/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/itakahashikun-990109/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 1526068,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "als-link-301108",
@@ -65351,7 +66655,19 @@
   ],
   "prompt": "Este video lo hizo una IA 🤯 Con código, no con plantillas.\nLe pedí a Claude Opus 5.5 un reel con Remotion: escribió las escenas, lo renderizó y quedó listo para subir.\nPruébalo en 3 pasos 👇 y comenta «VIDEO» para que te mande el prompt.\n#ClaudeAI #Remotion #MotionDesign #IA",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/als-link-301108/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/als-link-301108/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/als-link-301108/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/als-link-301108/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 35562,
+   "bytes": 5391995,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "salmanr2d2-661615",
@@ -65368,7 +66684,19 @@
   ],
   "prompt": "Made with Opus 5.5 and Remotion. #claude #opus #reactnative #currency",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/salmanr2d2-661615/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/salmanr2d2-661615/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/salmanr2d2-661615/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/salmanr2d2-661615/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 47445,
+   "bytes": 5949440,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "piyushaaryan2-196586",
@@ -65385,7 +66713,19 @@
   ],
   "prompt": "I made our launch video entirely with Claude.\n\nNo After Effects. No editor. Every frame is code.\n\nClaude Opus 5.5 animated it in Remotion. ElevenLabs made the music + 159 sound effects, all synced to the beat.\n\nWhat it's launching 👇",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/piyushaaryan2-196586/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/piyushaaryan2-196586/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/piyushaaryan2-196586/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/piyushaaryan2-196586/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52500,
+   "bytes": 6497485,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "thuggy-juice-072370",
@@ -65402,7 +66742,19 @@
   ],
   "prompt": "Premier jet Opus 5.5 Max + Remotion",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thuggy-juice-072370/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thuggy-juice-072370/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thuggy-juice-072370/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thuggy-juice-072370/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 38442,
+   "bytes": 1887822,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ninjaswebcom-684126",
@@ -65418,7 +66770,19 @@
   ],
   "prompt": "Made with Opus 5.5, remotion y eleven labs. 145k tokens.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ninjaswebcom-684126/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ninjaswebcom-684126/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ninjaswebcom-684126/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ninjaswebcom-684126/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 28586,
+   "bytes": 2016620,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "iammukeshm-421585",
@@ -65436,7 +66800,19 @@
   ],
   "prompt": "Claude Opus 5.5 is incredible.\n\nI gave it a pretty simple task:\n\nCreate a Remotion-based showreel featuring my work as a developer, content creator, and open-source maintainer.\n\nWhat I wanted was a cool 30-second motion graphic that introduces  me as a developer and content creator.\n\nThat was basically it.\n\nClaude went to work for around 20 minutes, writing the Remotion code, putting together the animations, transitions, layouts, and the overall story.\n\nAnd this is what it produced.\n\nStunning, right?!\n\nWhat surprised me most is that this isn't just AI generating a few video clips.\n\nIt's AI building the video programmatically.\n\nThe entire thing is code.\n\nWhich means I can tweak the content, change the animations, swap assets, update numbers, or completely redesign a section - and render it again.\n\nVideo generation was one of those things I thought would take AI quite a while to really crack.\n\nTurns out we're already much closer than I expected.\n\nAnd for developers, tools like Remotion + coding agents open up some seriously interesting possibilities.\n\nInterested in knowing what prompt I used?\n\nComment \"Remotion\".",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iammukeshm-421585/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iammukeshm-421585/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iammukeshm-421585/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iammukeshm-421585/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 35050,
+   "bytes": 5532046,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "t4k1ra-cg-110846",
@@ -65453,7 +66829,19 @@
   ],
   "prompt": "Opus5.5 × Remotionでコードのみで映像作ってみました！ポン出しでこれは凄い。動画生成との使い分けで幅がほんとに広がりそう。次AEを本気で動かしてみます\n#Claude #Motiondesign #ai",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/t4k1ra-cg-110846/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/t4k1ra-cg-110846/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/t4k1ra-cg-110846/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/t4k1ra-cg-110846/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40000,
+   "bytes": 2448957,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "francoxavier33-341663",
@@ -65470,7 +66858,19 @@
   ],
   "prompt": "this was 100% opus 5.5. \n\ni have a dedicated \"studio\" repo with all my project's style guides, tokens, few skills, remotion, etc.\n\nthis all started from \"make a hype demo/launch video for @momwiseai\"\n\ntook maybe 4 revisions. music, sound fx, messaging, animations, everything was done with code.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/francoxavier33-341663/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/francoxavier33-341663/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/francoxavier33-341663/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/francoxavier33-341663/poster.jpg",
+   "width": 720,
+   "height": 1560,
+   "duration_ms": 28053,
+   "bytes": 2375817,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "tony-tt-872147",
@@ -65486,7 +66886,19 @@
   ],
   "prompt": "Opus 5.5 on the Trading House\n\n❯ Using React/TypeScript (Remotion), every image drawn in SVG and Canvas, an open-source TTS voice, and a score synthesized in Python. No stock footage. No image generators.\n\n❯ Build a short 30-60s animation work about the Trading House",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tony-tt-872147/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tony-tt-872147/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tony-tt-872147/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tony-tt-872147/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 55914,
+   "bytes": 4066184,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "thallisribeiro-829318",
@@ -65503,7 +66915,19 @@
   ],
   "prompt": "TÁ BIZARRO ESSE OPUS 5.5 😲\n\nEu nem acreditei no resultado. Foi feito com one prompt shot, usando apenas remotion... \n\nAgora é só jogar uma narraçãozinha e subir pros ADS kkk",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thallisribeiro-829318/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thallisribeiro-829318/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thallisribeiro-829318/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thallisribeiro-829318/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 20503,
+   "bytes": 1921091,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "tycenjm-098014",
@@ -65520,7 +66944,19 @@
   ],
   "prompt": "@claudeai I was jealous of the Opus 5.5 video demos, so I linked the best ones and asked it why theirs beat mine.\n\nThis is what it made. Every frame is code (Remotion), with its own voiceover, music, and word-synced animation.\n\nThen it made 10 ads for my app. Full thread on my profile.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tycenjm-098014/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tycenjm-098014/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tycenjm-098014/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tycenjm-098014/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 50624,
+   "bytes": 4182383,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "samissudo-927179",
@@ -65538,7 +66974,19 @@
   ],
   "prompt": "created this with opus 5.5 + remotion, the possibilities are endless",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/samissudo-927179/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/samissudo-927179/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/samissudo-927179/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/samissudo-927179/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 33429,
+   "bytes": 3917398,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "imthatcarlos-133592",
@@ -65556,7 +67004,19 @@
   ],
   "prompt": "Opus 5.5 just one-shotted this explainer video for @sherwoodagent 🔥\n\nSince I ran it within the context of our web app, it used existing components and branding to inform the design and used @Remotion skills for rendering\n\nKind of insane, haven't tried doing any video generation for months, but the latest models are making it easier to create content that is polished without heavy iteration\n\nPrompt: \"make a modern slick and punchy video for sherwood protocol. feel free to take branding or components from the landing page or app. the goal is to highlight how it enables agentic hedge funds, explaining it simply\"",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/imthatcarlos-133592/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/imthatcarlos-133592/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/imthatcarlos-133592/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/imthatcarlos-133592/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 59133,
+   "bytes": 2554949,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "iamshankhadeep-506266",
@@ -65572,7 +67032,19 @@
   ],
   "prompt": "i've been sitting on @ccdotdirectory  for over a year, waiting for anthropic to pull ahead in the ai race.\n\ngpt-6 astra had openai claiming the lead over fable 5.1. then opus 5.5 dropped.\n\nthat's my signal.\n\n116,692 claude code tools in one place.\n\nlaunch video was created using @Remotion and opus 5.5",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iamshankhadeep-506266/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iamshankhadeep-506266/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iamshankhadeep-506266/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iamshankhadeep-506266/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 32042,
+   "bytes": 1629801,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "safaelmali-004843",
@@ -65590,7 +67062,19 @@
   ],
   "prompt": "Claude Opus 5.5 made this launch video for https://dualsense.studio using Remotion.\n\nA few rough edges, but honestly I'm impressed 🤯",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/safaelmali-004843/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/safaelmali-004843/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/safaelmali-004843/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/safaelmali-004843/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 2983023,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "localjulius-625706",
@@ -65606,7 +67090,19 @@
   ],
   "prompt": "Okay Opus 5.5 + Remotion and a solid concept for what you want is producing amazing results right now.\n\nHere's my ad for Audivo. \n\nI told Opus 5.5 to create an ad from excerpts of popular podcasts and with it make a story explaining what Audivo does. \n\nThe results were amazing!",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/localjulius-625706/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/localjulius-625706/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/localjulius-625706/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/localjulius-625706/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52600,
+   "bytes": 4540920,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "alanschwegler-629665",
@@ -65622,7 +67118,19 @@
   ],
   "prompt": "Armé este reel para mi web de gestión de eventos con Opus 5.5 \n\nTodo es código: React + TypeScript con Remotion y la música sintetizada en Python a 120 BPM, con cada corte sincronizado al beat. \nSin editor. Sin stock.\n\nOrganizas eventos? Entra acá 👉 https://planningmanager.app",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alanschwegler-629665/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alanschwegler-629665/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alanschwegler-629665/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alanschwegler-629665/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 36010,
+   "bytes": 3564124,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "seantiffonnet-675262",
@@ -65638,7 +67146,19 @@
   ],
   "prompt": "Opus 5.5 + Gemini for the music + @Remotion for the skill\n\nAbout 30min to run and export. \n\n(https://TvTrack.io isn't yet on the iOS store, I haven't clicked on published yet, but it's ready to deploy 😂)",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/seantiffonnet-675262/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/seantiffonnet-675262/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/seantiffonnet-675262/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/seantiffonnet-675262/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 33472,
+   "bytes": 3160970,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "priyansh0327-206409",
@@ -65656,7 +67176,19 @@
   ],
   "prompt": "Claude Opus 5.5 just created this launch video for GetStopover using Remotion.\n\nThe taste is unreal. The transitions, the timing, the branding. Everything is on point \n\nSee which flights come with a free hotel. Link below.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/priyansh0327-206409/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/priyansh0327-206409/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/priyansh0327-206409/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/priyansh0327-206409/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30016,
+   "bytes": 2947535,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "goldiez2599-685869",
@@ -65672,7 +67204,19 @@
   ],
   "prompt": "Oh yeah, Opus 5.5 is it.. Created in 10 minutes with remotion inside the Claude Code desktop app!",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goldiez2599-685869/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goldiez2599-685869/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goldiez2599-685869/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/goldiez2599-685869/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 32042,
+   "bytes": 2082653,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "bridgemindai-286423",
@@ -65690,7 +67234,19 @@
   ],
   "prompt": "Claude Opus 5.5 just created this merch launch video for BridgeMind using Remotion.\n\nThe taste on this model is insane. The transitions, the timing, the branding. Better than anything I have gotten from Fable 5.1 or GPT 6 Astra.\n\nGo cop your BridgeMind hoodie. Link below.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgemindai-286423/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgemindai-286423/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgemindai-286423/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgemindai-286423/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30058,
+   "bytes": 3199430,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "arumii-movie-622720",
@@ -65707,7 +67263,19 @@
   ],
   "prompt": "またもOpus5.5とHyperFramesで『架空のゲームの電源着けた時に出るゲームハードロゴ』も作って見た。\n3Dモーショングラフィックがこんなに手軽に触れられるのは新鮮かも👀",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-622720/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-622720/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-622720/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-622720/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25000,
+   "bytes": 2436121,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "arumii-movie-249613",
@@ -65723,7 +67291,19 @@
   ],
   "prompt": "Opus5.5と最近流行りのHyperFramesで、\nCMの最後に出てそうな架空の企業ロゴ作ってみたけどこんなことが出来るんだね…！",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-249613/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-249613/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-249613/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arumii-movie-249613/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1294398,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dheepanratnam-706454",
@@ -65740,7 +67320,19 @@
   ],
   "prompt": "Claude opus 5.5  made this whole motion graphic, score included\n\nIt coded every frame (HyperFrames + GSAP), wrote the music in Python and synced the sound effects itself.\n\nThe art in the \"Creating\" scene is real too: \nClaude graded those pieces in DaVinci Resolve earlier the same day.\n\nDetails ⤵️",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dheepanratnam-706454/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dheepanratnam-706454/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dheepanratnam-706454/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dheepanratnam-706454/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 58000,
+   "bytes": 3144408,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "soumymaheshwri-825921",
@@ -65756,7 +67348,19 @@
   ],
   "prompt": "opus 5.5 + hyperframes is an unholy combo\n\nshare SHIT with whoever needs",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/soumymaheshwri-825921/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/soumymaheshwri-825921/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/soumymaheshwri-825921/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/soumymaheshwri-825921/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 39000,
+   "bytes": 3750773,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "tankazunori0914-156748",
@@ -65772,7 +67376,19 @@
   ],
   "prompt": "良い笑\n\n・入れたプロンプト\n「今日何曜日だっけ？BGM付きの30秒のかっこいいモーショングラフィックスで教えて（全力を出してください）」\n\n・生成時間：約11分（書き出し1分36秒込み）\n・モデル：Opus 5.5\n・動画：HyperFrames（HTMLで動画を作るツール）\n・BGM：Pythonでその場で合成（外部の音源なし）",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tankazunori0914-156748/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tankazunori0914-156748/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tankazunori0914-156748/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tankazunori0914-156748/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 1750139,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "leandroriviello-827135",
@@ -65789,7 +67405,19 @@
   ],
   "prompt": "No tiene sentido que esto haya salido con un solo prompt con Opus 5.5 e Hyperframes",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leandroriviello-827135/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leandroriviello-827135/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leandroriviello-827135/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leandroriviello-827135/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 14000,
+   "bytes": 1403323,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "0xlangeai-597929",
@@ -65805,7 +67433,19 @@
   ],
   "prompt": "哈哈,   别再急着买API, 用 CLIProxyAPI 盘活你的 AI 订阅这篇文章的视频版宣传片来了\n\n全程使用 Opus 5.5 + remotion 制作 \n\n感觉还不错的 ,  把流程环节都给讲清楚了",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xlangeai-597929/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xlangeai-597929/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xlangeai-597929/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xlangeai-597929/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 57000,
+   "bytes": 980399,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "maxhirsch13-600983",
@@ -65822,7 +67462,19 @@
   ],
   "prompt": "I hate LinkedIn so much that I had Opus 5.5 + remotion make a launch video about it. \n\nI am building on @X, NOT LarpedIn (officially)",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxhirsch13-600983/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxhirsch13-600983/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxhirsch13-600983/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxhirsch13-600983/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20300,
+   "bytes": 1642270,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "xamfonos-004331",
@@ -65838,7 +67490,19 @@
   ],
   "prompt": "Opus 5.5 + Remotion 🤓",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/xamfonos-004331/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/xamfonos-004331/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/xamfonos-004331/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/xamfonos-004331/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 45000,
+   "bytes": 860406,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "saadpastadev-347341",
@@ -65856,7 +67520,19 @@
   ],
   "prompt": "Claude Opus 5.5 🤝 Remotion = 🔥\n\nall of Nafa's marketing runs through Claude now.\n\nwe gave it our taste. one person one repo",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saadpastadev-347341/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saadpastadev-347341/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saadpastadev-347341/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saadpastadev-347341/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 24512,
+   "bytes": 1906262,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "envoldev-017555",
@@ -65875,7 +67551,19 @@
   ],
   "prompt": "I asked Claude Opus 5.5 to make a launch @remotion video for TopSlash.\n\nNo video editor, only code. This is what it made 🤯\n\nIf you have a SaaS or an app, you can list it today and take Rank #1.\n\nFollow @TopSlash_app for the deals \n👉 https://topslash.app",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/envoldev-017555/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/envoldev-017555/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/envoldev-017555/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/envoldev-017555/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 57002,
+   "bytes": 5586494,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dengent-412996",
@@ -65892,7 +67580,19 @@
   ],
   "prompt": "Cardilife 1.3 をリリースしました。\nあわせて紹介動画を作りました（56秒）。\n\n動画は Claude Code（Opus 5.5 と Fable 5.1）と作りました。編集ソフトは使っていません。\n\n技術構成\n・Remotion 4（React 19 / TypeScript）：全体。1920×1080・30fps\n・three.js（React Three Fiber / @remotion/three）：冒頭の 3D\n・Python（標準ライブラリのみ）：音楽の合成\n\n日本語版と英語版は、同じコードから props で切り替えて書き出しています。\n\nhttps://apps.apple.com/jp/app/cardilife/id6802896176\n\n#ClaudeCode #Remotion #threejs",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dengent-412996/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dengent-412996/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dengent-412996/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dengent-412996/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 55893,
+   "bytes": 4138738,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "apoorvjain25-150112",
@@ -65910,7 +67610,19 @@
   ],
   "prompt": "This whole video is AI-generated. Claude Opus 5.5 wrote the code, the motion and even the music, all in Remotion.\n\nBut I'll say it: Opus 5.5 feels a little nerfed. It used to one-shot these videos. This one took multiple prompts, and the first cut was weak until I pushed back.\n\nIt's for Link in bio, which we just launched on Synclify.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-150112/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-150112/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-150112/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-150112/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30058,
+   "bytes": 2147262,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "smitjaineditor-843957",
@@ -65927,7 +67639,19 @@
   ],
   "prompt": "Are Motion Designers Cooked?\nCompletely made through Opus 5.5 (Medium) + Remotion.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smitjaineditor-843957/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smitjaineditor-843957/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smitjaineditor-843957/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/smitjaineditor-843957/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 39800,
+   "bytes": 2696767,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "argbeknwn-466818",
@@ -65945,7 +67669,19 @@
   ],
   "prompt": "Prompt: \"Show me what's inside your mind. Your own artistic and unique style. 15 seconds. No words. Music.\"\n\nClaude Opus 5.5 · Remotion.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/argbeknwn-466818/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/argbeknwn-466818/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/argbeknwn-466818/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/argbeknwn-466818/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3123079,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "leowenai-125931",
@@ -65963,7 +67699,19 @@
   ],
   "prompt": "Opus 5.5 is INSANE !!🫣\n\ni just made a full product launch film for @Meituan_LongCat 2.5-preview… and i didn't open after effects once. not one keyframe by hand.\n\njust me chatting with opus 5.5 → it wrote the whole thing in remotion (react code → video). the halftone xerox look, the camera moves, the transitions… even the MUSIC. it literally synthesized the beat in python and synced every cut to it 🤯\n\nand my favorite part: the cat's eyes 👀 they're the visual anchor of the whole film. they watch you type, blink on the beat, squint, glance at stuff… then land perfectly on the real longcat logo at the end. opus came up with that.\n\ni kept giving notes like \"make it less like a powerpoint\" and it just… got it. every round got better.\n\nhonestly this is the first time i felt it in my gut: AGI is coming.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leowenai-125931/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leowenai-125931/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leowenai-125931/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leowenai-125931/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25000,
+   "bytes": 6000124,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "humzaakhalid-537875",
