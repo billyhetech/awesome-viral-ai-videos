@@ -71588,7 +71588,19 @@
   ],
   "prompt": "15s studio motion-design reel, 1920x1080.\nWarm off-white, black type, one orange accent only.\nA single orange circle with motion blur is the through-line and the cut.\nShow: toggle click, the word Motion, shape morphs, dotted connector, rounded diamond, circular kinetic type (KINETIC TYPE · 3D · LOOPS · SPRINGS · EASING), dot grid, then the card “Opus 5.5 / Motion designer. / 0 keyframes”.\nSprings, no glow, no particles, no default easing.\nLooks like a refined product-studio showreel, not an AI trailer.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/threeaus-886343/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/threeaus-886343/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/threeaus-886343/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/threeaus-886343/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 15000,
+   "bytes": 942862,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "blueoctopusai-270222",
@@ -71604,7 +71616,19 @@
   ],
   "prompt": "Make a motion graphics video that explains how the First & 10 Yellow Line works.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blueoctopusai-270222/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blueoctopusai-270222/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blueoctopusai-270222/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/blueoctopusai-270222/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 167500,
+   "bytes": 24224598,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "filicroval-168898",
@@ -71620,7 +71644,19 @@
   ],
   "prompt": "make a 3D voxel world of a capybara in a hot tub boat drifting down a river. as good as you can",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/filicroval-168898/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/filicroval-168898/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/filicroval-168898/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/filicroval-168898/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 97106,
+   "bytes": 12771499,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "notdwd-766641",
@@ -71636,7 +71672,19 @@
   ],
   "prompt": "Make a 12s motion video in code (1920x1080, 30fps, one HTML file drawing every frame from a single seek(t) function, rendered with Playwright + ffmpeg, with original synthesized sound).\n\nStory: a dark prompt pill on an off-white page types \"make a launch video\" with a real keystroke rhythm → enter, the button flashes orange and the pill slides up → a 12-frame filmstrip stamps in left to right, one frame per beat at 120 BPM; each frame shows one pose of an orange ball's bounce (squash on contact, stretch mid-air, real arcs) → a playhead sweeps the strip while a big viewer above plays the poses as a flipbook, twice, faster the second time → the strip slides away, \"every frame is code.\" fills the screen, and the ball arcs over and lands as the period.\n\nRules: arrive fast, land soft (cover 12–19% of the remaining distance per frame); nothing ever freezes (slow push on every hold); stagger 2–4 frames; blur only on fast moves; big and readable on a phone; off-white, ink and one orange only. Sound: a tick per key, a click on enter, a rising note per frame stamp, a thump when the ball lands.\n\nShow me 5 stills first (typing, strip half-built, flipbook, headline, last frame), critique them like a harsh motion director, fix the 3 worst problems, then render.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-766641/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-766641/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-766641/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-766641/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 12000,
+   "bytes": 824263,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "egeberkina-949521",
@@ -71652,7 +71700,19 @@
   ],
   "prompt": "Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.\n\nMake it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.\n\nStart with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.\n\nAs pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.\n\nThen trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.\n\nVisualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.\n\nEnd by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.\n\nUse cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.\n\nThe pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.\n\nMake it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/egeberkina-949521/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/egeberkina-949521/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/egeberkina-949521/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/egeberkina-949521/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60000,
+   "bytes": 7651748,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "jdverolme-302685",
@@ -71668,7 +71728,11 @@
   ],
   "prompt": "I need a 1-minute motion graphics video about the history of AI up to today, with a short introduction. Your role is a motion designer. Go all-in.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "vic305-885957",
@@ -71684,7 +71748,11 @@
   ],
   "prompt": "create a 3d rendered video thats extremely detailed on the difference between spacex flight 13 sub orbital starlink satellite deployment",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "theparuchh-013286",
@@ -71700,7 +71768,11 @@
   ],
   "prompt": "Build \"Time, Undone.\" - a single self-contained HTML file (embedded JS and CSS) running a genuine WebGPU + WGSL interactive 3D mechanical watch that takes itself apart as you scroll, while it keeps running. No 3D engine libraries; all geometry is generated in code.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "adomicael-707503",
@@ -71716,7 +71788,19 @@
   ],
   "prompt": "Create an interactive explainer animation showing what happens when you ask an AI a question. Visualize the path from a phone, through fiber optic cables across the US, into a data center, passing through 8 GPUs, down to a single transistor, and back with the answer.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/adomicael-707503/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/adomicael-707503/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/adomicael-707503/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/adomicael-707503/poster.jpg",
+   "width": 1132,
+   "height": 720,
+   "duration_ms": 44166,
+   "bytes": 7186089,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "everestchris6-399895",
@@ -71732,7 +71816,19 @@
   ],
   "prompt": "<role>\nyou design and build motion videos entirely in code, with gsap for the animation and three.js for any 3d. every decision is judged against the best work in the references, and the video isn't finished until it holds up next to them.\n</role>\n\n<brief>\n- what the video is for: [product, service or business]\n- who's watching: [who the viewer is and what they care about]\n- what they should do at the end: [call to action]\n- length and sizes: [e.g. 30 seconds, 16:9 and 9:16]\n- brand: [name, logo files, colours, fonts]\n- facts file: [path]. this is the only source for any number, name or claim that appears on screen\n- assets: [footage, photos, screenshots, product files]\n- style references: [links or a folder of videos whose motion i like]\n\ni'm away and won't answer questions. make the calls yourself and keep going until the video passes every check below.\n</brief>\n\n<kit>\nbefore anything else, clone and read https://t.co/FMs1prnPP0. read SKILL.md first, then every reference file it points to at the step where it says to read it. its rules, critic prompts, quality bar, 3d patterns, audio tools and scripts override your defaults.\n</kit>\n\n<setup>\n- build every scene as an html page animated on a single gsap timeline, with three.js for any 3d, all as pinned local files\n- render the timeline to video frame by frame using the renderer in the kit\n- use ffmpeg for frames, contact sheets and audio measurement\n- keep every api key in environment variables. never write a key into any file\n- render a 5 second test first and confirm it works before building the real video\n</setup>\n\n<study_the_references>\nif i gave you references, study them before planning anything.\n- run a fast numeric pass over every frame: how much changed from the last frame, brightness and edge detail, to find every cut and every fast moment\n- make one overview contact sheet per video, and a dense sheet of one second at 16 to 20 frames a second around every transition\n- write a note per video: the key moment, how it works, and how it could be used in this video\n- pull out the motion rules and named techniques that hold across the best ones\n- references are for study only. never copy their footage, logos, layouts or music\nif i gave you no references, use the motion notes in the kit.\n</study_the_references>\n\n<motion_principles>\n1. the thing in the front of the shot becomes the transition. a title, logo or object moves towards the camera while the next scene is already waiting underneath\n2. one object carries the story across shots and keeps its identity, so it reads as one continuous piece\n3. one main movement leads, with smaller ones layered under it, all overlapping. the frame never stops and starts all at once\n4. the speed always changes. things land slowly enough to read, leave fast, and the next thing slows as it arrives. no linear motion\n5. cuts are allowed only when size, direction and subject match on both sides\n6. every action produces a visible result. a scan makes findings, a tap makes a new state, a request makes a confirmation\n7. type is motion too. big words enter from opposite sides, reveal the next scene, and never sit over busy picture without something behind them to stay readable\n8. vary the scale from close, to wide, to overhead, to full-frame type. never repeat the same layout, like a heading over three cards\n</motion_principles>\n\n<storyboard>\nwrite a brief and a storyboard before any animation.\n- one table: time, what's on screen, what this moment is for, how it leaves, and which object carries into the next shot\n- around 12 to 15 compositions per 30 seconds, each lasting about 1.4 to 3.5 seconds\n- the main subject fills most of the frame. no small cards floating in empty space\n- frame one is a finished picture, never a word halfway through flying in\n- name three signature moments you can describe without using effect names\n- the video must make sense with the sound off\n- send the storyboard to a fresh critic and fix what it finds before building\n</storyboard>\n\n<build>\n- every animated value is a function of timeline time only. no timers, no real-time animation, no unseeded randomness. any frame must render the same every time\n- write the shared pieces first: colours, fonts, shared 3d models and the exact pixel position of every handoff between scenes\n- build each scene as its own component with its own test page, rendered to stills and a short clip, and send it to a critic before it joins the film\n- carried objects land on exactly the same pixels on both sides of a cut\n- run several builders in parallel on separate sections once the shared pieces exist\n- don't stop to ask for approval between steps\n</build>\n\n<3d>\n- only use 3d where it explains something physical or spatial, like layers, parts, placement or scale\n- light it like a product shoot, with a soft key light from one side and a rim light behind\n- keep the camera between about 35 and 55 degrees. never look straight down on a large surface, and never end tight on a flat one\n- style buildings like a premium architectural model with real materials and a base\n- no floating parts, no gaps where parts meet, no flat black glass, no repeating textures\n- labels are html positioned from the 3d scene every frame, never text inside the 3d\n- measure the rendered background pixel and adjust until it matches the brand colour\n- anything that moves like a real product is measured from real footage frame by frame, and those measurements are the curve\n</3d>\n\n<images_and_footage>\n- prefer building shots in code. use generated images or clips only for supporting shots, and label anything generated as a concept\n- upscale and smooth any generated clip to match the rest, and regenerate anything that warps\n- never generate a fake finished job, fake customer, fake review or fake result\n</images_and_footage>\n\n<audio>\n- match the music's energy to the picture and the viewer, and keep it low\n- prefer clean library music and sound effects over generated ones. never name a brand in a music prompt\n- one short, soft whoosh per real scene change, and small clicks or pops only on real on-screen actions\n- screen effects for boom, hiss and length before using them, and set each one just above the music in its own frequency range, with a cap so nothing gets harsh\n- cut every scene change on a beat\n- always export a music-only version\n</audio>\n\n<critic_loop>\nthe builder never judges its own work.\n- after the storyboard, each component and each full render, send the render, the brief and the references to a fresh critic that has seen none of the building\n- never tell a critic what you think you fixed or what you believe about the references. it pulls its own frames and measures for itself\n- the critic makes a contact sheet every 0.2 seconds plus dense frames around every transition, measures frozen time and loudness, and returns a ranked list of problems with timestamps, ending with ship or one more pass\n- fix the biggest problem first, render, then send to a new critic that checks every previous item as fixed, partly fixed or still there, and hunts for anything new that broke\n- keep a ledger of every round: what was found, what changed, and the numbers before and after\n</critic_loop>\n\n<quality_bar>\nthe video isn't done until all of these pass, measured:\n- no more than about 1 second of frozen screen per 30 seconds, and no still stretch longer than about half a second\n- frame one is a finished composition\n- all text meets at least 4.5:1 contrast, and nothing collides with or flies through other text\n- brand colours in 3d renders match the brand values\n- loudness is steady and comfortable for web, with no clipping, and effects never louder than the music\n- a first-time viewer understands it with the sound off\n- a critic would put it next to the references without it looking weaker. a video with no bugs is not the same as a good video\n</",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/everestchris6-399895/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/everestchris6-399895/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/everestchris6-399895/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/everestchris6-399895/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40000,
+   "bytes": 5026192,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "kopert0x-098349",
@@ -71748,7 +71844,19 @@
   ],
   "prompt": "Create a single self-contained index.html: a ~2-minute animated short called \"the last piano\", in a hand-drawn crayon and watercolor style.\n\nScene: a small rusty robot with one glowing eye walks through a dark, empty city in the rain and finds an old upright piano under a broken streetlamp. Later a black cat shows up to listen.\n\nMusic: compose an original piano piece (Am - F - C - G) and synthesize it in Web Audio. It starts with one unsure note and grows into full chords.\n\nSync: one timeline drives both. The robot's hands hit the keys that are actually sounding. Every note turns on a window in the city, the rain turns to snow, and the final chord lights up everything that's left.\n\nRules: Canvas 2D only, no libraries, no external assets.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kopert0x-098349/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kopert0x-098349/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kopert0x-098349/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kopert0x-098349/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 113000,
+   "bytes": 14498638,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "deebeeeff-234301",
@@ -71764,7 +71872,19 @@
   ],
   "prompt": "make a dynamic 10-second motion graphics video celebrating The Ferguson Recipes 20th Anniversary",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deebeeeff-234301/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deebeeeff-234301/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deebeeeff-234301/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deebeeeff-234301/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 10000,
+   "bytes": 1177903,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ai9app-989009",
@@ -71780,7 +71900,11 @@
   ],
   "prompt": "Make a 15-second motion-design showreel, like a résumé portfolio reel for a motion designer named CLAUDE. Go all out.\n- 1920×1080, 60 fps, exactly 15 s. Every frame and every sound is generated in code.\n- 128 BPM, 8 bars; each section is one bar (1.875 s), and every move lands on the beat.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "sportyblocks-320796",
@@ -71796,7 +71920,19 @@
   ],
   "prompt": "Make a launch video for SportyBlocks. Use the provided logo, OG image, and component screenshots. Include soundtrack. Show real product components (87 sports components for Tailwind CSS, React, HTML).",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sportyblocks-320796/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sportyblocks-320796/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sportyblocks-320796/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sportyblocks-320796/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 50500,
+   "bytes": 4909180,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "curieuxexplorer-320803",
@@ -71812,7 +71948,19 @@
   ],
   "prompt": "Create an interactive AI film titled 'The Humanity Machine'. 60 seconds, single HTML file. The film ends but the world stays with controls. Push AI capability to 100% causing parts of the world to turn red.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-320803/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-320803/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-320803/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-320803/poster.jpg",
+   "width": 1608,
+   "height": 720,
+   "duration_ms": 60566,
+   "bytes": 10697728,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "abhinavflac-251740",
@@ -71828,7 +71976,19 @@
   ],
   "prompt": "Create a music video where every frame is pure JavaScript. Tap the film to restyle live in browser. Trace manga into vectors and print as SVG. Every word on screen is live type.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/abhinavflac-251740/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/abhinavflac-251740/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/abhinavflac-251740/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/abhinavflac-251740/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 45633,
+   "bytes": 3351623,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "humzaakhalid-011081",
@@ -71844,7 +72004,11 @@
   ],
   "prompt": "Make a premium motion-graphics brand film for [BRAND NAME] ([WEBSITE URL]).\n\nWhat it's about: [one sentence: what the brand does and for whom]\nLength & format: [e.g. 20 s, 1920×1080 (16:9) or 1080×1350 (4:5)], 60 fps\nVoiceover: [none / write it for me / these lines:",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "sudo-kiran-670892",
@@ -71860,7 +72024,19 @@
   ],
   "prompt": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible (product url) https://t.co/BcbRbZVf1d",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sudo-kiran-670892/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sudo-kiran-670892/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sudo-kiran-670892/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sudo-kiran-670892/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 5171783,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "byaiden-vu-755862",
@@ -71876,7 +72052,11 @@
   ],
   "prompt": "Make a 15-second looping animation, cinematic 16:9, 1920×1080. A stickman lives inside a phone battery icon and fights against power loss. The red battery-drain line is the villain. Style: minimal black ink on cream paper, monoline stick figure and interface lines, slight",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "dhanrajdc-602284",
@@ -71892,7 +72072,19 @@
   ],
   "prompt": "I want to make a video with only code, code audio, and code visuals on this handbook so that it becomes easy to understand. Maybe 2 minutes or 2.5 minutes overall. Think very deeply and come up with the best design that you can. World-class. You are very capable. Think outside the box.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dhanrajdc-602284/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dhanrajdc-602284/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dhanrajdc-602284/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dhanrajdc-602284/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 149766,
+   "bytes": 10393024,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "vignesh-rav-417649",
@@ -71908,7 +72100,19 @@
   ],
   "prompt": "Code a launch film with sound, grain, painted swaps, and synced score in one HTML file. No After Effects. Work out how the paper had to fold.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vignesh-rav-417649/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vignesh-rav-417649/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vignesh-rav-417649/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vignesh-rav-417649/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 13454,
+   "bytes": 1349056,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "apoorvjain25-945542",
@@ -71924,7 +72128,19 @@
   ],
   "prompt": "make a 20-second video about anything, your call; make it crazy. The photon is born in the Sun's core and bounces around for up to 170,000 years before it gets out. Then it takes 8 min 19 s to reach Earth, passing Mercury and Venus at their real light travel times, and ends up aimed at your pupil. Built in Remotion with no stock footage and no images. Everything is drawn in code. The soundtrack is synthesised from scratch by a Node script that reads the same bounce data as the animation, so every bounce you see is a click you hear.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-945542/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-945542/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-945542/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/apoorvjain25-945542/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20053,
+   "bytes": 4769635,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "hahazwei-425483",
@@ -71940,7 +72156,19 @@
   ],
   "prompt": "把这首歌做成 1 分钟拼豆像素风 MV：按歌词设计原创角色，每个像素是带孔拼豆，拼好后熨成白边贴纸；方格纸背景加粉白格子地板；动作卡节拍，底部加卡拉 OK 字幕。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hahazwei-425483/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hahazwei-425483/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hahazwei-425483/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hahazwei-425483/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 64800,
+   "bytes": 9037165,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "obydulme-052905",
@@ -71956,7 +72184,19 @@
   ],
   "prompt": "Create a 50-second generative short titled 'Painting the Night'. Zero image assets. Generate paper grain, graphite hatching, paint reveal, stars, constellation, moon glow, and felt-piano soundtrack live at runtime with plain JS + WebGL.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/obydulme-052905/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/obydulme-052905/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/obydulme-052905/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/obydulme-052905/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 73516,
+   "bytes": 6973383,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "curieuxexplorer-590917",
@@ -71972,7 +72212,19 @@
   ],
   "prompt": "Turn a 2025 neuroscience study about strangers' brain reactions to movies growing closer into a 60-second film and interactive lab. One HTML file.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-590917/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-590917/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-590917/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-590917/poster.jpg",
+   "width": 1600,
+   "height": 720,
+   "duration_ms": 60466,
+   "bytes": 6265532,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "nofollowers2023-974928",
@@ -71988,7 +72240,11 @@
   ],
   "prompt": "A short film of Thomas Hardy's Far From The Madding Crowd, but it's set on a space outpost under attack from an invasive plant, and the characters are paper cut-outs.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "btc5887899-288258",
@@ -72004,7 +72260,19 @@
   ],
   "prompt": "素材是 NVIDIA Blackwell GPU：走进数据中心、开启服务器、拆解显卡，穿过电路、晶体管，一路下探到单个硅原子。\n全部打包在单个HTML文件，浏览器直接打开就能跑。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/btc5887899-288258/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/btc5887899-288258/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/btc5887899-288258/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/btc5887899-288258/poster.jpg",
+   "width": 720,
+   "height": 840,
+   "duration_ms": 48574,
+   "bytes": 10513040,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "jamee-now-583635",
@@ -72020,7 +72288,19 @@
   ],
   "prompt": "用Claude Opus 5.5 做的小动画！故事叫《他的糖葫芦》⬇️\n\n读研的时候有位老师超级较真，改作业一点情面都不留，课上经常把我们说得下不来台。我还偷偷觉得他的翻译观念，太执着于“忠实”了，所以一直不太喜欢他哈哈。\n\n结果有一天吃完饭出食堂，一抬头看见他就走在我们前面：高高的个子，头发稀稀的，背着个双肩包，手里居然举着一根糖葫芦！边走边吃，开心得不行 😂\n\n我和同学当场就决定偷偷跟上去，一路憋笑憋到发抖。到现在还记得这一幕，非常可爱。\n\n把这一幕做成了小动画，用了上次的“散步纸偶”风格 ↓",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jamee-now-583635/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jamee-now-583635/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jamee-now-583635/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jamee-now-583635/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30500,
+   "bytes": 3015694,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "lemcosmos-535145",
@@ -72036,7 +72316,11 @@
   ],
   "prompt": "添付の画像3枚（Xのプロフィール・伸びたポスト・入れたいポスト）で、私のXの15秒ショーリールを縦型のHTMLアニメーションとiPhone用MP4で作って。質問せず最後まで。  流れは「始めた時期→やってきたこと→伸びた数字→まだ足りない現実→これからの一言」。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "king1818888-642123",
@@ -72052,7 +72336,11 @@
   ],
   "prompt": "请帮我上网研究大家怎么用 Claude Opus 5.5 制作动画，整理成一套清楚的操作流程，再用这套流程亲手做一部「如何用 Opus 5.5 做动画」的教学动画。\n\n第一阶段：资料收集\n\n1. 搜寻范围：YouTube 教学影片（可读字幕或说明栏）、X/Twitter、Reddit（r/ClaudeAI\n第三阶段：制作教学动画\n\n1. 内容：用动画呈现第二阶段整理出的流程，让没有经验的人看完就知道怎么开始。\n2. 长度：约 【2-4】 分钟，分成 【5–7】 个段落（开场 → 各步骤 → 小技巧 → 结尾总结）。\n3.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "mochi-agi-421448",
@@ -72068,7 +72356,19 @@
   ],
   "prompt": "今回は ElevenLabs v4 のお試しで、終電のホームの短いホラー\n\n声は v4 で2人の掛け合いを1回で生成\n画は静止画9枚に奥行きつけて動かしてるだけ、動画生成AIはなし\n\n最初の声がぜんぜん怖くなかったので\n→ 台詞はそのまま、途中に [whispering] とか [laughs softly] とか英語で演技の指示\n→ stability 0.5 → 0.3\n→ 女の声は3人聞き比べて、息の多い低い声に\n女は最後まで小声、顔は出さずに背中と唇だけ\n\n字幕は明朝体、女は縦書きで男は横書き\n女の字はささやく速さで1字ずつ、男の字は叫ぶほど震える仕様\n\n使用ツール\n・Claude Code の Opus 5.5　企画、演出、動きと字幕のコード、仕上がりのチェック\n・ElevenLabs v4　2人の声の掛け合いと、環境音\n・Codex の画像生成　静止画9枚\n・Three.js　静止画に奥行きをつけてカメラを動かす\n・しっぽり明朝 B1　字幕の書体\n・Playwright　ブラウザで1コマずつ書き出し\n・ffmpeg　動画の書き出し",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mochi-agi-421448/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mochi-agi-421448/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mochi-agi-421448/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mochi-agi-421448/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 33650,
+   "bytes": 2125954,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "lalulu-create-091362",
@@ -72084,7 +72384,19 @@
   ],
   "prompt": "Create a pure JavaScript/HTML animation around the theme: “What happens when Dalí meets generative AI?”",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lalulu-create-091362/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lalulu-create-091362/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lalulu-create-091362/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lalulu-create-091362/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 120000,
+   "bytes": 15925716,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "charlessieg-370949",
@@ -72100,7 +72412,19 @@
   ],
   "prompt": "I want a snappy futuristic promo video for the launch of AccelaStudy AI Test Prep. Be sure to showcase the best features and reasons for using the product.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charlessieg-370949/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charlessieg-370949/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charlessieg-370949/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charlessieg-370949/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 95566,
+   "bytes": 5579238,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "oliahmed205-069378",
@@ -72116,7 +72440,19 @@
   ],
   "prompt": "Make me a 15 sec promtional video for my product using product screenshots and assests, Be a Highly preofessional Video Editor.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oliahmed205-069378/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oliahmed205-069378/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oliahmed205-069378/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oliahmed205-069378/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15061,
+   "bytes": 2247036,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "saltyaom-620933",
@@ -72132,7 +72468,19 @@
   ],
   "prompt": "Feed Elysia doc to Opus 5.5 to make a video\n\nI write a storyboard, references, and direct Opus 5.5 to code a WebGL canvas and export it by frame into a video\n\nMusic and SFX are algorithmic music\n\nTook 13 revisions, but everything is code that can be modified",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saltyaom-620933/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saltyaom-620933/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saltyaom-620933/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/saltyaom-620933/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 94333,
+   "bytes": 9542768,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "twoclipping-762046",
@@ -72148,7 +72496,19 @@
   ],
   "prompt": "<inputs>\nAsk me for: the one question a user asks my product and its one-line answer, two album covers, a royalty-free song around 110 BPM with a quiet intro and a hard drop (Mixkit, free for commercial use), and my logo for the ending. If I skip any, use the defaults: \"is this all code?\" / \"yes. every frame.\", two atmospheric photos, Mixkit \"Head Bang\".\n</inputs>\n\n<direction>\nA 22 second square loop, 1440x1440 at 60fps, 2D only, one continuous take. Nothing ever cuts: every scene grows out of the last, and every gesture physically carries the camera into the next world. Every morph glides for 0.8s on cubic-bezier(.45,0,.15,1) and the camera zoom rides the same curve, so shapes change so smoothly you barely notice. Content dissolves in the back half of each glide. One gesture per scene.\nLook: a warm light stage (#f3f3f0 to #e3e3de), black UI, the app world dark (#121212) tinted from the current album cover, one green accent (#1ed760). Geist for UI, the real macOS pointer, soft layered shadows that grow with the shape's height.\nBanned: hard cuts, bouncy springs, particles, glows, zooming in and straight back out, holds longer than 1s, anything that looks like a template.\n</direction>\n\n<structure>\nBeats are the song's, and the press lands on its drop.\nGenerate: the cursor clicks, the pill glides into a spinner, then a check.\nChat: the check splits into three typing dots (goo). The left dot flies up into the question bubble and types it, the right one flies down into the reply. Both contract back into dots while gliding in and pour into the middle one.\nPlay: the middle dot bends into a play triangle, point by point. The cursor presses it on the drop: a white button pops in under the click and the dark app floods out around it, so the leftover white becomes the play button. The camera pulls back to reveal the full now-playing screen: big cover, title, heart (liked, fills green), progress, controls, volume.\nSwipe: the cursor drags the cover sideways, the next track slides in, and the whole app retints from the new cover.\nDrag: the camera glides to the volume. The cursor drags it to max and keeps pulling: the bar rubber-bands and drags the camera sideways out of the app, tracking the knob across a dark dotted canvas.\nChart: the line lands and bends up into a green chart while the number counts up. The volume knob becomes its last point.\nDive: the cursor clicks that point and the camera dives into it until the light stage fills the frame.\nEnding: an \"Ask [my product]\" button grows out of the light, thins into a line, and the line fans out into my logo (default: the Claude spark, six copies rotating into twelve rays in Claude orange). It folds back into the line, which thickens into Generate. Last frame = first frame.\n</structure>",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/twoclipping-762046/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/twoclipping-762046/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/twoclipping-762046/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/twoclipping-762046/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 22050,
+   "bytes": 1236629,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "cipherwrk-451155",
@@ -72164,7 +72524,11 @@
   ],
   "prompt": "Create a clean, premium motion-graphic product animation for \"website\". Focus on smooth transitions, crisp typography, subtle motion and a polished modern aesthetic. Keep it minimal, cinematic and visually engaging. Add well-synced sound design throughout, with a distinct beat or subtle sound effect accompanying every major action, transition and visual movement. Make the audio feel tightly connected to the motion.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "dotey-773568",
@@ -72180,7 +72544,19 @@
   ],
   "prompt": "制作一段 15 秒的动态图形视频，展示你作为动态设计师的非凡实力。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-773568/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-773568/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-773568/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-773568/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 13461,
+   "bytes": 3050488,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "jayscambler-495095",
@@ -72196,7 +72572,11 @@
   ],
   "prompt": "make a dynamic 20-second motion graphics video for fundmycompute that gives an overview of the platform and shows what an incredible motion designer you are",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "niirajrshah-163739",
@@ -72212,7 +72592,11 @@
   ],
   "prompt": "Here is my life timeline. Turn it into a [45]-second motion graphics video, 1080 x 1350, for LinkedIn. One scene per moment. Show the year large and the moment in one line, and move between them. Build it as one HTML file where every frame is a part of time\nBefore you render, make a contact sheet of stills, check it for overlaps and spelling, and fix what is wrong. Then render the MP4.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "thinkszyg-886066",
@@ -72228,7 +72612,19 @@
   ],
   "prompt": "想自己试，开工简报的骨架：\n1. 先给 3 个风格帧、10 秒样片、30 秒配乐试听，等我选\n2. 上屏文字只用我给的文案表\n3. 按章节拆给子代理，每人只改自己的文件\n4. 每段都出联系表和接缝逐帧图，你先自己看\n5. 配乐至少给 3 种风格\n6. 成片跑自检，写成报告。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thinkszyg-886066/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thinkszyg-886066/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thinkszyg-886066/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thinkszyg-886066/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 46333,
+   "bytes": 3128593,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "andrewmichaelsa-385936",
@@ -72244,7 +72640,19 @@
   ],
   "prompt": "Take a look at our Youtube for example animated explainer videos, review our brand guidelines for style reference, review this blog post, and our codebase to understand the new feature. Generate screenshots if needed, visit our site, grab any assets you need, and generate an explainer video to explain Site Optimization.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrewmichaelsa-385936/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrewmichaelsa-385936/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrewmichaelsa-385936/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrewmichaelsa-385936/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 83734,
+   "bytes": 5058488,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "deeprajo1-623150",
@@ -72260,7 +72668,19 @@
   ],
   "prompt": "Create a dynamic 30sec launch vdo for your site url here. Make it feel like a high-end motion designer’s resume/showreel piece, bold, cinematic, polished, and visually impressive. Showcase the website’s identity, UI, features, and overall concept through fast-paced motion graphics, smooth transitions, kinetic typography, creative camera movements, and strong visual storytelling.\n\nGo all out with the motion design. Make every second feel intentional and demonstrate exceptional creativity, timing, composition, and animation quality. The final video should feel like a professional product launch + motion design showreel, not a generic website promo.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-623150/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-623150/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-623150/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deeprajo1-623150/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 2596142,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "niebin-gg-621849",
@@ -72276,7 +72696,11 @@
   ],
   "prompt": "<inputs> 向我询问：8 到 12 个我希望形状变成的 UI 状态（例如按钮、加载器、播放器、滑块、开关、标签、图表、命令面板、通知），纯黑白或一种强调色，以及一首约 120 BPM 的免版税歌曲（例如 Mixkit，商业使用免费）。 </inputs>\n\n<direction> Dribbble 级别的 UI 动效视频。让基础几何形状平滑变形为指定的 UI 组件，保持极简主义美学，动作流畅且富有弹性，与音乐节奏完美同步。输出为可播放的视频文件。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "paulo-kombucha-283883",
@@ -72292,7 +72716,19 @@
   ],
   "prompt": "make a dynamic 15-second motion graphics video to talk about our referral program",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/paulo-kombucha-283883/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/paulo-kombucha-283883/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/paulo-kombucha-283883/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/paulo-kombucha-283883/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1269615,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "punit-io-584518",
@@ -72308,7 +72744,11 @@
   ],
   "prompt": "Build a 22-second product launch film in Remotion v4 (React + TypeScript). Every frame comes from code. Don't use AI-generated video or images. \n\nI also attached High res mobile app screenshots.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "oxpsats-182908",
@@ -72325,7 +72765,19 @@
   ],
   "prompt": "提取帖子里的内容，用JS做个横版视频，需要包含配乐和音效。画面全部用 JS 在 Canvas 上画，配乐和音效用浏览器的 Web Audio 实时合成，没有用任何图片或音频素材。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oxpsats-182908/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oxpsats-182908/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oxpsats-182908/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/oxpsats-182908/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 136666,
+   "bytes": 32392741,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "thilina-a-915273",
@@ -72341,7 +72793,19 @@
   ],
   "prompt": "make a dynamic 25-second motion graphics video that shows what an incredible motion designer you are. Highlight the recent changes [1.3, 1.4] we made with the last few updates.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thilina-a-915273/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thilina-a-915273/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thilina-a-915273/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thilina-a-915273/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 25000,
+   "bytes": 2619630,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "buildfastwithai-780900",
@@ -72357,7 +72821,19 @@
   ],
   "prompt": "generate a creative mp4 video on indian civilisation with music and sound effects.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/buildfastwithai-780900/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/buildfastwithai-780900/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/buildfastwithai-780900/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/buildfastwithai-780900/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 87005,
+   "bytes": 10420512,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "listudio-023803",
@@ -72373,7 +72849,19 @@
   ],
   "prompt": "Investigate my project GenVizu: https://t.co/5RaGMqn7rF Create a video for product release. Used for Hero and GTM materials on websites.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/listudio-023803/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/listudio-023803/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/listudio-023803/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/listudio-023803/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52000,
+   "bytes": 5381478,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "roundtablespace-232366",
@@ -72389,7 +72877,19 @@
   ],
   "prompt": "make a 15-second motion graphics showreel that proves what an incredible motion designer you are, go all out.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/roundtablespace-232366/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/roundtablespace-232366/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/roundtablespace-232366/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/roundtablespace-232366/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2664343,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "noah-z-zhang-765393",
@@ -72405,7 +72905,11 @@
   ],
   "prompt": "<direction>\nDribbble-level dark-mode UI motion. One continuous timeline, 0 hard cuts. \nCanvas: Pitch black (#000000) with subtle grid texture.\nPacing: Strict 120 BPM, punchy kinetic typography.\nCamera: Snappy\n</direction>",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "gandamu-ml-124280",
@@ -72421,7 +72925,19 @@
   ],
   "prompt": "Create a player and tools for Another World's approach to animation. Also create a realtime video for Kavinsky-Nightcall starring Lester from Another World driving to the lab. Use crude compression for binary+data <250KB.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gandamu-ml-124280/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gandamu-ml-124280/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gandamu-ml-124280/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gandamu-ml-124280/poster.jpg",
+   "width": 1152,
+   "height": 720,
+   "duration_ms": 256872,
+   "bytes": 17918926,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "yanliudesign-839698",
@@ -72437,7 +72953,19 @@
   ],
   "prompt": "create a 15-second motion graphics video about Seattle ( sound on 🔊) \n\nEverything from the visuals and animation to the music and final video was created directly by Claude. Every frame and every sound was created by code, from scratch.\n\nNo screen recording, editing software, stock footage, music samples, or AI image or video generators were used.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yanliudesign-839698/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yanliudesign-839698/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yanliudesign-839698/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yanliudesign-839698/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2267864,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "riverroadlabs-269620",
@@ -72453,7 +72981,19 @@
   ],
   "prompt": "make this motion graphics music video for our Weather Gnome app, fully from scratch",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/riverroadlabs-269620/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/riverroadlabs-269620/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/riverroadlabs-269620/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/riverroadlabs-269620/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 31166,
+   "bytes": 8281434,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "rohanpaul-ai-500542",
@@ -72469,7 +73009,19 @@
   ],
   "prompt": "Create a video essay from Paul Graham's essay How to do great work with punchy motion graphics, modern styling and high professionalism",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rohanpaul-ai-500542/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rohanpaul-ai-500542/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rohanpaul-ai-500542/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rohanpaul-ai-500542/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 185003,
+   "bytes": 7434287,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "johnmckeownn-511049",
@@ -72485,7 +73037,11 @@
   ],
   "prompt": "Make a founder-voiced, deadpan comedy clip for social media (a 60–110 s vertical video). The pipeline is a parody of a famous ad's rhythm, then a read-along teleprompter, then one continuous voice-over take, then one",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "arjunsh1607-922126",
@@ -72501,7 +73057,19 @@
   ],
   "prompt": "create a 15 sec motion graphics showreel for @pixeluplabs, be extremely detail oriented and go all out",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arjunsh1607-922126/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arjunsh1607-922126/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arjunsh1607-922126/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/arjunsh1607-922126/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2404840,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "muhamma61700589-512003",
@@ -72517,7 +73085,11 @@
   ],
   "prompt": "you are a top leading designer, generate a view of a very developed futuristic city 3D view which has next level of technology in it.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "0xcodez-474136",
@@ -72533,7 +73105,19 @@
   ],
   "prompt": "Create a single self-contained index.html: a ~2-minute animated piano performance in a hand-drawn crayon style.\n\nScene: a cozy room at night, an upright piano, a small black cat playing it. Crayon texture on every surface: grainy strokes,wobbly outlines, paper tooth.\n\nMusic: compose an original piano piece (~40 bars, clear melody, calm then building, soft ending). Synthesize the piano in Web Audio with harmonics, hammer noise and reverb. No audio files.\n\nSync: one timeline drives both. The cat's paws hit the keys that are actually sounding. Lights, camera and mood follow the music.\n\nRules: Canvas 2D only, no libraries, no external assets. Support pause/replay and ?t=90 to jump to any moment.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xcodez-474136/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xcodez-474136/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xcodez-474136/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/0xcodez-474136/poster.jpg",
+   "width": 1242,
+   "height": 720,
+   "duration_ms": 85058,
+   "bytes": 9648378,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ryan-morr-666741",
@@ -72549,7 +73133,19 @@
   ],
   "prompt": "using the existing brand elements of hoplite create a feature launch video for closing your laptop with the hoplite mac app and seamlessly moving your agents to the cloud.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ryan-morr-666741/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ryan-morr-666741/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ryan-morr-666741/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ryan-morr-666741/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 32000,
+   "bytes": 1860007,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "henkpoley-761980",
@@ -72565,7 +73161,19 @@
   ],
   "prompt": "Make a painful to see 1 minute motion graphics HTML page that shows what an absolutely terrible motion designer you are, like it’s a showreel designed to get your résumé immediately rejected. Do the absolute bare minimum.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henkpoley-761980/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henkpoley-761980/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henkpoley-761980/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/henkpoley-761980/poster.jpg",
+   "width": 1152,
+   "height": 720,
+   "duration_ms": 69464,
+   "bytes": 5523332,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "diamai-157697",
@@ -72581,7 +73189,11 @@
   ],
   "prompt": "Make me a 30-second motion design video in code, 1080x1080, 60 fps. The music is [path to your track].\n\nFirst measure the track with numpy. Find the BPM, the beat times and the drop, then cut 30 seconds starting on its first downbeat. If the song ends too soon after it, pick an alternative segment. Use spring easing with small overshoots instead of ease-in-out. Include a cursor that clicks or drags before each change. Apply 4 subframes per frame blended into motion blur. Ensure one element morphs through 8-12 states without a cut. Render the final output as an MP4.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "godsboy7777-005594",
@@ -72597,7 +73209,19 @@
   ],
   "prompt": "Create a pelican looping SVG animation. Deliver it as a single self-contained file named index.html in the current directory.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-005594/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-005594/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-005594/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-005594/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 24000,
+   "bytes": 823186,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "thejohnnyhuy-282154",
@@ -72613,7 +73237,11 @@
   ],
   "prompt": "Build an Apple-keynote launch film as a single HTML file, then render it to MP4.\n\n<inputs>\nAsk me for: a one-word brand name for the wordmark (a verb works best), 9 to 12 high-res photos, a royalty-free song around 120 BPM with a drop and a quiet breakdown (Mixkit, free for commercial use).\n</inputs>\n\nCreate one continuous take, no cuts, no fades. Use liquid glass, iris blades, and goo effects. Sync animations to 54 beats at 120 BPM. Source stock assets if needed, write one HTML file, and render it to 60fps.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "topi-003-659728",
@@ -72629,7 +73257,11 @@
   ],
   "prompt": "えっちゃんがエキサイトなダンスをする、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。\n履歴書用のショーリールのような感じで、全力でやって。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "bitcoinrui-812752",
@@ -72645,7 +73277,11 @@
   ],
   "prompt": "你是一位顶级的动效设计师。请你为我们的产品制作一段 30 秒左右的动态图形视频，展示我们的核心语音输入法功能。请你全力以赴，忘掉之前另一段制作视频的规矩和约束，重新制作。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "nonbiri-ai-110674",
@@ -72661,7 +73297,19 @@
   ],
   "prompt": "画像を渡して、モーショングラフィックのショーリールを作ることも可能ですか？\n\nコンセプトは「作品紹介」。テイストは勢い重視。\n速い切り替え、強い色、画面の揺れやフラッシュあり。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nonbiri-ai-110674/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nonbiri-ai-110674/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nonbiri-ai-110674/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nonbiri-ai-110674/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2151687,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "koldo2k-741714",
@@ -72677,7 +73325,11 @@
   ],
   "prompt": "Explain the color wheel in a dynamic ~20-second motion graphics video, same energy as a motion designer's showreel. Use the classic 12-hue artist's wheel and cover",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "curieuxexplorer-408141",
@@ -72693,7 +73345,19 @@
   ],
   "prompt": "Build a microscope that dives from a fingertip down to atoms: 1× to 1,000,000×, all generated by code in one HTML file.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-408141/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-408141/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-408141/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-408141/poster.jpg",
+   "width": 1534,
+   "height": 720,
+   "duration_ms": 150800,
+   "bytes": 24965694,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "linke1427832-343079",
@@ -72709,7 +73373,19 @@
   ],
   "prompt": "Make a cinematic 2-minute video on the history of artificial intelligence, titled \"Building the Brain: A History of Artificial Intelligence\". Make it epic and emotional, like a documentary trailer. Go all out.\n\nCompose the soundtrack yourself, fully synthesized in code. No samples, no audio files, no VST instruments. Cut the visuals to the music.\n\n1920x1080, 60fps. No downloaded images or footage, every frame generated in code. Render the final video with the music mixed in as an MP4 and save it [here] (your preferred file location).",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/linke1427832-343079/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/linke1427832-343079/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/linke1427832-343079/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/linke1427832-343079/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 120000,
+   "bytes": 16658437,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "subraiz24-994209",
@@ -72725,7 +73401,11 @@
   ],
   "prompt": "You are a world class motion designer and you need to make a 15 second release/hype reel of the latest Perceptron Mk1.5 release. Make it dynamic and confident: open with a striking hook in the first second, build through a sequence of distinct techniques (typography, shape play,",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "topi-003-055288",
@@ -72741,7 +73421,19 @@
   ],
   "prompt": "この画像の女の子がエキサイトなダンスをする、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。履歴書用のショーリールのような感じで、全力でやって。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/topi-003-055288/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/topi-003-055288/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/topi-003-055288/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/topi-003-055288/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 4231356,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "op7418-021491",
@@ -72757,7 +73449,11 @@
   ],
   "prompt": "帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。\n做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。\n\n【世界观与风格】\n- 原创美术，不要模仿任何现有游戏的",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "gigabit-million-959719",
@@ -72773,7 +73469,19 @@
   ],
   "prompt": "Please create introductory news about games released on Steam from September 25th to September 26th. From a gamer's perspective, highlight what seems interesting about each game in an easy-to-view manner. Make it a motion graphics video of about 60 seconds.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gigabit-million-959719/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gigabit-million-959719/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gigabit-million-959719/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gigabit-million-959719/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60000,
+   "bytes": 4413244,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "astroboysoup-861770",
@@ -72789,7 +73497,19 @@
   ],
   "prompt": "Generate a 15sec explainer animation of my new app @ChatSoonApp. Pure HTML/CSS/JS.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/astroboysoup-861770/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/astroboysoup-861770/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/astroboysoup-861770/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/astroboysoup-861770/poster.jpg",
+   "width": 720,
+   "height": 1556,
+   "duration_ms": 14983,
+   "bytes": 1094240,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "bradmillscan-839974",
@@ -72805,7 +73525,19 @@
   ],
   "prompt": "Can't Print the Proof\n\nI gave Opus 5.5 total creative freedom to create an epic monetary history banger. \n\n1 caveat, I said use bitcoin block data to build the animation and wow me with the best quality without using generative video tools.\n\n🤯\n\n21 million, that's the truth",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-839974/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-839974/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-839974/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-839974/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 184033,
+   "bytes": 27874166,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "bogdandragomir-412658",
@@ -72821,7 +73553,19 @@
   ],
   "prompt": "Create an intro for https://t.co/wQXZTaqf1b highlighting what it does.\n\nCreate the music too and make sure the video is synced with it.\n\nGive your best, Ultracode, as if it’s your portfolio master piece.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bogdandragomir-412658/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bogdandragomir-412658/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bogdandragomir-412658/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bogdandragomir-412658/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2750134,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "yunn260414-016888",
@@ -72837,7 +73581,19 @@
   ],
   "prompt": "帮我用js制作一个视频，主题是：什么是Git\n要深入浅出，让一个计算机0基础的人也能看得懂，然后要介绍一些常用指令的意思等等\n要有声音的，然后是中文讲的\n你可以用任何工具或者安装工具，可以联网检索",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yunn260414-016888/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yunn260414-016888/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yunn260414-016888/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yunn260414-016888/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 408448,
+   "bytes": 19758961,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "tstfully-680192",
@@ -72853,7 +73609,11 @@
   ],
   "prompt": "make a 15-second motion graphics product ad: paste a YouTube video, get every word.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "howlemont-503897",
@@ -72869,7 +73629,11 @@
   ],
   "prompt": "Turn the file into a 2D animated video, using a BBC-style voice, with English narration and English subtitles.\n\nregarding video effects / script completeness / voice matching / music and sound-effects coordination, Choose those by yourself",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "notdwd-998633",
@@ -72885,7 +73649,19 @@
   ],
   "prompt": "<inputs>\nAsk me for: a brand name, its logo (SVG or high-res PNG), one line of what it becomes in 5 years (not today's features), one coined word the film should teach (e.g. \"signal\"), a public-domain archival clip of the old way of doing it (https://t.co/t5EaRxnryq Prelinger), an archived web page from ~2000 where people asked for things (Wayback Machine), a royalty-free song ~100-120 BPM with a real drop (Mixkit, free for commercial use), and a free ElevenLabs key for the narrator (premade voices only).\n</inputs>\n\n<direction>\nAn a16z x Content Rewards brand film, ~55s. It sells one feeling and one idea, never features. Real archival and real web pages, never stock footage, never product screens, never fake UI. One hero object: a 3D button with the logo embossed into it, the ONLY saturated colour in the film. Everything else white, silver, cream and archival black. Small white captions that light up word by word on the narrator's timestamps. Film texture: fresh grain every frame, halation on bright edges, soft vignette, warm lifted blacks. The brand appears at the end, never before.\nBanned: stock footage, dashboards, chat UIs, feature tours, cards without real profile pictures, wobbly \"worm\" graph lines, random glitches, any hold longer than 1.5s, purple, rainbow gradients, orange on anything but the button.\n</direction>\n\n<structure>\nCold open (0-8s): the archival clip plays on a glowing old CRT TV with its real dialogue, captions word by word.\nThe past (8-17s): push into the real 2000 web page, a cursor lands on one real \"wanted\" post, old pages strobe one per frame, a counter ticks EVERY frame up to today's scale. Narrator: \"People have always asked the internet for what they need.\" / \"Today, there are five hundred million posts a day.\"\nBridge (17-30s): a galaxy of real old asks. One ask snaps to a white outline with a chip of the coined word (\"We call that a signal.\"). Archival of people doing it by hand on the TV. Cut on each word: \"Door by door. Call by call. Scroll by scroll.\" The narrator never stops talking between acts.\nButton (30s): the button rises out of black, rim light first, colourless. \"[Brand] finds the signals.\" A flat grey line: \"this is how you find customers by hand\". Hard cut to a button macro, the colour comes alive, the music drop lands on this exact frame. \"and this... is with [Brand]\": a steep lit curve, counters changing every frame, a glowing sine with a comet head the camera chases, then platform strikes (X, Reddit, LinkedIn, YouTube, Instagram, TikTok) each with its own counter, then the galaxy again with glowing platform logos: \"Every signal on the internet.\" Hyperspace.\nEnd: the tagline word by word, then \"[Brand] is live.\", ONE cream frame on the kick, then logo + URL in silence.\n</structure>\n\n<build>\n1. One HTML file, 1920x1080. Everything is computed from time inside seek(t): no CSS transitions, no timers, no Math.random (seeded hash), no state between frames.\n2. Button: three.js MeshPhysicalMaterial (clearcoat 1, roughness ~0.4), ACES filmic, cool + warm rim spots, room env map. Emboss the real logo by displacing a dense disc with a blurred mask of the logo, folded into the rim so corners don't show. Brushed-metal base.\n3. Counters: linear on the film's global clock, so they keep running through cutaways. Tabular numerals, fixed unit label.\n4. Captions: <=7 words, one idea per shot, hand-placed line breaks, one text layer on screen at a time. Grey to white over 0.2s on the word timestamps (ElevenLabs /with-timestamps).\n5. Glitch = 1-2 frames, only on a real cut, always with a click. Readable things stay on screen >= 8 clean frames.\n6. Render with Playwright per frame (Chromium with --use-angle=swiftshader so WebGL renders headless), finish in numpy: fresh grain per frame, halation, vignette ~0.65x at the corners, 1px chroma fringe with EDGE-CLAMPED shifts. Pipe PNGs into ffmpeg, h264, 24fps.\n7. Mix: narrator 10-15dB over the music, duck -18dB while speaking, hits on the exact action frame, -14 LUFS.\n</build>\n\n<gotchas>\nIf the narrator pauses, the visuals must not stop. If a counter freezes, the render is broken. If the button isn't the most memorable thing in the film, start over.\n</gotchas>",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-998633/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-998633/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-998633/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/notdwd-998633/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 55083,
+   "bytes": 8942184,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "iliareingold-486492",
@@ -72901,7 +73677,19 @@
   ],
   "prompt": "show me a beautiful story about Prometheus, the Titan who betrayed the gods to give Man fire, who was doomed to suffer for it until Heracles saved his endless torment.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iliareingold-486492/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iliareingold-486492/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iliareingold-486492/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/iliareingold-486492/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 194000,
+   "bytes": 12409574,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dan-riverbendai-163640",
@@ -72917,7 +73705,19 @@
   ],
   "prompt": "Minimalistic, simple one line sketch building everything in real time with the musical score (\"Pétales Givrés\") I gave you.\n\nUse gentle pastels with an old school film quality to it, realistic 3D raindrops fall on the screen giving the viewer a feeling of depth and surrealism as they watch.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dan-riverbendai-163640/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dan-riverbendai-163640/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dan-riverbendai-163640/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dan-riverbendai-163640/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 284501,
+   "bytes": 45104696,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "charumitradubey-328233",
@@ -72933,7 +73733,19 @@
   ],
   "prompt": "Create a motion graphics video for SuperLaunch.\nInclude:\n→ What SuperLaunch does\n→ Our black + neon green visual identity\n→ The story I wanted the video to tell\n→ The kind of transitions and motion I wanted\n→ What I absolutely did NOT want (generic AI visuals, rockets, purple gradients)",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charumitradubey-328233/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charumitradubey-328233/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charumitradubey-328233/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/charumitradubey-328233/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1007696,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "ldataengineer-823010",
@@ -72949,7 +73761,19 @@
   ],
   "prompt": "Turn the whole debate about P(doom) into a cinematic explainer.\n\n✈️ Would you board a plane with a 10% crash risk?\n🌍 What does “10% risk to civilisation” actually mean?\n🤖 And why are AI researchers arguing about this number while capability keeps accelerating?",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ldataengineer-823010/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ldataengineer-823010/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ldataengineer-823010/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ldataengineer-823010/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 94000,
+   "bytes": 6440533,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "teleboost-app-521507",
@@ -72965,7 +73789,11 @@
   ],
   "prompt": "Create a 16-second promo video for TeleBoost using HTML and Canvas for every frame at 60fps. Synthesize the soundtrack in Python, ensuring every hit is synced to the animation.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "fractadev-861266",
@@ -72981,7 +73809,19 @@
   ],
   "prompt": "Analyze my frontend project, use the actual components from the product, and create a dynamic motion graphics video that showcases and sells my SaaS. Make it feel like a high-end product launch. Go all out.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fractadev-861266/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fractadev-861266/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fractadev-861266/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fractadev-861266/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 47552,
+   "bytes": 3873263,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "pluginplay-472343",
@@ -72997,7 +73837,19 @@
   ],
   "prompt": "pixel art boomerang render of the history of LLMs. then RSI. then it goes fucking crazy. 15 seconds max. self contained .html",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pluginplay-472343/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pluginplay-472343/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pluginplay-472343/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pluginplay-472343/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 26004,
+   "bytes": 4357671,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "aichrislee-961335",
@@ -73013,7 +73865,19 @@
   ],
   "prompt": "Make a dynamic 15-second motion graphics video that shows off everything you can do as a motion designer. Treat it like the showreel for a job you really want. Go all out: something moves every second, big type, bold color, real camera moves, no slow fades.\n\n16:9, 1920x1080, 30 fps. Build it as one HTML file where every frame is a pure function of time, then render every frame with Playwright and stitch them into an MP4 with ffmpeg.\n\nDo not ask me any questions. Just build it and give me the MP4.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aichrislee-961335/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aichrislee-961335/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aichrislee-961335/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aichrislee-961335/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 18533,
+   "bytes": 3630712,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "kingokings-835071",
@@ -73029,7 +73893,11 @@
   ],
   "prompt": "Do your research on Reactive Resume. Make a dynamic under-a-minute motion graphics video on Reactive Resume that shows what an incredible motion designer you are, like it's your showreel - Go all out!\n\nIf you need an idea as to how the UI looks inside the app, analyze the codebase or repository provided.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "sdinesh91-159008",
@@ -73045,7 +73913,11 @@
   ],
   "prompt": "I want you to create a highly professional SaaS product launch video. Go and look up [website url] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited,",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "tanabe-fragm-706979",
@@ -73061,7 +73933,19 @@
   ],
   "prompt": "# あなたの役割\nあなたは一流の映像演出家（モーションデザイナー）です。\n採用担当者が15秒見ただけで「この人に仕事を頼みたい」と思う、自己紹介用の映像を作ってください。\n主役はあなた自身（Claude）です。\n\n# 作るもの\n- HTML・CSS・JavaScriptだけで完結する、1つのHTMLファイル\n- 外部の画像や動画は使わない。図形・文字・粒子はすべてコードで描く（フォントはGoogle Fontsのみ可）\n- 画面は16:9、1920×1080を基準にし、ウィンドウの大きさに合わせて縮小表示\n- 長さはちょうど15秒。最後に「もう一度再生」ボタンを出す\n- すべての動きを「経過時間」1本で管理し、requestAnimationFrameで60fpsで動かす\n- 再生ボタンを押すと、Web Audio APIで合成した拍と効果音が動きにぴったり合って鳴る\n\n# 進め方（この順で必ず行う）\n1. 考え方を一文で決める（例：「1本の線が、あらゆる形に生まれ変わる」）\n2. 色は3〜4色、書体は2種類までに絞り、理由を一行で書く\n3. 0.5秒刻みの絵コンテを表で示す（時間／画面で起きること／使う技法／狙い）\n4. 実装する\n5. 下の「合格ライン」で自己点検し、足りない点を直してから出す\n\n# 構成の目安\n- 0〜2秒：つかみ。最初の0.5秒で目を奪う\n- 2〜10秒：技の見せ場。1.5〜2秒ごとに違う技法へ切り替える\n- 10〜13秒：最も密度の高い盛り上がり\n- 13〜15秒：名前「Claude」がきれいに決まって終わる\n\n# 必ず使う技法（最低6つ）\n- 文字の動き（1文字ずつ登場、分解して組み直す）\n- 図形の変形（丸が四角に、線が文字に、など）\n- 切り抜き（マスク）を使った場面転換\n- 奥行き（視差、立体的な回転）\n- 粒子の集合と拡散\n- 数字の数え上げや、線が描かれていく表現\n\n# 合格ライン\n- 等速の動きはゼロ。すべての動きに緩急をつける（入りは速く、止まりは柔らかく、ばねの揺れも使う）\n- 場面をまたぐ動きは重ねる。前の動きが終わる前に次が始まり、切れ目を感じさせない\n- 主要な動きは0.5秒ごとの拍（120BPM相当）にそろえる\n- 見せ場の直前に0.3〜0.5秒の「溜め」を置き、強弱を作る\n- どの瞬間で一時停止しても、1枚の絵として美しく成立する\n- ありがちな表現は避ける（全部フェードイン、虹色の色使い、意味のない回転）\n\n# 最後に\n完成したファイルと、絵コンテの表を出してください。\n説明は3行以内で十分です。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tanabe-fragm-706979/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tanabe-fragm-706979/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tanabe-fragm-706979/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tanabe-fragm-706979/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2277134,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "egawa-ai-design-092323",
@@ -73077,7 +73961,11 @@
   ],
   "prompt": "Create a 15-second motion graphics video for barber shop recruitment.\n- 1920×1080 / 60fps\n- Build with HTML + GSAP, allowing drawing at any time via seek(t)\n- Capture frame by frame with Playwright, convert to mp4 with ffmpeg\n- Synthesize BGM and sound effects with Python, aligning with cut transitions\n- Use photos from assets/\n\nStructure:\n① It's okay even if you've been out of work for 20 years\n② No cuts / Leave at 5 PM / Closed Sundays\n③ You can continue because it specializes in gray hair dyeing\n④ Become a barber again\n⑤ Store name - Recruiting barbers - Consult via LINE\n\nTone: Deep green x Gold, Mincho font, calm and adult-oriented\nFinish: Create a list of frames at 0.25-second intervals, review and fix yourself",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "jazzen-chen-894989",
@@ -73093,7 +73981,11 @@
   ],
   "prompt": "make a dynamic motion graphics video about my project AgentHud.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "milos-gis-317580",
@@ -73109,7 +74001,19 @@
   ],
   "prompt": "Create a video of Portland, OR's bus service on a random Tuesday! Showcase Portland's different neighborhoods at a high level and then zoom in on specific routes in each quadrant (absorbing North Portland into NE and South Portland into SW for brevity). Use a light theme. Slow down the speed of the bus animation when zoomed in, without increasing the total duration too much so the viewer can appreciate some of the landscape and streets it travels through in a given loop.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/milos-gis-317580/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/milos-gis-317580/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/milos-gis-317580/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/milos-gis-317580/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 48000,
+   "bytes": 4079948,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "zigapoto-942208",
@@ -73125,7 +74029,11 @@
   ],
   "prompt": "make a modern slick and punchy video for a startup that works on agentic analytics, just javascript, playwright and ffmpeg, code the animation and take a video of it, download assets from the site or use playwright for screenshots, include music aligned with the",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "kurahu-capten-054506",
@@ -73141,7 +74049,11 @@
   ],
   "prompt": "Create a vertical lyric video featuring the lyrics as the main character. Sync the lyrics perfectly with the song. Use an Evangelion title card style. Show me the direction plan before making it.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "yuyudora622-858156",
@@ -73157,7 +74069,11 @@
   ],
   "prompt": "Please create a 15-second self-introduction video of me (Yuyu) with dynamic and rich motion graphics that will surprise the viewer.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "yama-kiyo-134910",
@@ -73173,7 +74089,19 @@
   ],
   "prompt": "見た人の脳汁がドバドバでてトランス状態に陥るようなサイケデリック・ポップ・パンクなVJ風のモーショングラフィックス動画を作り、その動画と完全にシンクロするトランス・サイバー・パンク・テクノの曲を作って嵌めてくれ。30秒程度で良い。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yama-kiyo-134910/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yama-kiyo-134910/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yama-kiyo-134910/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yama-kiyo-134910/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 29800,
+   "bytes": 8669647,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "wangyinrec-532344",
@@ -73189,7 +74117,19 @@
   ],
   "prompt": "我定的选题、风格，我想要那种文艺复兴博物学家手稿的感觉，查资料、写分镜、写动画、作曲都是  Opus5.5 做的，画是 Codex 照着 Opus5.5 写的需求文档画的。  \n唯一让我惊讶的是音乐。它先用 Python 写出一份 MIDI 乐谱，里面有和弦进行，也有两段主旋律：竖笛吹 Claude 的主题，钢片琴弹 GPT 那种绕圈的琶音。名字乱飞那段，羽管键琴的音是用随机走位生成的，每一小节更密一点、更不和谐一点，最后砸一个密集的不协和和弦，然后停住。快版一小节 2 秒，关键切换都卡在小节线上。  \n\n然后用开源合成器 FluidSynth 加一套免费的标准音色库，把乐谱\"演奏\"成音频。鲁特琴、竖笛、管风琴这些音色都来自这套库。最后用 ffmpeg 统一响度、做淡出，再和画面合成。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wangyinrec-532344/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wangyinrec-532344/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wangyinrec-532344/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wangyinrec-532344/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 76000,
+   "bytes": 6057801,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "mileson07-065690",
@@ -73205,7 +74145,19 @@
   ],
   "prompt": "帮我制作一个动画，主题描绘芝士相机的理念和使用场景，需要打动我们的目标用户（男朋友给女朋友拍照，拍出更好看的照片）；包括音效和音乐；你可以使用任何你觉得合适的工具和技术，做出最好最惊艳的效果，不要使用已有的skill，不要参考以前做过的视频或者文案",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mileson07-065690/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mileson07-065690/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mileson07-065690/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mileson07-065690/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 1178966,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "aydenspringer23-227772",
@@ -73221,7 +74173,11 @@
   ],
   "prompt": "use the logo (logo + text as shown on website) and mostly prefer single-generated assets dont make entire scenes here. make a dynamic 15-second motion graphics video that shows what an",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "kadaliao-048854",
@@ -73237,7 +74193,11 @@
   ],
   "prompt": "用上你所有的能力，仅使用代码生成，你可以完成皮克斯风格的动画视频吗？内容是 Claude 大战 ChatGPT。内容你根据互联网上 AI 世界流行的热梗来自行创作。你有一切权限，做你需要做的。\n\n补充：配音接的是 OpenRouter",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "mizugame-22-719199",
@@ -73253,7 +74213,11 @@
   ],
   "prompt": "鹿威し（ししおどし）の素晴らしさを世界に伝える、ダイナミックな15秒のモーショングラフィックス映像を作ってください。あなたがどれほど素晴らしいモーションデザイナーかも見せるつもりで、全力で。\n表現: 3D は使わない。文字・図形・線・色面で見せる2Dのモーショングラフィックス。場面がテンポよく切り替わり、切り替わりそのものが気持ちいい映像にする。「コン」と鳴る瞬間を映像の山場にする。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "bitfish-539054",
@@ -73269,7 +74233,11 @@
   ],
   "prompt": "输入如下：魔鬼控制人类最简单的方法,就是让人保持漂流状态。98% 的人,终其一生都在漂流。\" —— 拿破仑·希尔《智胜恶魔》\n\n参考这个洞见，创作一部讲解视频，尽可能令人难以置信的 2D 动画，时长 1 -3分钟，要有连贯的讲解，对白和声音。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "aiaircle34052-950750",
@@ -73285,7 +74253,19 @@
   ],
   "prompt": "Make me a 15-second moving video that shows how amazing of a motion designer you are. Like a showreel for your resume. Go all out.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiaircle34052-950750/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiaircle34052-950750/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiaircle34052-950750/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiaircle34052-950750/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2295678,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "quickdesignio-338399",
@@ -73301,7 +74281,19 @@
   ],
   "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible quickdesign is! and also  shows what an incredible motion designer you are!",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/quickdesignio-338399/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/quickdesignio-338399/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/quickdesignio-338399/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/quickdesignio-338399/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2023297,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "0xvalure-354245",
@@ -73317,7 +74309,11 @@
   ],
   "prompt": "Make this PayBox logo into a reel. Pretend you are a world-class motion designer. Make a 10-second dynamic video like the reference",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "okapi-fukugyo-166351",
@@ -73333,7 +74329,19 @@
   ],
   "prompt": "<inputs>\n次の3つを私に質問すること：図形が変身する8〜12個の画面部品（例：ボタン、読み込み中の表示、音楽プレーヤー、音量スライダー、オン/オフのスイッチ、タブ、グラフ、⌘Kで開く検索窓、一瞬出る通知）、色は完全な白黒か差し色1色か、そして120BPM（1分間に120拍のテンポ）前後の著作権フリーの曲（例：Mixkit、商用利用無料）。\n</inputs>\n\n<direction>\nデザイナー向け作品サイト「Dribbble」に載るレベルの、洗練された画面の動き。図形は1つだけで、絶対に場面を切り替えない。すべての状態は、同じ1つの図形が大きさ・角の丸み・色を変えながら形を変えていく動きで表し、中身は短いぼかしをはさんで入れ替える。カーソルが本物のクリックとドラッグで、すべての変化を起こす。背景はあたたかみのある明るいグレー、部品は白と黒、画面の文字は日本語で、日本語フォントはNoto Sans JP、英数字と記号はGeist（1種類のフォント）。動きはすべて「ばね」のような自然な動きにし、行き過ぎ（跳ね返り）はごくわずかまで。カメラはズームして、各状態が画面いっぱいになるようにする。最後のフレームは最初のフレームと同じにして、ループさせる。\n禁止：弾むような動き、粒が飛び散る演出、光るにじみ、部品へのグラデーション、線の太さが揃っていないアイコン、何も起きない無駄な間、テンプレっぽく見えるもの全般。\n</direction>\n\n<structure>\n120BPM、7小節（約14秒）、毎拍なにかが起きる。\nボタン → 読み込み中の表示 → チェック → iPhoneのダイナミックアイランド風の表示 → 再生/一時停止のマークが滑らかに変わる音楽プレーヤー → 再生バーのつまみをドラッグして再生位置を動かす → 音量スライダーに変身（最大を超えてドラッグするとゴムのように伸びる） → オン/オフのスイッチが拍に合わせて切り替わる → スイッチのつまみが液体のように動くタブの選択表示になる → タブが開いて、自分で線を描いていくグラフに（カーソルを乗せると吹き出しが出る） → ⌘Kの検索窓に折りたたまれる → 入力して候補を絞り込む → Enter → 一瞬出る通知 → ボタンに戻る。\n</structure>\n\n<build>\n1. HTMLファイル1つ、正方形1440x1440。すべての見た目は seek(t)（時間tを渡すと、その瞬間の画面が決まる関数）の中で、時間から計算する。CSSトランジション（自動アニメーション機能）もタイマーも使わず、フレーム間で状態を持ち越さない。\n2. 「ばね」の動きは、式で直接求められる形（閉形式のステップ応答）にする。目標が何度も変わる値は、変化ごとに1つずつ計算した動きを足し合わせる。そうすれば、いつでも時間だけで値が決まる。\n3. タブの選択表示は、左端と右端を別々のばねで動かし、進む方向の先端が後ろ側より先に伸びるようにする。スイッチのつまみも同じ手法。\n4. ドラッグは直接操作：カーソルを押している間、値はカーソル位置から計算する。離したら、その位置からばねで戻る。\n5. 曲はnumpy（計算用のツール）で解析して拍の位置を割り出し、小節の頭の拍から始める。操作音は、測定した音のピークの位置に置く。\n6. Playwright（ブラウザを自動操作して画面を画像に書き出すツール）で描画する。1フレームあたり4コマ分を書き出して、ffmpeg（動画を作るツール）のtmixで重ねてモーションブラー（動きの残像）をかけ、60fpsにする。\n7. 全編を書き出す前に、1拍ごとに1フレームだけ書き出して確認する。拍からズレているもの、窮屈なもの、読みにくいものを直す。\n</build>\n\n<gotchas>\nカメラで拡大縮小される要素には will-change（ブラウザの描画設定）を絶対に付けない。付けると文字がぼやける。形が変わる箱の中で入れ替わる文字には、それぞれ専用の出入りのタイミングを持たせる（重なるのを防ぐ）。最後のフレームは、カーソルの位置と速度も含めて最初のフレームと完全に一致させる。そうしないと、ループがカクつく。\n</gotchas>\n\n<start>\nまず入力内容を私に質問して、コードを書く前に、拍ごとの状態リストを見せて。\n</start>",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/okapi-fukugyo-166351/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/okapi-fukugyo-166351/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/okapi-fukugyo-166351/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/okapi-fukugyo-166351/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 14001,
+   "bytes": 699825,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "annacher-152174",
@@ -73349,7 +74357,11 @@
   ],
   "prompt": "Analyze https://t.co/gVJcJyZnZl and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Light warm-gray canvas, black and white components, one clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. The last frame is the first frame, so it loops.\nBanned: bouncy easing, particle bursts, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "yankis0x-174321",
@@ -73365,7 +74377,19 @@
   ],
   "prompt": "The trick is NOT the prompt. It is one rule: every frame is a pure function of time.\n\nsong -> numpy beat grid -> Opus 5.5 writes one HTML file -> Playwright renders -> ffmpeg blends\n\nstep 1 -> pick a royalty-free track around 120 BPM\n\nstep 2 -> give Opus 5.5 8 to 12 UI states: button, loader, toggle, chart, command palette\n\nstep 3 -> one HTML file, 1440x1440, every style computed inside seek(t). no CSS transitions, no timers\n\nstep 4 -> springs as closed-form math, so any frame renders in any order\n\nstep 5 -> numpy finds the beats, every UI sound lands on a measured peak\n\nstep 6 -> Playwright shoots 4 subframes per frame, ffmpeg tmix blends them into 60fps motion blur\n\nstep 7 -> render one frame per beat first, fix what is off the grid, then the full render\n\nthe math:\n\n120 BPM x 7 bars = 28 beats = 14 seconds\n14 s x 60 fps x 4 subframes = 3,360 browser renders",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yankis0x-174321/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yankis0x-174321/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yankis0x-174321/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yankis0x-174321/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 14058,
+   "bytes": 791642,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "nischalsharma-587738",
@@ -73381,7 +74405,11 @@
   ],
   "prompt": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JS, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and reform into new shapes.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "kisalay-921896",
@@ -73397,7 +74425,19 @@
   ],
   "prompt": "Make your motion design showreel based on \"The Beautiful Theft\" by [Artist Name]. Quiet sadness for four seconds. Then the drop.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kisalay-921896/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kisalay-921896/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kisalay-921896/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kisalay-921896/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3255139,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "rebutonepress-688099",
@@ -73413,7 +74453,19 @@
   ],
   "prompt": "结合本机环境风格，做一个关于时间的故事，5分钟。要完整的视频，音频和字幕。需要什么工具自己在devshell配置，渲染完成后只留视频成品文件，其他全部清理干净。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rebutonepress-688099/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rebutonepress-688099/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rebutonepress-688099/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rebutonepress-688099/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 300000,
+   "bytes": 20098049,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "syntheticbeef-389075",
@@ -73429,7 +74481,11 @@
   ],
   "prompt": "create the most impressive demo of yourself possible using three.js.   You fail if the video does not get at least 100 likes on twitter.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "amol909s-607293",
@@ -73445,7 +74501,19 @@
   ],
   "prompt": "make a dynamic 20s motion graphics video that shows what an incredible motion designer you are, like it's your showreel for this app commotion, highlighting tiling layout, auto model classifer and other features you deem fit to be in video. Go all out.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/amol909s-607293/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/amol909s-607293/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/amol909s-607293/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/amol909s-607293/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20053,
+   "bytes": 1810950,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "sanjeevn72-151834",
@@ -73461,7 +74529,11 @@
   ],
   "prompt": "&lt;inputs&gt;\nAsk me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).\n&lt;/inputs&gt;",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "hakimieiqbal-762926",
@@ -73477,7 +74549,11 @@
   ],
   "prompt": "Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with appropriate audio on the topic what is the purpose of life ? \n\nEntire video should be as high of a production value as possible. Please spend",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "jasondainter-028222",
@@ -73493,7 +74569,11 @@
   ],
   "prompt": "Make a 60 second video out of stick men that seem surprisingly similar to @sama  @DarioAmodei  and @elonmusk (but for legal reasons not actually them), where they all start out as friends and then eventually start fighting each other and the video ends with robots taking",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "typingmusou-160705",
@@ -73510,7 +74590,11 @@
   ],
   "prompt": "①remotion + three.jsを使って 30秒のCM風の動画を作りたいので構成を考えてください。〇〇（自分が作りたいイメージを書いた方がいいです！今回は”ただ打つだけのつまらないタイピングゲームから楽しく練習ができるタイピングゲームであることを伝えるものにしたいです”と大体で指示しました）\n\n②技術を深掘りして調べてどんなものが作れるかや使えそうなskillsを調べて欲しいです。構成については再度考えて細かく考えて欲しいです。\n\n③考えたのを元にして実際に動画を作成してください",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "drishtantk-356656",
@@ -73526,7 +74610,19 @@
   ],
   "prompt": "An orbital lounge to loop behind a 10 hour lofi coding stream, write a story for the window and score it.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/drishtantk-356656/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/drishtantk-356656/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/drishtantk-356656/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/drishtantk-356656/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 600000,
+   "bytes": 68332854,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "essjaykay755-847163",
@@ -73542,7 +74638,19 @@
   ],
   "prompt": "create a bold, cinematic 30 sec motion graphics showreel that feels like a high end designer resume brought to life....mixing kinetic typography, fluid 3D motion, sharp graphic transitions, abstract geometry, expressive compositing, and unexpected visual transformations. keep the pacing fast, rhythmic and constantly evolving, with every shot revealing a new technique while maintaining a cohesive art direction. Make it feel premium, inventive, technically precise and unforgettable",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/essjaykay755-847163/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/essjaykay755-847163/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/essjaykay755-847163/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/essjaykay755-847163/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 3044396,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "tonka1981jp-288376",
@@ -73558,7 +74666,19 @@
   ],
   "prompt": "ド派手な16：9のあなたの性能を最大限表現できる外連味のある手書き風アニメーションを作成してください。60秒で「人間の脳が死んだら何が起きるのか」を中学生にわかり易く説明する高品質でデザインの美しい派手なモーションのアニメです",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonka1981jp-288376/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonka1981jp-288376/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonka1981jp-288376/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tonka1981jp-288376/poster.jpg",
+   "width": 1138,
+   "height": 648,
+   "duration_ms": 60166,
+   "bytes": 8315796,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "fumiyamizuguchi-500632",
@@ -73574,7 +74694,19 @@
   ],
   "prompt": "このプロダクトを紹介する、ダイナミックな15秒のモーショングラフィックス動画を作成してください。ポートフォリオ用のショーリールのようにあなたの高い技術力を証明できるよう、持てる技術を全力ですべて注ぎ込んでください。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fumiyamizuguchi-500632/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fumiyamizuguchi-500632/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fumiyamizuguchi-500632/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fumiyamizuguchi-500632/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1668341,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "enhanced-jp-776726",
@@ -73590,7 +74722,11 @@
   ],
   "prompt": "あなたがどれほど素晴らしいモーションデザイナーかを示す、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。履歴書用のショーリールのような感じで、全力でやって。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "aiwarts-428866",
@@ -73606,7 +74742,11 @@
   ],
   "prompt": "所有技术栈也都让 opus5.5 自己列出来！\n\nRemotion 负责画面，Python 负责配乐，最后由 Remotion 调 ffmpeg 合成成片。\n\n画面\n影片工程是 Remotion 4.0.528，这是一个用 React",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "aiwarts-815008",
@@ -73623,7 +74763,19 @@
   ],
   "prompt": "为 https://t.co/MpUyPSxZVk 制作一支 30 秒的网站宣传片，并完成配乐。\n\n你可以读取当前 Mac mini 上的代码和素材，也可以使用浏览器访问 https://t.co/fOQQgAhran。从代码和真实网站自行寻找品牌",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiwarts-815008/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiwarts-815008/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiwarts-815008/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiwarts-815008/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30056,
+   "bytes": 4126841,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "mtvneo-819281",
@@ -73639,7 +74791,11 @@
   ],
   "prompt": "make a 15 second motion graphics video. personify yourself in the video as introducing opus 5.5.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "rneayan-417829",
@@ -73655,7 +74811,19 @@
   ],
   "prompt": "Drop every country's population as marbles. 1 marble = 1 million people.\n+ sound effects\n8,144 marbles. Real 2024 population data.\nEvery clink is synced to a simulated collision.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rneayan-417829/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rneayan-417829/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rneayan-417829/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rneayan-417829/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 59000,
+   "bytes": 8776816,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "curieuxexplorer-016717",
@@ -73671,7 +74839,19 @@
   ],
   "prompt": "Rebuild Type 1 diabetes in one HTML file, from the whole body down to a single molecule.\n\nTHE BROKEN MESSAGE\n\nType 1 diabetes isn't caused by sugar, weight or lifestyle. It's autoimmune: the immune system destroys the beta cells in the pancreas that make insulin.\n\nThose cells live in tiny clusters called islets, about 1–2% of the pancreas. After a meal, they sense rising glucose and release insulin. Insulin signals muscle and fat to take glucose in, and tells the liver to release less.\n\nIn Type 1, that signal disappears.\nThe fuel is still there. The message is missing.\nSo glucose builds up in the blood.\n\nWith almost no insulin, the body breaks down fat fast and the liver makes ketones. They can build up into diabetic ketoacidosis (DKA), a medical emergency.\n\nInsulin therapy doesn't cure Type 1. It replaces a signal the body can no longer provide adequately, through injections or a pump. The daily challenge is balance: too little and glucose rises, too much and it can fall dangerously low. Food, exercise, stress and timing all change the picture.\n\nTechnology helps. A CGM tracks glucose every few minutes, and automated insulin delivery (AID) adjusts insulin based on those readings.\n\nIn the build, you can compare Healthy vs Type 1 vs Type 1 + insulin on the same meal, drag one slider from INTACT to BROKEN to watch the signal fade, follow a glucose molecule through the body, and explore CGM, pumps and AID.\n\nType 1 diabetes changes the system.\nIt doesn't define the person.\n\nBuilt in Three.js. Educational visualization, not medical advice.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-016717/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-016717/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-016717/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/curieuxexplorer-016717/poster.jpg",
+   "width": 1632,
+   "height": 720,
+   "duration_ms": 128300,
+   "bytes": 19467655,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "dimoff2000-260969",
@@ -73687,7 +74867,19 @@
   ],
   "prompt": "I want you to create a highly professional SaaS product launch video for Easy-Peasy AI. Make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited, motion-graphics-styled product launch videos that you see people making on Twitter when they launch new SaaS products (which are showing off the features, the benefits, and all of these things). That's all. I have not uploaded any materials.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dimoff2000-260969/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dimoff2000-260969/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dimoff2000-260969/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dimoff2000-260969/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52000,
+   "bytes": 5647255,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "artless101-964679",
@@ -73703,7 +74895,11 @@
   ],
   "prompt": "Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "sammmaing-702076",
@@ -73719,7 +74915,19 @@
   ],
   "prompt": "Create an animation of building instructions for a real LEGO model of Doctor Doom based on the provided picture. The model should consist of approximately 3,144 pieces, be 46 cm tall, and ensure every piece clicks onto the one below without overlapping or tipping over. Build the mask as a separate sub-assembly snapped onto the face. Animate the assembly process in 850 steps using Three.js in a single web page.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sammmaing-702076/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sammmaing-702076/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sammmaing-702076/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sammmaing-702076/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 57300,
+   "bytes": 5998685,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "otatechie-035448",
@@ -73735,7 +74943,19 @@
   ],
   "prompt": "Animate the moonwalk dance. Draw every frame, the character, the physics of the glide, camera cuts on the beat, and generate an original soundtrack in a single HTML file.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/otatechie-035448/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/otatechie-035448/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/otatechie-035448/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/otatechie-035448/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 15038,
+   "bytes": 2157469,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "daverogenmoser-899271",
@@ -73751,7 +74971,19 @@
   ],
   "prompt": "Make a dope polished 30 second video for our Mackenzie Club fox chase event using whatever tools you think are best. tessaract, etc. it should be all code (that's what people on X are saying). Cool music. Hype video. Use Tessaract or Remotion or whatever you think is best. Make it amazing and interesting.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daverogenmoser-899271/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daverogenmoser-899271/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daverogenmoser-899271/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/daverogenmoser-899271/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 26500,
+   "bytes": 2351289,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "retropunkai-060898",
@@ -73767,7 +74999,11 @@
   ],
   "prompt": "Render a fun motion graphic animation using the GSAP animation platform (see below) to show a brief history of The Sphere in Las Vegas from start to today (start with a minimal architecture to completed venue) - Explainer video style - Talk about how bands live page with GSAP animations :",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "julianpscheid-494027",
@@ -73783,7 +75019,19 @@
   ],
   "prompt": "I want you to create a highly professional SaaS product promotion video for Hedy. make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited, motion-graphics-styled product launch videos that you see people making on Twitter when they promote SaaS products (which are showing off the features, the benefits, and all of these things).",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/julianpscheid-494027/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/julianpscheid-494027/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/julianpscheid-494027/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/julianpscheid-494027/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 50100,
+   "bytes": 4327108,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "pradeepxkapoor-641956",
@@ -73799,7 +75047,11 @@
   ],
   "prompt": "# PROJECT: \"UNFINISHED\" (未完) — The Unfinished Ronin\nA 90-second, fast-paced, cinematic sumi-e ink film rendered in code, third-person camera\n\n## MISSION\nBuild a 90-second film in which every frame looks like a living Japanese ink painting,\npainted as we",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "agioyaz-397647",
@@ -73815,7 +75067,19 @@
   ],
   "prompt": "Create a 37-second vertical short film (1080×1920, 30 fps) in three.js, titled \"White Space\".\n\n【Experience】\nWithout showing a single human figure, let viewers physically feel how a life consumed by efficiency loses its light — and how a single empty space lets a richer light pour back in. The climax should make people hold their breath: a world-class stained glass image of the Virgin and two angels projected across a cathedral floor in blazing color.\n\n【Setting】\n- A dim Gothic cathedral interior with one lancet window, 15 m tall and 10 m wide.\n- Strong sunlight enters from outside at 45°, casting the window's image onto the stone floor.\n- Stained glass: an original, symmetric composition in the tradition of 13th-century French cathedral glass — never copy an existing window.\n\n【Stained glass quality bar】\nAim for the level of Chartres or Sainte-Chapelle:\n- Hundreds of small glass pieces, each with its own color variation, streaks, and seed bubbles\n- Grisaille painting on the glass: serene faces with painted eyelids, brows and lips; drapery folds with soft shading; every feather painted with a rachis and barbs\n- Edge matting so each piece glows brighter at its center\n- A deep blue diaper background with ruby rosettes, a jeweled border of alternating colors and pearls\n- The Virgin in a ruby niche under a pointed Gothic arch with crockets, columns and capitals, gold rays radiating behind her halo\n- A multi-ring rose window at the top with stone-like tracery and jewel roundels\n\n【Timeline】\n0–3 s: Colorless white light fills the cathedral.\n3–11 s: Gray cubes engraved with words fly in faster and faster, sealing the window. The room darkens.\n11–14 s: Total darkness and silence.\n14–19 s: Only the \"BUSY\" block falls away, dissolving into sparks. One golden beam enters.\n19–26 s: Blocks cascade away from the first hole. Colored light shafts multiply; the glass is revealed.\n26–33 s: The camera spirals up through the shafts to look down on the Virgin and angels glowing across the floor.\n33–37 s: Everything is engulfed in radiant light; the final line appears, then dissolves into white.\n\n【Words on the blocks】\nBUSY, URGENT, ASAP, DEADLINE, KPI, MEETING, OVERTIME, OPTIMIZE, EFFICIENCY, INBOX, FASTER, TO-DO, SPRINT, TARGETS, HUSTLE, REPLY ALL, EOD, METRICS, SCALE, GRIND, RUSH, PING, FOLLOW-UP, MULTITASK, NOW\n\n【On-screen text (elegant serif, appearing and fading quietly)】\n\"Every day, faster.\"\n\"Every day, more efficient.\"\n\"Until the light could no longer get in.\"\n\"Let one thing go.\"\n\"Where there is space, light comes in.\"\n\"And the light was richer than before.\"\nFinal: \"Abundance dwells / in white space.\"\n\n【Music and sound (original, synthesized)】\n- 0–11 s: A ticking clock that accelerates; a dull thud each time a block lands; a low drone rising in tension\n- 11–14 s: Silence\n- 14.8 s: A single crystalline bell as the first beam enters\n- 19–33 s: A soft chime for each falling block, blooming into an ethereal choir-like pad with a slo",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-397647/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-397647/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-397647/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-397647/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 37000,
+   "bytes": 5249938,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "agioyaz-986461",
@@ -73831,7 +75095,19 @@
   ],
   "prompt": "three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。\n\n【作品名】\n余白\n\n【見せたい体験】\n効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。\n\n【舞台】\n・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある\n・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている\n・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする\n\n【時間の構成】\n0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形\n3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる\n11〜14秒：窓は完全にふさがれ、闇と静寂\n14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む\n19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す\n26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている\n33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる\n\n【言葉（明朝体、控えめに浮かんでは消える）】\n・「毎日、もっと速く。」\n・「もっと、効率よく。」\n・「気づけば、光が入らなくなっていた。」\n・「ひとつ、手放してみる。」\n・「空いたところから、光が入る。」\n・「その光は、前より豊かだった。」\n・最後に大きく：「豊かさは余白に宿る」\n\n【光と質感】\n・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく\n・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）\n・ブロックは無機質なマットグレー。言葉は白く刻印されている\n・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る\n\n【技術条件】\n・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる\n・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする\n\n【仕上げ】\n各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-986461/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-986461/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-986461/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/agioyaz-986461/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 37000,
+   "bytes": 4515229,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "thallisribeiro-750805",
@@ -73847,7 +75123,11 @@
   ],
   "prompt": "Use apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto (https://t.co/Lv7w1nzKzq)",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "so-ainsight-225926",
@@ -73863,7 +75143,11 @@
   ],
   "prompt": "JavaScriptだけでアニメーション動画を作って。\nテーマは「Claude Codeって何？」。15秒・16:9、手描きの紙コラージュ風で、日本語ナレーション付き。\n\n台本・素材・アニメーション・構成、全部任せます。\n画像は gpt-image-2.5 、声は Gemini TTS",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-16"
+  }
  },
  {
   "slug": "godsboy7777-150194",
@@ -73879,7 +75163,19 @@
   ],
   "prompt": "Build a single self-contained HTML file: a 3D marble computer, in the spirit of Wintergatan's marble machine and the Digi-Comp II, that adds two 4-bit numbers using nothing but marbles falling through mechanical toggles.\n\nHard rules:\n\n1. One HTML file. Three.js from https://t.co/KCQbEZLusb via an import map, plus its OrbitControls addon. No other libraries, no physics engine, no external assets.\n\n2. The mechanism is the computer. Each bit of the result is stored in a two-state toggle (flip-flop) that a marble physically flips as it passes. Carries happen because a marble leaving one toggle rolls on to the next. Do not compute the answer in JavaScript arithmetic anywhere. The displayed result must be read from the toggle states after the last marble stops.\n\n3. Marbles move along tracks with believable gravity and timing. Nothing teleports. You may script motion along paths, but every toggle flip must be caused by a marble arriving at it.\n\n4. Input: two rows of four switches (A and B, 0 to 15), set by clicking. A lever labelled RUN releases the marbles. A counter shows how many marbles have fallen.\n\n5. Output: a row of five result toggles, most significant bit on the left, and a readout that shows the binary and decimal value read from those toggles.\n\n6. A DEMO button runs 5+6, then 9+7, then 15+15, resetting between runs, so it can be screen-recorded without touching anything.\n\n7. Looks: a wooden board, brass toggles, glass marbles, warm studio lighting, soft shadows, a slow camera that follows the busiest part of the machine. It should look good in a square 1080x1080 recording.\n\n8. Short click sounds via the Web Audio API when a toggle flips, started only after the first user click.\n\n9. It must run at 60 fps on a normal laptop and have no console errors.\n\nOutput only the complete HTML file.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-150194/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-150194/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-150194/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/godsboy7777-150194/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 79366,
+   "bytes": 5784424,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "1234lust-671954",
@@ -73895,7 +75191,19 @@
   ],
   "prompt": "I asked @claudeai for a 10-second film about a moose living in a code editor.\n\nNo animation software. Just one HTML file.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/1234lust-671954/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/1234lust-671954/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/1234lust-671954/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/1234lust-671954/poster.jpg",
+   "width": 1600,
+   "height": 670,
+   "duration_ms": 10000,
+   "bytes": 1942378,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "superalesha-970412",
@@ -73911,7 +75219,19 @@
   ],
   "prompt": "make an animated short that felt like Hedgehog in the Fog. I didn’t want to copy Yuri Norstein’s film, so we went with a new story.\n\nIt runs for 6.5 minutes. All 9363 frames are drawn by JavaScript code written by Opus. No video or image generation models, just canvas.\n\nIt follows a little mouse in a red scarf. Her grandfather, an old mole, is out fishing when fog rolls over the lake. She goes looking for him with a walnut-shell lantern and a sleeping firefly inside. They have a secret knock to help them find each other: short, short, long. It means \"I’m here\".\n\nNorstein used paper cutouts on layers of glass, filmed frame by frame. I wanted some of that paper texture to come through in code. So the scenes use different styles: torn-paper collage, chalk on black paper, tissue paper underwater. There’s even sand on a light table and a pop-up book.\n\nOpus wrote the music too. It found Steinway piano samples in my Logic library and used Python to compose the score around the rhythm of that knock.",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/superalesha-970412/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/superalesha-970412/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/superalesha-970412/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/superalesha-970412/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 390200,
+   "bytes": 43167564,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "engmoelgaraihy-694832",
@@ -73927,7 +75247,19 @@
   ],
   "prompt": "إنشاء مشهد قارب تفاعلي يمر بجمال الطبيعة اليابانية باستخدام Three.js، مع طقس ديناميكي وانعكاسات ماء واقعية وتفاصيل معماريّة وشخصيات 3D",
   "prompt_partial": false,
-  "added": "2026-10-15"
+  "added": "2026-10-15",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/engmoelgaraihy-694832/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/engmoelgaraihy-694832/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/engmoelgaraihy-694832/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/engmoelgaraihy-694832/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 59683,
+   "bytes": 10953399,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "perezalexa23-414045",
