@@ -3,11 +3,13 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-Viral videos made with AI — **Fable 5.5, Gemini 4 Argon** and whatever breaks out next. Code-rendered animations, 3D scenes, games, short films: every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
+Viral videos made with AI — **Opus 5.5, Gemini 4 Argon, Fable 5.5, GPT-6 Astra** and whatever breaks out next. Code-rendered animations, 3D scenes, games, short films: every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-Single-model lists: [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos)
+Models: [Opus 5.5 (2063)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (298)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (133)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · GPT-6 Astra (10)
 
-💎 Turning the best prompts into ready-to-run skill packs on [clawshelf.com](https://clawshelf.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos)
+
+💎 Turning the best prompts into ready-to-run skill packs on [clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 **2504 videos** across 4 models · **773 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 

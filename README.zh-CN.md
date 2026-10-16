@@ -3,11 +3,13 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-AI 爆款视频合集 —— 覆盖 **Fable 5.5、Gemini 4 Argon** 及下一个出圈的模型。代码渲染动画、3D 场景、游戏、短片:每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
+AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GPT-6 Astra** 及下一个出圈的模型。代码渲染动画、3D 场景、游戏、短片:每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-单模型专集:[Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos)
+模型:[Opus 5.5 (2063)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (298)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (133)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · GPT-6 Astra (10)
 
-💎 正在把最好的 prompt 做成开箱即用的 skill 包:[clawshelf.com](https://clawshelf.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos)
+
+💎 正在把最好的 prompt 做成开箱即用的 skill 包:[clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 共 **2504 条视频**、4 个模型 · [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **773 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 
