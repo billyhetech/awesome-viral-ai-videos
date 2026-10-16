@@ -75892,5 +75892,69 @@
    "bytes": 7358145,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "slimer48484-953664",
+  "seo_slug": "not-use-gpt-6-astra-help",
+  "model": "gpt-6-astra",
+  "author": "slimer48484",
+  "author_url": "https://x.com/slimer48484",
+  "post_url": "https://x.com/slimer48484/status/2110697784898953664",
+  "title": "Do NOT use GPT-6 Astra to help fabricate things you need by prompting them into…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16",
+  "stats_snapshot": {
+   "views": 49869,
+   "captured_at": "2026-10-16"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/slimer48484-953664/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/slimer48484-953664/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/slimer48484-953664/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/slimer48484-953664/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 127360,
+   "bytes": 10507792,
+   "synced_at": "2026-10-16"
+  }
+ },
+ {
+  "slug": "amirmushich-185404",
+  "seo_slug": "gpt-6-astra-vs-human-after",
+  "model": "gpt-6-astra",
+  "author": "AmirMushich",
+  "author_url": "https://x.com/AmirMushich",
+  "post_url": "https://x.com/AmirMushich/status/2110394800411185404",
+  "title": "GPT-6 Astra vs Human in After Effects",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16",
+  "stats_snapshot": {
+   "views": 29051,
+   "captured_at": "2026-10-16"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/amirmushich-185404/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/amirmushich-185404/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/amirmushich-185404/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/amirmushich-185404/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 15516,
+   "bytes": 1491370,
+   "synced_at": "2026-10-16"
+  }
  }
 ]
