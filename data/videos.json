@@ -18,6 +18,17 @@
   "stats_snapshot": {
    "views": 355293,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-168580/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-168580/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-168580/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 189013,
+   "bytes": 19015148,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -35,7 +46,18 @@
   ],
   "prompt": "Come up with a video idea yourself — the requirement is that it makes people go \"I had no idea AI could do this.\"",
   "prompt_partial": true,
-  "added": "2026-10-10"
+  "added": "2026-10-10",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-180510/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-180510/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-180510/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 98233,
+   "bytes": 17476609,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "chetaslua-504862",
@@ -55,6 +77,17 @@
   "stats_snapshot": {
    "views": 537000,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-504862/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-504862/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-504862/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40000,
+   "bytes": 5851792,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -71,7 +104,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-10"
+  "added": "2026-10-10",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mesmerlord-049235/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mesmerlord-049235/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mesmerlord-049235/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1746751,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "ishuagra02-359470",
@@ -87,7 +131,18 @@
   ],
   "prompt": "Create an SVG of a Nintendo Switch, with an animation of the controllers getting snapped into the console, and the screen booting up with the logo.",
   "prompt_partial": false,
-  "added": "2026-10-10"
+  "added": "2026-10-10",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-359470/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-359470/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-359470/poster.jpg",
+   "width": 788,
+   "height": 462,
+   "duration_ms": 4990,
+   "bytes": 104281,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "cherry-mx-reds-432073",
@@ -107,6 +162,17 @@
   "stats_snapshot": {
    "views": 828141,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-432073/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-432073/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-432073/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1830092,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -127,6 +193,17 @@
   "stats_snapshot": {
    "views": 344224,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/zadrielsan-001360/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/zadrielsan-001360/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/zadrielsan-001360/poster.jpg",
+   "width": 1226,
+   "height": 720,
+   "duration_ms": 133666,
+   "bytes": 16961734,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -147,6 +224,17 @@
   "stats_snapshot": {
    "views": 213254,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-144331/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-144331/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-144331/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3585025,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -167,6 +255,17 @@
   "stats_snapshot": {
    "views": 164140,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-009224/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-009224/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-009224/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 17066,
+   "bytes": 3850332,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -187,6 +286,17 @@
   "stats_snapshot": {
    "views": 155246,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-354669/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-354669/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-354669/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 62442,
+   "bytes": 4950787,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -207,6 +317,17 @@
   "stats_snapshot": {
    "views": 108932,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mindblown-ai-199037/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mindblown-ai-199037/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mindblown-ai-199037/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 72655,
+   "bytes": 19335332,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -227,6 +348,17 @@
   "stats_snapshot": {
    "views": 84869,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-419727/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-419727/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-419727/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 91254,
+   "bytes": 17078295,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -248,6 +380,17 @@
   "stats_snapshot": {
    "views": 77035,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/saccc-c-377531/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/saccc-c-377531/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/saccc-c-377531/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2889562,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -268,6 +411,17 @@
   "stats_snapshot": {
    "views": 77009,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-387163/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-387163/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-387163/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1920013,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -289,6 +443,17 @@
   "stats_snapshot": {
    "views": 76088,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-782557/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-782557/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-782557/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 220933,
+   "bytes": 16493238,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -309,6 +474,17 @@
   "stats_snapshot": {
    "views": 70556,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spac89-318451/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spac89-318451/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spac89-318451/poster.jpg",
+   "width": 720,
+   "height": 894,
+   "duration_ms": 20000,
+   "bytes": 1916483,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -329,6 +505,17 @@
   "stats_snapshot": {
    "views": 66349,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-147541/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-147541/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-147541/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 46500,
+   "bytes": 7671942,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -349,6 +536,17 @@
   "stats_snapshot": {
    "views": 62724,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-900621/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-900621/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-900621/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 83648,
+   "bytes": 12209579,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -369,6 +567,17 @@
   "stats_snapshot": {
    "views": 61533,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-594134/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-594134/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-594134/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 51200,
+   "bytes": 9458630,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -389,6 +598,17 @@
   "stats_snapshot": {
    "views": 56942,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/abhinavflac-373114/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/abhinavflac-373114/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/abhinavflac-373114/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 45046,
+   "bytes": 7727945,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -409,6 +629,17 @@
   "stats_snapshot": {
    "views": 54566,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maxblade-529606/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maxblade-529606/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maxblade-529606/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 52700,
+   "bytes": 10249574,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -429,6 +660,17 @@
   "stats_snapshot": {
    "views": 47091,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-760024/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-760024/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-760024/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 29738,
+   "bytes": 5378191,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -449,6 +691,17 @@
   "stats_snapshot": {
    "views": 42747,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-109991/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-109991/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-109991/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60000,
+   "bytes": 12622054,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -469,6 +722,17 @@
   "stats_snapshot": {
    "views": 42502,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-029473/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-029473/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-029473/poster.jpg",
+   "width": 1114,
+   "height": 720,
+   "duration_ms": 17000,
+   "bytes": 1365019,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -489,6 +753,17 @@
   "stats_snapshot": {
    "views": 41771,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ziwenxu-741045/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ziwenxu-741045/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ziwenxu-741045/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 185666,
+   "bytes": 19821740,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -509,6 +784,17 @@
   "stats_snapshot": {
    "views": 40451,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mesmerlord-288692/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mesmerlord-288692/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mesmerlord-288692/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 80000,
+   "bytes": 3433343,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -529,6 +815,17 @@
   "stats_snapshot": {
    "views": 40119,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-055242/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-055242/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-055242/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 89000,
+   "bytes": 11096315,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -549,6 +846,17 @@
   "stats_snapshot": {
    "views": 39539,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-082297/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-082297/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-082297/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 98066,
+   "bytes": 22440315,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -570,6 +878,17 @@
   "stats_snapshot": {
    "views": 35983,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-701214/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-701214/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-701214/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 156650,
+   "bytes": 25975793,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -590,6 +909,17 @@
   "stats_snapshot": {
    "views": 25251,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/saccc-c-761094/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/saccc-c-761094/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/saccc-c-761094/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3266958,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -610,6 +940,17 @@
   "stats_snapshot": {
    "views": 24104,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-978867/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-978867/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-978867/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 38400,
+   "bytes": 10742656,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -630,6 +971,17 @@
   "stats_snapshot": {
    "views": 23427,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-599730/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-599730/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-599730/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 180000,
+   "bytes": 20228919,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -650,6 +1002,17 @@
   "stats_snapshot": {
    "views": 23216,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-641241/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-641241/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-641241/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 36533,
+   "bytes": 1755658,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -670,6 +1033,17 @@
   "stats_snapshot": {
    "views": 22834,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-710023/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-710023/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-710023/poster.jpg",
+   "width": 1322,
+   "height": 720,
+   "duration_ms": 43873,
+   "bytes": 6202236,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -690,6 +1064,17 @@
   "stats_snapshot": {
    "views": 20436,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spac89-202591/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spac89-202591/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spac89-202591/poster.jpg",
+   "width": 720,
+   "height": 870,
+   "duration_ms": 29333,
+   "bytes": 5397089,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -710,6 +1095,17 @@
   "stats_snapshot": {
    "views": 20419,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-543348/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-543348/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-543348/poster.jpg",
+   "width": 740,
+   "height": 720,
+   "duration_ms": 34537,
+   "bytes": 4805346,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -730,6 +1126,17 @@
   "stats_snapshot": {
    "views": 19588,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/explorax-444396/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/explorax-444396/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/explorax-444396/poster.jpg",
+   "width": 720,
+   "height": 944,
+   "duration_ms": 64600,
+   "bytes": 3326448,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -750,6 +1157,17 @@
   "stats_snapshot": {
    "views": 18640,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/andrewonxyz-395712/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/andrewonxyz-395712/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/andrewonxyz-395712/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 265600,
+   "bytes": 66445107,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -770,6 +1188,17 @@
   "stats_snapshot": {
    "views": 18258,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-655748/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-655748/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-655748/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 120000,
+   "bytes": 19062385,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -790,6 +1219,17 @@
   "stats_snapshot": {
    "views": 18218,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vikktorrrre-588084/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vikktorrrre-588084/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vikktorrrre-588084/poster.jpg",
+   "width": 1610,
+   "height": 720,
+   "duration_ms": 64400,
+   "bytes": 11338683,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -810,6 +1250,17 @@
   "stats_snapshot": {
    "views": 17307,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/emostaque-091943/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/emostaque-091943/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/emostaque-091943/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 58950,
+   "bytes": 9459017,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -830,6 +1281,17 @@
   "stats_snapshot": {
    "views": 14223,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-792415/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-792415/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-792415/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 63950,
+   "bytes": 9302551,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -850,6 +1312,17 @@
   "stats_snapshot": {
    "views": 11546,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-998967/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-998967/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-998967/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 34166,
+   "bytes": 2527361,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -870,6 +1343,17 @@
   "stats_snapshot": {
    "views": 10311,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-474652/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-474652/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-474652/poster.jpg",
+   "width": 1076,
+   "height": 720,
+   "duration_ms": 34048,
+   "bytes": 6943667,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -890,6 +1374,17 @@
   "stats_snapshot": {
    "views": 9899,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-956427/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-956427/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-956427/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 180001,
+   "bytes": 16652713,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -911,6 +1406,17 @@
   "stats_snapshot": {
    "views": 8756,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/oalanicolas-241037/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/oalanicolas-241037/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/oalanicolas-241037/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 88800,
+   "bytes": 11778106,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -931,6 +1437,17 @@
   "stats_snapshot": {
    "views": 8735,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-021549/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-021549/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-021549/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 7102463,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -951,6 +1468,17 @@
   "stats_snapshot": {
    "views": 7063,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maxt3chno-672708/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maxt3chno-672708/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maxt3chno-672708/poster.jpg",
+   "width": 1300,
+   "height": 720,
+   "duration_ms": 118266,
+   "bytes": 28853586,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -971,6 +1499,17 @@
   "stats_snapshot": {
    "views": 6308,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-784118/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-784118/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-784118/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 25033,
+   "bytes": 2374049,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -991,6 +1530,17 @@
   "stats_snapshot": {
    "views": 5133,
    "captured_at": "2026-10-10"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/harshithlucky3-903602/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/harshithlucky3-903602/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/harshithlucky3-903602/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40000,
+   "bytes": 5851792,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -1011,6 +1561,17 @@
   "stats_snapshot": {
    "views": 10119,
    "captured_at": "2026-10-12"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-706221/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-706221/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-706221/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 68650,
+   "bytes": 19893503,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -1028,7 +1589,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/beyondwudan-957122/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/beyondwudan-957122/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/beyondwudan-957122/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 48000,
+   "bytes": 5869429,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-462070",
@@ -1048,6 +1620,17 @@
   "stats_snapshot": {
    "views": 37701,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-462070/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-462070/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-462070/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 578133,
+   "bytes": 41514724,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -1064,7 +1647,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-345211/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-345211/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-345211/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 133800,
+   "bytes": 10496919,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-960144",
@@ -1080,7 +1674,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-960144/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-960144/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-960144/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 131500,
+   "bytes": 10174732,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "thomas-jorgen-408349",
@@ -1096,7 +1701,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/thomas-jorgen-408349/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/thomas-jorgen-408349/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/thomas-jorgen-408349/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40341,
+   "bytes": 7237996,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "ishuagra02-604925",
@@ -1112,7 +1728,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-604925/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-604925/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ishuagra02-604925/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 57733,
+   "bytes": 3233954,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-449392",
@@ -1128,7 +1755,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-449392/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-449392/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-449392/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 49500,
+   "bytes": 3751054,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "jaydendavisnc-870617",
@@ -1149,6 +1787,17 @@
   "stats_snapshot": {
    "views": 290869,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-870617/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-870617/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-870617/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 16500,
+   "bytes": 2245467,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -1165,7 +1814,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-318838/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-318838/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-318838/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2205698,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "wokidev-511754",
@@ -1181,7 +1841,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/wokidev-511754/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/wokidev-511754/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/wokidev-511754/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1044320,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "congcongtang-846301",
@@ -1213,7 +1884,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/syskasof-547945/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/syskasof-547945/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/syskasof-547945/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 74640,
+   "bytes": 3360011,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "jaydendavisnc-788537",
@@ -1229,7 +1911,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-788537/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-788537/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-788537/poster.jpg",
+   "width": 1076,
+   "height": 720,
+   "duration_ms": 20650,
+   "bytes": 2773795,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-323550",
@@ -1249,6 +1942,17 @@
   "stats_snapshot": {
    "views": 26155,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-323550/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-323550/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-323550/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 4659460,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -1265,7 +1969,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-945180/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-945180/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-945180/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 57500,
+   "bytes": 5228893,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "blushneyy-928305",
@@ -1281,7 +1996,18 @@
   ],
   "prompt": "make a motion design for vizzbees",
   "prompt_partial": false,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blushneyy-928305/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blushneyy-928305/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blushneyy-928305/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 64042,
+   "bytes": 9426878,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "noreply134882-957013",
@@ -1297,7 +2023,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/noreply134882-957013/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/noreply134882-957013/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/noreply134882-957013/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 68000,
+   "bytes": 6768874,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "aisuperdomain-226720",
@@ -1313,7 +2050,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-226720/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-226720/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-226720/poster.jpg",
+   "width": 1146,
+   "height": 720,
+   "duration_ms": 16245,
+   "bytes": 2218119,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "turbonexic-835934",
@@ -1329,7 +2077,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/turbonexic-835934/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/turbonexic-835934/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/turbonexic-835934/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30000,
+   "bytes": 6272718,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-730419",
@@ -1345,7 +2104,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-730419/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-730419/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-730419/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 70400,
+   "bytes": 12833589,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "cocoloba-970458",
@@ -1378,7 +2148,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-330750/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-330750/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-330750/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 59000,
+   "bytes": 1905097,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "olddonkeyblog-403485",
@@ -1395,7 +2176,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-403485/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-403485/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-403485/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 32000,
+   "bytes": 1794397,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "olddonkeyblog-756165",
@@ -1411,7 +2203,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-756165/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-756165/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/olddonkeyblog-756165/poster.jpg",
+   "width": 1028,
+   "height": 720,
+   "duration_ms": 24000,
+   "bytes": 1707652,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "dassetbuzz-592838",
@@ -1427,7 +2230,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dassetbuzz-592838/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dassetbuzz-592838/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dassetbuzz-592838/poster.jpg",
+   "width": 1126,
+   "height": 720,
+   "duration_ms": 29453,
+   "bytes": 3752631,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-197771",
@@ -1443,7 +2257,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-197771/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-197771/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-197771/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 256500,
+   "bytes": 15453817,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "jaydendavisnc-822008",
@@ -1459,7 +2284,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-822008/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-822008/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/jaydendavisnc-822008/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 85333,
+   "bytes": 7934802,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "0xashtonx-914423",
@@ -1475,7 +2311,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/0xashtonx-914423/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/0xashtonx-914423/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/0xashtonx-914423/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40000,
+   "bytes": 3283360,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "mathisbuilds-418097",
@@ -1491,7 +2338,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mathisbuilds-418097/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mathisbuilds-418097/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mathisbuilds-418097/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 86250,
+   "bytes": 12007772,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "aisuperdomain-526445",
@@ -1507,7 +2365,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-526445/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-526445/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-526445/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2236575,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "aisuperdomain-360272",
@@ -1523,7 +2392,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-360272/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-360272/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/aisuperdomain-360272/poster.jpg",
+   "width": 1274,
+   "height": 720,
+   "duration_ms": 16183,
+   "bytes": 3026958,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "hungryturbo-019904",
@@ -1539,7 +2419,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/hungryturbo-019904/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/hungryturbo-019904/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/hungryturbo-019904/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 128522,
+   "bytes": 9799506,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "hungryturbo-695508",
@@ -1555,7 +2446,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/hungryturbo-695508/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/hungryturbo-695508/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/hungryturbo-695508/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 132051,
+   "bytes": 14940110,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "badboyfoxy-387799",
@@ -1571,7 +2473,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-387799/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-387799/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-387799/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 142000,
+   "bytes": 20726517,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "ckmichael8-878248",
@@ -1603,7 +2516,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-276065/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-276065/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-276065/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 100800,
+   "bytes": 7953654,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "synthshareai-446028",
@@ -1619,7 +2543,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/synthshareai-446028/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/synthshareai-446028/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/synthshareai-446028/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 12351,
+   "bytes": 1283573,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-097663",
@@ -1635,7 +2570,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-097663/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-097663/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-097663/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 94000,
+   "bytes": 17308344,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "layton-gott-035096",
@@ -1651,7 +2597,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/layton-gott-035096/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/layton-gott-035096/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/layton-gott-035096/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25800,
+   "bytes": 2775663,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "nroze22-381661",
@@ -1667,7 +2624,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/nroze22-381661/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/nroze22-381661/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/nroze22-381661/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 22033,
+   "bytes": 2353278,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "yanqingcheng-269728",
@@ -1684,7 +2652,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/yanqingcheng-269728/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/yanqingcheng-269728/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/yanqingcheng-269728/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 200280,
+   "bytes": 13463370,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "maciejkrupowies-338850",
@@ -1700,7 +2679,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maciejkrupowies-338850/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maciejkrupowies-338850/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maciejkrupowies-338850/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 128166,
+   "bytes": 16041552,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "noreply134882-478746",
@@ -1716,7 +2706,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/noreply134882-478746/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/noreply134882-478746/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/noreply134882-478746/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 97000,
+   "bytes": 9798055,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "devswha-114186",
@@ -1732,7 +2733,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devswha-114186/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devswha-114186/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devswha-114186/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 8040245,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "cherry-mx-reds-447590",
@@ -1748,7 +2760,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-447590/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-447590/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cherry-mx-reds-447590/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 15000,
+   "bytes": 1600298,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "cocoloba-772413",
@@ -1764,7 +2787,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cocoloba-772413/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cocoloba-772413/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cocoloba-772413/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 72800,
+   "bytes": 15318706,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "mszzz0011-853642",
@@ -1780,7 +2814,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mszzz0011-853642/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mszzz0011-853642/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mszzz0011-853642/poster.jpg",
+   "width": 1092,
+   "height": 616,
+   "duration_ms": 17710,
+   "bytes": 1419175,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "iancarscadden-789360",
@@ -1796,7 +2841,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/iancarscadden-789360/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/iancarscadden-789360/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/iancarscadden-789360/poster.jpg",
+   "width": 720,
+   "height": 1564,
+   "duration_ms": 15048,
+   "bytes": 1825915,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "xodud-rkd-950161",
@@ -1812,7 +2868,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/xodud-rkd-950161/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/xodud-rkd-950161/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/xodud-rkd-950161/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 100008,
+   "bytes": 25217870,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "eviljoker88-005816",
@@ -1828,7 +2895,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/eviljoker88-005816/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/eviljoker88-005816/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/eviljoker88-005816/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 373900,
+   "bytes": 38881478,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "l-mejiac-360673",
@@ -1844,7 +2922,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/l-mejiac-360673/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/l-mejiac-360673/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/l-mejiac-360673/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 202000,
+   "bytes": 32700294,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "maciejkrupowies-321785",
@@ -1860,7 +2949,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maciejkrupowies-321785/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maciejkrupowies-321785/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/maciejkrupowies-321785/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 45566,
+   "bytes": 5568135,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "robiw-dev-476225",
@@ -1876,7 +2976,18 @@
   ],
   "prompt": "I'd like a motion design video to present on X for our update to paracortex terminal and pi 1.0\n25 seconds should do and I'm giving you free range for what it shows, how it shows it and what to highlight and what to merely mention\nmake it lively",
   "prompt_partial": false,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/robiw-dev-476225/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/robiw-dev-476225/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/robiw-dev-476225/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25000,
+   "bytes": 2400822,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "scrappy-4-661167",
@@ -1893,7 +3004,18 @@
   ],
   "prompt": "Create a cool 15s playable animation with pure js",
   "prompt_partial": false,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scrappy-4-661167/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scrappy-4-661167/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scrappy-4-661167/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3518710,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "scrappy-4-560379",
@@ -1909,7 +3031,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scrappy-4-560379/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scrappy-4-560379/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scrappy-4-560379/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 30000,
+   "bytes": 484030,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "imjustnewatai-084841",
@@ -1925,7 +3058,18 @@
   ],
   "prompt": "Recreate the hit arcade game Dig Dug 1:1 as it is in the arcade. Make it as exact as possible. Implement as many features as possible (from music to visuals to EVERYTHING) Use anything and everything to make this game as similar and good as possible. Create it in an HTML file.",
   "prompt_partial": false,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-084841/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-084841/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-084841/poster.jpg",
+   "width": 720,
+   "height": 924,
+   "duration_ms": 61833,
+   "bytes": 3357687,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "l-mejiac-850793",
@@ -1941,7 +3085,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/l-mejiac-850793/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/l-mejiac-850793/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/l-mejiac-850793/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 73800,
+   "bytes": 7699632,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "tonytonggg-754036",
@@ -1957,7 +3112,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-13"
+  "added": "2026-10-13",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/tonytonggg-754036/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/tonytonggg-754036/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/tonytonggg-754036/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20000,
+   "bytes": 894463,
+   "synced_at": "2026-10-15"
+  }
  },
  {
   "slug": "mozetech-983710",
@@ -1977,6 +3143,17 @@
   "stats_snapshot": {
    "views": 1725611,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mozetech-983710/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mozetech-983710/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/mozetech-983710/poster.jpg",
+   "width": 1080,
+   "height": 720,
+   "duration_ms": 158866,
+   "bytes": 14115031,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -1997,6 +3174,17 @@
   "stats_snapshot": {
    "views": 774871,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/anshuc-075488/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/anshuc-075488/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/anshuc-075488/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 46588,
+   "bytes": 12117903,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2017,6 +3205,17 @@
   "stats_snapshot": {
    "views": 255295,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-275680/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-275680/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-275680/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 4440911,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2037,6 +3236,17 @@
   "stats_snapshot": {
    "views": 234768,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-489436/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-489436/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-489436/poster.jpg",
+   "width": 720,
+   "height": 910,
+   "duration_ms": 18000,
+   "bytes": 2018168,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2057,6 +3267,17 @@
   "stats_snapshot": {
    "views": 189739,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/superalesha-109624/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/superalesha-109624/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/superalesha-109624/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15022,
+   "bytes": 3658861,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2077,6 +3298,17 @@
   "stats_snapshot": {
    "views": 133042,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-016076/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-016076/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/vib3coded-016076/poster.jpg",
+   "width": 720,
+   "height": 910,
+   "duration_ms": 17000,
+   "bytes": 1995437,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2097,6 +3329,17 @@
   "stats_snapshot": {
    "views": 84194,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/oalanicolas-936679/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/oalanicolas-936679/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/oalanicolas-936679/poster.jpg",
+   "width": 1426,
+   "height": 720,
+   "duration_ms": 109585,
+   "bytes": 19981363,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2117,6 +3360,17 @@
   "stats_snapshot": {
    "views": 66479,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/m-ferreira28-788429/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/m-ferreira28-788429/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/m-ferreira28-788429/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 33500,
+   "bytes": 4554963,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2137,6 +3391,17 @@
   "stats_snapshot": {
    "views": 65548,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-664708/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-664708/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/blueemi99-664708/poster.jpg",
+   "width": 1008,
+   "height": 720,
+   "duration_ms": 79000,
+   "bytes": 3987091,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2157,6 +3422,17 @@
   "stats_snapshot": {
    "views": 61030,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/testingcatalog-377583/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/testingcatalog-377583/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/testingcatalog-377583/poster.jpg",
+   "width": 1396,
+   "height": 720,
+   "duration_ms": 28542,
+   "bytes": 7397874,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2177,6 +3453,17 @@
   "stats_snapshot": {
    "views": 59857,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/justin-lords-345660/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/justin-lords-345660/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/justin-lords-345660/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 323300,
+   "bytes": 18797027,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2197,6 +3484,17 @@
   "stats_snapshot": {
    "views": 56036,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dr-cintas-559974/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dr-cintas-559974/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dr-cintas-559974/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 21504,
+   "bytes": 1042397,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2217,6 +3515,17 @@
   "stats_snapshot": {
    "views": 46253,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/andrewonxyz-544435/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/andrewonxyz-544435/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/andrewonxyz-544435/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 156000,
+   "bytes": 20790747,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2237,6 +3546,17 @@
   "stats_snapshot": {
    "views": 43523,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/karanc-12-311765/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/karanc-12-311765/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/karanc-12-311765/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 82293,
+   "bytes": 6816114,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2257,6 +3577,17 @@
   "stats_snapshot": {
    "views": 37457,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spakhm-738228/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spakhm-738228/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/spakhm-738228/poster.jpg",
+   "width": 1080,
+   "height": 720,
+   "duration_ms": 8000,
+   "bytes": 547571,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2278,6 +3609,17 @@
   "stats_snapshot": {
    "views": 28646,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-933951/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-933951/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/notjazii-933951/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 43766,
+   "bytes": 5996273,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2298,6 +3640,17 @@
   "stats_snapshot": {
    "views": 29986,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ann-nnng-711057/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ann-nnng-711057/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/ann-nnng-711057/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 16000,
+   "bytes": 2151248,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2319,6 +3672,17 @@
   "stats_snapshot": {
    "views": 28279,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/artificialanlys-885209/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/artificialanlys-885209/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/artificialanlys-885209/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 39600,
+   "bytes": 3105298,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2341,6 +3705,17 @@
   "stats_snapshot": {
    "views": 25485,
    "captured_at": "2026-10-13"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chrisgpt-649086/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chrisgpt-649086/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chrisgpt-649086/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 75600,
+   "bytes": 11282061,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2361,6 +3736,17 @@
   "stats_snapshot": {
    "views": 700682,
    "captured_at": "2026-10-14"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/kirillk-web3-319580/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/kirillk-web3-319580/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/kirillk-web3-319580/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 68526,
+   "bytes": 6413733,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2381,6 +3767,17 @@
   "stats_snapshot": {
    "views": 24202,
    "captured_at": "2026-10-14"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-286005/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-286005/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-286005/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20000,
+   "bytes": 2849212,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2401,6 +3798,17 @@
   "stats_snapshot": {
    "views": 69171,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/campbellkaleb23-259487/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/campbellkaleb23-259487/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/campbellkaleb23-259487/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25123,
+   "bytes": 6068387,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2421,6 +3829,17 @@
   "stats_snapshot": {
    "views": 60424,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-193174/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-193174/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-193174/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 302000,
+   "bytes": 45244721,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -2441,6 +3860,17 @@
   "stats_snapshot": {
    "views": 50774,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-453187/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-453187/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/imjustnewatai-453187/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 133000,
+   "bytes": 10148375,
+   "synced_at": "2026-10-15"
   }
  },
  {
@@ -9632,6 +11062,17 @@
   "stats_snapshot": {
    "views": 456490,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/majidmanzarpour-927543/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/majidmanzarpour-927543/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/majidmanzarpour-927543/poster.jpg",
+   "width": 872,
+   "height": 720,
+   "duration_ms": 11225,
+   "bytes": 691098,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9652,6 +11093,17 @@
   "stats_snapshot": {
    "views": 450170,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nft-chen-323300/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nft-chen-323300/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nft-chen-323300/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 4304259,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9672,6 +11124,17 @@
   "stats_snapshot": {
    "views": 446965,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dilumsanjaya-127597/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dilumsanjaya-127597/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dilumsanjaya-127597/poster.jpg",
+   "width": 1250,
+   "height": 720,
+   "duration_ms": 78668,
+   "bytes": 11474805,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9692,6 +11155,17 @@
   "stats_snapshot": {
    "views": 444068,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vib3coded-907467/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vib3coded-907467/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vib3coded-907467/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 18496,
+   "bytes": 2004446,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9712,6 +11186,17 @@
   "stats_snapshot": {
    "views": 436085,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hayashimon1-453454/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hayashimon1-453454/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hayashimon1-453454/poster.jpg",
+   "width": 1514,
+   "height": 720,
+   "duration_ms": 14933,
+   "bytes": 4122344,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9732,6 +11217,17 @@
   "stats_snapshot": {
    "views": 435182,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/8co28-370781/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/8co28-370781/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/8co28-370781/poster.jpg",
+   "width": 720,
+   "height": 1564,
+   "duration_ms": 106098,
+   "bytes": 8197590,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9752,6 +11248,17 @@
   "stats_snapshot": {
    "views": 433074,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-066646/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-066646/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-066646/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 34000,
+   "bytes": 8643533,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9772,6 +11279,17 @@
   "stats_snapshot": {
    "views": 427252,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gauravsbuilding-711402/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gauravsbuilding-711402/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gauravsbuilding-711402/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3190348,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9792,6 +11310,17 @@
   "stats_snapshot": {
    "views": 424545,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ivanainai-099545/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ivanainai-099545/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ivanainai-099545/poster.jpg",
+   "width": 1380,
+   "height": 620,
+   "duration_ms": 15000,
+   "bytes": 274227,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9812,6 +11341,17 @@
   "stats_snapshot": {
    "views": 421048,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rubzem-230926/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rubzem-230926/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/rubzem-230926/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 269746,
+   "bytes": 56650004,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9832,6 +11372,17 @@
   "stats_snapshot": {
    "views": 420241,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vib3coded-970308/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vib3coded-970308/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vib3coded-970308/poster.jpg",
+   "width": 720,
+   "height": 922,
+   "duration_ms": 18000,
+   "bytes": 1679832,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9852,6 +11403,17 @@
   "stats_snapshot": {
    "views": 418917,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/addyosmani-580159/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/addyosmani-580159/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/addyosmani-580159/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 91416,
+   "bytes": 20741238,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9872,6 +11434,17 @@
   "stats_snapshot": {
    "views": 417118,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thermalpastor-458567/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thermalpastor-458567/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thermalpastor-458567/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1868597,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9892,6 +11465,17 @@
   "stats_snapshot": {
    "views": 412828,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nicksaraev-233606/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nicksaraev-233606/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nicksaraev-233606/poster.jpg",
+   "width": 640,
+   "height": 360,
+   "duration_ms": 1406166,
+   "bytes": 75657211,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9912,6 +11496,17 @@
   "stats_snapshot": {
    "views": 412450,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pleometric-354900/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pleometric-354900/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pleometric-354900/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 47000,
+   "bytes": 4530606,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9932,6 +11527,17 @@
   "stats_snapshot": {
    "views": 400790,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/victortaelin-749982/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/victortaelin-749982/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/victortaelin-749982/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 89600,
+   "bytes": 5627770,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9952,6 +11558,17 @@
   "stats_snapshot": {
    "views": 394542,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/edwinarbus-979794/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/edwinarbus-979794/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/edwinarbus-979794/poster.jpg",
+   "width": 900,
+   "height": 720,
+   "duration_ms": 59966,
+   "bytes": 11124238,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9972,6 +11589,17 @@
   "stats_snapshot": {
    "views": 393713,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/okota-tsu-718882/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/okota-tsu-718882/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/okota-tsu-718882/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 37000,
+   "bytes": 2215875,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -9992,6 +11620,17 @@
   "stats_snapshot": {
    "views": 387330,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrewonxyz-009818/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrewonxyz-009818/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrewonxyz-009818/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 239381,
+   "bytes": 18288105,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10012,6 +11651,17 @@
   "stats_snapshot": {
    "views": 385897,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/grmchn4ai-388538/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/grmchn4ai-388538/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/grmchn4ai-388538/poster.jpg",
+   "width": 430,
+   "height": 860,
+   "duration_ms": 53366,
+   "bytes": 5986181,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10032,6 +11682,17 @@
   "stats_snapshot": {
    "views": 380364,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aicreataro-221819/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aicreataro-221819/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aicreataro-221819/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 32375,
+   "bytes": 7619464,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10052,6 +11713,17 @@
   "stats_snapshot": {
    "views": 377481,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgemindai-866021/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgemindai-866021/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgemindai-866021/poster.jpg",
+   "width": 1398,
+   "height": 720,
+   "duration_ms": 52350,
+   "bytes": 14355443,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10072,6 +11744,17 @@
   "stats_snapshot": {
    "views": 374979,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/shfred0-236158/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/shfred0-236158/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/shfred0-236158/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 30171,
+   "bytes": 3714085,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10092,6 +11775,17 @@
   "stats_snapshot": {
    "views": 373733,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/scheemunai-598633/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/scheemunai-598633/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/scheemunai-598633/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 87294,
+   "bytes": 7105169,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10112,6 +11806,17 @@
   "stats_snapshot": {
    "views": 373160,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/matthewberman-195539/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/matthewberman-195539/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/matthewberman-195539/poster.jpg",
+   "width": 1174,
+   "height": 720,
+   "duration_ms": 53501,
+   "bytes": 5830892,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10132,6 +11837,17 @@
   "stats_snapshot": {
    "views": 370062,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mehulmpt-341990/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mehulmpt-341990/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mehulmpt-341990/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 62856,
+   "bytes": 12138945,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10152,6 +11868,17 @@
   "stats_snapshot": {
    "views": 369859,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fayazara-896758/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fayazara-896758/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fayazara-896758/poster.jpg",
+   "width": 1112,
+   "height": 720,
+   "duration_ms": 28216,
+   "bytes": 732671,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10172,6 +11899,17 @@
   "stats_snapshot": {
    "views": 367289,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yasei-no-otoko-058933/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yasei-no-otoko-058933/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yasei-no-otoko-058933/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 167166,
+   "bytes": 45667090,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10192,6 +11930,17 @@
   "stats_snapshot": {
    "views": 362147,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-508316/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-508316/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-508316/poster.jpg",
+   "width": 1196,
+   "height": 720,
+   "duration_ms": 32900,
+   "bytes": 3395254,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10212,6 +11961,17 @@
   "stats_snapshot": {
    "views": 350085,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-859685/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-859685/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-859685/poster.jpg",
+   "width": 1298,
+   "height": 720,
+   "duration_ms": 23950,
+   "bytes": 5830617,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10232,6 +11992,17 @@
   "stats_snapshot": {
    "views": 349151,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/soyukke-game-493045/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/soyukke-game-493045/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/soyukke-game-493045/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 18733,
+   "bytes": 5303143,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10252,6 +12023,17 @@
   "stats_snapshot": {
    "views": 349032,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deedydas-252537/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deedydas-252537/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deedydas-252537/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 26000,
+   "bytes": 2095764,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10272,6 +12054,17 @@
   "stats_snapshot": {
    "views": 340533,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sab8a-578399/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sab8a-578399/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sab8a-578399/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 60200,
+   "bytes": 4397502,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10292,6 +12085,17 @@
   "stats_snapshot": {
    "views": 337702,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/prasenx-911838/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/prasenx-911838/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/prasenx-911838/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 320200,
+   "bytes": 78710586,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10312,6 +12116,17 @@
   "stats_snapshot": {
    "views": 333603,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lucian-03-260830/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lucian-03-260830/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lucian-03-260830/poster.jpg",
+   "width": 720,
+   "height": 840,
+   "duration_ms": 48566,
+   "bytes": 10530219,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10332,6 +12147,17 @@
   "stats_snapshot": {
    "views": 333355,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deedydas-350646/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deedydas-350646/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/deedydas-350646/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 518954,
+   "bytes": 18003475,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10352,6 +12178,17 @@
   "stats_snapshot": {
    "views": 328922,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-018434/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-018434/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/techartist-018434/poster.jpg",
+   "width": 1086,
+   "height": 720,
+   "duration_ms": 19100,
+   "bytes": 2418321,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10372,6 +12209,17 @@
   "stats_snapshot": {
    "views": 325672,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lattice-node-249487/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lattice-node-249487/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lattice-node-249487/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 41621,
+   "bytes": 2802536,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10392,6 +12240,17 @@
   "stats_snapshot": {
    "views": 325331,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/eta1ia-077923/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/eta1ia-077923/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/eta1ia-077923/poster.jpg",
+   "width": 720,
+   "height": 1564,
+   "duration_ms": 59141,
+   "bytes": 9066441,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10412,6 +12271,17 @@
   "stats_snapshot": {
    "views": 322249,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/seveibar-636216/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/seveibar-636216/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/seveibar-636216/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 38041,
+   "bytes": 5385708,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10432,6 +12302,17 @@
   "stats_snapshot": {
    "views": 322134,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mustafaakin-154635/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mustafaakin-154635/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mustafaakin-154635/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 70378,
+   "bytes": 1967196,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10452,6 +12333,17 @@
   "stats_snapshot": {
    "views": 315653,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tetumemo-421285/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tetumemo-421285/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tetumemo-421285/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1700803,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10472,6 +12364,17 @@
   "stats_snapshot": {
    "views": 314319,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leodavincs3-643203/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leodavincs3-643203/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/leodavincs3-643203/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1509006,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10492,6 +12395,17 @@
   "stats_snapshot": {
    "views": 309298,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dylan-ebert-520177/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dylan-ebert-520177/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dylan-ebert-520177/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 10135,
+   "bytes": 1061912,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10512,6 +12426,17 @@
   "stats_snapshot": {
    "views": 305689,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aurelien-gz-758076/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aurelien-gz-758076/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aurelien-gz-758076/poster.jpg",
+   "width": 720,
+   "height": 1148,
+   "duration_ms": 21790,
+   "bytes": 6412974,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10532,6 +12457,17 @@
   "stats_snapshot": {
    "views": 305111,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/avenoxai-160477/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/avenoxai-160477/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/avenoxai-160477/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 192566,
+   "bytes": 12066928,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10552,6 +12488,17 @@
   "stats_snapshot": {
    "views": 303778,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dirtman-287620/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dirtman-287620/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dirtman-287620/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 145500,
+   "bytes": 29754613,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10572,6 +12519,17 @@
   "stats_snapshot": {
    "views": 301099,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/databallr-101512/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/databallr-101512/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/databallr-101512/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2342082,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10593,6 +12551,17 @@
   "stats_snapshot": {
    "views": 299036,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrew-blumson-068922/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrew-blumson-068922/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/andrew-blumson-068922/poster.jpg",
+   "width": 1426,
+   "height": 720,
+   "duration_ms": 125633,
+   "bytes": 30486051,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10613,6 +12582,17 @@
   "stats_snapshot": {
    "views": 295355,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brightmirror-343654/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brightmirror-343654/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/brightmirror-343654/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 377800,
+   "bytes": 89494502,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10633,6 +12613,17 @@
   "stats_snapshot": {
    "views": 293708,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/drecamz-170373/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/drecamz-170373/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/drecamz-170373/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 54250,
+   "bytes": 5199673,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10653,6 +12644,17 @@
   "stats_snapshot": {
    "views": 291563,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/atomic-chat-hq-895265/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/atomic-chat-hq-895265/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/atomic-chat-hq-895265/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10000,
+   "bytes": 1602665,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10673,6 +12675,17 @@
   "stats_snapshot": {
    "views": 291360,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/himanshutwtxs-882858/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/himanshutwtxs-882858/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/himanshutwtxs-882858/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1473359,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10693,6 +12706,17 @@
   "stats_snapshot": {
    "views": 283676,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-301750/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-301750/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-301750/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25000,
+   "bytes": 4968639,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10713,6 +12737,17 @@
   "stats_snapshot": {
    "views": 278463,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgebench-310302/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgebench-310302/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bridgebench-310302/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10000,
+   "bytes": 195313,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10733,6 +12768,17 @@
   "stats_snapshot": {
    "views": 276360,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hindolsengupta-787845/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hindolsengupta-787845/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hindolsengupta-787845/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 291625,
+   "bytes": 10800028,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10753,6 +12799,17 @@
   "stats_snapshot": {
    "views": 274815,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-498783/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-498783/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-498783/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 62133,
+   "bytes": 5191693,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10773,6 +12830,17 @@
   "stats_snapshot": {
    "views": 274579,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sonia-code-503463/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sonia-code-503463/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sonia-code-503463/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 18000,
+   "bytes": 4372278,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10793,6 +12861,17 @@
   "stats_snapshot": {
    "views": 274034,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ryansael-165055/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ryansael-165055/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ryansael-165055/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 36000,
+   "bytes": 2907903,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10813,6 +12892,17 @@
   "stats_snapshot": {
    "views": 269654,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gmi-cloud-501367/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gmi-cloud-501367/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gmi-cloud-501367/poster.jpg",
+   "width": 1412,
+   "height": 720,
+   "duration_ms": 81084,
+   "bytes": 23683865,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10833,6 +12923,17 @@
   "stats_snapshot": {
    "views": 266564,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alexalbert-879448/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alexalbert-879448/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alexalbert-879448/poster.jpg",
+   "width": 1074,
+   "height": 720,
+   "duration_ms": 22471,
+   "bytes": 874041,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10853,6 +12954,17 @@
   "stats_snapshot": {
    "views": 266481,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/abxxai-337530/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/abxxai-337530/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/abxxai-337530/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 19033,
+   "bytes": 2895811,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10873,6 +12985,17 @@
   "stats_snapshot": {
    "views": 263968,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/johncodunayo-701686/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/johncodunayo-701686/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/johncodunayo-701686/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 23573,
+   "bytes": 2592613,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10893,6 +13016,17 @@
   "stats_snapshot": {
    "views": 258380,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alin-zone-508947/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alin-zone-508947/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alin-zone-508947/poster.jpg",
+   "width": 1110,
+   "height": 720,
+   "duration_ms": 53733,
+   "bytes": 10568351,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10913,6 +13047,17 @@
   "stats_snapshot": {
    "views": 256649,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/quadcode-ai-128846/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/quadcode-ai-128846/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/quadcode-ai-128846/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25024,
+   "bytes": 5271173,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10933,6 +13078,17 @@
   "stats_snapshot": {
    "views": 256575,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aurelien-gz-987591/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aurelien-gz-987591/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aurelien-gz-987591/poster.jpg",
+   "width": 948,
+   "height": 720,
+   "duration_ms": 26833,
+   "bytes": 8148262,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10953,6 +13109,17 @@
   "stats_snapshot": {
    "views": 256139,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/poolio-248145/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/poolio-248145/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/poolio-248145/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 80216,
+   "bytes": 5668216,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10973,6 +13140,17 @@
   "stats_snapshot": {
    "views": 254262,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lattice-node-389840/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lattice-node-389840/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lattice-node-389840/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 34000,
+   "bytes": 1495003,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -10993,6 +13171,17 @@
   "stats_snapshot": {
    "views": 248260,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pracosm-745459/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pracosm-745459/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/pracosm-745459/poster.jpg",
+   "width": 1146,
+   "height": 720,
+   "duration_ms": 53616,
+   "bytes": 10698578,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11013,6 +13202,17 @@
   "stats_snapshot": {
    "views": 246046,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-274244/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-274244/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-274244/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 97366,
+   "bytes": 25089324,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11033,6 +13233,17 @@
   "stats_snapshot": {
    "views": 245049,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/riku720720-063144/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/riku720720-063144/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/riku720720-063144/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 18800,
+   "bytes": 2137539,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11053,6 +13264,17 @@
   "stats_snapshot": {
    "views": 243727,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thehunterbohm-566388/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thehunterbohm-566388/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thehunterbohm-566388/poster.jpg",
+   "width": 1920,
+   "height": 660,
+   "duration_ms": 20000,
+   "bytes": 1781690,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11073,6 +13295,17 @@
   "stats_snapshot": {
    "views": 243167,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petergostev-898433/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petergostev-898433/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/petergostev-898433/poster.jpg",
+   "width": 1316,
+   "height": 720,
+   "duration_ms": 57833,
+   "bytes": 16496249,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11093,6 +13326,17 @@
   "stats_snapshot": {
    "views": 242632,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/k2sbhai-061481/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/k2sbhai-061481/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/k2sbhai-061481/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 32500,
+   "bytes": 8965518,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11113,6 +13357,17 @@
   "stats_snapshot": {
    "views": 235356,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/buildwithsid-900830/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/buildwithsid-900830/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/buildwithsid-900830/poster.jpg",
+   "width": 1138,
+   "height": 720,
+   "duration_ms": 70659,
+   "bytes": 17029914,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11133,6 +13388,17 @@
   "stats_snapshot": {
    "views": 231145,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jsnnsa-194151/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jsnnsa-194151/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/jsnnsa-194151/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 38250,
+   "bytes": 10368619,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11153,6 +13419,17 @@
   "stats_snapshot": {
    "views": 230138,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiplus-aischool-070563/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiplus-aischool-070563/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiplus-aischool-070563/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60000,
+   "bytes": 3916790,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11173,6 +13450,17 @@
   "stats_snapshot": {
    "views": 228639,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dropout-layer-070955/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dropout-layer-070955/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dropout-layer-070955/poster.jpg",
+   "width": 1920,
+   "height": 720,
+   "duration_ms": 45000,
+   "bytes": 11317839,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11193,6 +13481,17 @@
   "stats_snapshot": {
    "views": 228552,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiehon-aya-419005/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiehon-aya-419005/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aiehon-aya-419005/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3371176,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11213,6 +13512,17 @@
   "stats_snapshot": {
    "views": 227302,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tapehead-lab-753595/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tapehead-lab-753595/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tapehead-lab-753595/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 222541,
+   "bytes": 52531903,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11233,6 +13543,17 @@
   "stats_snapshot": {
    "views": 226733,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wesbos-277027/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wesbos-277027/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/wesbos-277027/poster.jpg",
+   "width": 850,
+   "height": 720,
+   "duration_ms": 18233,
+   "bytes": 1682528,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11253,6 +13574,17 @@
   "stats_snapshot": {
    "views": 224409,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lucakvlr-888065/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lucakvlr-888065/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/lucakvlr-888065/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 22933,
+   "bytes": 6954167,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11273,6 +13605,17 @@
   "stats_snapshot": {
    "views": 224387,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-ai-161644/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-ai-161644/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-ai-161644/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 13440,
+   "bytes": 1781782,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11293,6 +13636,17 @@
   "stats_snapshot": {
    "views": 223296,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/devteamdrew-744578/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/devteamdrew-744578/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/devteamdrew-744578/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 58566,
+   "bytes": 9035589,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11313,6 +13667,17 @@
   "stats_snapshot": {
    "views": 219761,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-017293/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-017293/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-017293/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 257183,
+   "bytes": 34994408,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11333,6 +13698,17 @@
   "stats_snapshot": {
    "views": 219327,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hajimetwi3-753464/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hajimetwi3-753464/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hajimetwi3-753464/poster.jpg",
+   "width": 1148,
+   "height": 720,
+   "duration_ms": 121766,
+   "bytes": 23588615,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11353,6 +13729,17 @@
   "stats_snapshot": {
    "views": 217825,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fawnunwrap-283942/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fawnunwrap-283942/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/fawnunwrap-283942/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 97000,
+   "bytes": 19740816,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11373,6 +13760,17 @@
   "stats_snapshot": {
    "views": 217068,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/addyosmani-110327/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/addyosmani-110327/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/addyosmani-110327/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40000,
+   "bytes": 4675012,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11393,6 +13791,17 @@
   "stats_snapshot": {
    "views": 216820,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxt3chno-115462/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxt3chno-115462/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxt3chno-115462/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 127872,
+   "bytes": 30800764,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11413,6 +13822,17 @@
   "stats_snapshot": {
    "views": 211573,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/filicroval-938034/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/filicroval-938034/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/filicroval-938034/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 62345,
+   "bytes": 12317248,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11433,6 +13853,17 @@
   "stats_snapshot": {
    "views": 207142,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/trymirage-677373/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/trymirage-677373/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/trymirage-677373/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 32000,
+   "bytes": 3513023,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11453,6 +13884,17 @@
   "stats_snapshot": {
    "views": 206348,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vvarrdi-395115/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vvarrdi-395115/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vvarrdi-395115/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 7000,
+   "bytes": 216143,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11473,6 +13915,17 @@
   "stats_snapshot": {
    "views": 204905,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/moguzbulbul-215591/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/moguzbulbul-215591/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/moguzbulbul-215591/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 42028,
+   "bytes": 2746692,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11493,6 +13946,17 @@
   "stats_snapshot": {
    "views": 204855,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tu-u-k-114206/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tu-u-k-114206/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tu-u-k-114206/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 34000,
+   "bytes": 1853072,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11513,6 +13977,17 @@
   "stats_snapshot": {
    "views": 202974,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kimmonismus-575547/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kimmonismus-575547/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kimmonismus-575547/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 180053,
+   "bytes": 13657852,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11533,6 +14008,17 @@
   "stats_snapshot": {
    "views": 201898,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/magnific-964879/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/magnific-964879/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/magnific-964879/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20064,
+   "bytes": 1536136,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11553,6 +14039,17 @@
   "stats_snapshot": {
    "views": 199970,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aj-dev-smith-736141/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aj-dev-smith-736141/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aj-dev-smith-736141/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 190833,
+   "bytes": 17033022,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11573,6 +14070,17 @@
   "stats_snapshot": {
    "views": 199969,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/evolinkai-132694/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/evolinkai-132694/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/evolinkai-132694/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 633769,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11593,6 +14101,17 @@
   "stats_snapshot": {
    "views": 199114,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/skylartkitchen-420843/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/skylartkitchen-420843/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/skylartkitchen-420843/poster.jpg",
+   "width": 720,
+   "height": 740,
+   "duration_ms": 40733,
+   "bytes": 2037069,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11613,6 +14132,17 @@
   "stats_snapshot": {
    "views": 198824,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-078841/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-078841/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/mattshumer-078841/poster.jpg",
+   "width": 1476,
+   "height": 720,
+   "duration_ms": 77500,
+   "bytes": 22386144,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11633,6 +14163,17 @@
   "stats_snapshot": {
    "views": 198554,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/israelfemiojo-481939/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/israelfemiojo-481939/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/israelfemiojo-481939/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 39509,
+   "bytes": 2595179,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11653,6 +14194,17 @@
   "stats_snapshot": {
    "views": 197805,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/matotoushi-999363/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/matotoushi-999363/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/matotoushi-999363/poster.jpg",
+   "width": 1186,
+   "height": 720,
+   "duration_ms": 41261,
+   "bytes": 4458001,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11673,6 +14225,17 @@
   "stats_snapshot": {
    "views": 195966,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-094922/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-094922/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxblade-094922/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 37200,
+   "bytes": 10134568,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11693,6 +14256,17 @@
   "stats_snapshot": {
    "views": 195307,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tdinh-me-740699/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tdinh-me-740699/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/tdinh-me-740699/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1697900,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11713,6 +14287,17 @@
   "stats_snapshot": {
    "views": 194687,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thebuggeddev-919124/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thebuggeddev-919124/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/thebuggeddev-919124/poster.jpg",
+   "width": 1158,
+   "height": 720,
+   "duration_ms": 71326,
+   "bytes": 10139078,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11733,6 +14318,17 @@
   "stats_snapshot": {
    "views": 194134,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-833310/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-833310/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-833310/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 202709,
+   "bytes": 58192750,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11753,6 +14349,17 @@
   "stats_snapshot": {
    "views": 193738,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-screening-117183/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-screening-117183/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-screening-117183/poster.jpg",
+   "width": 720,
+   "height": 820,
+   "duration_ms": 36450,
+   "bytes": 6773102,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11774,6 +14381,17 @@
   "stats_snapshot": {
    "views": 193533,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kevin-t-ngo-274631/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kevin-t-ngo-274631/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/kevin-t-ngo-274631/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 72000,
+   "bytes": 3731912,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11794,6 +14412,17 @@
   "stats_snapshot": {
    "views": 190315,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-522564/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-522564/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/dotey-522564/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 732288,
+   "bytes": 33103680,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11814,6 +14443,17 @@
   "stats_snapshot": {
    "views": 189724,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anthonyriera-305566/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anthonyriera-305566/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anthonyriera-305566/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52800,
+   "bytes": 5021609,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11834,6 +14474,17 @@
   "stats_snapshot": {
    "views": 189086,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/victormustar-919910/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/victormustar-919910/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/victormustar-919910/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 10000,
+   "bytes": 801804,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11854,6 +14505,17 @@
   "stats_snapshot": {
    "views": 188310,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/robinebers-745060/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/robinebers-745060/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/robinebers-745060/poster.jpg",
+   "width": 1112,
+   "height": 720,
+   "duration_ms": 11533,
+   "bytes": 1097077,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11874,6 +14536,17 @@
   "stats_snapshot": {
    "views": 186869,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janecazneau-992264/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janecazneau-992264/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/janecazneau-992264/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 41375,
+   "bytes": 2984961,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11894,6 +14567,17 @@
   "stats_snapshot": {
    "views": 185298,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/2irl4u-755116/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/2irl4u-755116/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/2irl4u-755116/poster.jpg",
+   "width": 1440,
+   "height": 720,
+   "duration_ms": 14666,
+   "bytes": 2131333,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11914,6 +14598,17 @@
   "stats_snapshot": {
    "views": 184346,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/trq212-152162/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/trq212-152162/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/trq212-152162/poster.jpg",
+   "width": 1272,
+   "height": 720,
+   "duration_ms": 95475,
+   "bytes": 5526987,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11934,6 +14629,17 @@
   "stats_snapshot": {
    "views": 182137,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stefan-3d-ai-580091/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stefan-3d-ai-580091/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stefan-3d-ai-580091/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 77043,
+   "bytes": 10826881,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11954,6 +14660,17 @@
   "stats_snapshot": {
    "views": 181792,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nft-chen-336929/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nft-chen-336929/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/nft-chen-336929/poster.jpg",
+   "width": 1202,
+   "height": 720,
+   "duration_ms": 46833,
+   "bytes": 12909879,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11974,6 +14691,17 @@
   "stats_snapshot": {
    "views": 180885,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/op7418-924827/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/op7418-924827/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/op7418-924827/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 50000,
+   "bytes": 5508346,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -11994,6 +14722,17 @@
   "stats_snapshot": {
    "views": 179419,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ego-agent-701188/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ego-agent-701188/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ego-agent-701188/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 32266,
+   "bytes": 3913700,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12014,6 +14753,17 @@
   "stats_snapshot": {
    "views": 179296,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stefan-3d-ai-690835/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stefan-3d-ai-690835/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/stefan-3d-ai-690835/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 49435,
+   "bytes": 7335223,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12034,6 +14784,17 @@
   "stats_snapshot": {
    "views": 176398,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/scheemunai-954935/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/scheemunai-954935/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/scheemunai-954935/poster.jpg",
+   "width": 1276,
+   "height": 628,
+   "duration_ms": 70704,
+   "bytes": 12002078,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12054,6 +14815,17 @@
   "stats_snapshot": {
    "views": 175403,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/motion-conquest-308152/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/motion-conquest-308152/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/motion-conquest-308152/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 16000,
+   "bytes": 1004223,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12074,6 +14846,17 @@
   "stats_snapshot": {
    "views": 174968,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/conorneu-349271/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/conorneu-349271/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/conorneu-349271/poster.jpg",
+   "width": 720,
+   "height": 1562,
+   "duration_ms": 67240,
+   "bytes": 7518289,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12094,6 +14877,17 @@
   "stats_snapshot": {
    "views": 174420,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-dvd6-178199/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-dvd6-178199/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ai-dvd6-178199/poster.jpg",
+   "width": 1022,
+   "height": 720,
+   "duration_ms": 107252,
+   "bytes": 5778851,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12114,6 +14908,17 @@
   "stats_snapshot": {
    "views": 171194,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-347821/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-347821/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bradmillscan-347821/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 329600,
+   "bytes": 33484911,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12134,6 +14939,17 @@
   "stats_snapshot": {
    "views": 169794,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/prashantbyte09-567287/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/prashantbyte09-567287/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/prashantbyte09-567287/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 20053,
+   "bytes": 3303670,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12154,6 +14970,17 @@
   "stats_snapshot": {
    "views": 169758,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bubustd-954264/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bubustd-954264/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bubustd-954264/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 19400,
+   "bytes": 5973459,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12174,6 +15001,17 @@
   "stats_snapshot": {
    "views": 168849,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hanifproduktif-265656/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hanifproduktif-265656/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/hanifproduktif-265656/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 260500,
+   "bytes": 35147015,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12194,6 +15032,17 @@
   "stats_snapshot": {
    "views": 168075,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/cherry-mx-reds-900876/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/cherry-mx-reds-900876/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/cherry-mx-reds-900876/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 2277914,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12214,6 +15063,17 @@
   "stats_snapshot": {
    "views": 167145,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bhavani-00007-763277/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bhavani-00007-763277/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/bhavani-00007-763277/poster.jpg",
+   "width": 720,
+   "height": 958,
+   "duration_ms": 30000,
+   "bytes": 3261074,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12234,6 +15094,17 @@
   "stats_snapshot": {
    "views": 166389,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gsk-444162/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gsk-444162/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gsk-444162/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 3852944,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12254,6 +15125,17 @@
   "stats_snapshot": {
    "views": 165875,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gamefxai-018897/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gamefxai-018897/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/gamefxai-018897/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 168511,
+   "bytes": 33350975,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12274,6 +15156,17 @@
   "stats_snapshot": {
    "views": 164946,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-873225/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-873225/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/akokoi1-873225/poster.jpg",
+   "width": 1284,
+   "height": 720,
+   "duration_ms": 157593,
+   "bytes": 15155486,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12294,6 +15187,17 @@
   "stats_snapshot": {
    "views": 164382,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/joshaeeee-553888/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/joshaeeee-553888/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/joshaeeee-553888/poster.jpg",
+   "width": 720,
+   "height": 724,
+   "duration_ms": 25400,
+   "bytes": 1889764,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12314,6 +15218,17 @@
   "stats_snapshot": {
    "views": 163461,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxt3chno-897781/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxt3chno-897781/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/maxt3chno-897781/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 121500,
+   "bytes": 24713149,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12334,6 +15249,17 @@
   "stats_snapshot": {
    "views": 160901,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anshuc-690273/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anshuc-690273/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/anshuc-690273/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 26282,
+   "bytes": 2091699,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12354,6 +15280,17 @@
   "stats_snapshot": {
    "views": 160000,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aj-dev-smith-570450/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aj-dev-smith-570450/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/aj-dev-smith-570450/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 150333,
+   "bytes": 29101584,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12374,6 +15311,17 @@
   "stats_snapshot": {
    "views": 159784,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alexalbert-274839/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alexalbert-274839/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/alexalbert-274839/poster.jpg",
+   "width": 960,
+   "height": 680,
+   "duration_ms": 7976,
+   "bytes": 1486672,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12394,6 +15342,17 @@
   "stats_snapshot": {
    "views": 157713,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vincentwei93-333314/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vincentwei93-333314/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/vincentwei93-333314/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 224000,
+   "bytes": 14931700,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12414,6 +15373,17 @@
   "stats_snapshot": {
    "views": 157041,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-ai-094124/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-ai-094124/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-ai-094124/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2401895,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12434,6 +15404,17 @@
   "stats_snapshot": {
    "views": 155975,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yukahara1019-698252/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yukahara1019-698252/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/yukahara1019-698252/poster.jpg",
+   "width": 720,
+   "height": 1282,
+   "duration_ms": 182671,
+   "bytes": 9974091,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12454,6 +15435,17 @@
   "stats_snapshot": {
    "views": 155520,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/adityajhajhar12-391180/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/adityajhajhar12-391180/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/adityajhajhar12-391180/poster.jpg",
+   "width": 1132,
+   "height": 574,
+   "duration_ms": 11321,
+   "bytes": 895142,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12474,6 +15466,17 @@
   "stats_snapshot": {
    "views": 154816,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ihayato-026013/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ihayato-026013/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/ihayato-026013/poster.jpg",
+   "width": 1564,
+   "height": 720,
+   "duration_ms": 69031,
+   "bytes": 19918378,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12494,6 +15497,17 @@
   "stats_snapshot": {
    "views": 154429,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/virgilerietsch-291985/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/virgilerietsch-291985/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/virgilerietsch-291985/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15061,
+   "bytes": 1907943,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12514,6 +15528,17 @@
   "stats_snapshot": {
    "views": 154187,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/miguel07code-041170/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/miguel07code-041170/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/miguel07code-041170/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 58261,
+   "bytes": 6733681,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12534,6 +15559,17 @@
   "stats_snapshot": {
    "views": 154009,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/shapelayer-757136/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/shapelayer-757136/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/shapelayer-757136/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 21388,
+   "bytes": 2100243,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -12554,6 +15590,17 @@
   "stats_snapshot": {
    "views": 151583,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/genex-games-981770/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/genex-games-981770/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/genex-games-981770/poster.jpg",
+   "width": 1112,
+   "height": 720,
+   "duration_ms": 28633,
+   "bytes": 4883719,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -47286,6 +50333,17 @@
   "stats_snapshot": {
    "views": 233074,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/stefanogpt-789797/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/stefanogpt-789797/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/stefanogpt-789797/poster.jpg",
+   "width": 720,
+   "height": 738,
+   "duration_ms": 40811,
+   "bytes": 1395298,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -47306,6 +50364,17 @@
   "stats_snapshot": {
    "views": 167646,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/artificialanlys-970576/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/artificialanlys-970576/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/artificialanlys-970576/poster.jpg",
+   "width": 938,
+   "height": 360,
+   "duration_ms": 1800,
+   "bytes": 42703,
+   "synced_at": "2026-10-16"
   }
  },
  {
@@ -47326,6 +50395,17 @@
   "stats_snapshot": {
    "views": 166437,
    "captured_at": "2026-10-15"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/aihubmix-199856/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/aihubmix-199856/preview.mp4",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/aihubmix-199856/poster.jpg",
+   "width": 1680,
+   "height": 720,
+   "duration_ms": 13033,
+   "bytes": 2245428,
+   "synced_at": "2026-10-16"
   }
  },
  {
