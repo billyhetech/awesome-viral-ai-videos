@@ -1,0 +1,10 @@
+{
+ "media": {
+  "key_prefix": "ai-videos",
+  "max_short_side": 720,
+  "max_bytes": 209715200,
+  "max_per_run": 100,
+  "recheck_days": 7,
+  "delay_seconds": 1
+ }
+}

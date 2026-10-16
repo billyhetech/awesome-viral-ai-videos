@@ -1,0 +1,94 @@
+name: media-backfill
+
+# Manual: mirror a list's not-yet-mirrored videos in batches, pushing after
+# every batch so a timeout loses nothing. Mirrors already made for the other
+# lists are reused instead of downloaded again.
+on:
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: "List to backfill"
+        type: choice
+        options:
+          - awesome-viral-ai-videos
+          - awesome-fable5-5-videos
+          - awesome-opus5-5-videos
+          - awesome-gemini4-argon-videos
+          - awesome-gpt6-astra-videos
+        default: awesome-viral-ai-videos
+      max:
+        description: "Most videos to process in this run"
+        default: "3000"
+      batch:
+        description: "Videos per batch (one push each)"
+        default: "150"
+
+concurrency:
+  group: media
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  LISTS: >-
+    awesome-fable5-5-videos awesome-opus5-5-videos
+    awesome-gemini4-argon-videos awesome-gpt6-astra-videos
+  STORAGE_ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
+  STORAGE_BUCKET_NAME: ${{ secrets.STORAGE_BUCKET_NAME }}
+  STORAGE_ACCESS_KEY_ID: ${{ secrets.STORAGE_ACCESS_KEY_ID }}
+  STORAGE_SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET_ACCESS_KEY }}
+  STORAGE_PUBLIC_URL: ${{ secrets.STORAGE_PUBLIC_URL }}
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout the single-model lists
+        env:
+          PAT: ${{ secrets.PUB_REPO_PAT }}
+        run: |
+          for r in $LISTS; do
+            git clone -q "https://x-access-token:${PAT}@github.com/billyhetech/$r.git" "_lists/$r"
+          done
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ensure ffmpeg (preview clips)
+        run: command -v ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+
+      - name: Mirror videos to R2, pushing after every batch
+        env:
+          REPO: ${{ inputs.repo }}
+          MAX: ${{ inputs.max }}
+          BATCH: ${{ inputs.batch }}
+        run: |
+          dir=.; [ "$REPO" != awesome-viral-ai-videos ] && dir="_lists/$REPO"
+          echo "DIR=$dir" >> "$GITHUB_ENV"
+          share=()
+          for d in . $(printf '_lists/%s ' $LISTS); do
+            [ "$d" != "$dir" ] && share+=(--share-from "$d")
+          done
+          left=$MAX
+          while [ "$left" -gt 0 ]; do
+            n=$(( left < BATCH ? left : BATCH ))
+            python media/media_sync.py --repo "$dir" --max "$n" "${share[@]}"
+            msg="$(cat "out/media_commit_message_$REPO.txt")"
+            [ "$msg" = "no changes" ] && break
+            bash scripts/push_repo.sh "$dir" "$msg"
+            share=()   # mirrors from the other lists are copied in the first batch
+            left=$(( left - n ))
+          done
+
+      - name: README poster wall
+        if: always() && env.DIR != ''
+        run: |
+          python media/readme_assets.py --repo "$DIR"
+          bash scripts/push_repo.sh "$DIR" "Refresh the README poster wall"

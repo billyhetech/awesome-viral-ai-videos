@@ -1,0 +1,100 @@
+name: media
+
+# Mirror new videos to our R2 and rebuild the README poster walls of this list
+# and the single-model lists. Runs right after the collector pushes new
+# entries (plus a daily safety run). Lives in this public repo because
+# public-repo Actions minutes are free; the private collector's are capped.
+#
+# Secrets: STORAGE_* (R2), PUB_REPO_PAT (push to the single-model lists),
+# REVALIDATE_SECRET (refresh clawshelf.com). Never triggered by pull requests.
+on:
+  push:
+    branches: [main]
+    paths: [data/videos.json]
+  schedule:
+    - cron: "53 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: media
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # push media blocks back to this repo
+
+env:
+  LISTS: >-
+    awesome-fable5-5-videos awesome-opus5-5-videos
+    awesome-gemini4-argon-videos awesome-gpt6-astra-videos
+  STORAGE_ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
+  STORAGE_BUCKET_NAME: ${{ secrets.STORAGE_BUCKET_NAME }}
+  STORAGE_ACCESS_KEY_ID: ${{ secrets.STORAGE_ACCESS_KEY_ID }}
+  STORAGE_SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET_ACCESS_KEY }}
+  STORAGE_PUBLIC_URL: ${{ secrets.STORAGE_PUBLIC_URL }}
+
+jobs:
+  media:
+    if: github.repository == 'billyhetech/awesome-viral-ai-videos'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout the single-model lists
+        env:
+          PAT: ${{ secrets.PUB_REPO_PAT }}
+        run: |
+          for r in $LISTS; do
+            git clone -q "https://x-access-token:${PAT}@github.com/billyhetech/$r.git" "_lists/$r"
+          done
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ensure ffmpeg (preview clips)
+        run: command -v ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+
+      # This list first, reusing whatever the others already mirrored; then each
+      # single-model list reuses ours (same R2 key), so most download nothing.
+      - name: Mirror videos to our R2
+        run: |
+          share=()
+          for r in $LISTS; do share+=(--share-from "_lists/$r"); done
+          python media/media_sync.py --repo . "${share[@]}"
+          for r in $LISTS; do
+            python media/media_sync.py --repo "_lists/$r" --share-from .
+          done
+
+      - name: README poster walls
+        run: |
+          for d in . $(printf '_lists/%s ' $LISTS); do
+            python media/readme_assets.py --repo "$d" || echo "::warning::poster wall for $d failed"
+          done
+
+      - name: Commit and push (if changed)
+        if: always()
+        run: |
+          for d in . $(printf '_lists/%s ' $LISTS); do
+            name="$(basename "$(cd "$d" && pwd)")"
+            msg="$(cat "out/media_commit_message_$name.txt" 2>/dev/null || echo "no changes")"
+            [ "$msg" = "no changes" ] && msg="Refresh the README poster wall"
+            out="$(bash scripts/push_repo.sh "$d" "$msg" 2>&1)" || { echo "$out"; exit 1; }
+            echo "$name: ${out:-no changes}"
+            [ "$d" = . ] && [ "$out" = pushed ] && echo "PUSHED=1" >> "$GITHUB_ENV"
+          done
+
+      # Our own pushes use GITHUB_TOKEN, which doesn't trigger refresh-site.
+      # (The other lists are pushed with the PAT and refresh through their own.)
+      - name: Refresh clawshelf.com
+        if: always() && env.PUSHED == '1'
+        env:
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          [ -n "$REVALIDATE_SECRET" ] || { echo "REVALIDATE_SECRET not set — skipped"; exit 0; }
+          sleep 310   # raw.githubusercontent.com caches files for up to 5 minutes
+          curl -sS -o /dev/null -w 'HTTP %{http_code}\n' -X POST \
+            -H "Authorization: Bearer $REVALIDATE_SECRET" \
+            "https://clawshelf.vercel.app/api/revalidate?tag=ai-videos" || true
