@@ -14,6 +14,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "videos.json"
+# Written by the collector (readme_assets.py): the animated mosaic at the top.
+README_META = ROOT / "data" / "readme.json"
+
+# Per category, the README shows this many highlights; the rest live on
+# clawshelf.com and in data/videos.json.
+HIGHLIGHTS_PER_CATEGORY = 12
+LATEST_COUNT = 30
 
 REPO_URL = "https://github.com/billyhetech/awesome-viral-ai-videos"
 SUBMIT_URL = REPO_URL + "/issues/new?template=submit-video.yml"
@@ -86,12 +93,10 @@ STRINGS = {
             "every entry links to the creator's original post and, where the creator "
             "shared it, the prompt behind it."
         ),
+        "mosaic_alt": "A wall of viral videos made with AI: games, 3D scenes, explainers and motion graphics",
+        "watch_all": "**[▶ Watch all {n} videos on clawshelf.com]({url})**",
         "models_line": "Models: {links}",
         "satellites_line": "Single-model lists: {links}",
-        "shelf_line": (
-            "💎 Turning the best prompts into ready-to-run skill packs on "
-            "[clawshelf.com]({shelf_url})"
-        ),
         "list_sep": ", ",
         "stats_line": (
             "**{n_videos} videos** across {n_models} models · **{n_prompts} prompts** in "
@@ -99,6 +104,9 @@ STRINGS = {
             "entry links to the creator's original post · [submit a video]({submit_url})"
         ),
         "latest_update": "- Latest update ({date}): {n} videos total",
+        "highlights_note": "- The {k} most viewed per category are highlighted below; tap any video to watch it on clawshelf.com",
+        "see_all": "[▶ See all {n} on clawshelf.com]({url})",
+        "latest_heading": "Latest videos",
         "contents": "Contents",
         "empty_category": "_No entries yet — [submit one]({submit_url})._",
         "prompt_link": "Prompt",
@@ -128,12 +136,10 @@ STRINGS = {
             "代码渲染动画、3D 场景、游戏、短片:每个条目都链接到创作者的原始帖子,"
             "并附上作者公开的 prompt(如有)。"
         ),
+        "mosaic_alt": "AI 爆款视频墙:游戏、3D 场景、讲解动画、动态图形",
+        "watch_all": "**[▶ 在 clawshelf.com 观看全部 {n} 条视频]({url})**",
         "models_line": "模型:{links}",
         "satellites_line": "单模型专集:{links}",
-        "shelf_line": (
-            "💎 正在把最好的 prompt 做成开箱即用的 skill 包:"
-            "[clawshelf.com]({shelf_url})"
-        ),
         "list_sep": "、",
         "stats_line": (
             "共 **{n_videos} 条视频**、{n_models} 个模型 · [`prompts/`](prompts/) 与 "
@@ -141,6 +147,9 @@ STRINGS = {
             "每个条目均链接原帖并署名 · [提交视频]({submit_url})"
         ),
         "latest_update": "- 最近更新({date}):共 {n} 条",
+        "highlights_note": "- 下方每个分类展示播放量最高的 {k} 条;点击视频即可在 clawshelf.com 观看",
+        "see_all": "[▶ 在 clawshelf.com 查看全部 {n} 条]({url})",
+        "latest_heading": "最新收录",
         "contents": "目录",
         "empty_category": "_还没有收录 —— [来提交第一个]({submit_url})。_",
         "prompt_link": "提示词",
@@ -196,20 +205,50 @@ def has_prompt(entry):
     return bool(entry.get("prompt", "").strip())
 
 
+def detail_url(entry):
+    """The entry's page on clawshelf.com, or its original post when its model
+    has no collection there yet."""
+    coll = CLAWSHELF_COLLECTIONS.get(entry.get("model"))
+    if not coll:
+        return entry["post_url"]
+    return f"{CLAWSHELF_BASE}/{coll}/{entry.get('seo_slug') or entry['slug']}{CLAWSHELF_UTM}"
+
+
+def preview_image(entry):
+    """Animated webp, else the poster frame, else the legacy thumbnail."""
+    media = entry.get("media") or {}
+    if media.get("status") == "ok":
+        if media.get("preview_webp_url"):
+            return media["preview_webp_url"]
+        if media.get("poster_url"):
+            return media["poster_url"]
+    return (entry.get("thumbnail") or {}).get("url")
+
+
+def views(entry):
+    return (entry.get("stats_snapshot") or {}).get("views", 0)
+
+
+def highlight_rank(entry):
+    media = entry.get("media") or {}
+    return (bool(media.get("preview_webp_url")), bool(preview_image(entry)), views(entry))
+
+
 def cell(entry, lang):
     s = STRINGS[lang]
-    thumb = entry.get("thumbnail")
-    if thumb:
+    href = detail_url(entry)
+    img = preview_image(entry)
+    if img:
         top = (
-            f'<a href="{entry["post_url"]}"><img src="{thumb["url"]}" '
+            f'<a href="{href}"><img src="{img}" '
             f'alt="{model_label(entry)} video by @{entry["author"]}" width="100%"></a>'
         )
     else:
-        top = f'<a href="{entry["post_url"]}"><b>{entry["title"]}</b></a>'
+        top = f'<a href="{href}"><b>{entry["title"]}</b></a>'
 
     link_label = s["prompt_link"] if has_prompt(entry) else s["details_link"]
     line2 = (
-        f'<a href="{entry["author_url"]}"><b>@{entry["author"]}</b></a> · '
+        f'<a href="{entry["post_url"]}"><b>@{entry["author"]}</b></a> · '
         f'{model_label(entry)} · '
         f'<a href="prompts/{entry["slug"]}.md">{link_label}</a>'
     )
@@ -217,9 +256,8 @@ def cell(entry, lang):
         line2 += f' · {s["verified"]}'
 
     sub = tag_labels(entry)
-    views = entry.get("stats_snapshot", {}).get("views")
-    if views:
-        sub = (sub + " · " if sub else "") + fmt_views(views) + " views"
+    if views(entry):
+        sub = (sub + " · " if sub else "") + fmt_views(views(entry)) + " views"
 
     return f'<td width="33%" valign="top">{top}<br>{line2}<br><sub>{sub}</sub></td>'
 
@@ -231,12 +269,30 @@ def section(cat_slug, name, entries, lang):
         lines.append(s["empty_category"].format(submit_url=SUBMIT_URL))
         lines.append("")
         return "\n".join(lines)
-    entries = sorted(entries, key=lambda v: v.get("added", ""), reverse=True)
+    total = len(entries)
+    entries = sorted(entries, key=highlight_rank, reverse=True)[:HIGHLIGHTS_PER_CATEGORY]
     cells = [cell(v, lang) for v in entries]
     lines.append("<table>")
     for i in range(0, len(cells), 3):
         lines.append("<tr>" + "".join(cells[i : i + 3]) + "</tr>")
     lines.append("</table>")
+    lines.append("")
+    if total > len(entries):
+        lines.append(s["see_all"].format(n=total, url=CLAWSHELF_URL))
+        lines.append("")
+    return "\n".join(lines)
+
+
+def latest(data, lang):
+    s = STRINGS[lang]
+    newest = sorted(data, key=lambda v: (v.get("added", ""), views(v)), reverse=True)[:LATEST_COUNT]
+    lines = [f'## {s["latest_heading"]}', ""]
+    for v in newest:
+        link_label = s["prompt_link"] if has_prompt(v) else s["details_link"]
+        lines.append(
+            f'- [{v["title"]}]({detail_url(v)}) — [@{v["author"]}]({v["post_url"]}) · '
+            f'{model_label(v)} · [{link_label}](prompts/{v["slug"]}.md)'
+        )
     lines.append("")
     return "\n".join(lines)
 
@@ -269,6 +325,9 @@ def build(lang):
             f"[{label}]({CLAWSHELF_BASE}/{coll}{CLAWSHELF_UTM})" if coll else label
         )
 
+    meta = json.loads(README_META.read_text(encoding="utf-8")) if README_META.exists() else {}
+    mosaic = meta.get("mosaic") or {}
+
     lines = [
         "<!-- AUTO-GENERATED by scripts/build_readme.py — edit data/videos.json instead, "
         "then run: python scripts/build_readme.py -->",
@@ -276,13 +335,21 @@ def build(lang):
         "",
         s["lang_switch"],
         "",
+    ]
+    if mosaic.get("url"):
+        lines += [
+            f'<a href="{CLAWSHELF_URL}"><img src="{mosaic["url"]}" '
+            f'alt="{s["mosaic_alt"]}" width="100%"></a>',
+            "",
+        ]
+    lines += [
         s["intro"].format(models=model_names),
+        "",
+        s["watch_all"].format(n=len(data), url=CLAWSHELF_URL),
         "",
         s["models_line"].format(links=" · ".join(model_links)),
         "",
         s["satellites_line"].format(links=sat_links),
-        "",
-        s["shelf_line"].format(shelf_url=CLAWSHELF_URL),
         "",
         s["stats_line"].format(n_videos=len(data), n_models=n_models,
                                n_prompts=n_prompts, submit_url=SUBMIT_URL),
@@ -290,18 +357,25 @@ def build(lang):
     ]
 
     if data:
-        latest = max(v.get("added", "") for v in data)
-        lines += [s["latest_update"].format(date=latest, n=len(data)), ""]
+        latest_date = max(v.get("added", "") for v in data)
+        lines += [
+            s["latest_update"].format(date=latest_date, n=len(data)),
+            s["highlights_note"].format(k=HIGHLIGHTS_PER_CATEGORY),
+            "",
+        ]
 
     lines += [f'## {s["contents"]}', ""]
     for slug, en, zh in CATEGORIES:
         name = (en, zh)[name_idx - 1]
         lines.append(f"- [{name}](#{anchor(name)}) ({len(by_cat.get(slug, []))})")
+    lines.append(f'- [{s["latest_heading"]}](#{anchor(s["latest_heading"])})')
     lines.append("")
 
     for slug, en, zh in CATEGORIES:
         name = (en, zh)[name_idx - 1]
         lines.append(section(slug, name, by_cat.get(slug, []), lang))
+
+    lines.append(latest(data, lang))
 
     lines += [
         f'## {s["howto_heading"]}',
