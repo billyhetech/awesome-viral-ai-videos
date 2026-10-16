@@ -83,7 +83,7 @@ jobs:
             [ "$msg" = "no changes" ] && msg="Refresh the README poster wall"
             out="$(bash scripts/push_repo.sh "$d" "$msg" 2>&1)" || { echo "$out"; exit 1; }
             echo "$name: ${out:-no changes}"
-            [ "$d" = . ] && [ "$out" = pushed ] && echo "PUSHED=1" >> "$GITHUB_ENV"
+            if [ "$d" = . ] && [ "$out" = pushed ]; then echo "PUSHED=1" >> "$GITHUB_ENV"; fi
           done
 
       # Our own pushes use GITHUB_TOKEN, which doesn't trigger refresh-site.
