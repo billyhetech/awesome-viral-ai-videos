@@ -34,10 +34,13 @@ CLAWSHELF_COLLECTIONS = {
     "fable-5.5": "fable-5-5",
     "opus-5.5": "opus-5-5",
     "gemini-4-argon": "gemini-4-argon",
+    "gpt-6-astra": "gpt-6-astra",
 }
 SATELLITES = [
     ("Opus 5.5", "https://github.com/billyhetech/awesome-opus5-5-videos"),
+    ("Gemini 4 Argon", "https://github.com/billyhetech/awesome-gemini4-argon-videos"),
     ("Fable 5.5", "https://github.com/billyhetech/awesome-fable5-5-videos"),
+    ("GPT-6 Astra", "https://github.com/billyhetech/awesome-gpt6-astra-videos"),
 ]
 
 # Display label per model id. Order here = badge order nowhere; ids are per-entry.
