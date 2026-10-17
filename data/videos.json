@@ -80751,6 +80751,18 @@
   "stats_snapshot": {
    "views": 50621,
    "captured_at": "2026-10-17"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/legit-api-667813/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/legit-api-667813/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/legit-api-667813/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/legit-api-667813/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 113283,
+   "bytes": 20731558,
+   "synced_at": "2026-10-17"
   }
  },
  {
@@ -80771,6 +80783,18 @@
   "stats_snapshot": {
    "views": 43374,
    "captured_at": "2026-10-17"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-268729/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-268729/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-268729/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-268729/poster.jpg",
+   "width": 1314,
+   "height": 720,
+   "duration_ms": 71378,
+   "bytes": 8659305,
+   "synced_at": "2026-10-17"
   }
  },
  {
@@ -80791,6 +80815,18 @@
   "stats_snapshot": {
    "views": 39339,
    "captured_at": "2026-10-17"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bridgebench-319302/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bridgebench-319302/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bridgebench-319302/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/bridgebench-319302/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10000,
+   "bytes": 384426,
+   "synced_at": "2026-10-17"
   }
  },
  {
@@ -80811,6 +80847,18 @@
   "stats_snapshot": {
    "views": 33652,
    "captured_at": "2026-10-17"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-397817/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-397817/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-397817/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-397817/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 120000,
+   "bytes": 11529385,
+   "synced_at": "2026-10-17"
   }
  }
 ]
