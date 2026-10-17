@@ -80732,5 +80732,85 @@
    "bytes": 4427057,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "legit-api-667813",
+  "seo_slug": "fable-5-5-monster-voxelbench",
+  "model": "fable-5.5",
+  "author": "legit_api",
+  "author_url": "https://x.com/legit_api",
+  "post_url": "https://x.com/legit_api/status/2111193444345667813",
+  "title": "Fable 5.5 is a monster on VoxelBench",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 50621,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "chetaslua-268729",
+  "seo_slug": "fable-5-5-pure-math-music-visualization",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2111060420505268729",
+  "title": "🚨 Fable 5.5 : pure math for music and visualization",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 43374,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "bridgebench-319302",
+  "seo_slug": "weeks-nerfbench-results-live-no-nerfs",
+  "model": "gpt-6-astra",
+  "author": "bridgebench",
+  "author_url": "https://x.com/bridgebench",
+  "post_url": "https://x.com/bridgebench/status/2111086355023319302",
+  "title": "This week's NerfBench results are live. No nerfs detected.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 39339,
+   "captured_at": "2026-10-17"
+  }
+ },
+ {
+  "slug": "chetaslua-397817",
+  "seo_slug": "end-vibe-coding-welcome-era-cuck",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2111157145102397817",
+  "title": "End of vibe coding , welcome to the era of cuck coding , you just have to sit o…",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-17",
+  "stats_snapshot": {
+   "views": 33652,
+   "captured_at": "2026-10-17"
+  }
  }
 ]

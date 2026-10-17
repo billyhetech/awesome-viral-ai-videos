@@ -1,0 +1,9 @@
+# GPT-6 Astra video by @bridgebench
+
+[Original post](https://x.com/bridgebench/status/2111086355023319302)
+
+- **Category:** Motion graphics
+- **Built with:** Canvas
+- **Author:** [@bridgebench](https://x.com/bridgebench)
+
+> The author didn't publish a prompt for this one. Watch the original post linked above.
