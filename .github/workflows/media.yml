@@ -9,7 +9,7 @@ name: media
 # REVALIDATE_SECRET (refresh clawshelf.com). Never triggered by pull requests.
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths: [data/videos.json]
   schedule:
     - cron: "53 6 * * *"

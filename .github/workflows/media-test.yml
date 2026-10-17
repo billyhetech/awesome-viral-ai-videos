@@ -4,7 +4,7 @@ on:
   pull_request:
     paths: [media/**, scripts/merge_videos.py, scripts/push_repo.sh, tests/**]
   push:
-    branches: [main]
+    branches: [master]
     paths: [media/**, scripts/merge_videos.py, scripts/push_repo.sh, tests/**]
 
 permissions:

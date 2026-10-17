@@ -7,7 +7,7 @@ name: refresh-site
 # (same value as on Vercel).
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths: [data/videos.json]
   workflow_dispatch:
 
