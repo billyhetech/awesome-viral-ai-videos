@@ -82370,5 +82370,85 @@
    "bytes": 7679596,
    "synced_at": "2026-10-17"
   }
+ },
+ {
+  "slug": "chetaslua-523724",
+  "seo_slug": "fable-5-5-supremacy",
+  "model": "fable-5.5",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2111458379386523724",
+  "title": "Fable 5.5 Supremacy",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 101984,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "hiwise-aigc-145080",
+  "seo_slug": "codex-magpie-token",
+  "model": "gpt-6-astra",
+  "author": "hiwise_aigc",
+  "author_url": "https://x.com/hiwise_aigc",
+  "post_url": "https://x.com/hiwise_aigc/status/2111372474764145080",
+  "title": "兄弟们，Codex + Magpie，才是真正的 Token 自由！",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 86419,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "dummerspast39-654775",
+  "seo_slug": "fable-5-5-svg-bike-riding-pelican",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2111519245733654775",
+  "title": "Fable 5.5: svg of bike riding a pelican",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 80007,
+   "captured_at": "2026-10-18"
+  }
+ },
+ {
+  "slug": "dummerspast39-319355",
+  "seo_slug": "fable-5-5-svg-controller-riding-bicyle",
+  "model": "fable-5.5",
+  "author": "dummerspast39",
+  "author_url": "https://x.com/dummerspast39",
+  "post_url": "https://x.com/dummerspast39/status/2111577334436319355",
+  "title": "Fable 5.5: SVG of a controller riding a bicyle riding a pelican riding a bicycl…",
+  "category": "motion",
+  "tech_tags": [
+   "svg"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-18",
+  "stats_snapshot": {
+   "views": 67505,
+   "captured_at": "2026-10-18"
+  }
  }
 ]
