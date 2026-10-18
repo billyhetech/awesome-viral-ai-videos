@@ -82389,6 +82389,18 @@
   "stats_snapshot": {
    "views": 101984,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-523724/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-523724/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-523724/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/chetaslua-523724/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 78000,
+   "bytes": 15571670,
+   "synced_at": "2026-10-18"
   }
  },
  {
@@ -82409,6 +82421,18 @@
   "stats_snapshot": {
    "views": 86419,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/hiwise-aigc-145080/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60557,
+   "bytes": 8462421,
+   "synced_at": "2026-10-18"
   }
  },
  {
@@ -82429,6 +82453,18 @@
   "stats_snapshot": {
    "views": 80007,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-654775/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-654775/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-654775/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-654775/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 18000,
+   "bytes": 3113553,
+   "synced_at": "2026-10-18"
   }
  },
  {
@@ -82449,6 +82485,18 @@
   "stats_snapshot": {
    "views": 67505,
    "captured_at": "2026-10-18"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-319355/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-319355/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-319355/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/dummerspast39-319355/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 15018,
+   "bytes": 1853359,
+   "synced_at": "2026-10-18"
   }
  }
 ]
