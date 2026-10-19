@@ -83959,6 +83959,18 @@
   "stats_snapshot": {
    "views": 95723,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/renmu2017-541523/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/renmu2017-541523/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/renmu2017-541523/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/renmu2017-541523/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 18000,
+   "bytes": 3113553,
+   "synced_at": "2026-10-19"
   }
  },
  {
@@ -83979,6 +83991,18 @@
   "stats_snapshot": {
    "views": 75203,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/andyl5cc-939075/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/andyl5cc-939075/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/andyl5cc-939075/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/andyl5cc-939075/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60557,
+   "bytes": 8462421,
+   "synced_at": "2026-10-19"
   }
  },
  {
@@ -83999,6 +84023,18 @@
   "stats_snapshot": {
    "views": 48067,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cutefishos-556549/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cutefishos-556549/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cutefishos-556549/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/cutefishos-556549/poster.jpg",
+   "width": 1080,
+   "height": 720,
+   "duration_ms": 147023,
+   "bytes": 9154678,
+   "synced_at": "2026-10-19"
   }
  },
  {
@@ -84019,6 +84055,18 @@
   "stats_snapshot": {
    "views": 33574,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-409709/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-409709/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-409709/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/badboyfoxy-409709/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 25123,
+   "bytes": 6067947,
+   "synced_at": "2026-10-19"
   }
  },
  {
@@ -84039,6 +84087,18 @@
   "stats_snapshot": {
    "views": 31653,
    "captured_at": "2026-10-19"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/alxfazio-351001/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/alxfazio-351001/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/alxfazio-351001/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/alxfazio-351001/poster.jpg",
+   "width": 952,
+   "height": 720,
+   "duration_ms": 16643,
+   "bytes": 2088602,
+   "synced_at": "2026-10-19"
   }
  }
 ]
