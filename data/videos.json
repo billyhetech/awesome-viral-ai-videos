@@ -83940,5 +83940,105 @@
    "bytes": 7392626,
    "synced_at": "2026-10-18"
   }
+ },
+ {
+  "slug": "renmu2017-541523",
+  "seo_slug": "fable-5-5",
+  "model": "fable-5.5",
+  "author": "renmu2017",
+  "author_url": "https://x.com/renmu2017",
+  "post_url": "https://x.com/renmu2017/status/2111658365382541523",
+  "title": "Fable 5.5 这个动画最牛逼之处",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "的人肯定都没设想过自行车怎么骑鹈鹕，但是Fable5.5思考了，并给出了最合乎物理世界规律的方法\n\n这个逻辑性和严谨性，还没有哪个现有模型能望其项背 https://t.co/l6IR0zYYo7",
+  "prompt_partial": false,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 95723,
+   "captured_at": "2026-10-19"
+  }
+ },
+ {
+  "slug": "andyl5cc-939075",
+  "seo_slug": "ai-coding",
+  "model": "gpt-6-astra",
+  "author": "AndyL5cc",
+  "author_url": "https://x.com/AndyL5cc",
+  "post_url": "https://x.com/AndyL5cc/status/2111479600475939075",
+  "title": "兄弟们，这套 AI Coding 组合真有点离谱！",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 75203,
+   "captured_at": "2026-10-19"
+  }
+ },
+ {
+  "slug": "cutefishos-556549",
+  "seo_slug": "heres-first-look-cutefish-desktop-rebuilt",
+  "model": "fable-5.5",
+  "author": "cutefishos",
+  "author_url": "https://x.com/cutefishos",
+  "post_url": "https://x.com/cutefishos/status/2111800377125556549",
+  "title": "Here's a first look at the new Cutefish desktop, rebuilt from scratch and fully…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 48067,
+   "captured_at": "2026-10-19"
+  }
+ },
+ {
+  "slug": "badboyfoxy-409709",
+  "seo_slug": "fable-5-5-every-model-comings-after",
+  "model": "fable-5.5",
+  "author": "badboyfoxy",
+  "author_url": "https://x.com/badboyfoxy",
+  "post_url": "https://x.com/badboyfoxy/status/2111893133206409709",
+  "title": "Fable 5.5 and every model comings after it is so good they plan on making peopl…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 33574,
+   "captured_at": "2026-10-19"
+  }
+ },
+ {
+  "slug": "alxfazio-351001",
+  "seo_slug": "fable-5-5-seeing-everything-has-fix",
+  "model": "fable-5.5",
+  "author": "alxfazio",
+  "author_url": "https://x.com/alxfazio",
+  "post_url": "https://x.com/alxfazio/status/2111832232323351001",
+  "title": "fable 5.5 seeing everything it has to fix in my codebase",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-19",
+  "stats_snapshot": {
+   "views": 31653,
+   "captured_at": "2026-10-19"
+  }
  }
 ]

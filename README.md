@@ -7,20 +7,20 @@
 
 Viral videos made with AI — **Opus 5.5, Gemini 4 Argon, Fable 5.5, GPT-6 Astra** and whatever breaks out next. Code-rendered animations, 3D scenes, games, short films: every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 2757 videos on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
+**[▶ Watch all 2762 videos on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
 
-Models: [Opus 5.5 (2290)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (303)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (147)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (17)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+Models: [Opus 5.5 (2290)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (303)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (151)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (18)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos)
 
-**2757 videos** across 4 models · **773 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
+**2762 videos** across 4 models · **774 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-18): 2757 videos total
+- Latest update (2026-10-19): 2762 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (1400)
+- [Motion graphics](#motion-graphics) (1405)
 - [Explainers](#explainers) (194)
 - [3D scenes](#3d-scenes) (470)
 - [Games & interactive](#games--interactive) (519)
@@ -37,7 +37,7 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/animated-launch-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-819196/preview.webp" alt="Opus 5.5 video by @higgsfield" width="100%"></a><br><a href="https://x.com/higgsfield/status/2104573404552819196"><b>@higgsfield</b></a> · Opus 5.5 · <a href="prompts/higgsfield-819196.md">Details</a><br><sub>Canvas · 1.3M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/portfolio-site-three-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/cambreedesigns-766152/preview.webp" alt="Opus 5.5 video by @cambreedesigns" width="100%"></a><br><a href="https://x.com/cambreedesigns/status/2104999693113766152"><b>@cambreedesigns</b></a> · Opus 5.5 · <a href="prompts/cambreedesigns-766152.md">Details</a><br><sub>Canvas · 1.2M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/code-based-ui-motion-design-showreel?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/twoclipping-402193/preview.webp" alt="Opus 5.5 video by @twoclipping" width="100%"></a><br><a href="https://x.com/twoclipping/status/2103273003555402193"><b>@twoclipping</b></a> · Opus 5.5 · <a href="prompts/twoclipping-402193.md">Prompt</a><br><sub>FFmpeg · 1.2M views</sub></td></tr>
 </table>
 
-[▶ See all 1400 on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+[▶ See all 1405 on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 ## Explainers
 
@@ -96,6 +96,11 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 
 ## Latest videos
 
+- [Fable 5.5 这个动画最牛逼之处](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@renmu2017](https://x.com/renmu2017/status/2111658365382541523) · Fable 5.5 · [Prompt](prompts/renmu2017-541523.md)
+- [兄弟们，这套 AI Coding 组合真有点离谱！](https://clawshelf.com/ai-videos/gpt-6-astra/ai-coding?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@AndyL5cc](https://x.com/AndyL5cc/status/2111479600475939075) · GPT-6 Astra · [Details](prompts/andyl5cc-939075.md)
+- [Here's a first look at the new Cutefish desktop, rebuilt from scratch and fully…](https://clawshelf.com/ai-videos/fable-5-5/heres-first-look-cutefish-desktop-rebuilt?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@cutefishos](https://x.com/cutefishos/status/2111800377125556549) · Fable 5.5 · [Details](prompts/cutefishos-556549.md)
+- [Fable 5.5 and every model comings after it is so good they plan on making peopl…](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-every-model-comings-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@badboyfoxy](https://x.com/badboyfoxy/status/2111893133206409709) · Fable 5.5 · [Details](prompts/badboyfoxy-409709.md)
+- [fable 5.5 seeing everything it has to fix in my codebase](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-seeing-everything-has-fix?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@alxfazio](https://x.com/alxfazio/status/2111832232323351001) · Fable 5.5 · [Details](prompts/alxfazio-351001.md)
 - [Unreal Engine game world build](https://clawshelf.com/ai-videos/opus-5-5/unreal-engine-game-world?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@xikhar](https://x.com/xikhar/status/2111290504491258080) · Opus 5.5 · [Details](prompts/xikhar-258080.md)
 - [Frog King Simulator built with Claude](https://clawshelf.com/ai-videos/opus-5-5/frog-king-simulator-claude?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@Belbizaz](https://x.com/Belbizaz/status/2111120760660254842) · Opus 5.5 · [Details](prompts/belbizaz-254842.md)
 - [Fable 5.5 Supremacy](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-supremacy?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@chetaslua](https://x.com/chetaslua/status/2111458379386523724) · Fable 5.5 · [Details](prompts/chetaslua-523724.md)
@@ -121,11 +126,6 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 - [Roblox game with shop, pets and cash systems](https://clawshelf.com/ai-videos/opus-5-5/roblox-game-shop-pets-cash-systems?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@ai_growth_avii](https://x.com/ai_growth_avii/status/2111118746786165033) · Opus 5.5 · [Details](prompts/ai-growth-avii-165033.md)
 - [Shape-shifting harvester robot concept](https://clawshelf.com/ai-videos/opus-5-5/shape-shifting-harvester-robot-concept?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@DilumSanjaya](https://x.com/DilumSanjaya/status/2111138912349626801) · Opus 5.5 · [Details](prompts/dilumsanjaya-626801.md)
 - [Supper Run animated short with color grading](https://clawshelf.com/ai-videos/opus-5-5/supper-run-animated-short-color-grading?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@aimikoda](https://x.com/aimikoda/status/2111256122040406443) · Opus 5.5 · [Details](prompts/aimikoda-406443.md)
-- [Skit about overseas AI attitudes toward Chinese users](https://clawshelf.com/ai-videos/opus-5-5/skit-overseas-ai-attitudes-toward-chinese?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@Gorden_Sun](https://x.com/Gorden_Sun/status/2111111416120053953) · Opus 5.5 · [Details](prompts/gorden-sun-053953.md)
-- [Kong Royale multiplayer battle royale](https://clawshelf.com/ai-videos/opus-5-5/kong-royale-multiplayer-battle-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@_MaxBlade](https://x.com/_MaxBlade/status/2111164202891059422) · Opus 5.5 · [Details](prompts/maxblade-059422.md)
-- [Exit 8-style vegan cafe loop game](https://clawshelf.com/ai-videos/opus-5-5/exit-8-style-vegan-cafe-loop?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@parhelion318](https://x.com/parhelion318/status/2111128415319548058) · Opus 5.5 · [Details](prompts/parhelion318-548058.md)
-- [The Art of Photosynthesis explainer](https://clawshelf.com/ai-videos/opus-5-5/art-photosynthesis-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@devteamdrew](https://x.com/devteamdrew/status/2111172786286690324) · Opus 5.5 · [Details](prompts/devteamdrew-690324.md)
-- [Ghost-hunting game built in Unreal Engine 5](https://clawshelf.com/ai-videos/opus-5-5/ghost-hunting-game-unreal-engine-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@rewind02](https://x.com/rewind02/status/2111034892750409811) · Opus 5.5 · [Details](prompts/rewind02-409811.md)
 
 ## How to use a prompt
 

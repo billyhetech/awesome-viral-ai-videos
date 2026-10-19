@@ -7,20 +7,20 @@
 
 AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GPT-6 Astra** 及下一个出圈的模型。代码渲染动画、3D 场景、游戏、短片:每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 2757 条视频](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
+**[▶ 在 clawshelf.com 观看全部 2762 条视频](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
 
-模型:[Opus 5.5 (2290)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (303)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (147)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (17)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+模型:[Opus 5.5 (2290)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (303)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (151)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (18)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos)
 
-共 **2757 条视频**、4 个模型 · [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **773 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
+共 **2762 条视频**、4 个模型 · [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **774 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-18):共 2757 条
+- 最近更新(2026-10-19):共 2762 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (1400)
+- [动态图形](#动态图形) (1405)
 - [讲解动画](#讲解动画) (194)
 - [3D 场景](#3d-场景) (470)
 - [游戏与交互](#游戏与交互) (519)
@@ -37,7 +37,7 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GP
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/animated-launch-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/higgsfield-819196/preview.webp" alt="Opus 5.5 video by @higgsfield" width="100%"></a><br><a href="https://x.com/higgsfield/status/2104573404552819196"><b>@higgsfield</b></a> · Opus 5.5 · <a href="prompts/higgsfield-819196.md">详情</a><br><sub>Canvas · 1.3M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/portfolio-site-three-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/cambreedesigns-766152/preview.webp" alt="Opus 5.5 video by @cambreedesigns" width="100%"></a><br><a href="https://x.com/cambreedesigns/status/2104999693113766152"><b>@cambreedesigns</b></a> · Opus 5.5 · <a href="prompts/cambreedesigns-766152.md">详情</a><br><sub>Canvas · 1.2M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/code-based-ui-motion-design-showreel?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/twoclipping-402193/preview.webp" alt="Opus 5.5 video by @twoclipping" width="100%"></a><br><a href="https://x.com/twoclipping/status/2103273003555402193"><b>@twoclipping</b></a> · Opus 5.5 · <a href="prompts/twoclipping-402193.md">提示词</a><br><sub>FFmpeg · 1.2M views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 1400 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+[▶ 在 clawshelf.com 查看全部 1405 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 ## 讲解动画
 
@@ -96,6 +96,11 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GP
 
 ## 最新收录
 
+- [Fable 5.5 这个动画最牛逼之处](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@renmu2017](https://x.com/renmu2017/status/2111658365382541523) · Fable 5.5 · [提示词](prompts/renmu2017-541523.md)
+- [兄弟们，这套 AI Coding 组合真有点离谱！](https://clawshelf.com/ai-videos/gpt-6-astra/ai-coding?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@AndyL5cc](https://x.com/AndyL5cc/status/2111479600475939075) · GPT-6 Astra · [详情](prompts/andyl5cc-939075.md)
+- [Here's a first look at the new Cutefish desktop, rebuilt from scratch and fully…](https://clawshelf.com/ai-videos/fable-5-5/heres-first-look-cutefish-desktop-rebuilt?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@cutefishos](https://x.com/cutefishos/status/2111800377125556549) · Fable 5.5 · [详情](prompts/cutefishos-556549.md)
+- [Fable 5.5 and every model comings after it is so good they plan on making peopl…](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-every-model-comings-after?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@badboyfoxy](https://x.com/badboyfoxy/status/2111893133206409709) · Fable 5.5 · [详情](prompts/badboyfoxy-409709.md)
+- [fable 5.5 seeing everything it has to fix in my codebase](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-seeing-everything-has-fix?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@alxfazio](https://x.com/alxfazio/status/2111832232323351001) · Fable 5.5 · [详情](prompts/alxfazio-351001.md)
 - [Unreal Engine game world build](https://clawshelf.com/ai-videos/opus-5-5/unreal-engine-game-world?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@xikhar](https://x.com/xikhar/status/2111290504491258080) · Opus 5.5 · [详情](prompts/xikhar-258080.md)
 - [Frog King Simulator built with Claude](https://clawshelf.com/ai-videos/opus-5-5/frog-king-simulator-claude?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@Belbizaz](https://x.com/Belbizaz/status/2111120760660254842) · Opus 5.5 · [详情](prompts/belbizaz-254842.md)
 - [Fable 5.5 Supremacy](https://clawshelf.com/ai-videos/fable-5-5/fable-5-5-supremacy?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@chetaslua](https://x.com/chetaslua/status/2111458379386523724) · Fable 5.5 · [详情](prompts/chetaslua-523724.md)
@@ -121,11 +126,6 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GP
 - [Roblox game with shop, pets and cash systems](https://clawshelf.com/ai-videos/opus-5-5/roblox-game-shop-pets-cash-systems?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@ai_growth_avii](https://x.com/ai_growth_avii/status/2111118746786165033) · Opus 5.5 · [详情](prompts/ai-growth-avii-165033.md)
 - [Shape-shifting harvester robot concept](https://clawshelf.com/ai-videos/opus-5-5/shape-shifting-harvester-robot-concept?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@DilumSanjaya](https://x.com/DilumSanjaya/status/2111138912349626801) · Opus 5.5 · [详情](prompts/dilumsanjaya-626801.md)
 - [Supper Run animated short with color grading](https://clawshelf.com/ai-videos/opus-5-5/supper-run-animated-short-color-grading?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@aimikoda](https://x.com/aimikoda/status/2111256122040406443) · Opus 5.5 · [详情](prompts/aimikoda-406443.md)
-- [Skit about overseas AI attitudes toward Chinese users](https://clawshelf.com/ai-videos/opus-5-5/skit-overseas-ai-attitudes-toward-chinese?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@Gorden_Sun](https://x.com/Gorden_Sun/status/2111111416120053953) · Opus 5.5 · [详情](prompts/gorden-sun-053953.md)
-- [Kong Royale multiplayer battle royale](https://clawshelf.com/ai-videos/opus-5-5/kong-royale-multiplayer-battle-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@_MaxBlade](https://x.com/_MaxBlade/status/2111164202891059422) · Opus 5.5 · [详情](prompts/maxblade-059422.md)
-- [Exit 8-style vegan cafe loop game](https://clawshelf.com/ai-videos/opus-5-5/exit-8-style-vegan-cafe-loop?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@parhelion318](https://x.com/parhelion318/status/2111128415319548058) · Opus 5.5 · [详情](prompts/parhelion318-548058.md)
-- [The Art of Photosynthesis explainer](https://clawshelf.com/ai-videos/opus-5-5/art-photosynthesis-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@devteamdrew](https://x.com/devteamdrew/status/2111172786286690324) · Opus 5.5 · [详情](prompts/devteamdrew-690324.md)
-- [Ghost-hunting game built in Unreal Engine 5](https://clawshelf.com/ai-videos/opus-5-5/ghost-hunting-game-unreal-engine-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@rewind02](https://x.com/rewind02/status/2111034892750409811) · Opus 5.5 · [详情](prompts/rewind02-409811.md)
 
 ## 如何使用 prompt
 
