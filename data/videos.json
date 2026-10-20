@@ -85980,6 +85980,18 @@
   "stats_snapshot": {
    "views": 2397974,
    "captured_at": "2026-10-20"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/spisallyouneed-964327/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/spisallyouneed-964327/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/spisallyouneed-964327/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/spisallyouneed-964327/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 155582,
+   "bytes": 16766511,
+   "synced_at": "2026-10-20"
   }
  },
  {
@@ -86000,6 +86012,18 @@
   "stats_snapshot": {
    "views": 481058,
    "captured_at": "2026-10-20"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/anatolikopadze-321081/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/anatolikopadze-321081/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/anatolikopadze-321081/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/anatolikopadze-321081/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10983,
+   "bytes": 2749936,
+   "synced_at": "2026-10-20"
   }
  }
 ]
