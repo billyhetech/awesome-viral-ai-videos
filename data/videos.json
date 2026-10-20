@@ -85961,5 +85961,45 @@
    "bytes": 4119163,
    "synced_at": "2026-10-19"
   }
+ },
+ {
+  "slug": "spisallyouneed-964327",
+  "seo_slug": "introducing-sky-001-first-engineering-world",
+  "model": "gpt-6-astra",
+  "author": "spisallyouneed",
+  "author_url": "https://x.com/spisallyouneed",
+  "post_url": "https://x.com/spisallyouneed/status/2112242023805964327",
+  "title": "Introducing SKY-001, the first Engineering World Model.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 2397974,
+   "captured_at": "2026-10-20"
+  }
+ },
+ {
+  "slug": "anatolikopadze-321081",
+  "seo_slug": "sam-altman-after-finding-out-lab",
+  "model": "gpt-6-astra",
+  "author": "AnatoliKopadze",
+  "author_url": "https://x.com/AnatoliKopadze",
+  "post_url": "https://x.com/AnatoliKopadze/status/2112243445687321081",
+  "title": "Sam Altman after finding out a lab nobody was watching just built a model 100x…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-20",
+  "stats_snapshot": {
+   "views": 481058,
+   "captured_at": "2026-10-20"
+  }
  }
 ]
