@@ -87616,6 +87616,18 @@
   "stats_snapshot": {
    "views": 42298,
    "captured_at": "2026-10-21"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-001745/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-001745/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-001745/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/devteamdrew-001745/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 22233,
+   "bytes": 3852551,
+   "synced_at": "2026-10-21"
   }
  },
  {
@@ -87636,6 +87648,18 @@
   "stats_snapshot": {
    "views": 25776,
    "captured_at": "2026-10-21"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scottstts-243871/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scottstts-243871/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scottstts-243871/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/scottstts-243871/poster.jpg",
+   "width": 1146,
+   "height": 720,
+   "duration_ms": 54096,
+   "bytes": 15828001,
+   "synced_at": "2026-10-21"
   }
  }
 ]
