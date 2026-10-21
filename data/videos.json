@@ -87597,5 +87597,45 @@
    "bytes": 4151827,
    "synced_at": "2026-10-20"
   }
+ },
+ {
+  "slug": "devteamdrew-001745",
+  "seo_slug": "time-fable-5-5-again",
+  "model": "fable-5.5",
+  "author": "devteamdrew",
+  "author_url": "https://x.com/devteamdrew",
+  "post_url": "https://x.com/devteamdrew/status/2112591205750001745",
+  "title": "It is finally time for Fable 5.5? (again)",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-21",
+  "stats_snapshot": {
+   "views": 42298,
+   "captured_at": "2026-10-21"
+  }
+ },
+ {
+  "slug": "scottstts-243871",
+  "seo_slug": "fable-5-5-beautiful-luminescent-river-quiet",
+  "model": "fable-5.5",
+  "author": "scottstts",
+  "author_url": "https://x.com/scottstts",
+  "post_url": "https://x.com/scottstts/status/2112601036804243871",
+  "title": "Fable 5.5 created this beautiful luminescent river in a quiet night, sound on",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-21",
+  "stats_snapshot": {
+   "views": 25776,
+   "captured_at": "2026-10-21"
+  }
  }
 ]
