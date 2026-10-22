@@ -89670,5 +89670,25 @@
    "bytes": 2345118,
    "synced_at": "2026-10-21"
   }
+ },
+ {
+  "slug": "nousresearch-244623",
+  "seo_slug": "jensen-closed-his-gtc-berlin-2026",
+  "model": "gpt-6-astra",
+  "author": "NousResearch",
+  "author_url": "https://x.com/NousResearch",
+  "post_url": "https://x.com/NousResearch/status/2113010017645244623",
+  "title": "Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the fi…",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-22",
+  "stats_snapshot": {
+   "views": 227790,
+   "captured_at": "2026-10-22"
+  }
  }
 ]
