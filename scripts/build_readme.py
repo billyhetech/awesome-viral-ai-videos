@@ -35,6 +35,10 @@ CLAWSHELF_COLLECTIONS = {
     "opus-5.5": "opus-5-5",
     "gemini-4-argon": "gemini-4-argon",
     "gpt-6-astra": "gpt-6-astra",
+    "seedance-2.5": "seedance-2-5",
+    "minimax-h3": "minimax-h3",
+    "kling-4": "kling-4",
+    "grok-imagine": "grok-imagine",
 }
 SATELLITES = [
     ("Opus 5.5", "https://github.com/billyhetech/awesome-opus5-5-videos"),
