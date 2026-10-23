@@ -1,9 +1,7 @@
 name: media
 
-# Mirror new videos to our R2 and rebuild the README poster walls of this list
-# and the single-model lists. Runs right after the collector pushes new
-# entries (plus a daily safety run). Lives in this public repo because
-# public-repo Actions minutes are free; the private collector's are capped.
+# Host new videos on our CDN and rebuild the README poster walls of this list
+# and the single-model lists when data/videos.json changes.
 #
 # Secrets: STORAGE_* (R2), PUB_REPO_PAT (push to the single-model lists),
 # REVALIDATE_SECRET (refresh clawshelf.com). Never triggered by pull requests.

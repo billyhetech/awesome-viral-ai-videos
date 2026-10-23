@@ -2,9 +2,7 @@ name: refresh-site
 
 # Tell clawshelf.com to re-read data/videos.json after it changes.
 # raw.githubusercontent.com caches files for up to 5 minutes, so wait that out
-# first; a newer push cancels the pending wait. Runs here (public repo, free
-# minutes) instead of in the private collector. Needs secret REVALIDATE_SECRET
-# (same value as on Vercel).
+# first; a newer push cancels the pending wait. Needs secret REVALIDATE_SECRET.
 on:
   push:
     branches: [master]
