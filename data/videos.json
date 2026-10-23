@@ -129169,7 +129169,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/akatz-ai-269640/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/akatz-ai-269640/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/akatz-ai-269640/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/akatz-ai-269640/poster.jpg",
+   "width": 2160,
+   "height": 720,
+   "duration_ms": 49291,
+   "bytes": 7125661,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sep-is-heim-001099",
@@ -129185,7 +129197,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-001099/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-001099/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-001099/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sep-is-heim-001099/poster.jpg",
+   "width": 720,
+   "height": 1052,
+   "duration_ms": 5166,
+   "bytes": 805895,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sankakuten91256-868601",
@@ -129201,7 +129225,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-868601/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-868601/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-868601/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-868601/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 2636214,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "kaimakulink-755215",
@@ -129217,7 +129253,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kaimakulink-755215/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kaimakulink-755215/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kaimakulink-755215/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/kaimakulink-755215/poster.jpg",
+   "width": 720,
+   "height": 1252,
+   "duration_ms": 2066,
+   "bytes": 367587,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "breath-in-code-762775",
@@ -129233,7 +129281,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/breath-in-code-762775/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/breath-in-code-762775/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/breath-in-code-762775/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/breath-in-code-762775/poster.jpg",
+   "width": 1252,
+   "height": 720,
+   "duration_ms": 20729,
+   "bytes": 4767796,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "jun-kongo-713377",
@@ -129249,7 +129309,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "ainamanari33743-821514",
@@ -129265,7 +129329,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ainamanari33743-821514/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ainamanari33743-821514/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ainamanari33743-821514/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ainamanari33743-821514/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 19458,
+   "bytes": 1917291,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sankakuten91256-413007",
@@ -129281,7 +129357,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-413007/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-413007/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-413007/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sankakuten91256-413007/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1844275,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tea-story-hoshi-182609",
@@ -129297,7 +129385,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tea-story-hoshi-182609/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tea-story-hoshi-182609/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tea-story-hoshi-182609/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tea-story-hoshi-182609/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 8106,
+   "bytes": 1220452,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "felixturner-502456",
@@ -129313,7 +129413,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/felixturner-502456/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/felixturner-502456/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/felixturner-502456/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/felixturner-502456/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 45000,
+   "bytes": 9184909,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mix-buchi-605145",
@@ -129329,7 +129441,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mix-buchi-605145/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mix-buchi-605145/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mix-buchi-605145/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mix-buchi-605145/poster.jpg",
+   "width": 1302,
+   "height": 720,
+   "duration_ms": 15062,
+   "bytes": 4393759,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "princedoesai-416585",
@@ -129345,7 +129469,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/princedoesai-416585/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/princedoesai-416585/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/princedoesai-416585/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/princedoesai-416585/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 584149,
+   "bytes": 32992589,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sunbaolong-2001-207803",
@@ -129361,7 +129497,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-207803/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-207803/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-207803/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-207803/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 107647,
+   "bytes": 13065867,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sunbaolong-2001-764405",
@@ -129377,7 +129525,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-764405/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-764405/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-764405/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sunbaolong-2001-764405/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 63576,
+   "bytes": 6283147,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "elbumpy-980073",
@@ -129394,7 +129554,19 @@
   ],
   "prompt": "The video begins exactly from the first image. The man in the first image is the character from the second reference image: long braided-top hairstyle with shaved sides, full blond-brown beard, dark leather and chainmail Viking tunic. Keep his face, beard and hair identical to the reference image throughout the whole video, with no changes in identity.\n\nHe performs exactly the same body movement, posture, head turns, gestures, timing and pacing as the person in the reference video. Copy the camera movement, framing and speed of the reference video. The setting, crowd, background and lighting stay the same as the first image and do not change. Realistic live-action footage, natural skin, cinematic lighting, stable face, no morphing, no flickering.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/elbumpy-980073/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/elbumpy-980073/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/elbumpy-980073/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/elbumpy-980073/poster.jpg",
+   "width": 438,
+   "height": 360,
+   "duration_ms": 6410,
+   "bytes": 364115,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hemi3ai-896677",
@@ -129410,7 +129582,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-896677/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-896677/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-896677/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hemi3ai-896677/poster.jpg",
+   "width": 720,
+   "height": 1270,
+   "duration_ms": 10125,
+   "bytes": 1770431,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nbykos-377547",
@@ -129426,7 +129610,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nbykos-377547/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nbykos-377547/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nbykos-377547/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nbykos-377547/poster.jpg",
+   "width": 1536,
+   "height": 672,
+   "duration_ms": 15104,
+   "bytes": 3592574,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "superfang119-994892",
@@ -129442,7 +129638,11 @@
   ],
   "prompt": "subject_definitions:\n<Subject 1> is one adult woman, Fang Zhiwei (方知微). Her face, natural skin tone, adult appearance, long dark-brown-black wavy hair, and body proportions come exclusively from <Picture 2>. The 175 cm height is a user-specified character setting, not inferred from the image.\n<Subject 2> is the long mint-and-white fantasy stage robe in <Picture 1>, retaining its embroidered floral panels, green sash and tassels, pale flower ornaments, broad flowing sleeves, and pale shoes. It is adapted as a long gown with a fully opaque inner lining beneath any light outer layers; the skirt remains in place throughout the dance.\n<Subject 3> is the quiet lakeside setting in <Picture 1>: calm water reflecting dark green trees, leafy branches overhead, and a flat stone beside the bank.\n<Picture 1> is the approved adult lakeside wardrobe-and-scene reference. It guides only the gown, accessories, environment, light, and broad composition/pose. Do not use its face, hair, skin identity, or body proportions.\n<Picture 2> is the confirmed v6 identity board. Its clear left portrait alone defines <Subject 1>'s face, skin tone, age impression, and hair; its right front/side/back figures define her body proportions. Ignore the board layout, labels, clothing, blurred small faces, and poses.\n\nsummary:\n[reference generation] Create one continuous 9.416667-second, 24 fps portrait dance of <Subject 1> beside the lake. <Picture 2> alone anchors her face, hair, and body; <Picture 1> supplies only the long lined mint-and-white costume, ornaments, lake, lighting, and broad pose. Preserve the source-observed dance progression, including two ordinary bent-knee leg accents, without lifting the skirt or changing the full time span. This is still-image-conditioned generation, not source-video motion transfer.\n\nretention_analysis:\n<Subject 1> (throughout [Shot 1]): fully_preserved - face, skin tone, dark wavy hair, adult appearance, and body proportions come only from <Picture 2>; 175 cm is user-specified.\n<Subject 2> (throughout [Shot 1]): partially_preserved - retain the mint-and-white embroidered design, green sash, floral details, broad sleeves, and pale shoes; adapt the robe into a long stage gown with a fully opaque inner lining and keep it in place.\n<Subject 3> (throughout [Shot 1]): partially_preserved - retain the calm lake, reflected trees, overhead leaves, and stone bank, with minor natural background variation allowed.\n<Picture 1> ([Shot 1] wardrobe and scene): weak_reference - costume, ornaments, lake, lighting, and broad opening composition only; no identity transfer.\n<Picture 2> ([Shot 1] identity): fully_preserved - face/hair from the clear portrait and body proportions from the right-side views; no outfit, pose, or layout transfer.\n\ndetailed_description:\nOne continuous 9:16 full-body shot, 9.416667 seconds at 24 fps. Keep the camera at a steady, level eye height and maintain head-to-toe framing of one woman on a flat stone beside calm water. Dark green trees reflect behind her and leafy branches hang across the top of frame. <Picture 2> defines the same adult woman throughout; preserve her clear facial geometry, natural skin tone, and long near-center-parted dark brown-black waves. Dress her in <Subject 2>, a floor-length mint-and-white embroidered stage robe with green sash and floral details, broad sleeves, pale shoes, and a continuous opaque inner skirt. Any light outer sleeve or robe overlay stays decorative and does not expose the body. The gown stays closed and in place; no skirt lift, under-hem view, or camera move toward the hem.\n[Shot 1] From 00:00.000 to 00:01.125, she faces the camera, raises one hand near shoulder level, opens both arms with relaxed palms, and begins small balanced weight shifts. Keep her full figure centered against the lake.\nFrom 00:01.125 to 00:02.375, she takes light in-place steps and turns through a side and brief rear-facing view. Her long hair and broad sleeves trail naturally; the same long opaque-lined gown remains closed.\nFrom 00:02.375 to 00:03.625, she rotates back toward the camera and continues measured hand gestures as her sleeves settle. The camera remains level and full-body.\nFrom 00:03.625 to 00:04.750, she alternates her hand positions near the waist, then lifts both arms overhead into a balanced open pose.\nFrom 00:04.750 to 00:05.000, she keeps a light in-place rhythm and prepares a controlled dance accent. From 00:05.000 to 00:05.375, she lifts one knee with a short outward lower-leg extension, then lowers it. From 00:05.375 to 00:06.000, she places her foot and resets her balance with small arm flourishes. From 00:06.000 to 00:06.500, she performs a second bent-knee lift with a gentle forward-diagonal lower-leg extension; she lowers and places the foot by about 00:06.625. These are ordinary dance accents; do not force both feet to stay planted throughout. Keep the skirt closed and its opaque lining unchanged.\nFrom 00:06.625 to 00:08.000, she continues small steps and calm hand gestures, briefly bringing one hand near a floral hair ornament before opening the arm outward. From 00:08.000 to 00:09.416667, she continues the measured in-place dance phrase and ends naturally mid-gesture with one knee lightly raised, consistent with the final source samples. Maintain the same adult identity, long gown coverage, full-body level camera, and lakeside composition through the last frame.\n\noverall_soundscape:\nThe source soundtrack was decoded but not listened to; its content is unknown and it is not an input. Generate only subtle new lakeside ambience, such as soft leaves and quiet waterside room tone. Do not claim to reproduce the original soundtrack.\n\nnon_diegetic_music:\nUse newly generated light instrumental music with gentle plucked strings and a restrained flute-like lead at an unhurried tempo and low volume. No vocals. This is an original sound direction, not a description or imitation of the source audio.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "megyo9-986217",
@@ -129458,7 +129658,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/megyo9-986217/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/megyo9-986217/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/megyo9-986217/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/megyo9-986217/poster.jpg",
+   "width": 722,
+   "height": 720,
+   "duration_ms": 28378,
+   "bytes": 1915812,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mireilledartois-648649",
@@ -129474,7 +129686,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-648649/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-648649/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-648649/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-648649/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 6966,
+   "bytes": 346260,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mapte-fireball-354735",
@@ -129490,7 +129714,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "0x0sojalsec-192719",
@@ -129507,7 +129735,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/0x0sojalsec-192719/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/0x0sojalsec-192719/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/0x0sojalsec-192719/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/0x0sojalsec-192719/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 6583,
+   "bytes": 458453,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "imastudio-ai-312129",
@@ -129524,7 +129764,19 @@
   ],
   "prompt": "Create a 15s, 16:9, 24fps live-action fashion transformation MV. Use Image1 as the only female identity reference; Image2 only for pacing.\nStyle: K-pop comeback film × black-red haute couture × Seoul Midnight × luxury editorial × typography. Palette: black, burgundy, cherry red, gunmetal silver, cool white. Mood: cold, mature, sexy, restrained, expensive. No cyberpunk/nightclub look.\nKeep one East Asian woman only, preserving Image1’s face, skin tone, body proportions, and long dark-brown hair. No face drift, extra people, or hair-color change.\nEvery strong beat changes outfit + location + composition. Each look uses a different space. Controlled actions only; no complex dance. Use different English/Korean fashion typography in each scene without covering her face.\n\n0–1.5s: black mirrored elevator, black crop top + silver mini; fast push-in. “MIDNIGHT / SEOUL”.\n1.5–3s: rainy Seoul street, burgundy mini + black jacket; low tracking look-back. “After Dark”.\n3–4.5s: red-carpet hotel stairs, oversized black blazer + mini; low-angle push-in. “OWN IT”.\n4.5–6s: minimalist gallery + red sculpture, gunmetal jacket + black mini; reveal. “UNTAMED / 나다운 순간”.\n6–7.5s: backstage vanity, black off-shoulder top + silver skirt; lip touch-up, mirror reveal. Chrome “ICON”.\n7.5–9s: parking garage + black car, black-red jacket + black mini; Dutch angle. “NO BRAKES”.\n9–10.5s: burgundy-curtain theater, burgundy leather mini; spotlight turn. “나답게 / MY RULES.”\n10.5–12s: high-rise glass corridor, fitted black mini dress; walk forward, stop. “THE FINAL LOOK”.\n12–15s: Seoul rooftop hero. Previous looks return as contact sheets, magazine pages, film strips and posters in a 3D collage. Text: “DARK” → “IS BEAUTIFUL” → “나만의 밤.” → “SOLVÉRA — MIDNIGHT SEOUL / OUT NOW”. Final 0.5s freezes like a magazine cover.\nPhotoreal fashion cinematography, real skin/hair/materials. Avoid identity drift, extra people, plastic skin, deformation, repeated sets/type, gibberish, logos, watermarks, subtitles, UI.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-312129/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-312129/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-312129/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/imastudio-ai-312129/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15533,
+   "bytes": 2356403,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "naonekozamurai-841002",
@@ -129540,7 +129792,19 @@
   ],
   "prompt": "11.20秒、16:9、768p。華やかなアニメ調の3人組アイドルのライブMV。笑顔で歌いながら、手と足が柔らかく連動する、可愛く元気なステージパフォーマンス。\n\nImage 1@[img1]はピンク担当の顔・茶色の髪・ピンクと白と金の衣装。\nImage 2@[img2]は青担当の顔・濃紺の長い髪・青と白と金の衣装。\nImage 3@[img3]は黄色担当の顔・金髪のポニーテール・黄色と白と金の衣装。各画像の複数の姿は同一人物の角度違い。登場するアイドルはこの3人だけ。\nImage 4@[img4]はプリズム状の柱、吊り下げられた星、中央の階段、反射する床があるライブステージの参照。人物と舞台の画風・衣装・色を一貫させる。\nVideo 1@[vid1]は最新のジャンプ入り無音モーションコンテ。参照するのは3人の配置、前後の位置移動、画角、カメラの切り替え、ゆっくりした寄り、最後の同時ジャンプのタイミング。ピンク・青・黄色の箱をImage 1・2・3の人物へ置き換える。白背景はImage 4のステージへ置き換える。箱の形、硬い姿勢、表面、伸縮を実際の人物へコピーしない。箱では省略されている手足の振り付けは、以下の指示で補う。客席から見て左が青、中央がピンク、右が黄色。この区間では左右とセンターを入れ替えない。マイクは持たず、両手で表現する。\nAudio 1@[aud1]はこの11.20秒の歌声・伴奏・発音・テンポの基準。原音の開始位置・速度・音程を保って一度だけ使用する。時刻は目安とし、口形は実際に聞こえる歌唱に同期させる。ひらがなの歌詞は発音指示であり、画面には表示しない。音源に合わせて旋律で歌い、朗読しない。担当者の口元を手や髪で隠さず、正面または斜め正面から読み取れるようにする。他の2人は笑顔で踊り、担当外の歌詞を勝手に歌わない。\n\n振り付けは軽やかで弾むアイドルダンス。横に一歩踏み出し、反対の足を寄せるステップを、音楽の拍に合わせて小さく行う。足裏が接地してから重心が移り、支持する足を残して次の足を運ぶ。膝・足首・腰・肩が自然につながる。上半身は歌える程度に安定させ、踏み込みに必要な柔らかい沈み込みを使う。足を空中でバタつかせたり、同じ場所で高速に足踏みしたり、体全体を細かく振動させたりしない。指先を柔らかく開き、手首と肘に丸みを出し、一つの仕草を見せてから次へつなぐ。髪・リボン・スカートは動作に少し遅れて揺れ、自然に収まる。\n\n0.00–3.36秒：Video 1と同じ左側から青を捉える構図で、ごくゆっくり寄る。青が明るい笑顔でリップシンク「むねのどらむがはしりだしたら」。片手を胸元にそっと添え、歌詞の後半でその手を客席へ開く。足は小さな横ステップから反対の足を寄せ、肩と腰を柔らかく連動させる。中央のピンクと右の黄色も笑顔でステップを合わせ、胸元から手を開く仕草で青を引き立てる。カメラの横揺れは加えない。\n\n[cut]\n3.36–5.96秒：Video 1と同じ右側から黄色を捉える構図。黄色が快活な笑顔でリップシンク「そでのかーてんそっとめくって」。片手を肩の前へ持ち上げ、指先でカーテンをそっと開くように外側へ滑らかに運ぶ。その方向へ小さく一歩出し、反対の足を寄せて可愛くポーズを収める。青とピンクは自分の位置で同じリズムの控えめなステップと腕の動き。位置を入れ替えたり、その場で高速回転したりしない。\n[cut]\n5.96–8.76秒：Video 1と同じ中央のピンクへ緩やかに寄る構図。ピンクが客席を見てリップシンク「なまえをよぶこえがきこえる」。片手を耳の横へ添えて客席の声を受け止め、目を輝かせて微笑む。小さく横へ踏み出して足を寄せ、耳に添えた手を胸元へ戻す。青と黄色も笑顔で客席へ手を開く。8.50秒から3人とも跳ぶ準備に入り、足裏を床につけたまま膝を軽く曲げ、重心を下げる。ピンクは顔を上げ、歌詞の最後まで口元を見せる。\n[cut]\n8.76–11.20秒：中央の固定カメラで3人の全身を収める。頭・伸ばした手・靴と、ジャンプ頂点の上に十分な余白を確保する。ピンクがリップシンク「もうまよわないよ」。歌い出しの「もう」で3人が同時に1回だけ軽くジャンプする。8.76秒に床を蹴り、両腕を斜め上へ可愛く開く。9.10秒付近で頂点、9.44秒付近で着地。ピンクは跳んでいる間も顔を正面に保って歌い続ける。青と黄色は明るい笑顔で動きをそろえる。着地は足先から足裏へ受け、膝を柔らかく曲げて衝撃を吸収し、9.76秒までに自然に立ち直る。連続ジャンプや着地後の反復バウンドはしない。その後は腕を胸元へ柔らかく収め、ピンクは「よ」の実際の発音が終わるまで歌う。次のサビへ続くライブの姿勢で終える。\n\n全編で、カメラの手ぶれ・周期的な上下左右の揺れ・急なズームを加えない。動きの元気さは人物の振り付けと表情で見せる。ステージのピンク・青・金色の照明と床の反射を生かし、顔と口元は明瞭にする。字幕・歌詞テロップ・ロゴは表示しない。新しい台詞、掛け声、歓声、別の曲や次の歌詞を追加しない。暗転や終演ポーズを加えず、この歌唱区間で終了する。",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-841002/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-841002/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-841002/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-841002/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 11200,
+   "bytes": 1260220,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "wtry1102-241747",
@@ -129556,7 +129820,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wtry1102-241747/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wtry1102-241747/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wtry1102-241747/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wtry1102-241747/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 111210,
+   "bytes": 22325595,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "cavinaka-520456",
@@ -129572,7 +129848,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cavinaka-520456/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cavinaka-520456/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cavinaka-520456/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cavinaka-520456/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 71116,
+   "bytes": 9351931,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "antic-896056",
@@ -129588,7 +129876,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "michaelzsguo-683715",
@@ -129606,7 +129898,19 @@
   ],
   "prompt": "I want you to make a music video called \"SHUT UP AND MULTIPLY.\" It's a satire of effective altruism and how a gentle idea about bednets turned into a doomsday movement that puts a price on every human life. The audience is x, the people who argue about this every week, so it should be dense with things they recognize.\n\nStart from the song, because the song decides everything else. It's an original EDM girl-group anthem at 136 BPM built on tension and release: stripped verses, real build-ups, a moment of total silence, then a drop. Three drops, each bigger than the last. Don't make it plain and don't make it constant. I tried laying a string section over a finished track and it sounded like a separate layer every time; if you want strings or any other color, write it into the track itself and use it only where it propels the blood. Use your own taste here, not the literal words of any brief, including this one.\n\nThe look: the whole world is a Wall Street Journal hedcut, a black-ink steel engraving on warm newsprint, crosshatch and stipple, classic and artful, with rich fabric rendered as line. Three girls are the only color in it. The lead is a fashion model with dense freckles and a chestnut bob with a butter-yellow silk ribbon, in raspberry boucle and sky-blue gingham. She should be unforgettable; the camera falls in love with her face. She starts alone and pulls the other two out of the ink during the first verse: the tall one in sky-blue pinstripe from a spreadsheet at a retreat, the youngest in a butter-yellow cable knit from a crypto crash floor. Color floods into each of them as she's freed. By the final chorus the whole engraved world has turned color. All the doomsday, and this color girl brightens it.\n\nThe girls must never just stand in front of a backdrop. Every shot, they do something to the world: tear it like paper, fold a manor flat like a pop-up book and throw it as a paper airplane, rip the storm sky open like a curtain, snip a lanyard so Pascal's mugger gets wrapped in his own calculation, pull one colored thread through a paper window until the room unravels, embroider a meadow into color with a needle. Engraved people come alive and dance with them. Keep the theme identical in every render but vary everything else as much as you can: camera, framing, location, the way they change the world, graphics, transitions. Never repeat a camera move or framing back to back.\n\nThe dance has to be real and on the beat. Use real choreography (I used ITZY's WANNABE performance video) and lock every hit to our kick; if the dancing floats with no drum under it, it's dead. K-pop is one ingredient, not the whole video. Cut on the beat, 1-2 beats per shot in the choruses, no slow motion anywhere. When the song goes silent before a drop, cut to blank paper; on the drop, explode into color.\n\nInstead of the dashboard call-out boxes from the original viral video, build a dystopia out of our own materials. The Ledger is a cathedral-sized Victorian calculating engine run by clerks in fleece vests and lanyards, printing ticker tape that decides what every person is worth. Cult members wear tailor's price tags (\"VALUE: 1/10^58 OF A FUTURE PERSON · STATUS: REPLACEABLE\"). The girls snip them off and those people come alive. Graphics speak newsprint and tailoring: receipts stamped VOID on the drop, a typewriter ledger that computes expected value and then breaks, sewn care labels (\"100% BOUCLE · 0% UTILITARIAN · DO NOT OPTIMIZE\"), letterpress lyric headlines that tear. One or two per shot, landing on the beat, then out of the way. No tracking boxes; the girls are the only color, they don't need circling. Give the Ledger its own sounds (stamp, typewriter, bell, gear clank) synced exactly to what's on screen.\nLoad it with real history people can relate to, the way the original used this week's news. Open on the timeline: the researcher who quit an AI lab this month saying it could kill us all by the end of the decade, 174 million views, \"a Trojan horse,\" \"a doomsday cult.\" Then pin real history to the lyrics: Singer's drowning child (1972) over the pond, earn-to-give and its star pupil over the crypto verse, the FTX bankruptcy stamp when the balance hits zero, the abbey bought \"for convening\" over the manor, the 5% extinction math over \"shut up and multiply,\" the secular solstice and the \"Death with Dignity\" cocktail over the retreat, Constellation's islands and iodine on the mugger's lanyard, the 2023 board firing on the second drop, the White House memo in the bridge. End on \"How can we do the most good?\" corrected to \"Who gets to decide?\" Real people appear only through public-record facts and their own public words: no invented quotes, no real faces doing things they didn't do. Fact-check everything before it ships. If you want, one self-aware frame: this video was made by an AI from a lab with its own EA history.\n\nBe rigorous. Watch the whole thing repeatedly, take contact sheets, check every clip for clones, morphing faces, and characters who drift off-model, and re-render anything that isn't up to the bar. Skirts swing but never flare up, and the camera stays at waist height or above. Lip-sync is hard; don't hold long on singing close-ups you can't sync. Don't patch things up when an idea isn't working; say so and change the idea.\n\nTools I had: Claude Code as director and editor, MiniMax Music 3 for the song, Codex image gen for characters, sets and keyframes, MiniMax H3 locally for first-and-last-frame video and Viggle character swaps for the dance, VoiceStudio for a designed (not cloned) announcer, and ffmpeg plus your own code for graphics, beat-locking, and the edit. One MacBook. Everything overnight.\n\nThe goal is a banger for Twitter that people rewatch to catch the fine print. Go big, have your own taste, and go get it.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/michaelzsguo-683715/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/michaelzsguo-683715/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/michaelzsguo-683715/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/michaelzsguo-683715/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 171708,
+   "bytes": 46222234,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mi7-crypto-533623",
@@ -129622,7 +129926,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-533623/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-533623/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-533623/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi7-crypto-533623/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 45000,
+   "bytes": 6769018,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mi-mi-mi-mimi-421226",
@@ -129638,7 +129954,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi-mi-mi-mimi-421226/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi-mi-mi-mimi-421226/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi-mi-mi-mimi-421226/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mi-mi-mi-mimi-421226/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 172437,
+   "bytes": 31588163,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "naonekozamurai-573242",
@@ -129655,7 +129983,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-573242/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-573242/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-573242/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-573242/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 72353,
+   "bytes": 12164597,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "boke-ai-988371",
@@ -129671,7 +130011,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/boke-ai-988371/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/boke-ai-988371/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/boke-ai-988371/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/boke-ai-988371/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 175542,
+   "bytes": 41034265,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "naonekozamurai-496523",
@@ -129687,7 +130039,19 @@
   ],
   "prompt": "曲に合わせて編集して",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-496523/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-496523/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-496523/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-496523/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 22125,
+   "bytes": 5733600,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mazzo-144904",
@@ -129703,7 +130067,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mazzo-144904/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mazzo-144904/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mazzo-144904/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mazzo-144904/poster.jpg",
+   "width": 1280,
+   "height": 704,
+   "duration_ms": 175237,
+   "bytes": 25485691,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "miyumiyuna5-708667",
@@ -129719,7 +130095,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "ashizawakamome-095948",
@@ -129735,7 +130115,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-095948/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-095948/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-095948/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-095948/poster.jpg",
+   "width": 1612,
+   "height": 634,
+   "duration_ms": 15630,
+   "bytes": 2331306,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "pompompokopomch-169269",
@@ -129751,7 +130143,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "sairin-hamumu-299218",
@@ -129767,7 +130163,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sairin-hamumu-299218/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sairin-hamumu-299218/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sairin-hamumu-299218/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sairin-hamumu-299218/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 53516,
+   "bytes": 10705400,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "deepwhitman-514782",
@@ -129783,7 +130191,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/deepwhitman-514782/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/deepwhitman-514782/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/deepwhitman-514782/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/deepwhitman-514782/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 174958,
+   "bytes": 25832437,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "plasm0-770340",
@@ -129799,7 +130219,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/plasm0-770340/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/plasm0-770340/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/plasm0-770340/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/plasm0-770340/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 231416,
+   "bytes": 43748691,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ai-nontan-room-012882",
@@ -129815,7 +130247,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-nontan-room-012882/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-nontan-room-012882/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-nontan-room-012882/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-nontan-room-012882/poster.jpg",
+   "width": 1270,
+   "height": 720,
+   "duration_ms": 166000,
+   "bytes": 31435806,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "naonekozamurai-495983",
@@ -129831,7 +130275,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "taitimusic-159328",
@@ -129847,7 +130295,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "ito-jo-946098",
@@ -129863,7 +130315,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ito-jo-946098/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ito-jo-946098/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ito-jo-946098/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ito-jo-946098/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 7833,
+   "bytes": 951375,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "maru-999-446646",
@@ -129879,7 +130343,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-446646/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-446646/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-446646/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-446646/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 357083,
+   "bytes": 76388118,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "papadupapadu-912599",
@@ -129895,7 +130371,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-912599/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-912599/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-912599/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-912599/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 150000,
+   "bytes": 32054903,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tkvtk-839956",
@@ -129911,7 +130399,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkvtk-839956/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkvtk-839956/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkvtk-839956/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tkvtk-839956/poster.jpg",
+   "width": 1152,
+   "height": 640,
+   "duration_ms": 26111,
+   "bytes": 4147087,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "monetizationdon-581243",
@@ -129927,7 +130427,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-581243/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-581243/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-581243/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/monetizationdon-581243/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 43583,
+   "bytes": 8934388,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "valozzity-875103",
@@ -129943,7 +130455,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/valozzity-875103/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/valozzity-875103/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/valozzity-875103/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/valozzity-875103/poster.jpg",
+   "width": 960,
+   "height": 552,
+   "duration_ms": 83474,
+   "bytes": 13832192,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "slagpile-029479",
@@ -129959,7 +130483,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/slagpile-029479/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/slagpile-029479/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/slagpile-029479/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/slagpile-029479/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 213240,
+   "bytes": 20670702,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "atomtanstudio-683536",
@@ -129975,7 +130511,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/atomtanstudio-683536/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/atomtanstudio-683536/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/atomtanstudio-683536/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/atomtanstudio-683536/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 288413,
+   "bytes": 38857221,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "aiartalchemist-708497",
@@ -129991,7 +130539,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "porysmail-782257",
@@ -130007,7 +130559,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/porysmail-782257/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/porysmail-782257/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/porysmail-782257/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/porysmail-782257/poster.jpg",
+   "width": 876,
+   "height": 720,
+   "duration_ms": 248810,
+   "bytes": 18632028,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "papadupapadu-596101",
@@ -130023,7 +130587,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-596101/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-596101/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-596101/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/papadupapadu-596101/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 126000,
+   "bytes": 26496515,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "techtalknavi-431925",
@@ -130039,7 +130615,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/techtalknavi-431925/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/techtalknavi-431925/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/techtalknavi-431925/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/techtalknavi-431925/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 202541,
+   "bytes": 39109773,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "markdkberry-003586",
@@ -130055,7 +130643,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "alone1moon-720199",
@@ -130071,7 +130663,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alone1moon-720199/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alone1moon-720199/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alone1moon-720199/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alone1moon-720199/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 95000,
+   "bytes": 17794960,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "superalesha-134207",
@@ -130087,7 +130691,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-134207/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-134207/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-134207/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-134207/poster.jpg",
+   "width": 1728,
+   "height": 704,
+   "duration_ms": 115166,
+   "bytes": 19163664,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "maru-999-430164",
@@ -130103,7 +130719,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-430164/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-430164/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-430164/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-430164/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 195882,
+   "bytes": 40289557,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "garylau-ai-522952",
@@ -130119,7 +130747,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/garylau-ai-522952/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/garylau-ai-522952/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/garylau-ai-522952/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/garylau-ai-522952/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 143010,
+   "bytes": 31126789,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "guutara-surume-621012",
@@ -130135,7 +130775,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/guutara-surume-621012/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/guutara-surume-621012/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/guutara-surume-621012/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/guutara-surume-621012/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 208768,
+   "bytes": 29545981,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ruchiru312-843591",
@@ -130151,7 +130803,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "minmin-4410-524774",
@@ -130167,7 +130823,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/minmin-4410-524774/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/minmin-4410-524774/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/minmin-4410-524774/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/minmin-4410-524774/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 33200,
+   "bytes": 8597499,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "superfang119-457918",
@@ -130183,7 +130851,19 @@
   ],
   "prompt": "4K24帧顶级 K-Pop 梦幻Y2K预告片，好莱坞级CG与Dreamcore美学。粉紫、奶白与液态铬银色调。全程中近景与微距特写流畅切换，无远景、无小人、无多余角色。镜面极速推拉与无缝慢动作（Speed Ramp）。动作、Wink电眼与重拍卡点同步。\n[核心角色与服饰细节]\n唯一主角爱豆：极具超现实少女感的独唱K-Pop女偶像。精致五官、高光玻璃唇釉、猫眼微醺妆、眼下贴着彩色星光碎钻。头顶高扎双马尾，夹着银色与粉色星光发夹。穿复古粉黑撞色蕾丝边绒面吊带裙，戴复古双层珍珠颈圈与黑色薄纱手套。\n[0-3秒｜梦幻丝绸床与Wink电眼]\n【场景细节：铺着浅紫丝绸床单、白色羽绒被与复古毛绒玩偶的Y2K卧室，环形柔光灯】\n镜头中近景（胸部以上）。主角斜靠在丝绸枕头上，对着镜头甜美歪头，眼睛微睁做流畅俏皮的Wink（单眼眨眼）并低语：“Are you ready?”。\n[3-6秒｜复古梳妆台与凝视]\n【场景细节：亮着黄光球形灯泡的复古梳妆镜前，摆着玻璃香水瓶、粉色唇膏与羽毛粉扑】\n切至镜前特写。主角对着镜头涂抹玻璃唇彩，随后转头看向镜头再次甜美Wink，高亢演唱：“Play with me, sweet and chaotic!”。\n[6-10秒｜霓虹电话亭与粒子爆破]\n【场景细节：全透明亚克力粉色霓虹电话亭，内部挂着复古粉红有线电话，金属墙面反光】\n镜头中景（腰部以上）。音乐Beat Drop！主角手握粉色听筒做出Killing Point（手戳脸颊+单眼Wink），周身爆开漫天发光粉色星光粒子，合唱：“Living in my dreamland!”。\n[10-13秒｜闪光灯摄影棚与气泡糖]\n【场景细节：高光粉色无缝背景墙，挂着银色锡纸彩带，专业环形闪光灯高频频闪】\n高频特写快切。极近特写主角的星光眼妆与红唇，对着镜头吹出巨大粉色气泡糖并做Wink表情，磁性女声演唱：“You can’t escape.”。\n[13-15秒｜梦幻虚空定格与标题]\n【场景细节：无限延伸的淡粉渐变虚空，漂浮着发光的液态铬合金3D文字与粉色光晕粒子】\n镜头中景后拉，定格在主角斜抱彩带的压轴 Ending Pose。液态铬标题“LUDIC EXISTENCE”闪耀定格，气声低语：“Ludic Existence.”，八音盒余音收尾。\n[音频与音效设计]\n120 BPM K-Pop Glitch-Pop/Synth-Pop舞曲。前段复古床单摩擦声与气泡音；中段弹性Bass与合成器狂欢；尾段重音定格。女声演唱清甜且带有爆发力。\n[负面约束]\n绝对禁止出现远景与全景镜头（防止面部崩坏）。绝对禁止出现微缩小人或多余角色，全片仅允许出现一位女主角。必须清晰呈现流畅的Wink（眨眼）动作。保持顶级3D/CG时尚质感。音画严格卡点。",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superfang119-457918/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superfang119-457918/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superfang119-457918/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superfang119-457918/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 10125,
+   "bytes": 1934188,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "roawolf-chatgpt-686480",
@@ -130199,7 +130879,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/roawolf-chatgpt-686480/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/roawolf-chatgpt-686480/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/roawolf-chatgpt-686480/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/roawolf-chatgpt-686480/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 19200,
+   "bytes": 2073586,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "maru-999-465747",
@@ -130215,7 +130907,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-465747/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-465747/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-465747/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maru-999-465747/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 202625,
+   "bytes": 40835679,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sorastg524-860076",
@@ -130231,7 +130935,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-860076/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-860076/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-860076/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-860076/poster.jpg",
+   "width": 720,
+   "height": 1258,
+   "duration_ms": 15116,
+   "bytes": 4255655,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "naonekozamurai-054867",
@@ -130247,7 +130963,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-054867/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-054867/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-054867/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/naonekozamurai-054867/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 93933,
+   "bytes": 13429369,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tshikimi-003642",
@@ -130263,7 +130991,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-003642/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-003642/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-003642/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-003642/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 77533,
+   "bytes": 11998020,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sorastg524-886924",
@@ -130280,7 +131020,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-886924/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-886924/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-886924/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-886924/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 4348432,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "superalesha-292870",
@@ -130296,7 +131048,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-292870/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-292870/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-292870/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-292870/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 203958,
+   "bytes": 20226182,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tshikimi-783534",
@@ -130313,7 +131077,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-783534/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-783534/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-783534/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tshikimi-783534/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 104500,
+   "bytes": 13256785,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "seirahisada-500593",
@@ -130329,7 +131105,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-500593/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-500593/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-500593/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-500593/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 179208,
+   "bytes": 43895810,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sagyoai-914677",
@@ -130345,7 +131133,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-914677/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-914677/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-914677/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-914677/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 103200,
+   "bytes": 27780124,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "jeuner-010492",
@@ -130361,7 +131161,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "mikumiku-aloha-120980",
@@ -130377,7 +131181,19 @@
   ],
   "prompt": "この曲を使って、Motion Graphics多めのMusic VideoをComfyUIのMiniMax H3使って適当に作って",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mikumiku-aloha-120980/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mikumiku-aloha-120980/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mikumiku-aloha-120980/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mikumiku-aloha-120980/poster.jpg",
+   "width": 854,
+   "height": 480,
+   "duration_ms": 194041,
+   "bytes": 25265073,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "guutara-surume-175551",
@@ -130393,7 +131209,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "cryptoromx-659371",
@@ -130409,7 +131229,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cryptoromx-659371/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cryptoromx-659371/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cryptoromx-659371/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/cryptoromx-659371/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 29791,
+   "bytes": 6035847,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "posi-posi8-748661",
@@ -130425,7 +131257,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-748661/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-748661/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-748661/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/posi-posi8-748661/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 102361,
+   "bytes": 23124791,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "h64g-925139",
@@ -130441,7 +131285,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/h64g-925139/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/h64g-925139/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/h64g-925139/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/h64g-925139/poster.jpg",
+   "width": 1644,
+   "height": 720,
+   "duration_ms": 61000,
+   "bytes": 13519832,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "xekmfumfbyukr1c-450997",
@@ -130457,7 +131313,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "superalesha-272429",
@@ -130473,7 +131333,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-272429/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-272429/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-272429/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/superalesha-272429/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 193000,
+   "bytes": 21261669,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "modellixai-579537",
@@ -130489,7 +131361,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/modellixai-579537/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/modellixai-579537/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/modellixai-579537/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/modellixai-579537/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 17066,
+   "bytes": 3743608,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "momuandteasteam-707655",
@@ -130505,7 +131389,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "smitty-pnw-648208",
@@ -130521,7 +131409,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "sagyoai-750939",
@@ -130537,7 +131429,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-750939/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-750939/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-750939/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sagyoai-750939/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 94600,
+   "bytes": 15640102,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "coban3137-250372",
@@ -130553,7 +131457,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/coban3137-250372/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/coban3137-250372/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/coban3137-250372/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/coban3137-250372/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 55591,
+   "bytes": 10365689,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "taitimusic-697176",
@@ -130569,7 +131485,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/taitimusic-697176/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/taitimusic-697176/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/taitimusic-697176/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/taitimusic-697176/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 58583,
+   "bytes": 8777609,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "zevoo-241658",
@@ -130585,7 +131513,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "mireilledartois-327803",
@@ -130601,7 +131533,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-327803/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-327803/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-327803/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-327803/poster.jpg",
+   "width": 720,
+   "height": 950,
+   "duration_ms": 6583,
+   "bytes": 919396,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ayu-ai-0912-698310",
@@ -130617,7 +131561,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ayu-ai-0912-698310/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ayu-ai-0912-698310/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ayu-ai-0912-698310/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ayu-ai-0912-698310/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 15083,
+   "bytes": 1862394,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "isekaibardguild-278504",
@@ -130635,7 +131591,19 @@
   ],
   "prompt": "subject_definitions:\n<Picture 1> is the exact first frame of [Shot 1] at 00:00.000.\n\nretention_analysis:\nTHe character (S1) is a human in <Picture 1>: fully_preserved, preserve the complete opening composition, framing, perspective, colors, materials, clothing, accessories, lighting, and background before motion.\n<Audio 1>: fully_copy - <Audio 1> is reused 1:1 as the target video's complete final audio track, (S1) sings a song and play her guiter on the stage\n\ndetailed_description:\n[Shot 1] The shot begins from <Picture 1> as the exact first frame at 00:00.000. Keep the background and llighting in <Picture 1>\nAfter 00:00.500. (S1) takes a guitar from the outside of the view or from backside of the character, the guiter has skyblue and near-white body with a deep blue frame.\nAfter 00:01.500. (S1) sings a song and play her guiter.\n<Audio 1> is the Japanese song with the lyrics <d>[Japanese]\"ここに歌わせたい歌詞を書いてください\"</d>. The mouth of (S1) movements are precisely synchronized with the Japanese lyrics. She sings while she plays her exact same electric guitar.\n\noverall_soundscape:\n<Audio 1> only, copied exactly as the complete final audio track. No additional speech, ambience, crowd noise, instrument sound, or sound effects.\n\nnon_diegetic_music:\n<Audio 1> only.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/isekaibardguild-278504/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/isekaibardguild-278504/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/isekaibardguild-278504/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/isekaibardguild-278504/poster.jpg",
+   "width": 576,
+   "height": 736,
+   "duration_ms": 7918,
+   "bytes": 973346,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "alfredalfer77-734840",
@@ -130652,7 +131620,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alfredalfer77-734840/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alfredalfer77-734840/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alfredalfer77-734840/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/alfredalfer77-734840/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 304352,
+   "bytes": 42635520,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "glennhasabeard-046499",
@@ -130668,7 +131648,19 @@
   ],
   "prompt": "one mushroom every one and a half seconds, each a slightly higher note, each shedding one drop",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-046499/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-046499/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-046499/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-046499/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 1257561,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "glennhasabeard-777078",
@@ -130684,7 +131676,19 @@
   ],
   "prompt": "the plant's leaves and stem lean toward it like a cat's head following it, then straighten as it moves on",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-777078/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-777078/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-777078/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-777078/poster.jpg",
+   "width": 1296,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 1386884,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "aiworkflowprolk-930052",
@@ -130701,7 +131705,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aiworkflowprolk-930052/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aiworkflowprolk-930052/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aiworkflowprolk-930052/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aiworkflowprolk-930052/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 3224320,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "tangpanqing-627489",
@@ -130718,7 +131734,19 @@
   ],
   "prompt": "2026年，上海，室内，现代装修。\n\n一个50岁的男人，批评自己的老婆。旁边还有他们的女儿。\n\n老婆与女人坐在沙发上哭泣，男人很愤怒。\n\n男人说：闺女做了别人家媳妇儿\n\n你不教她孝敬公婆好好过日子\n\n整天挑唆女儿跟婆婆作对，拿捏老公\n\n你这是在害她\n\n你知道现在离婚率为什么那么高吗？\n\n全都是你这样的娘家妈造成的。”\n\n注意，不要加字幕。",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tangpanqing-627489/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tangpanqing-627489/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tangpanqing-627489/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tangpanqing-627489/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 12900,
+   "bytes": 1502356,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "rhinoquant-671808",
@@ -130734,7 +131762,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rhinoquant-671808/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rhinoquant-671808/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rhinoquant-671808/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/rhinoquant-671808/poster.jpg",
+   "width": 576,
+   "height": 1024,
+   "duration_ms": 5000,
+   "bytes": 894747,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "chikazoemakoto-744583",
@@ -130750,7 +131790,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chikazoemakoto-744583/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chikazoemakoto-744583/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chikazoemakoto-744583/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/chikazoemakoto-744583/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 10125,
+   "bytes": 1592807,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hsrk-g-hsrk-122480",
@@ -130767,7 +131819,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hsrk-g-hsrk-122480/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hsrk-g-hsrk-122480/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hsrk-g-hsrk-122480/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hsrk-g-hsrk-122480/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 24426,
+   "bytes": 2496956,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "gakutarou-pmf-233003",
@@ -130783,7 +131847,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gakutarou-pmf-233003/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gakutarou-pmf-233003/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gakutarou-pmf-233003/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gakutarou-pmf-233003/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 48566,
+   "bytes": 4992688,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "don56palmer-377086",
@@ -130800,7 +131876,19 @@
   ],
   "prompt": "サキュバス：「素晴らしいお話を持ってきましたよ。モンスターになれるドリンクを販売しているんです」\n悪魔：「これを飲めば、完全なモンスターになれます」\nヴァンパイア：「いいですね、1ケース買います」\nヴァンパイア：「……ちょっと待てよ。俺は*すでに*モンスターじゃないか。これ、ただのエナジードリンクじゃないか！」",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/don56palmer-377086/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/don56palmer-377086/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/don56palmer-377086/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/don56palmer-377086/poster.jpg",
+   "width": 1296,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2016587,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ozzygt-947166",
@@ -130817,7 +131905,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ozzygt-947166/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ozzygt-947166/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ozzygt-947166/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ozzygt-947166/poster.jpg",
+   "width": 960,
+   "height": 544,
+   "duration_ms": 5207,
+   "bytes": 194285,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sparkfulart-729809",
@@ -130834,7 +131934,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sparkfulart-729809/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sparkfulart-729809/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sparkfulart-729809/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sparkfulart-729809/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 20672,
+   "bytes": 2646042,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "solutionsjoeg-606635",
@@ -130851,7 +131963,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/solutionsjoeg-606635/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/solutionsjoeg-606635/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/solutionsjoeg-606635/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/solutionsjoeg-606635/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 10125,
+   "bytes": 1315290,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nokosu-kansoku-916155",
@@ -130867,7 +131991,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nokosu-kansoku-916155/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nokosu-kansoku-916155/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nokosu-kansoku-916155/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nokosu-kansoku-916155/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 35156,
+   "bytes": 3870573,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "soranlan-753351",
@@ -130884,7 +132020,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/soranlan-753351/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/soranlan-753351/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/soranlan-753351/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/soranlan-753351/poster.jpg",
+   "width": 626,
+   "height": 360,
+   "duration_ms": 20088,
+   "bytes": 745946,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "glennhasabeard-335961",
@@ -130900,7 +132048,19 @@
   ],
   "prompt": "a soft deep purr comes from inside it",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-335961/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-335961/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-335961/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/glennhasabeard-335961/poster.jpg",
+   "width": 1296,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 1093939,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "singa-44-426759",
@@ -130916,7 +132076,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/singa-44-426759/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/singa-44-426759/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/singa-44-426759/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/singa-44-426759/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 52416,
+   "bytes": 7794090,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hs48games-936170",
@@ -130932,7 +132104,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hs48games-936170/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hs48games-936170/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hs48games-936170/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hs48games-936170/poster.jpg",
+   "width": 720,
+   "height": 822,
+   "duration_ms": 7291,
+   "bytes": 474151,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "uzuki425-023040",
@@ -130948,7 +132132,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uzuki425-023040/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uzuki425-023040/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uzuki425-023040/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uzuki425-023040/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 147300,
+   "bytes": 9033560,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hackcooking-893480",
@@ -130965,7 +132161,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hackcooking-893480/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hackcooking-893480/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hackcooking-893480/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/hackcooking-893480/poster.jpg",
+   "width": 1504,
+   "height": 640,
+   "duration_ms": 7291,
+   "bytes": 1090244,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ai-swwww-780792",
@@ -130982,7 +132190,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-swwww-780792/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-swwww-780792/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-swwww-780792/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-swwww-780792/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 15000,
+   "bytes": 2230705,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "furkangozukara-041388",
@@ -130998,7 +132218,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/furkangozukara-041388/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/furkangozukara-041388/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/furkangozukara-041388/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/furkangozukara-041388/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 72597,
+   "bytes": 5703483,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "gamerhashcom-947712",
@@ -131014,7 +132246,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-947712/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-947712/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-947712/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-947712/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 10157,
+   "bytes": 1634607,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sep-is-heim-222898",
@@ -131031,7 +132275,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "dazgen48-297592",
@@ -131048,7 +132296,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dazgen48-297592/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dazgen48-297592/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dazgen48-297592/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dazgen48-297592/poster.jpg",
+   "width": 832,
+   "height": 480,
+   "duration_ms": 14375,
+   "bytes": 749238,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "benbaga4-278364",
@@ -131064,7 +132324,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/benbaga4-278364/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/benbaga4-278364/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/benbaga4-278364/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/benbaga4-278364/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 135200,
+   "bytes": 8803881,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nayak-ai-375188",
@@ -131080,7 +132352,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nayak-ai-375188/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nayak-ai-375188/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nayak-ai-375188/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nayak-ai-375188/poster.jpg",
+   "width": 854,
+   "height": 480,
+   "duration_ms": 21166,
+   "bytes": 1932832,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "toki-mwc-555789",
@@ -131096,7 +132380,11 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "gamerhashcom-805995",
@@ -131112,7 +132400,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-805995/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-805995/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-805995/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gamerhashcom-805995/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 10157,
+   "bytes": 996487,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "masayasan201911-694026",
@@ -131128,7 +132428,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/masayasan201911-694026/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/masayasan201911-694026/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/masayasan201911-694026/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/masayasan201911-694026/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 15083,
+   "bytes": 2400880,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ashizawakamome-139316",
@@ -131144,7 +132456,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-139316/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-139316/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-139316/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ashizawakamome-139316/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 21666,
+   "bytes": 3615097,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "grmchn4ai-622788",
@@ -131160,7 +132484,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/grmchn4ai-622788/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/grmchn4ai-622788/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/grmchn4ai-622788/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/grmchn4ai-622788/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 83023,
+   "bytes": 7049379,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "mimi-n20-182515",
@@ -131176,7 +132512,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mimi-n20-182515/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mimi-n20-182515/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mimi-n20-182515/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mimi-n20-182515/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 10000,
+   "bytes": 704016,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "onwuh12-624201",
@@ -131192,7 +132540,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onwuh12-624201/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onwuh12-624201/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onwuh12-624201/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/onwuh12-624201/poster.jpg",
+   "width": 1006,
+   "height": 720,
+   "duration_ms": 10333,
+   "bytes": 1644377,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "amagami-lab-269655",
@@ -131208,7 +132568,19 @@
   ],
   "prompt": "ひよりがフォロワーに PV Studio を紹介する1分のショート",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/amagami-lab-269655/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/amagami-lab-269655/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/amagami-lab-269655/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/amagami-lab-269655/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 60010,
+   "bytes": 7100475,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "gai92-929725",
@@ -131225,7 +132597,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gai92-929725/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gai92-929725/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gai92-929725/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/gai92-929725/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 16490,
+   "bytes": 2171197,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "fairu-90-682940",
@@ -131241,7 +132625,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fairu-90-682940/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fairu-90-682940/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fairu-90-682940/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/fairu-90-682940/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15168,
+   "bytes": 2620678,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "starsourceh-043546",
@@ -131258,7 +132654,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/starsourceh-043546/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/starsourceh-043546/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/starsourceh-043546/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/starsourceh-043546/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 12266,
+   "bytes": 942671,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ponzponz15-711733",
@@ -131274,7 +132682,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-711733/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-711733/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-711733/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-711733/poster.jpg",
+   "width": 1048,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 1375821,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ponzponz15-282216",
@@ -131290,7 +132710,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-282216/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-282216/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-282216/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-282216/poster.jpg",
+   "width": 832,
+   "height": 480,
+   "duration_ms": 12256,
+   "bytes": 973370,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "studio-oneroom-799850",
@@ -131306,7 +132738,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-oneroom-799850/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-oneroom-799850/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-oneroom-799850/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/studio-oneroom-799850/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2724202,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "nakazakifam-386152",
@@ -131322,7 +132766,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-386152/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-386152/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-386152/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nakazakifam-386152/poster.jpg",
+   "width": 1270,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 1773617,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "umesh-ai-133966",
@@ -131340,7 +132796,19 @@
   ],
   "prompt": "Create a 15-second cinematic opening title sequence for a fictional neo-noir psychological thriller titled “VELVET STATIC.” The entire sequence takes place during one rain-soaked midnight in an unnamed metropolitan city, combining late-1970s noir elegance with contemporary high-end cinematography. No dialogue, no visible logos, no real actor names.  0.0–2.0 seconds: Begin from absolute black. A faint electrical hum is implied visually through almost imperceptible pulses of pale violet light. Slowly reveal an extreme macro shot of raindrops clinging to the outside of a smoked-glass hotel window. Depth of field is razor thin. Individual droplets magnify upside-down fragments of neon signs outside. Behind the glass, distant traffic becomes soft anamorphic bokeh in crimson, amber and dirty cyan. Camera performs an extremely slow lateral slider move from right to left. The first credit, “MARA VOSS,” appears almost invisibly inside the reflection, set in an elegant ultra-condensed serif typeface, narrow tracking, pale silver lettering. The letters should feel physically embedded in the glass rather than digitally overlaid.  2.0–4.5 seconds: Rack focus through the rain-covered window toward the street twenty floors below. A black vintage sedan moves through an intersection, headlights stretching across wet asphalt. Match-cut the twin headlights into two glowing elevator indicators reading “12” and “13.” The elevator doors are brushed brass, covered with fingerprints and faint scratches. Camera slowly pushes toward them. Credit “ELIAS ROWE” appears engraved into the brass, revealed only when moving light passes across the surface. Lighting is low-key and luxurious with deep crushed blacks.  4.5–7.0 seconds: Elevator doors open onto a long hotel corridor. Burgundy carpet, dark walnut doors, aged brass wall lamps, faint cigarette haze. At the far end stands the silhouette of a woman in a long red coat, facing away from camera. Use a 50mm anamorphic lens feeling with subtle barrel distortion. Camera glides forward unnaturally smoothly. As the camera approaches, wall lights sequentially switch off behind her. Credits “A FILM BY ADRIAN KELL” and “PHOTOGRAPHY LENA MORR” briefly appear on room-number plaques as the camera passes them.  7.0–9.5 seconds: Hard match cut from the woman’s red coat to a crimson cocktail swirling inside a crystal glass. Extreme close-up. A black-gloved hand rotates the glass slowly. Reflections of city lights spiral across the liquid. The drink suddenly stops moving while the reflections continue rotating, creating subtle dream logic. Tiny serif text reading “MUSIC BY OREN VALE” curves around the rim of the glass. Camera tilts downward as one drop spills over the edge.  9.5–12.0 seconds: Follow the falling droplet in impossible slow motion. As it hits a polished black marble floor, transition seamlessly into an overhead aerial view of the rain-soaked city intersection. A solitary figure crosses beneath an umbrella while cars remain frozen around them. Street lamps flicker. Fine mist catches the light. Camera rises vertically, revealing geometric city blocks disappearing into darkness. Brief fragments of cast names appear painted on crosswalk markings, visible for less than a second.  12.0–15.0 seconds: Camera suddenly plunges back toward the intersection. The asphalt reflection becomes almost perfectly black, like liquid obsidian. Red neon letters appear first only as a distorted reflection. Camera rotates 180 degrees until the reflection becomes reality. Reveal the main title “VELVET STATIC” in enormous refined high-contrast serif typography floating above the street, metallic ivory with faint chromatic fringing. A passing car slices through the letters with reflected light, causing the title to momentarily break into analog television interference before snapping back into perfect clarity. End on a sharp cut to black at exactly 15 seconds.  Visual language: premium 35mm film texture, subtle gate weave, fine grain, realistic rain physics, halation around practical lights, anamorphic streaks used sparingly, deep blacks, burgundy red, nicotine amber, chrome silver and occasional electric cyan. Elegant, seductive, mysterious, restrained, mature, tactile, photorealistic, no generic cyberpunk imagery, no excessive glitch effects, no fast montage until the final seconds.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umesh-ai-133966/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umesh-ai-133966/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umesh-ai-133966/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/umesh-ai-133966/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2650154,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "charaspowerai-469270",
@@ -131356,7 +132824,19 @@
   ],
   "prompt": "Hyper-kinetic action-film title sequence opening on a mirror-polished titanium wall in complete darkness. A razor-thin energy cut suddenly slices through the surface, spraying white-hot sparks and molten droplets across the frame. A second cut appears from another angle, then dozens strike in rapid succession, carving deep geometric paths through the metal. The camera aggressively follows each slash as huge titanium sections separate and spin through the air. A powerful magnetic field violently pulls the fragments toward the center, where sharpened metal plates slide, rotate and lock together to construct \"BLADE\" with surgical precision. The completed title is thin, lethal and forged from scratched black steel, every edge glowing red-hot from friction. The camera sweeps inches above the letters before one final invisible slash cuts through the entire word and triggers a spectacular explosion of metal splinters and sparks. Aggressive, precise, dark, premium Hollywood action typography.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-469270/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-469270/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-469270/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-469270/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 3384578,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "charaspowerai-354988",
@@ -131372,7 +132852,19 @@
   ],
   "prompt": "High-end sci-fi title sequence beginning with a razor-thin line of white energy slicing vertically through complete darkness. Space immediately begins deforming around it as metallic particles, dust and glowing fragments are violently pulled toward the opening. The line tears wider into a gigantic dimensional fracture filled with unstable plasma and gravitational distortion. The camera accelerates directly toward the rift, violently banking between fragments being stretched into luminous trails. Suddenly the dimensional tear snaps shut with enormous force, compressing all surrounding matter into four gigantic black-metal letterforms that slam together to reveal \"RIFT\". Brilliant energy remains trapped inside deep cracks across the typography while space visibly bends around its edges. The camera performs a fast orbital move before the title itself splits open along its center, releasing a catastrophic dimensional shockwave that tears through the frame. Sophisticated cosmic distortion, aggressive kinetic typography, premium superhero-film VFX.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-354988/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-354988/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-354988/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-354988/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2639217,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ponzponz15-042333",
@@ -131388,7 +132880,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-042333/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-042333/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-042333/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ponzponz15-042333/poster.jpg",
+   "width": 832,
+   "height": 480,
+   "duration_ms": 15104,
+   "bytes": 1390895,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "charaspowerai-120566",
@@ -131404,7 +132908,19 @@
   ],
   "prompt": "Epic fluid-action title sequence beginning with an enormous black ocean suddenly splitting down the center as two mountain-sized walls of water rise on opposite sides of frame. The camera sweeps between them while billions of droplets rain downward and sunlight refracts through transparent liquid structures. Both walls violently collapse toward each other, creating a spectacular collision of water, foam and pressure that launches a liquid shockwave into the sky. The camera rapidly orbits the explosion as the suspended water is pulled into gigantic rotating streams. These streams twist, collide and sculpt themselves into the monumental word \"TIDAL\", every letter composed of violently circulating transparent seawater with white foam wrapped around its edges. The title holds for one massive hero moment before an invisible pressure pulse tears through it from left to right, detonating each letter sequentially into enormous explosions of water and mist. Photorealistic fluid simulation, colossal natural power, IMAX-scale cinematic VFX.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-120566/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-120566/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-120566/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-120566/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 3794031,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ai-reskill-087394",
@@ -131420,7 +132936,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-reskill-087394/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-reskill-087394/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-reskill-087394/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-reskill-087394/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 15104,
+   "bytes": 1258967,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "ai-ai-ailover-052037",
@@ -131436,7 +132964,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-ai-ailover-052037/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-ai-ailover-052037/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-ai-ailover-052037/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ai-ai-ailover-052037/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 4013669,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "su-nagomi-451271",
@@ -131453,7 +132993,19 @@
   ],
   "prompt": "【15秒｜16:9｜手描きポップアート・モーショングラフィック｜高彩度2D｜テーマ：アイデア、渋滞中。｜白いミニマル主人公｜手書き文字主役】 【全体仕様】主人公は白い丸っこいミニマルキャラ。頭の中の“アイデア”は、「A案」「B案」「これもいい」「いや待て」「それアリ」「ひらめき」などの手書き文字そのものが、車や道路標識のように動く。文字は字幕ではなく、走る・止まる・ぶつかる・積み重なる・整列する“物体”として扱う。背景は白ベース、色はシアン・ピンク・イエロー・ライム・オレンジ。BGMは軽快なポップ、SEは渋滞・ピコン・整理の気持ちよさを強める。 CUT01｜00:00-00:02.5｜アイデア発生 Visuals:主人公が机で考え込み、頭上に小さな電球マーク。そこへ「A案」がポンッ、「B案」がポンッ、「これもいい」がポンッと順番に出現。最初は気持ちよく並んでいる。 Camera:35mm正面ミディアム、軽くプッシュイン。 Motion:主人公が「おっ」という表情。文字たちが軽く弾みながら前へ進む。 Lighting:明るい白ベース。 VFX:ハーフトーン、星、やさしい放射線。 SFX:「ポン」「ピコッ」 Emotion:ひらめき始める楽しさ。 Transition:さらに別の文字が左右から入ってくる。 CUT02｜00:02.5-00:05.0｜流れ始めるが、増えすぎる Visuals:「A案」「B案」「これもいい」「それアリ」「いや待て」「ひらめき」が道路のようなレーンに入り、同じ方向へ進み始める。上には小さな標識「IDEA ROAD」。 Camera:28mmワイド、横移動で追う。 Motion:最初はスムーズだが、後ろから新しい文字がどんどん合流してくる。 Lighting:カラフルで元気なポップ照明。 VFX:矢印、点線道路、吹き出しの標識。 SFX:「トコトコ」「スーッ」「ポンポン」 Emotion:いい感じ、でもちょっと多い。 Transition:前方で急ブレーキが起きる。 CUT03｜00:05.0-00:07.5｜大渋滞発生 Visuals:前方で「A案」と「B案」が並走し、「これもいい」が割り込み、「いや待て」が横から止めに入る。画面いっぱいに「アイデア渋滞！」。文字たちがぎゅうぎゅうに詰まって動けない。 Camera:24mm広角、少し煽り気味で混雑感を強調。 Motion:文字同士がぶつかり、「あっ」「ちょっと」「まだ決まらん！」など小文字が飛ぶ。主人公は頭を抱える。 Lighting:少し騒がしい警告色。 VFX:スピード線、コミックバースト、警告マーク。 SFX:「プップー！」「ギュッ！」「わちゃわちゃ」 Emotion:混乱、でもコミカル。 Transition:渋滞文字が渦を巻いて主人公の前に集まる。 CUT04｜00:07.5-00:10.0｜整理の一手 Visuals:主人公が大きな標識を出す。標識には「まず1個。」。その瞬間、背景が一度スッと静かになり、暴れていた文字たちがピタッと止まる。 Camera:35mm正面、標識に寄る。 Motion:主人公が標識を地面にズバッと立てる。「A案」「B案」たちがそれを見る。 Lighting:白ベースへ戻り始める。 VFX:集中線、整理される矢印、静止の間。 SFX:「ズバッ！」「ピタッ」 Emotion:ひらめきより、決めるモード。 Transition:文字たちが順番に整列を始める。 CUT05｜00:10.0-00:12.5｜一列に流れ始める Visuals:さっきまで渋滞していた文字たちが、「まず1個。」標識に従って一列に並ぶ。先頭の「A案」だけが前へ進み、他の「B案」「これもいい」「いや待て」は小さく後ろで待機。上に気持ちよく「スイスイ」の文字。 Camera:28mm横構図、スムーズなトラッキング。 Motion:先頭だけがスーッと進む。主人公の表情も明るくなる。 Lighting:明るく爽やか。 VFX:流れる矢印、星、小さな紙吹雪。 SFX:「スーッ」「ピロリン♪」 Emotion:整理されて気持ちいい。 Transition:先頭のアイデアが主人公の胸元へ着地。 CUT06｜00:12.5-00:15.0｜締め Visuals:主人公が胸元に着地した先頭のアイデアを見て、にこっとする。画面中央に大きく**「アイデア、渋滞中。」、その下に小さく「まず1個で、流れ出す。」**。背景には整然と並んだ残りのアイデアたち。 Camera:50mm正面固定。 Motion:タイトルが1回だけポンッとバウンド。主人公が軽くうなずく。後ろのアイデア文字たちも小さく前進。 Lighting:明るい締めの高キー。 VFX:薄い放射線、ハーフトーン、星。 SFX:「ポン♪」 Emotion:スッキリ、前向き。 Transition:フリーズエンド。 【最重要固定条件】文字はただの説明ではなく、道路を走る“アイデアの車”のような存在として動かすこと。特に「A案」「B案」「これもいい」「いや待て」「まず1個。」は読めること。前半は情報過多の楽しさ、中盤は渋滞の混乱、後半は整理の快感をはっきり出すこと。",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-451271/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-451271/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-451271/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/su-nagomi-451271/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 2426852,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "itoktw-303937",
@@ -131469,7 +133021,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itoktw-303937/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itoktw-303937/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itoktw-303937/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itoktw-303937/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 10144,
+   "bytes": 667796,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "wasabivaio-178827",
@@ -131485,7 +133049,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wasabivaio-178827/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wasabivaio-178827/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wasabivaio-178827/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/wasabivaio-178827/poster.jpg",
+   "width": 640,
+   "height": 640,
+   "duration_ms": 8064,
+   "bytes": 968964,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "yonsan434343-056689",
@@ -131501,7 +133077,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yonsan434343-056689/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yonsan434343-056689/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yonsan434343-056689/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/yonsan434343-056689/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 65300,
+   "bytes": 9943612,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "aicreataro-988390",
@@ -131517,7 +133105,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aicreataro-988390/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aicreataro-988390/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aicreataro-988390/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/aicreataro-988390/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 24225,
+   "bytes": 7195122,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "sorastg524-241243",
@@ -131533,7 +133133,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-241243/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-241243/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-241243/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/sorastg524-241243/poster.jpg",
+   "width": 1258,
+   "height": 720,
+   "duration_ms": 15116,
+   "bytes": 4316311,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hexxrl-265641",
@@ -131551,7 +133163,11 @@
   ],
   "prompt": "15s,16:9,1440p. Reference bindings, fixed order: Element1 rack hero; Element2 rear structure; Element3 compute tray; Element4 superchip/memory; Element5 NVLink/spine; Element6 network/storage/control; Element7 cooling; Element8 power/management; Element9 external topology.\n\nSource-preserving photoreal educational deconstruction. Use approved plate geometry, black graphite studio, warm metallic hardware and restrained green light traces. Ignore all text, arrows, dots and framing printed on references: NO titles, captions, labels, logos or invented text in video. Gentle steady object yaw, small camera push/orbit and soft light shifts; retain familiar reference angles. Cuts between reference views, no shape-morph transitions. Never invent unseen hardware; no board bending, component multiplication, live service or coolant leaks. Diagram effects act on translucent overlays only; physical hardware remains rigid. No music; native subtle mechanical SFX only if supported.\n\n0-5s: intact Element1 NVL72 rack hero; slow yaw about 10 degrees, camera rises slightly. Preserve rack tray bands and cabinet proportions, no added panels. 5-11s: clean cut to rear Element2 angle. Its rear bezel, module supports, copper cartridge spine and paired coolant manifolds separate a small distance along the reference's existing exploded axes. Upward bezel separation is the inverse falling-from-above effect; parts hover calmly, never fall or collide. 11-15s: hold source-based rear exploded arrangement with cabinet as anchor. A thin translucent wireframe skeleton assembles over the unchanged chassis to show structure; four copper spine cartridges are emphasized using Element5 for form. Rack context: 18 compute trays, 9 NVLink switch trays, 72 Rubin GPUs, 36 Vera CPUs. Counts are for visual consistency, never printed or shown as extra loose chips. Quiet rail slide and dry latch click at each separation. End on rear liquid couplings for next shot.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "suzukiphill-628169",
@@ -131570,7 +133186,11 @@
   ],
   "prompt": "Create an exactly 10-second premium vertical 9:16 photorealistic Japanese menswear fashion commercial using the attached REN character sheet　@[Image 1](image_1) as the absolute visual reference.\n\nCORE OBJECTIVE:\nCombine luxury menswear advertising, dynamic cinematic camera choreography, and sophisticated Adobe After Effects-style kinetic typography. Every shot must feel like a professionally directed, photographed, edited and motion-designed fashion commercial, never a static character sheet animation.\n\nCHARACTER AND REFERENCE CONTROL:\nThe MID SHOT 3 VIEW section defines REN's face, natural messy center-parted dark hair, facial proportions and appearance. The HEADLESS FULL BODY 3 VIEW section defines the exact clothing silhouette, proportions and outfit from front, side and back. The DETAIL & ACCESSORIES section defines the silver pendant necklace, silver metal wristwatch, white sneakers and black blazer materials. The MOOD BOARD defines the muted monochromatic palette and typography direction, not the filming location.\nRender REN as a believable live-action Japanese male fashion model in his late twenties, with realistic skin pores, natural hair strands, authentic fabric texture and physically accurate lighting.\nMaintain precisely the same face, haircut, body type and outfit in all shots.\n\nOutfit: relaxed black tailored blazer with casually pushed-up sleeves, white crewneck T-shirt, loose black wide-leg trousers, clean white low-top sneakers, a slim silver pendant necklace and one silver wristwatch worn exclusively on REN's LEFT wrist.\nThe RIGHT wrist must remain completely bare. Do not mirror or duplicate the watch.\nMaintain the correct left and right sides of the character during frontal, three-quarter, profile and moving shots.\nDo not treat the headless outfit images as actual headless characters. Reconstruct the complete character using the facial references.\n\nART DIRECTION:\nLuxury European editorial fashion campaign meets contemporary Tokyo street-style advertising. Minimal architecture, elegant neutral studio space, sculptural lighting, charcoal black, warm ivory, light grey, muted taupe and cool silver. Premium contrast, refined highlights, realistic shadows and subtle atmospheric depth.\n\nMOTION GRAPHICS:\nHigh-end Adobe After Effects-style kinetic typography, precision motion design, bold condensed sans-serif typography, advanced animated masking, shape-layer transitions, geometric line animations, 2.5D parallax, text tracking, variable text scale, rapid scale transitions, smooth easing, motion blur and perfect beat synchronization.\nTypography must interact spatially with REN: massive letters moving behind his body while smaller labels float in front, elegant silhouette masking, thin tracking lines following clothing details and graphic elements attached accurately to the garment.\nClean, editorial, sophisticated. Bold enough to create instant visual impact, but never visually chaotic.\n\nEXACT 10-SECOND SEQUENCE:\n0.0–1.5s — IMPACT INTRO:\nBegin with an extreme photorealistic close-up of REN's eye and textured dark hair. Execute an explosive cinematic crash zoom backward, transitioning into a full-body front hero shot. Huge white kinetic typography reading URBAN MINIMAL rapidly assembles behind his silhouette. A fine graphic outline briefly traces his figure. Strong synchronized impact sound.\n\n1.5–3.5s — THE BLAZER:\nWhip-pan around REN to a dynamic three-quarter camera angle. Push into a highly detailed close-up of the black blazer's shoulder, lapel and relaxed sleeve. Smooth slow-motion fabric motion contrasts with rapid typography.\nDisplay exactly: 01 / OVERSIZED JACKET.\nAnimated vector lines trace the jacket structure. Typography follows the moving garment with precise tracking.\n\n3.5–5.0s — THE WHITE T-SHIRT:\nUse a precise match cut into the white crewneck T-shirt and visible silver pendant necklace. Camera performs a fast lateral slide with natural depth separation. Bright white geometric masks transition into the text:\n02 / CLEAN WHITE.\nBriefly highlight the contrast between white innerwear and black tailoring.\n\n5.0–6.5s — THE SILHOUETTE:\nExecute a fast cinematic tilt and descending camera move toward the black wide-leg trousers and clean white sneakers. Transition into a dramatic low-angle tracking shot following REN taking one confident natural step.\nDisplay exactly: 03 / WIDE SILHOUETTE.\nThin animated contour lines emphasize the flowing trouser shape. Preserve accurate shoe and fabric details.\n\n6.5–8.0s — STYLE COMPOSITION:\nThree extremely polished fast match cuts: front view, three-quarter view and side profile. Each camera angle must remain consistent with the reference character sheet. REN makes subtle natural model movements. A large typographic composition reading BALANCE IS KEY appears with layered masking, animated tracking and synchronized geometric shapes.\nIf the wristwatch becomes visible, it must be on his LEFT wrist only.\n\n8.0–10.0s — HERO FINALE:\nFluid cinematic camera orbit transitions to a dramatic full-body hero shot. REN casually places his RIGHT hand into his trouser pocket while his LEFT wristwatch remains anatomically correct. He looks confidently toward the camera.\n\nLarge dramatic typography reading LESS IS MORE rises behind him, partially hidden by his silhouette. Minimal thin lines complete the composition like a luxury fashion magazine cover.\nFinish on a visually powerful locked hero frame with a clean music impact.\n\nCAMERA DIRECTION:\nUse true cinematic camera movements, not digital zoom applied to a static reference image. Fast crash zoom, low-angle dolly, lateral tracking, whip-pan, short orbit, dynamic tilt and coherent movement across cuts.\nAlternate explosive camera movement with very brief moments of clarity. Strong foreground-background separation, believable perspective, natural lens distortion, premium motion blur and controlled speed ramps.\nNever make the video feel like a slideshow or a sequence of unrelated AI images.\n\nTYPOGRAPHY RULES:\nDisplay only these exact phrases:\nURBAN MINIMAL\n01 / OVERSIZED JACKET\n02 / CLEAN WHITE\n03 / WIDE SILHOUETTE\nBALANCE IS KEY\nLESS IS MORE\n\nTypography must be clean, perfectly spelled, properly aligned, crisp and readable. Use the reference mood board to inspire the editorial style. No random text, malformed letters, extra slogans, captions or logos.\nGive each phrase a brief readable hold even when entering or exiting dynamically.\n\nSOUND DESIGN:\nModern luxury-fashion electronic soundtrack, approximately 120 BPM feel. Editorial percussion, subtle bass pulses, refined whooshes, shutter sounds and precisely synchronized graphic impacts. No dialogue, no narration.\n\nFINAL OUTPUT:\nExactly 10 seconds, 9:16 portrait video, photorealistic live-action aesthetic, premium fashion advertising quality, highly dynamic cinematography, refined After Effects-inspired motion graphics, impeccable character and wardrobe continuity, elegant color grading, professional editing.\nNEGATIVE CONSTRAINTS:\nNo anime, no illustration, no cartoon style, no headless people, no changing facial identity, no changing wardrobe, no duplicated accessories, no watch on the right wrist, no mirrored watch placement, no clothing morphing, no artificial body distortion, no extra limbs, no extra characters, no floating garments, no excessive glitch effects, no incorrect text, no illegible typography, no Japanese subtitles, no logo watermarks, no static image panning, no storyboard grid visible in the video.",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
+  }
  },
  {
   "slug": "charaspowerai-993357",
@@ -131586,7 +133206,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-993357/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-993357/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-993357/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/charaspowerai-993357/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 15083,
+   "bytes": 2787641,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "yolandahgil-176781",
