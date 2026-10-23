@@ -434,7 +434,7 @@ def main():
         counts["reused"] = reused
     summary = ", ".join(f"{k}={v}" for k, v in sorted(counts.items()))
     print(f"media: {summary}")
-    message = f"Mirror {synced} videos to our CDN ({summary})" if synced else f"Check media ({summary})"
+    message = f"Update media for {synced} videos" if synced else "Update media"
     msg_file.write_text(message, encoding="utf-8")
 
 

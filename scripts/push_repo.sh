@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 # Commit what changed in a public data repo checkout and push it, merging with
-# whatever the other writer (collector or pipeline) pushed meanwhile.
+# whatever was pushed meanwhile.
 #   bash scripts/push_repo.sh <checkout> <commit message>
 # Prints "pushed" when something was pushed.
 set -euo pipefail
 dir="$1"; msg="$2"
 tools="$(cd "$(dirname "$0")" && pwd)"
 cd "$dir"
-git config user.name "github-actions[bot]"
-git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git config user.name "ClawShelf"
+git config user.email "support@clawshelf.com"
 git config merge.videos.driver "python3 $tools/merge_videos.py %O %A %B"
 git config merge.keep.driver true   # generated files: keep either, rebuilt below
 printf 'data/videos.json merge=videos\nREADME*.md merge=keep\ndata/readme.json merge=keep\n' > .git/info/attributes

@@ -1,7 +1,7 @@
 """git merge driver for data/videos.json: three-way merge per entry and field.
 
-The private collector (adds entries, enriches fields) and this pipeline (fills
-`media`) both push to the public repos, sometimes at the same time. Their
+Entry updates and the media workflow (fills `media`) can push at the same
+time. Their
 changes touch different entries/fields, so merge by slug instead of by line:
 
     git config merge.videos.driver "python3 <path>/merge_videos.py %O %A %B"

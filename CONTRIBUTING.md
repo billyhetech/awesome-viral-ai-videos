@@ -17,7 +17,7 @@ Thanks for helping grow the list!
 
 - **Every entry credits the creator and links the original post.** That's the whole point of the list.
 - **Prompt text: only what the creator publicly shared.** If the post only describes the video, paste that description and mark `prompt_partial: true`. Don't paste private or leaked prompts.
-- `README.md` and `README.zh-CN.md` are auto-generated — never edit them directly. Edit `data/videos.json`, then run `python scripts/build_readme.py`.
+- `README.md` and `README.zh-CN.md` are generated from `data/videos.json` — never edit them directly. Edit `data/videos.json`, then run `python scripts/build_readme.py`.
 - Before pushing: `python scripts/validate.py && python scripts/build_readme.py --check` (CI runs the same).
 
 ### Entry format
@@ -42,5 +42,5 @@ Thanks for helping grow the list!
 
 - **每个条目必须署名作者并链接原帖。** 这是这个列表存在的意义。
 - **prompt 只收录作者公开发布的内容。** 如果原帖只是描述了视频,把描述贴上并标记 `prompt_partial: true`。不要贴私有或泄露的 prompt。
-- `README.md` 和 `README.zh-CN.md` 是自动生成的——不要直接改。改 `data/videos.json` 后运行 `python scripts/build_readme.py`。
+- `README.md` 和 `README.zh-CN.md` 由 `data/videos.json` 生成——不要直接改。改 `data/videos.json` 后运行 `python scripts/build_readme.py`。
 - 推送前:`python scripts/validate.py && python scripts/build_readme.py --check`(CI 会跑同样的检查)。
