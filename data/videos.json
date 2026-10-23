@@ -91419,6 +91419,18 @@
   "stats_snapshot": {
    "views": 935432,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ecomrads-896198/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ecomrads-896198/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ecomrads-896198/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ecomrads-896198/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 70083,
+   "bytes": 11469702,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91439,6 +91451,18 @@
   "stats_snapshot": {
    "views": 712039,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/levelsio-216132/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/levelsio-216132/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/levelsio-216132/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/levelsio-216132/poster.jpg",
+   "width": 720,
+   "height": 958,
+   "duration_ms": 15072,
+   "bytes": 846343,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91460,6 +91484,18 @@
   "stats_snapshot": {
    "views": 234916,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soaima-ai-166442/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soaima-ai-166442/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soaima-ai-166442/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soaima-ai-166442/poster.jpg",
+   "width": 1276,
+   "height": 718,
+   "duration_ms": 30045,
+   "bytes": 5032850,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91481,6 +91517,18 @@
   "stats_snapshot": {
    "views": 233150,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/masahirochaen-742103/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/masahirochaen-742103/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/masahirochaen-742103/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/masahirochaen-742103/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 52608,
+   "bytes": 10364402,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91501,6 +91549,18 @@
   "stats_snapshot": {
    "views": 181124,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-410403/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-410403/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-410403/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-410403/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15113,
+   "bytes": 1213267,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91521,6 +91581,10 @@
   "stats_snapshot": {
    "views": 177142,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-23"
   }
  },
  {
@@ -91541,6 +91605,18 @@
   "stats_snapshot": {
    "views": 174979,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sanibulaai-272693/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sanibulaai-272693/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sanibulaai-272693/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sanibulaai-272693/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30080,
+   "bytes": 3390719,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91561,6 +91637,10 @@
   "stats_snapshot": {
    "views": 168579,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
   }
  },
  {
@@ -91581,6 +91661,18 @@
   "stats_snapshot": {
    "views": 158024,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/matiasschrank-606926/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/matiasschrank-606926/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/matiasschrank-606926/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/matiasschrank-606926/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 60070,
+   "bytes": 8950551,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91601,6 +91693,18 @@
   "stats_snapshot": {
    "views": 152811,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithjessica-205619/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithjessica-205619/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithjessica-205619/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithjessica-205619/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 45139,
+   "bytes": 3858441,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91621,6 +91725,18 @@
   "stats_snapshot": {
    "views": 149361,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kimmonismus-097038/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kimmonismus-097038/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kimmonismus-097038/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kimmonismus-097038/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 17136,
+   "bytes": 2012199,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91641,6 +91757,18 @@
   "stats_snapshot": {
    "views": 144395,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-243069/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-243069/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-243069/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-243069/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30066,
+   "bytes": 5253400,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91661,6 +91789,18 @@
   "stats_snapshot": {
    "views": 142879,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/xirissy-977818/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/xirissy-977818/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/xirissy-977818/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/xirissy-977818/poster.jpg",
+   "width": 1470,
+   "height": 630,
+   "duration_ms": 30041,
+   "bytes": 4317961,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91681,6 +91821,18 @@
   "stats_snapshot": {
    "views": 124309,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-229224/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-229224/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-229224/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-229224/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10054,
+   "bytes": 1138378,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91702,6 +91854,18 @@
   "stats_snapshot": {
    "views": 116532,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rohanpaul-ai-498513/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rohanpaul-ai-498513/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rohanpaul-ai-498513/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rohanpaul-ai-498513/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10016,
+   "bytes": 1460334,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91722,6 +91886,18 @@
   "stats_snapshot": {
    "views": 107708,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/i-amshiti-717441/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/i-amshiti-717441/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/i-amshiti-717441/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/i-amshiti-717441/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15082,
+   "bytes": 1538476,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91742,6 +91918,18 @@
   "stats_snapshot": {
    "views": 102646,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-455221/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-455221/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-455221/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-455221/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10100,
+   "bytes": 1960451,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91762,6 +91950,18 @@
   "stats_snapshot": {
    "views": 94169,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-477115/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-477115/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-477115/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-477115/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 43792,
+   "bytes": 9993419,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91782,6 +91982,18 @@
   "stats_snapshot": {
    "views": 93319,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/textocriativo-199751/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/textocriativo-199751/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/textocriativo-199751/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/textocriativo-199751/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30045,
+   "bytes": 3129143,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91802,6 +92014,18 @@
   "stats_snapshot": {
    "views": 90456,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/wavespeed-ai-803693/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/wavespeed-ai-803693/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/wavespeed-ai-803693/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/wavespeed-ai-803693/poster.jpg",
+   "width": 720,
+   "height": 1214,
+   "duration_ms": 12074,
+   "bytes": 900800,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91822,6 +92046,18 @@
   "stats_snapshot": {
    "views": 89595,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/anishjaitwar-190191/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/anishjaitwar-190191/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/anishjaitwar-190191/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/anishjaitwar-190191/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 2007291,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91842,6 +92078,18 @@
   "stats_snapshot": {
    "views": 86490,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/futurestacked-134948/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/futurestacked-134948/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/futurestacked-134948/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/futurestacked-134948/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30045,
+   "bytes": 5567346,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91862,6 +92110,18 @@
   "stats_snapshot": {
    "views": 81839,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ginacostag-098081/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ginacostag-098081/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ginacostag-098081/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ginacostag-098081/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30066,
+   "bytes": 6163141,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91883,6 +92143,18 @@
   "stats_snapshot": {
    "views": 80425,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/jibrilqanqadar-948384/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/jibrilqanqadar-948384/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/jibrilqanqadar-948384/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/jibrilqanqadar-948384/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 9589,
+   "bytes": 979142,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91905,6 +92177,18 @@
   "stats_snapshot": {
    "views": 78959,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-385014/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-385014/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-385014/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-385014/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 31300,
+   "bytes": 9000843,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91925,6 +92209,18 @@
   "stats_snapshot": {
    "views": 78482,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john87445528-066724/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john87445528-066724/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john87445528-066724/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john87445528-066724/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 28063,
+   "bytes": 3451103,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91946,6 +92242,18 @@
   "stats_snapshot": {
    "views": 70198,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/itssaira-1-081041/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/itssaira-1-081041/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/itssaira-1-081041/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/itssaira-1-081041/poster.jpg",
+   "width": 1278,
+   "height": 720,
+   "duration_ms": 28235,
+   "bytes": 4835896,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91966,6 +92274,18 @@
   "stats_snapshot": {
    "views": 69499,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sarahannabels-856081/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sarahannabels-856081/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sarahannabels-856081/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/sarahannabels-856081/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30069,
+   "bytes": 4051771,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -91987,6 +92307,18 @@
   "stats_snapshot": {
    "views": 68913,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-850753/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-850753/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-850753/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/colawmide-850753/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 14721,
+   "bytes": 1360935,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92007,6 +92339,18 @@
   "stats_snapshot": {
    "views": 68339,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/exm7777-371875/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/exm7777-371875/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/exm7777-371875/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/exm7777-371875/poster.jpg",
+   "width": 1378,
+   "height": 720,
+   "duration_ms": 119316,
+   "bytes": 26539119,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92028,6 +92372,18 @@
   "stats_snapshot": {
    "views": 68214,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kichochezi-524747/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kichochezi-524747/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kichochezi-524747/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/kichochezi-524747/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 12074,
+   "bytes": 1444840,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92048,6 +92404,18 @@
   "stats_snapshot": {
    "views": 66007,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/dipanshu-ai-136457/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/dipanshu-ai-136457/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/dipanshu-ai-136457/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/dipanshu-ai-136457/poster.jpg",
+   "width": 848,
+   "height": 478,
+   "duration_ms": 30080,
+   "bytes": 1426444,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92069,6 +92437,18 @@
   "stats_snapshot": {
    "views": 65363,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-094565/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-094565/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-094565/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/joyjuliet-ai-094565/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 12074,
+   "bytes": 1366820,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92089,6 +92469,10 @@
   "stats_snapshot": {
    "views": 61441,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-23"
   }
  },
  {
@@ -92109,6 +92493,18 @@
   "stats_snapshot": {
    "views": 60695,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nozelcode-075411/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nozelcode-075411/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nozelcode-075411/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nozelcode-075411/poster.jpg",
+   "width": 900,
+   "height": 720,
+   "duration_ms": 15000,
+   "bytes": 1716316,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92130,6 +92526,18 @@
   "stats_snapshot": {
    "views": 58552,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tussiwe-761230/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tussiwe-761230/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tussiwe-761230/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tussiwe-761230/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 9589,
+   "bytes": 979142,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92150,6 +92558,18 @@
   "stats_snapshot": {
    "views": 55907,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/codemindtanvir-698475/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/codemindtanvir-698475/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/codemindtanvir-698475/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/codemindtanvir-698475/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30039,
+   "bytes": 5746428,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92171,6 +92591,18 @@
   "stats_snapshot": {
    "views": 53237,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fellmentke-753857/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fellmentke-753857/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fellmentke-753857/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fellmentke-753857/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 15100,
+   "bytes": 3916503,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92191,6 +92623,18 @@
   "stats_snapshot": {
    "views": 50584,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-930602/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-930602/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-930602/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-930602/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 30069,
+   "bytes": 2988224,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92211,6 +92655,18 @@
   "stats_snapshot": {
    "views": 48587,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-011925/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-011925/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-011925/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vortex-promos-011925/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 44400,
+   "bytes": 7549832,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92232,6 +92688,18 @@
   "stats_snapshot": {
    "views": 47849,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/n-deborah-119296/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/n-deborah-119296/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/n-deborah-119296/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/n-deborah-119296/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 15100,
+   "bytes": 2471482,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92253,6 +92721,10 @@
   "stats_snapshot": {
    "views": 46490,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
   }
  },
  {
@@ -92274,6 +92746,18 @@
   "stats_snapshot": {
    "views": 40725,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-221724/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-221724/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-221724/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/shamiweb3-221724/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 30069,
+   "bytes": 3140277,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92294,6 +92778,18 @@
   "stats_snapshot": {
    "views": 34014,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aresotik-933229/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aresotik-933229/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aresotik-933229/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aresotik-933229/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 33500,
+   "bytes": 3672050,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92316,6 +92812,18 @@
   "stats_snapshot": {
    "views": 33782,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aimikoda-193814/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aimikoda-193814/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aimikoda-193814/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aimikoda-193814/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30066,
+   "bytes": 8572902,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92336,6 +92844,18 @@
   "stats_snapshot": {
    "views": 33054,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/james-bonds0-107621/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/james-bonds0-107621/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/james-bonds0-107621/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/james-bonds0-107621/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 15100,
+   "bytes": 2471482,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92356,6 +92876,18 @@
   "stats_snapshot": {
    "views": 32647,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/marcusyul-919472/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/marcusyul-919472/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/marcusyul-919472/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/marcusyul-919472/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 16768,
+   "bytes": 1862148,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92376,6 +92908,18 @@
   "stats_snapshot": {
    "views": 29670,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-057920/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-057920/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-057920/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-057920/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15015,
+   "bytes": 1868428,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92396,6 +92940,18 @@
   "stats_snapshot": {
    "views": 28508,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/patricklawsonai-969637/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/patricklawsonai-969637/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/patricklawsonai-969637/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/patricklawsonai-969637/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 15069,
+   "bytes": 1613559,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92416,6 +92972,18 @@
   "stats_snapshot": {
    "views": 28264,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-298126/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-298126/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-298126/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-298126/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 23707,
+   "bytes": 3042681,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92436,6 +93004,18 @@
   "stats_snapshot": {
    "views": 28191,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/porquettfin-769101/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/porquettfin-769101/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/porquettfin-769101/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/porquettfin-769101/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30144,
+   "bytes": 3120602,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92456,6 +93036,18 @@
   "stats_snapshot": {
    "views": 27021,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/enzosanchezia-738917/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/enzosanchezia-738917/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/enzosanchezia-738917/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/enzosanchezia-738917/poster.jpg",
+   "width": 360,
+   "height": 640,
+   "duration_ms": 21466,
+   "bytes": 832280,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92476,6 +93068,18 @@
   "stats_snapshot": {
    "views": 25614,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rosey-watson-133211/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rosey-watson-133211/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rosey-watson-133211/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rosey-watson-133211/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 15072,
+   "bytes": 2433620,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92499,6 +93103,18 @@
   "stats_snapshot": {
    "views": 24442,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/evolinkai-710283/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/evolinkai-710283/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/evolinkai-710283/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/evolinkai-710283/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 30066,
+   "bytes": 2290837,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92519,6 +93135,18 @@
   "stats_snapshot": {
    "views": 24349,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/zyrellix-295703/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/zyrellix-295703/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/zyrellix-295703/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/zyrellix-295703/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30041,
+   "bytes": 6678007,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92539,6 +93167,18 @@
   "stats_snapshot": {
    "views": 23993,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/caden-flux-454040/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/caden-flux-454040/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/caden-flux-454040/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/caden-flux-454040/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 46766,
+   "bytes": 5885385,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92559,6 +93199,18 @@
   "stats_snapshot": {
    "views": 23458,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-792189/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-792189/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-792189/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/mrdejie-792189/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30066,
+   "bytes": 6505936,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92579,6 +93231,18 @@
   "stats_snapshot": {
    "views": 22068,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/eptwts-010831/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/eptwts-010831/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/eptwts-010831/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/eptwts-010831/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30033,
+   "bytes": 3255739,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92600,6 +93264,10 @@
   "stats_snapshot": {
    "views": 21836,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
   }
  },
  {
@@ -92621,6 +93289,18 @@
   "stats_snapshot": {
    "views": 21551,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/openrouter-092792/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/openrouter-092792/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/openrouter-092792/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/openrouter-092792/poster.jpg",
+   "width": 1680,
+   "height": 720,
+   "duration_ms": 123349,
+   "bytes": 27402432,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92641,6 +93321,18 @@
   "stats_snapshot": {
    "views": 21535,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/emmausesai-375923/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/emmausesai-375923/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/emmausesai-375923/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/emmausesai-375923/poster.jpg",
+   "width": 640,
+   "height": 360,
+   "duration_ms": 30066,
+   "bytes": 1106157,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92661,6 +93353,18 @@
   "stats_snapshot": {
    "views": 20995,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rizwanaly07-022269/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rizwanaly07-022269/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rizwanaly07-022269/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/rizwanaly07-022269/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15162,
+   "bytes": 1746577,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92681,6 +93385,18 @@
   "stats_snapshot": {
    "views": 20773,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/novaiahq-989133/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/novaiahq-989133/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/novaiahq-989133/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/novaiahq-989133/poster.jpg",
+   "width": 640,
+   "height": 360,
+   "duration_ms": 30066,
+   "bytes": 2265031,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92701,6 +93417,18 @@
   "stats_snapshot": {
    "views": 20673,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/0xroas-790959/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/0xroas-790959/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/0xroas-790959/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/0xroas-790959/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 20066,
+   "bytes": 1226968,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92721,6 +93449,18 @@
   "stats_snapshot": {
    "views": 20482,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-442505/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-442505/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-442505/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/higgsfield-ai-442505/poster.jpg",
+   "width": 720,
+   "height": 720,
+   "duration_ms": 16233,
+   "bytes": 2418831,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92741,6 +93481,18 @@
   "stats_snapshot": {
    "views": 19946,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fuji-ai-916446/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fuji-ai-916446/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fuji-ai-916446/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/fuji-ai-916446/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30144,
+   "bytes": 4622534,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92761,6 +93513,18 @@
   "stats_snapshot": {
    "views": 19745,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ryanaisolo-340917/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ryanaisolo-340917/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ryanaisolo-340917/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ryanaisolo-340917/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 23600,
+   "bytes": 3157202,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92782,6 +93546,18 @@
   "stats_snapshot": {
    "views": 19662,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tiyyyyyyyok-098615/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tiyyyyyyyok-098615/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tiyyyyyyyok-098615/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/tiyyyyyyyok-098615/poster.jpg",
+   "width": 1056,
+   "height": 608,
+   "duration_ms": 30208,
+   "bytes": 2403354,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92803,6 +93579,18 @@
   "stats_snapshot": {
    "views": 19185,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/imageatofficial-372810/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/imageatofficial-372810/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/imageatofficial-372810/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/imageatofficial-372810/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 24000,
+   "bytes": 2713747,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92823,6 +93611,18 @@
   "stats_snapshot": {
    "views": 19126,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theobuildsai-629100/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theobuildsai-629100/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theobuildsai-629100/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theobuildsai-629100/poster.jpg",
+   "width": 640,
+   "height": 360,
+   "duration_ms": 40769,
+   "bytes": 3218503,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92843,6 +93643,18 @@
   "stats_snapshot": {
    "views": 18884,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/elsasofia-ai-795940/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/elsasofia-ai-795940/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/elsasofia-ai-795940/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/elsasofia-ai-795940/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30066,
+   "bytes": 4356318,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92864,6 +93676,18 @@
   "stats_snapshot": {
    "views": 18406,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/viperstudios4-529887/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/viperstudios4-529887/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/viperstudios4-529887/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/viperstudios4-529887/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30080,
+   "bytes": 4372918,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92884,6 +93708,18 @@
   "stats_snapshot": {
    "views": 18233,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nooneishere2603-681420/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nooneishere2603-681420/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nooneishere2603-681420/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/nooneishere2603-681420/poster.jpg",
+   "width": 854,
+   "height": 480,
+   "duration_ms": 15072,
+   "bytes": 2119211,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92904,6 +93740,18 @@
   "stats_snapshot": {
    "views": 18128,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/salmakhatunn-476846/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/salmakhatunn-476846/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/salmakhatunn-476846/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/salmakhatunn-476846/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 23600,
+   "bytes": 3157202,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92924,6 +93772,18 @@
   "stats_snapshot": {
    "views": 18076,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theava-ai-260872/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theava-ai-260872/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theava-ai-260872/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/theava-ai-260872/poster.jpg",
+   "width": 368,
+   "height": 496,
+   "duration_ms": 15071,
+   "bytes": 637715,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92944,6 +93804,18 @@
   "stats_snapshot": {
    "views": 17691,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vinay-bharambe-779106/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vinay-bharambe-779106/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vinay-bharambe-779106/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/vinay-bharambe-779106/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 9589,
+   "bytes": 979142,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92964,6 +93836,18 @@
   "stats_snapshot": {
    "views": 17612,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/smallzero-319622/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/smallzero-319622/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/smallzero-319622/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/smallzero-319622/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10100,
+   "bytes": 1905725,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -92984,6 +93868,18 @@
   "stats_snapshot": {
    "views": 17576,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-workflow-hub-143908/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-workflow-hub-143908/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-workflow-hub-143908/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-workflow-hub-143908/poster.jpg",
+   "width": 848,
+   "height": 478,
+   "duration_ms": 46783,
+   "bytes": 3374761,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93004,6 +93900,18 @@
   "stats_snapshot": {
    "views": 17167,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/deronin-540867/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/deronin-540867/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/deronin-540867/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/deronin-540867/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 22633,
+   "bytes": 1366765,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93025,6 +93933,18 @@
   "stats_snapshot": {
    "views": 17099,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-928047/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-928047/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-928047/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-928047/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30112,
+   "bytes": 3411381,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93045,6 +93965,18 @@
   "stats_snapshot": {
    "views": 16987,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/modengsir-269726/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/modengsir-269726/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/modengsir-269726/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/modengsir-269726/poster.jpg",
+   "width": 544,
+   "height": 960,
+   "duration_ms": 12250,
+   "bytes": 1456682,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93065,6 +93997,18 @@
   "stats_snapshot": {
    "views": 16909,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/techiebysa-211614/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/techiebysa-211614/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/techiebysa-211614/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/techiebysa-211614/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 16716,
+   "bytes": 3208794,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93085,6 +94029,18 @@
   "stats_snapshot": {
    "views": 16304,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/adamaestr0-759159/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/adamaestr0-759159/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/adamaestr0-759159/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/adamaestr0-759159/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30500,
+   "bytes": 2061448,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93105,6 +94061,18 @@
   "stats_snapshot": {
    "views": 16159,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-728160/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-728160/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-728160/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-728160/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15072,
+   "bytes": 3799169,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93125,6 +94093,18 @@
   "stats_snapshot": {
    "views": 15963,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/arthurcollinsai-474830/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/arthurcollinsai-474830/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/arthurcollinsai-474830/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/arthurcollinsai-474830/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 23600,
+   "bytes": 3157202,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93145,6 +94125,18 @@
   "stats_snapshot": {
    "views": 15945,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/johnagi168-479760/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/johnagi168-479760/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/johnagi168-479760/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/johnagi168-479760/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30066,
+   "bytes": 2129710,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93165,6 +94157,10 @@
   "stats_snapshot": {
    "views": 15548,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-23"
   }
  },
  {
@@ -93185,6 +94181,18 @@
   "stats_snapshot": {
    "views": 15219,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/heyearly-bird-032803/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/heyearly-bird-032803/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/heyearly-bird-032803/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/heyearly-bird-032803/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 23600,
+   "bytes": 3157202,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93205,6 +94213,18 @@
   "stats_snapshot": {
    "views": 15177,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-493341/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-493341/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-493341/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-493341/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 27840,
+   "bytes": 5910730,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93225,6 +94245,18 @@
   "stats_snapshot": {
    "views": 14693,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-tsubaki-937007/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-tsubaki-937007/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-tsubaki-937007/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/ai-tsubaki-937007/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30041,
+   "bytes": 5106598,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93246,6 +94278,18 @@
   "stats_snapshot": {
    "views": 14458,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-603690/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-603690/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-603690/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithkhan-603690/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30080,
+   "bytes": 4819173,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93266,6 +94310,18 @@
   "stats_snapshot": {
    "views": 14454,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john-my07-153208/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john-my07-153208/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john-my07-153208/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/john-my07-153208/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 30113,
+   "bytes": 4058513,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93286,6 +94342,18 @@
   "stats_snapshot": {
    "views": 14070,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soranlan-687176/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soranlan-687176/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soranlan-687176/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/soranlan-687176/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10080,
+   "bytes": 1353584,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93307,6 +94375,18 @@
   "stats_snapshot": {
    "views": 13681,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-677989/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-677989/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-677989/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-677989/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15092,
+   "bytes": 1852067,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93327,6 +94407,10 @@
   "stats_snapshot": {
    "views": 13563,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "unavailable",
+   "checked_at": "2026-10-23"
   }
  },
  {
@@ -93347,6 +94431,18 @@
   "stats_snapshot": {
    "views": 13463,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-754080/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-754080/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-754080/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-754080/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30929,
+   "bytes": 3302544,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93369,6 +94465,18 @@
   "stats_snapshot": {
    "views": 13152,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-527310/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-527310/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-527310/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/just-sharon7-527310/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30066,
+   "bytes": 4183822,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93389,6 +94497,18 @@
   "stats_snapshot": {
    "views": 13142,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-200313/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-200313/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-200313/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/aiwithsynthia-200313/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15072,
+   "bytes": 1850072,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93410,6 +94530,18 @@
   "stats_snapshot": {
    "views": 12904,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-541928/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-541928/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-541928/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/simplyannisa-541928/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30112,
+   "bytes": 5408745,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -93430,6 +94562,18 @@
   "stats_snapshot": {
    "views": 12146,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/leocreaia-524723/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/leocreaia-524723/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/leocreaia-524723/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/seedance-2.5/leocreaia-524723/poster.jpg",
+   "width": 900,
+   "height": 720,
+   "duration_ms": 15104,
+   "bytes": 1036802,
+   "synced_at": "2026-10-23"
   }
  },
  {
