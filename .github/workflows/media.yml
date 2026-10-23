@@ -86,14 +86,20 @@ jobs:
       - name: Commit and push (if changed)
         if: always()
         run: |
+          # one list failing (e.g. PUB_REPO_PAT lacks write access to a new list)
+          # must not hold back the others; the run still fails at the end
+          failed=""
           for d in . $(printf '_lists/%s ' $LISTS); do
             name="$(basename "$(cd "$d" && pwd)")"
             msg="$(cat "out/media_commit_message_$name.txt" 2>/dev/null || echo "no changes")"
             [ "$msg" = "no changes" ] && msg="Refresh the README poster wall"
-            out="$(bash scripts/push_repo.sh "$d" "$msg" 2>&1)" || { echo "$out"; exit 1; }
+            out="$(bash scripts/push_repo.sh "$d" "$msg" 2>&1)" || {
+              echo "$out"; echo "::error::$name: push failed — does PUB_REPO_PAT have write access?"
+              failed="$failed $name"; continue; }
             echo "$name: ${out:-no changes}"
             if [ "$d" = . ] && [ "$out" = pushed ]; then echo "PUSHED=1" >> "$GITHUB_ENV"; fi
           done
+          [ -z "$failed" ] || { echo "push failed:$failed"; exit 1; }
 
       # Our own pushes use GITHUB_TOKEN, which doesn't trigger refresh-site.
       # (The other lists are pushed with the PAT and refresh through their own.)
