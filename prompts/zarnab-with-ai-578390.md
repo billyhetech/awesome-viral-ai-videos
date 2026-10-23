@@ -1,0 +1,13 @@
+# Seedance 2.5 video by @Zarnab_with_Ai
+
+[Original post](https://x.com/Zarnab_with_Ai/status/2110921224788578390)
+
+- **Category:** Cinematic shorts
+- **Built with:** AI video
+- **Author:** [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai)
+
+## Prompt
+
+```text
+A cute little baby walks through a colorful fantasy village surrounded by beautiful houses, green trees, and vibrant flowers. Suddenly, a giant majestic lion appears, creating a surprising and magical moment. The baby looks at the lion with curiosity and wonder while the lion moves gently and naturally. The scene features expressive facial emotions, detailed character movements, cinematic camera angles, smooth tracking shots, soft natural lighting, realistic shadows, rich colors, highly detailed textures, and high-quality 3D Pixar-style animation. Create a charming, immersive, and visually stunning fantasy scene with fluid motion and professional cinematic quality.
+```

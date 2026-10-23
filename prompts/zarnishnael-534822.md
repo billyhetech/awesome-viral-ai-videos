@@ -1,0 +1,18 @@
+# Seedance 2.5 video by @ZarnishNael
+
+[Original post](https://x.com/ZarnishNael/status/2110575781600534822)
+
+- **Category:** Cinematic shorts
+- **Built with:** AI video · Multi-shot
+- **Author:** [@ZarnishNael](https://x.com/ZarnishNael)
+
+## Prompt
+
+```text
+A young East Asian woman with long dark hair in a modern high-rise apartment in Seoul. Soft natural lighting, cinematic color grading, shallow depth of field, realistic film look, gentle camera movement.
+Sequence:
+She wakes up in bed by large windows with sheer curtains and soft morning sunlight, reaches for her phone, stretches, then gets out of bed. Close-up of her washing her face, then applying nude lipstick. She picks clothes from a closet, makes pour-over coffee in a bright kitchen, and carries a mug with a plate of rice and kimchi to a small table by the window overlooking the city. She eats breakfast while checking her phone.
+Cut to her workspace: MacBook Pro open with video editing software, cameras and ring light on the desk. She works, looks stressed and concentrated at the screen, checks a declining graph on her phone, types a message, then briefly smiles.
+Evening golden hour by the large window with city skyline and sunset — she covers her face with both hands in exhaustion. Night scene: she sits on a sofa by floor-to-ceiling windows with city lights and Namsan Tower visible, wrapped in a blanket, calmly looking outside.
+Style: Warm morning tones transitioning to cool evening blues, premium lifestyle aesthetic, realistic skin texture, 4K, subtle film grain, calm introspective mood. No text.
+```

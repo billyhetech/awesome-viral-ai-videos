@@ -1,0 +1,16 @@
+# Seedance 2.5 video by @mehwishkiran07
+
+[Original post](https://x.com/mehwishkiran07/status/2110551759718691309)
+
+- **Category:** Cinematic shorts
+- **Built with:** AI video
+- **Author:** [@mehwishkiran07](https://x.com/mehwishkiran07)
+
+## Prompt
+
+```text
+/
+ .
+
+Create an ultra-realistic 30-second cinematic action video in a narrow urban alley. A young woman with short black hair, wearing a black off-shoulder top and dark skirt, walks while looking at her phone. Two helmeted men approach her on a motorcycle. As one tries to grab her phone, mysterious purple energy suddenly activates. Her phone floats in the air, surrounded by glowing violet lightning. The camera cuts to the shocked attackers as she unleashes supernatural power, sending them flying across the alley. She dashes forward with a purple energy trail, striking them with powerful energy-charged moves. Show dynamic wide shots, close-ups, slow-motion impacts, realistic body movements, flying dust, and purple electrical effects. In the final scene, she calmly stands near the fallen attackers, holding her phone, completely unfazed. Consistent character appearance, smooth cinematic transitions, realistic physics, dramatic lighting, high-detail action choreography, no text, no subtitles.
+```

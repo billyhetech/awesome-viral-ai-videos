@@ -1,0 +1,13 @@
+# Seedance 2.5 video by @SandroFrancoC
+
+[Original post](https://x.com/SandroFrancoC/status/2085090694109040797)
+
+- **Category:** Cinematic shorts
+- **Built with:** AI video · Image-to-video
+- **Author:** [@SandroFrancoC](https://x.com/SandroFrancoC)
+
+## Prompt
+
+```text
+ByteDance's Seedance 2.5 makes 30 second video with synced audio, up from 15 seconds. It takes 50+ references, including 3D models. Studios sent cease and desist ....
+```

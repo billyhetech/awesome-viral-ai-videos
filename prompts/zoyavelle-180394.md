@@ -1,0 +1,17 @@
+# Seedance 2.5 video by @Zoyavelle
+
+[Original post](https://x.com/Zoyavelle/status/2108060187840180394)
+
+- **Category:** Cinematic shorts
+- **Built with:** AI video
+- **Author:** [@Zoyavelle](https://x.com/Zoyavelle)
+
+## Prompt
+
+```text
+A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living room, viewed through the wooden blades of a slowly rotating ceiling fan in the foreground. She has natural black hair and a calm relaxed expression. The scene uses warm golden indoor lighting, realistic wooden flooring, detailed traditional carpet patterns, soft shadows, and a cozy aesthetic interior. The woman appears in a simple black dress at first, then smoothly transitions through several different fashionable outfits while maintaining the exact same pose, position, camera angle, environment, and facial identity. Outfit transitions include a soft pink cardigan with a white dress, a red cardigan over a white top, and finally a brown textured dress. Highly photorealistic, natural skin texture, realistic fabric details, cinematic lighting, shallow depth of field, subtle motion blur from the rotating ceiling fan, smooth seamless outfit transformation, professional fashion video, DSLR quality, ultra-detailed, 4K, realistic proportions, stable overhead camera, no text, no watermark.
+
+Camera: fixed top-down perspective, ceiling fan blades passing naturally across the frame, slow smooth motion.
+Aspect ratio: 16:9.
+Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless transitions.
+```

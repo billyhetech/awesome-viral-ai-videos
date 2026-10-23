@@ -1,0 +1,30 @@
+# Seedance 2.5 video by @loicRambo
+
+[Original post](https://x.com/loicRambo/status/2083152233445704000)
+
+- **Category:** Cinematic shorts
+- **Built with:** AI video · Native audio
+- **Author:** [@loicRambo](https://x.com/loicRambo)
+
+## Prompt
+
+```text
+Main subject: a beautiful typical Parisian woman, blue eyes, 20 years old, natural everyday appearance, elegant city-girl presence, subtle Parisian charm, long hair. Keep her facial features, clothing, hairstyle, and appearance consistent throughout the entire video. She should feel authentic, spontaneous, and subtly charming. Wearing a chic casual vibrant red summer sleeveless dress.
+Location: Paris, France, moving through iconic everyday Parisian spaces. Start at a classic Haussmann apartment interior with a high-floor open window overlooking Parisian rooftops, then a typical Montmartre street with cobblestones and old facades, then a Parisian bouquiniste market along the quais de Seine with Notre Dame visible across the river in the background, old posters and old books on display, and finally a typical Parisian rooftop with the rest of the city softly blurred in the background in subtle bokeh. For the second half, shift the atmosphere slightly later into twilight, with softer blue-hour light, warmer interior highlights, and a more serene evening Paris mood while keeping the same slice-of-life continuity.
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
+Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+00:00–00:02 By a high-floor Haussmann window, she adjusts her hair while looking out over Paris. Sunlight spills softly into the room as the camera struggles to settle focus.
+00:02–00:04 On a typical Montmartre street, She smiles and crouches to pet a cat. The camera drifts off-center as she pets the stray cat.
+00:04–00:06 At a bouquiniste market by the quais de Seine, she slowly browses old posters and old books. Notre Dame sits in the background across the Seine, slightly softened by distance and haze.
+00:06–00:08 She continues walking past the bouquinistes, lightly touching the books and posters as the handheld camera follows her. The river, stone embankment, and Parisian street life remain authentically present.
+00:08–00:10 On a Parisian rooftop, she sits relaxed with the city blurred behind her in subtle bokeh. She takes in the view quietly, calm and reflective, with the wind lightly moving stray hair.
+00:10–00:12 She turns around toward the camera, shy but cheerful, and giggles while saying “arrête!” with a cute, warm expression and adjusting her hair. The camera catches the moment slightly late, as if recorded casually by a friend.
+00:12–00:15 She looks out at the city again, as the handheld frame wobbles gently on the rooftop and slightly zooms in on her face adjusting focus, before cutting smoothly into the later twilight continuation rather than ending immediately.
+00:15–00:18 Twilight settles over Paris. She is walking on top of a Parisian zinc rooftop, the skyline now tinted blue-purple with a few warm apartment windows glowing in the distance. Looking back at times and giggling. The handheld camera lags behind her shoulder, catching soft movement and gentle evening breeze.
+00:18–00:21 She pauses near a rooftop railing and looks out across the city, resting her hands lightly on the edge. The background becomes dreamier and more atmospheric, with subtle bokeh from distant streetlights and windows.
+00:21–00:24 On a calmer Paris street nearby, passing a softly lit café frontage and a few evening pedestrians in the distance, she cheerfully greets and hugs a female friend sitting at the frontage. The handheld camcorder catching their expression.
+00:24–00:27 She walks slowly beside the Seine at twilight, the water reflecting blue and amber tones. Her expression remains relaxed and quietly happy, with the camera briefly losing focus before finding her again.
+00:27–00:30 She turns back once more with a small shy grin, gives a final gentle glance to camera, and continues walking out of frame as the twilight Paris ambience deepens. The shot ends naturally with a slight handheld wobble.
+Audio: Natural ambient sound only — soft Paris street ambience, distant traffic, faint footsteps on pavement, river breeze, light fabric movement, subtle city chatter, a cat meow, rooftop wind, evening street sounds, and quiet neighborhood atmosphere. No music. No sound design. No narration.
+Goal: Authentic Parisian life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable, with the second half transitioning into a gentle twilight continuation.
+```

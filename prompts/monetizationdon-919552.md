@@ -1,0 +1,16 @@
+# Seedance 2.5 video by @MonetizationDon
+
+[Original post](https://x.com/MonetizationDon/status/2086585814624919552)
+
+- **Category:** Music videos
+- **Built with:** AI video
+- **Author:** [@MonetizationDon](https://x.com/MonetizationDon)
+
+## Prompt
+
+```text
+I TURNED ALEXA GREY INTO THE LEAD OF A FULL AI MUSIC VIDEO. 
+
+I took my Alexa Grey character sheet + cinematic storyboard into @PixVerse_   and tested the same music-video prompt with MiniMax H3 and Seedance 2.5.
+The concept: a retro-pop girl-gang music video packed with energy:
+```

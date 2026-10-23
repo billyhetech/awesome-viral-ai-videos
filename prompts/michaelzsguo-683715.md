@@ -1,0 +1,30 @@
+# MiniMax H3 video by @Michaelzsguo
+
+[Original post](https://x.com/Michaelzsguo/status/2104705711674683715)
+
+- **Category:** Music videos
+- **Built with:** AI video · Native audio · Multi-shot
+- **Author:** [@Michaelzsguo](https://x.com/Michaelzsguo)
+
+## Prompt
+
+```text
+I want you to make a music video called "SHUT UP AND MULTIPLY." It's a satire of effective altruism and how a gentle idea about bednets turned into a doomsday movement that puts a price on every human life. The audience is x, the people who argue about this every week, so it should be dense with things they recognize.
+
+Start from the song, because the song decides everything else. It's an original EDM girl-group anthem at 136 BPM built on tension and release: stripped verses, real build-ups, a moment of total silence, then a drop. Three drops, each bigger than the last. Don't make it plain and don't make it constant. I tried laying a string section over a finished track and it sounded like a separate layer every time; if you want strings or any other color, write it into the track itself and use it only where it propels the blood. Use your own taste here, not the literal words of any brief, including this one.
+
+The look: the whole world is a Wall Street Journal hedcut, a black-ink steel engraving on warm newsprint, crosshatch and stipple, classic and artful, with rich fabric rendered as line. Three girls are the only color in it. The lead is a fashion model with dense freckles and a chestnut bob with a butter-yellow silk ribbon, in raspberry boucle and sky-blue gingham. She should be unforgettable; the camera falls in love with her face. She starts alone and pulls the other two out of the ink during the first verse: the tall one in sky-blue pinstripe from a spreadsheet at a retreat, the youngest in a butter-yellow cable knit from a crypto crash floor. Color floods into each of them as she's freed. By the final chorus the whole engraved world has turned color. All the doomsday, and this color girl brightens it.
+
+The girls must never just stand in front of a backdrop. Every shot, they do something to the world: tear it like paper, fold a manor flat like a pop-up book and throw it as a paper airplane, rip the storm sky open like a curtain, snip a lanyard so Pascal's mugger gets wrapped in his own calculation, pull one colored thread through a paper window until the room unravels, embroider a meadow into color with a needle. Engraved people come alive and dance with them. Keep the theme identical in every render but vary everything else as much as you can: camera, framing, location, the way they change the world, graphics, transitions. Never repeat a camera move or framing back to back.
+
+The dance has to be real and on the beat. Use real choreography (I used ITZY's WANNABE performance video) and lock every hit to our kick; if the dancing floats with no drum under it, it's dead. K-pop is one ingredient, not the whole video. Cut on the beat, 1-2 beats per shot in the choruses, no slow motion anywhere. When the song goes silent before a drop, cut to blank paper; on the drop, explode into color.
+
+Instead of the dashboard call-out boxes from the original viral video, build a dystopia out of our own materials. The Ledger is a cathedral-sized Victorian calculating engine run by clerks in fleece vests and lanyards, printing ticker tape that decides what every person is worth. Cult members wear tailor's price tags ("VALUE: 1/10^58 OF A FUTURE PERSON · STATUS: REPLACEABLE"). The girls snip them off and those people come alive. Graphics speak newsprint and tailoring: receipts stamped VOID on the drop, a typewriter ledger that computes expected value and then breaks, sewn care labels ("100% BOUCLE · 0% UTILITARIAN · DO NOT OPTIMIZE"), letterpress lyric headlines that tear. One or two per shot, landing on the beat, then out of the way. No tracking boxes; the girls are the only color, they don't need circling. Give the Ledger its own sounds (stamp, typewriter, bell, gear clank) synced exactly to what's on screen.
+Load it with real history people can relate to, the way the original used this week's news. Open on the timeline: the researcher who quit an AI lab this month saying it could kill us all by the end of the decade, 174 million views, "a Trojan horse," "a doomsday cult." Then pin real history to the lyrics: Singer's drowning child (1972) over the pond, earn-to-give and its star pupil over the crypto verse, the FTX bankruptcy stamp when the balance hits zero, the abbey bought "for convening" over the manor, the 5% extinction math over "shut up and multiply," the secular solstice and the "Death with Dignity" cocktail over the retreat, Constellation's islands and iodine on the mugger's lanyard, the 2023 board firing on the second drop, the White House memo in the bridge. End on "How can we do the most good?" corrected to "Who gets to decide?" Real people appear only through public-record facts and their own public words: no invented quotes, no real faces doing things they didn't do. Fact-check everything before it ships. If you want, one self-aware frame: this video was made by an AI from a lab with its own EA history.
+
+Be rigorous. Watch the whole thing repeatedly, take contact sheets, check every clip for clones, morphing faces, and characters who drift off-model, and re-render anything that isn't up to the bar. Skirts swing but never flare up, and the camera stays at waist height or above. Lip-sync is hard; don't hold long on singing close-ups you can't sync. Don't patch things up when an idea isn't working; say so and change the idea.
+
+Tools I had: Claude Code as director and editor, MiniMax Music 3 for the song, Codex image gen for characters, sets and keyframes, MiniMax H3 locally for first-and-last-frame video and Viggle character swaps for the dance, VoiceStudio for a designed (not cloned) announcer, and ffmpeg plus your own code for graphics, beat-locking, and the edit. One MacBook. Everything overnight.
+
+The goal is a banger for Twitter that people rewatch to catch the fine print. Go big, have your own taste, and go get it.
+```

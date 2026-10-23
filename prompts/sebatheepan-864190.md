@@ -1,0 +1,13 @@
+# Seedance 2.5 video by @sebatheepan
+
+[Original post](https://x.com/sebatheepan/status/2083290634731864190)
+
+- **Category:** Cinematic shorts
+- **Built with:** AI video · Native audio
+- **Author:** [@sebatheepan](https://x.com/sebatheepan)
+
+## Prompt
+
+```text
+A 30 second film from ONE completely locked, static camera position that never moves, never pans, never zooms, never cuts. The same view of the same patch of ground for one thousand years, time passing at enormous speed. In the foreground of every single frame sits a large mossy grey boulder. It never moves. It is present and recognisable in every frame of the film from first to last. [0:00-0:03] Ancient temperate forest. Huge old trees, deep green undergrowth, mist between the trunks, soft grey daylight. [0:03-0:06] Trees fall and are dragged away. A clearing opens. Stumps, churned mud, a first thin column of smoke. [0:06-0:09] A single timber and thatch hut rises beside the boulder. A small vegetable plot. Chickens. [0:09-0:12] A village grows around it. More huts, fences, a dirt track, wood smoke, sheep in the field beyond. [0:12-0:15] A stone wall is built, incorporating the boulder into its base. A church tower rises behind. Snow falls and melts. Seasons flicker past. [0:15-0:18] Fire. The village burns, timbers collapse, smoke blackens the sky. The wall and the boulder survive. [0:18-0:21] Rebuilding in brick. A cobbled road. A chimney, then many chimneys. Industrial smoke, grey air, rain. [0:21-0:24] The town becomes a city. Concrete rises. The old wall is demolished. The boulder sits in a small paved square, surrounded by buildings. [0:24-0:26] Glass towers. Traffic light streaking past at night. The boulder is fenced off, a small green plaque beside it. [0:26-0:28] Abandonment. Windows dark, glass cracked, weeds through the paving, ivy climbing the towers. Silence. [0:28-0:30] The towers have collapsed and gone. Young forest has grown over everything. Mist between the trunks. The frame is now identical to the opening frame, the same boulder in the same position under the same soft grey light. Camera: absolutely locked and static for all 30 seconds. No movement of any kind. No cuts, no dissolves, no transitions — one continuous transforming shot. Style: photoreal, cinematic, natural overcast light throughout, muted natural colour, seasons and weather flickering rapidly past. Audio: diegetic only, evolving with the era — forest birds, axes, village life, church bell, fire, industrial machinery, city traffic, then silence, then birds again. NO MUSIC, no score, no soundtrack, no instruments. No text, no captions, no titles, no watermarks, no camera movement, no cuts.
+```

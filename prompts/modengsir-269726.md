@@ -1,0 +1,17 @@
+# Seedance 2.5 video by @ModengSir
+
+[Original post](https://x.com/ModengSir/status/2089872722000269726)
+
+- **Category:** Ads & brand films
+- **Built with:** AI video
+- **Author:** [@ModengSir](https://x.com/ModengSir)
+
+## Prompt
+
+```text
+健身girl vlog视频
+
+【风格】真人写实健身房训练短片（Photorealistic Fitness Video），高密度卡点剪辑（Beat-synced Rapid Cuts），运动广告质感，真实力量与器械物理反馈，4K高清，自然皮肤、汗水与布料纹理
+【时长】12秒
+【比例】9:16竖屏
+```
