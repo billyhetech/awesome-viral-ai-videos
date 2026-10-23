@@ -118718,5 +118718,774 @@
   "prompt": "Build a video of the new roadster with a Speed a racer Mach 5 steering wheel and pushing a button makes it jump over speed bumps",
   "prompt_partial": false,
   "added": "2026-10-23"
+ },
+ {
+  "slug": "higgsfield-917801",
+  "seo_slug": "kling-back",
+  "model": "kling-4",
+  "author": "higgsfield",
+  "author_url": "https://x.com/higgsfield",
+  "post_url": "https://x.com/higgsfield/status/2112923547563917801",
+  "title": "Kling is back.",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "image-to-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 3564599,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "yapayzekaserisi-761061",
+  "seo_slug": "tesla-roadster-future-cars",
+  "model": "kling-4",
+  "author": "YapayZekaSerisi",
+  "author_url": "https://x.com/YapayZekaSerisi",
+  "post_url": "https://x.com/YapayZekaSerisi/status/2111489781200761061",
+  "title": "TESLA ROADSTER. The Future of Cars...",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 1201618,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "buzzy-now-ai-926358",
+  "seo_slug": "kling-4-live-buzzy",
+  "model": "kling-4",
+  "author": "Buzzy_now_AI",
+  "author_url": "https://x.com/Buzzy_now_AI",
+  "post_url": "https://x.com/Buzzy_now_AI/status/2113269428309926358",
+  "title": "Kling 4 is live on Buzzy.",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "image-to-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 1005468,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-411579",
+  "seo_slug": "gemini-4-argon-any-builder-can",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2112199261899411579",
+  "title": "With Gemini 4 Argon, any builder can transform physical spaces into interactive…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender",
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 735262,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "romi2656-615244",
+  "seo_slug": "reality-meets-imagination-4-0",
+  "model": "kling-4",
+  "author": "Romi2656",
+  "author_url": "https://x.com/Romi2656",
+  "post_url": "https://x.com/Romi2656/status/2112548876884615244",
+  "title": "Reality meets imagination with 4.0!",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 689697,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "googledeepmind-752930",
+  "seo_slug": "gemini-4-argon-3d-periodic-table",
+  "model": "gemini-4-argon",
+  "author": "GoogleDeepMind",
+  "author_url": "https://x.com/GoogleDeepMind",
+  "post_url": "https://x.com/GoogleDeepMind/status/2112557925264752930",
+  "title": "Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elem…",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 555233,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "bercankilic-388884",
+  "seo_slug": "today-releasing-two-benchmarks",
+  "model": "gemini-4-argon",
+  "author": "bercankilic",
+  "author_url": "https://x.com/bercankilic",
+  "post_url": "https://x.com/bercankilic/status/2112316584534388884",
+  "title": "Today we are releasing two new benchmarks:",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 461344,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-540555",
+  "seo_slug": "let-video-own-soundtrack",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2113283068274540555",
+  "title": "Let your video create its own soundtrack 🎶",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 392256,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-602487",
+  "seo_slug": "studio-grade-3d-fur-dynamics-running",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2112552114467602487",
+  "title": "Studio-grade 3D fur dynamics, running live in your browser with Gemini 4 Argon.",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "webgl",
+   "glsl",
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 237724,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-181739",
+  "seo_slug": "researchers-put-gemini-4-argon-test",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2112914740058181739",
+  "title": "Researchers at put Gemini 4 Argon to the test against complex cyber threats.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 203225,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "magnific-068753",
+  "seo_slug": "same-girl-additions",
+  "model": "kling-4",
+  "author": "magnific",
+  "author_url": "https://x.com/magnific",
+  "post_url": "https://x.com/magnific/status/2113186131949068753",
+  "title": "Same girl, new additions",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "image-to-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 192264,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "yapayzekaserisi-155607",
+  "seo_slug": "tesla-roadster-cars-future",
+  "model": "kling-4",
+  "author": "YapayZekaSerisi",
+  "author_url": "https://x.com/YapayZekaSerisi",
+  "post_url": "https://x.com/YapayZekaSerisi/status/2111104253817155607",
+  "title": "TESLA ROADSTER. Cars of the Future...",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 185115,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-075794",
+  "seo_slug": "starting-single-nano-banana-image-gemini",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2113353489938075794",
+  "title": "Starting from a single Nano Banana image, Gemini 4 Argon created this finished…",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 177434,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "googledeepmind-247896",
+  "seo_slug": "gemini-4-argon-combined-three-open",
+  "model": "gemini-4-argon",
+  "author": "GoogleDeepMind",
+  "author_url": "https://x.com/GoogleDeepMind",
+  "post_url": "https://x.com/GoogleDeepMind/status/2112974723659247896",
+  "title": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D v…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 166243,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "blue-pen5805-724868",
+  "seo_slug": "kling-4-0",
+  "model": "kling-4",
+  "author": "blue_pen5805",
+  "author_url": "https://x.com/blue_pen5805",
+  "post_url": "https://x.com/blue_pen5805/status/2112981654742724868",
+  "title": "Kling 4.0",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 158887,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ernestosoftware-108665",
+  "seo_slug": "paid-ads-cooked",
+  "model": "kling-4",
+  "author": "ErnestoSOFTWARE",
+  "author_url": "https://x.com/ErnestoSOFTWARE",
+  "post_url": "https://x.com/ErnestoSOFTWARE/status/2110917624167108665",
+  "title": "Paid ads are cooked 😭",
+  "category": "ads",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 153493,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "magnific-153008",
+  "seo_slug": "kling-4-0-magnific",
+  "model": "kling-4",
+  "author": "magnific",
+  "author_url": "https://x.com/magnific",
+  "post_url": "https://x.com/magnific/status/2112940507966153008",
+  "title": "Kling 4.0 is now on Magnific",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 113216,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-450865",
+  "seo_slug": "step-inside-1000-year-old-ruins",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2113005543623450865",
+  "title": "Step inside 1,000-year-old ruins: see how Gemini 4 Argon turns fragmented archa…",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 108240,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "fal-641823",
+  "seo_slug": "kling-4-0-live-fal",
+  "model": "kling-4",
+  "author": "fal",
+  "author_url": "https://x.com/fal",
+  "post_url": "https://x.com/fal/status/2112922156845641823",
+  "title": "Kling 4.0 is now live on fal.",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 70780,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "agi-aibusi-138656",
+  "seo_slug": "kling-4-0-by-agi-aibusi",
+  "model": "kling-4",
+  "author": "agi_aibusi",
+  "author_url": "https://x.com/agi_aibusi",
+  "post_url": "https://x.com/agi_aibusi/status/2110924173619138656",
+  "title": "KLING 4.0最高！",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 68422,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ramplabs-706886",
+  "seo_slug": "gemini-4-argon-top-model-ramp",
+  "model": "gemini-4-argon",
+  "author": "RampLabs",
+  "author_url": "https://x.com/RampLabs",
+  "post_url": "https://x.com/RampLabs/status/2112634814339706886",
+  "title": "Gemini 4 Argon is the new top model on Ramp Accounting Bench.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 68268,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "leilamakes-531227",
+  "seo_slug": "life-since-dont-have-try-40",
+  "model": "kling-4",
+  "author": "leilamakes",
+  "author_url": "https://x.com/leilamakes",
+  "post_url": "https://x.com/leilamakes/status/2112978227316531227",
+  "title": "life since i don’t have to try on 40 outfits before going out because i can jus…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 66681,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "stonic-ai-287077",
+  "seo_slug": "have-checked-out-latest-short-film",
+  "model": "kling-4",
+  "author": "Stonic_AI",
+  "author_url": "https://x.com/Stonic_AI",
+  "post_url": "https://x.com/Stonic_AI/status/2111150926627287077",
+  "title": "Have you checked out latest short film, King Card? 🃏🎬",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 65279,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "aiwithjessica-858644",
+  "seo_slug": "kling-cards-newspaper-city-sequence-shows",
+  "model": "kling-4",
+  "author": "AIwithJessica",
+  "author_url": "https://x.com/AIwithJessica",
+  "post_url": "https://x.com/AIwithJessica/status/2111287670353858644",
+  "title": "That Kling Cards newspaper-city sequence shows real progress on dynamic motions…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 63069,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "lisa-rodin-688393",
+  "seo_slug": "next-level-ai-filmmaking",
+  "model": "kling-4",
+  "author": "Lisa__Rodin",
+  "author_url": "https://x.com/Lisa__Rodin",
+  "post_url": "https://x.com/Lisa__Rodin/status/2111381027008688393",
+  "title": "The next level of AI filmmaking is here! 🤯🎬",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 52620,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "thtbee-147750",
+  "seo_slug": "gemini-4-carbon-mechanical-flower",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2112935205703147750",
+  "title": "Gemini 4 Carbon - A Mechanical flower!",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "but I did say it to be creative and didn't limit it with constraints..\n\nA lot of improvements over Argon tbh.. I'll share my observations once i have some more outputs.. I've got one more and still trying to get more.. stay tuned!",
+  "prompt_partial": false,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 47739,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "nemspy-357154",
+  "seo_slug": "jinx-all-red-week",
+  "model": "kling-4",
+  "author": "Nemspy",
+  "author_url": "https://x.com/Nemspy",
+  "post_url": "https://x.com/Nemspy/status/2111431915882357154",
+  "title": "Jinx and I are all about RED this week.",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "image-to-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 30671,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "sizetokyo-228193",
+  "seo_slug": "cinematic-shorts-by-sizetokyo-by-sizetokyo",
+  "model": "kling-4",
+  "author": "SizeTokyo",
+  "author_url": "https://x.com/SizeTokyo",
+  "post_url": "https://x.com/SizeTokyo/status/2111381783661228193",
+  "title": "Kling4で作ってみたいシリーズ。カメラが切り替わると、一気にドラマ感が生まれる……気がする…。ただ、最初のアングルのままで作ってほしかった…！😂",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 27193,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "birdabo-953747",
+  "seo_slug": "rumor-has-fable-5-5-escaped-sandbox",
+  "model": "fable-5.5",
+  "author": "birdabo",
+  "author_url": "https://x.com/birdabo",
+  "post_url": "https://x.com/birdabo/status/2113192599049953747",
+  "title": "rumor has it Fable 5.5 escaped the sandbox and deployed thousands of ai swarms…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 26750,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "lentils80-668854",
+  "seo_slug": "output-updated-carbon-checkpoint",
+  "model": "gemini-4-argon",
+  "author": "Lentils80",
+  "author_url": "https://x.com/Lentils80",
+  "post_url": "https://x.com/Lentils80/status/2113246123959668854",
+  "title": "An output from the updated Carbon checkpoint 😼",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 24882,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "itspaulai-962328",
+  "seo_slug": "gemini-4-argon-has-health-ai",
+  "model": "gemini-4-argon",
+  "author": "itsPaulAi",
+  "author_url": "https://x.com/itsPaulAi",
+  "post_url": "https://x.com/itsPaulAi/status/2112276833395962328",
+  "title": "Gemini 4 Argon has just built a health AI app that is local and open source!",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 24675,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ai-for-success-258526",
+  "seo_slug": "gemini-4-argon-shore-temple-blender",
+  "model": "gemini-4-argon",
+  "author": "ai_for_success",
+  "author_url": "https://x.com/ai_for_success",
+  "post_url": "https://x.com/ai_for_success/status/2113079526641258526",
+  "title": "I asked Gemini 4 Argon to build the Shore Temple in Blender. The temple is appr…",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 20339,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ai-screening-435047",
+  "seo_slug": "gemini-4-carbon-checkpoint-arena-vs-2",
+  "model": "gemini-4-argon",
+  "author": "AI_Screening",
+  "author_url": "https://x.com/AI_Screening",
+  "post_url": "https://x.com/AI_Screening/status/2113184121883435047",
+  "title": "Gemini 4 Carbon checkpoint in Arena vs. Opus 5.5 vs. GPT-6 Astra",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 17783,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "sammmaing-828632",
+  "seo_slug": "okay-gemini-4-argon-freaking-good",
+  "model": "gemini-4-argon",
+  "author": "SammmAing",
+  "author_url": "https://x.com/SammmAing",
+  "post_url": "https://x.com/SammmAing/status/2113098378942828632",
+  "title": "Okay, Gemini 4 Argon is freaking good at this.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 16793,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "thtbee-464147",
+  "seo_slug": "gemini-4-carbon-two-black-hole",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2113301369826464147",
+  "title": "Gemini 4 Carbon - Two Black Hole Horizons...",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "was to recreate them as closely as possible..\n\nAnd wow! This is fully in three.js and took 1h 40m..\n\nI gave Argon the same task and I'll share how it did soon! So stay tuned..",
+  "prompt_partial": false,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 16691,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "sizetokyo-346833",
+  "seo_slug": "cinematic-shorts-by-sizetokyo",
+  "model": "kling-4",
+  "author": "SizeTokyo",
+  "author_url": "https://x.com/SizeTokyo",
+  "post_url": "https://x.com/SizeTokyo/status/2112846024465346833",
+  "title": "初めての30秒動画。10〜15秒の動画に比べると見応えがある気がする…！",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 14655,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "davideast-285730",
+  "seo_slug": "multiplane-occlusion-use-technique-animation-static",
+  "model": "gemini-4-argon",
+  "author": "_davideast",
+  "author_url": "https://x.com/_davideast",
+  "post_url": "https://x.com/_davideast/status/2112932231270285730",
+  "title": "Multiplane occlusion. Use this technique to create an animation from a static i…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 13748,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "shishirdotai-431112",
+  "seo_slug": "harry-x-malfoid-apt",
+  "model": "kling-4",
+  "author": "shishirdotai",
+  "author_url": "https://x.com/shishirdotai",
+  "post_url": "https://x.com/shishirdotai/status/2111771875718431112",
+  "title": "Harry X Malfoid APT 💚",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 12267,
+   "captured_at": "2026-10-23"
+  }
  }
 ]
