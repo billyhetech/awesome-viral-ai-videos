@@ -15,6 +15,10 @@ on:
           - awesome-opus5-5-videos
           - awesome-gemini4-argon-videos
           - awesome-gpt6-astra-videos
+          - awesome-seedance2-5-videos
+          - awesome-minimax-h3-videos
+          - awesome-kling4-videos
+          - awesome-grok-imagine-videos
         default: awesome-viral-ai-videos
       max:
         description: "Most videos to process in this run"
@@ -34,6 +38,8 @@ env:
   LISTS: >-
     awesome-fable5-5-videos awesome-opus5-5-videos
     awesome-gemini4-argon-videos awesome-gpt6-astra-videos
+    awesome-seedance2-5-videos awesome-minimax-h3-videos
+    awesome-kling4-videos awesome-grok-imagine-videos
   STORAGE_ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
   STORAGE_BUCKET_NAME: ${{ secrets.STORAGE_BUCKET_NAME }}
   STORAGE_ACCESS_KEY_ID: ${{ secrets.STORAGE_ACCESS_KEY_ID }}
@@ -53,9 +59,16 @@ jobs:
         env:
           PAT: ${{ secrets.PUB_REPO_PAT }}
         run: |
+          # LISTS drops any list the PAT can't reach yet, so later steps skip it
+          ok=""
           for r in $LISTS; do
-            git clone -q "https://x-access-token:${PAT}@github.com/billyhetech/$r.git" "_lists/$r"
+            if git clone -q "https://x-access-token:${PAT}@github.com/billyhetech/$r.git" "_lists/$r"; then
+              ok="$ok $r"
+            else
+              echo "::warning::cannot clone $r — grant PUB_REPO_PAT access to it"
+            fi
           done
+          echo "LISTS=${ok# }" >> "$GITHUB_ENV"
 
       - uses: actions/setup-python@v5
         with:

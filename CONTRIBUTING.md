@@ -24,8 +24,8 @@ Thanks for helping grow the list!
 
 - **slug**: `{author-handle-lowercase}-{last 6 digits of the status id}`, e.g. `imjustnewatai-168580`
 - **model**: one of `fable-5.5`, `opus-5.5`, `gemini-4-argon`, `gpt-6-astra`, `seedance-2.5`, `minimax-h3`, `kling-4`, `grok-imagine` (propose new ones in your PR)
-- **category**: one of `motion`, `explainer`, `3d-scenes`, `games-interactive`, `long-form`, `music-videos`
-- **tech_tags**: from `canvas, svg, threejs, glsl, gsap, css, webgl, web-audio, particles, pixel-art, playable, ai-image, physics` (propose new ones in your PR)
+- **category**: one of `motion`, `explainer`, `3d-scenes`, `games-interactive`, `long-form`, `music-videos`; for text-to-video models also `cinematic`, `ads`, `anime`
+- **tech_tags**: from `canvas, svg, threejs, glsl, gsap, css, webgl, web-audio, particles, pixel-art, playable, ai-image, physics`; for text-to-video models `ai-video, image-to-video, multi-shot, native-audio` (propose new ones in your PR)
 
 ---
 

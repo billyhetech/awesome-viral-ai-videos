@@ -25,11 +25,15 @@ MODELS = {
     "fable-5.5", "opus-5.5", "gemini-4-argon", "gpt-6-astra",
     "seedance-2.5", "minimax-h3", "kling-4", "grok-imagine",
 }
-CATEGORIES = {"motion", "explainer", "3d-scenes", "games-interactive", "long-form", "music-videos"}
+CATEGORIES = {
+    "motion", "explainer", "3d-scenes", "games-interactive", "long-form", "music-videos",
+    "cinematic", "ads", "anime",  # generative video models (Seedance, MiniMax, Kling, Grok)
+}
 TAGS = {
     "canvas", "svg", "threejs", "glsl", "gsap", "css", "webgl", "web-audio",
     "particles", "pixel-art", "playable", "ai-image", "physics",
     "webgpu", "remotion", "hyperframes", "blender", "elevenlabs", "ffmpeg", "python",
+    "ai-video", "image-to-video", "multi-shot", "native-audio",
 }
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*-\d{6}$")

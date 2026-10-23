@@ -11,7 +11,7 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GP
 
 模型:[Opus 5.5 (2498)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (303)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (164)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (25)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
-单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos)
+单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos)
 
 共 **2990 条视频**、4 个模型 · [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **774 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 
@@ -26,6 +26,9 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GP
 - [游戏与交互](#游戏与交互) (565)
 - [长片](#长片) (126)
 - [音乐视频](#音乐视频) (58)
+- [电影感短片](#电影感短片) (0)
+- [广告与品牌片](#广告与品牌片) (0)
+- [动漫与动画](#动漫与动画) (0)
 - [最新收录](#最新收录)
 
 ## 动态图形
@@ -93,6 +96,18 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Gemini 4 Argon、Fable 5.5、GP
 </table>
 
 [▶ 在 clawshelf.com 查看全部 58 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+
+## 电影感短片
+
+_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)。_
+
+## 广告与品牌片
+
+_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)。_
+
+## 动漫与动画
+
+_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)。_
 
 ## 最新收录
 

@@ -41,6 +41,10 @@ SATELLITES = [
     ("Gemini 4 Argon", "https://github.com/billyhetech/awesome-gemini4-argon-videos"),
     ("Fable 5.5", "https://github.com/billyhetech/awesome-fable5-5-videos"),
     ("GPT-6 Astra", "https://github.com/billyhetech/awesome-gpt6-astra-videos"),
+    ("Seedance 2.5", "https://github.com/billyhetech/awesome-seedance2-5-videos"),
+    ("MiniMax H3", "https://github.com/billyhetech/awesome-minimax-h3-videos"),
+    ("Kling 4.0", "https://github.com/billyhetech/awesome-kling4-videos"),
+    ("Grok Imagine", "https://github.com/billyhetech/awesome-grok-imagine-videos"),
 ]
 
 # Display label per model id. Order here = badge order nowhere; ids are per-entry.
@@ -63,6 +67,9 @@ CATEGORIES = [
     ("games-interactive", "Games & interactive", "游戏与交互"),
     ("long-form", "Long-form", "长片"),
     ("music-videos", "Music videos", "音乐视频"),
+    ("cinematic", "Cinematic shorts", "电影感短片"),
+    ("ads", "Ads & brand films", "广告与品牌片"),
+    ("anime", "Anime & animation", "动漫与动画"),
 ]
 
 TAG_LABELS = {
@@ -86,6 +93,10 @@ TAG_LABELS = {
     "elevenlabs": "ElevenLabs",
     "ffmpeg": "FFmpeg",
     "python": "Python",
+    "ai-video": "AI video",
+    "image-to-video": "Image-to-video",
+    "multi-shot": "Multi-shot",
+    "native-audio": "Native audio",
 }
 
 STRINGS = {

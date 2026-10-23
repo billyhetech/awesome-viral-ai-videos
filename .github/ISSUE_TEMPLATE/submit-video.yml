@@ -44,13 +44,16 @@ body:
         - games-interactive
         - long-form
         - music-videos
+        - cinematic
+        - ads
+        - anime
     validations:
       required: true
   - type: input
     id: tech_tags
     attributes:
       label: Tech tags / 技术标签
-      description: "Comma separated: canvas, svg, threejs, glsl, gsap, css, webgl, web-audio, particles, pixel-art, playable, ai-image, physics"
+      description: "Comma separated: canvas, svg, threejs, glsl, gsap, css, webgl, web-audio, particles, pixel-art, playable, ai-image, physics; text-to-video: ai-video, image-to-video, multi-shot, native-audio"
       placeholder: canvas, threejs
   - type: textarea
     id: prompt

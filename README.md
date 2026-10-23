@@ -11,7 +11,7 @@ Viral videos made with AI — **Opus 5.5, Gemini 4 Argon, Fable 5.5, GPT-6 Astra
 
 Models: [Opus 5.5 (2498)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (303)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (164)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (25)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
-Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos)
+Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos)
 
 **2990 videos** across 4 models · **774 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 
@@ -26,6 +26,9 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 - [Games & interactive](#games--interactive) (565)
 - [Long-form](#long-form) (126)
 - [Music videos](#music-videos) (58)
+- [Cinematic shorts](#cinematic-shorts) (0)
+- [Ads & brand films](#ads--brand-films) (0)
+- [Anime & animation](#anime--animation) (0)
 - [Latest videos](#latest-videos)
 
 ## Motion graphics
@@ -93,6 +96,18 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 </table>
 
 [▶ See all 58 on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+
+## Cinematic shorts
+
+_No entries yet — [submit one](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)._
+
+## Ads & brand films
+
+_No entries yet — [submit one](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)._
+
+## Anime & animation
+
+_No entries yet — [submit one](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)._
 
 ## Latest videos
 
