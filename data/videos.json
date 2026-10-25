@@ -142931,5 +142931,355 @@
    "bytes": 7644057,
    "synced_at": "2026-10-24"
   }
+ },
+ {
+  "slug": "botcreates-874715",
+  "seo_slug": "jim-sneaks-into-mysterious-hideout-searching",
+  "model": "kling-4",
+  "author": "botcreates",
+  "author_url": "https://x.com/botcreates",
+  "post_url": "https://x.com/botcreates/status/2114049297582874715",
+  "title": "Jim sneaks into a mysterious hideout searching for his missing girl, only to en…",
+  "category": "anime",
+  "tech_tags": [
+   "ai-video",
+   "image-to-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 244183,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "kling-ai-002731",
+  "seo_slug": "discover-how-creators-bringing-cinematic-visions",
+  "model": "kling-4",
+  "author": "Kling_ai",
+  "author_url": "https://x.com/Kling_ai",
+  "post_url": "https://x.com/Kling_ai/status/2113601348881002731",
+  "title": "Discover how creators are bringing cinematic visions to life with Kling 4.0, ca…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 143429,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "glitch-catai-460925",
+  "seo_slug": "gave-kimi-k3-1-pro-gemini",
+  "model": "gemini-4-argon",
+  "author": "glitch_catAI",
+  "author_url": "https://x.com/glitch_catAI",
+  "post_url": "https://x.com/glitch_catAI/status/2113981829984460925",
+  "title": "I gave Kimi K3.1 Pro, Gemini 4 Argon, and Fable 5.1 the exact same prompt:",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "“Generate a 10-second video of a plane landing at sunset.”\n\nOne prompt. Three models. The results might hurt some feelings. 💀💀💀 https://t.co/iccf3eAwpT",
+  "prompt_partial": false,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 66982,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "luccacerf-194391",
+  "seo_slug": "lot-people-how-games",
+  "model": "fable-5.5",
+  "author": "luccacerf",
+  "author_url": "https://x.com/luccacerf",
+  "post_url": "https://x.com/luccacerf/status/2114024932833194391",
+  "title": "A lot of people ask me how I build games.",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 54168,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "emmanuel-2m-241966",
+  "seo_slug": "open-sourced-1300-3d-models-by-emmanuel-2m",
+  "model": "gpt-6-astra",
+  "author": "emmanuel_2m",
+  "author_url": "https://x.com/emmanuel_2m",
+  "post_url": "https://x.com/emmanuel_2m/status/2113990638748241966",
+  "title": "We just open-sourced 1,300+ 3D models.",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 23438,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "chetanankola-877485",
+  "seo_slug": "swamp-threejs-gpt-6-astra",
+  "model": "gpt-6-astra",
+  "author": "chetanankola",
+  "author_url": "https://x.com/chetanankola",
+  "post_url": "https://x.com/chetanankola/status/2113909026253877485",
+  "title": "Just a swamp in threejs made with gpt 6 Astra",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 12024,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "mireilledartois-283710",
+  "seo_slug": "vsa-upper-right-camera-drift",
+  "model": "minimax-h3",
+  "author": "MireilleDartois",
+  "author_url": "https://x.com/MireilleDartois",
+  "post_url": "https://x.com/MireilleDartois/status/2111874551999283710",
+  "title": "VSA Upper Right Camera Drift",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "mtarakawa-783418",
+  "seo_slug": "frozen-character-motionless-prompt-revision",
+  "model": "minimax-h3",
+  "author": "mtArakawa",
+  "author_url": "https://x.com/mtArakawa",
+  "post_url": "https://x.com/mtArakawa/status/2113999459931783418",
+  "title": "Frozen Character Motionless Prompt Revision",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "completely motionless",
+  "prompt_partial": false,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "itotaiga-778603",
+  "seo_slug": "underwater-train-whale-station-extension",
+  "model": "minimax-h3",
+  "author": "itotaiga_",
+  "author_url": "https://x.com/itotaiga_",
+  "post_url": "https://x.com/itotaiga_/status/2114031916181778603",
+  "title": "Underwater Train Whale and Station Extension",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "pixeldojoai-549961",
+  "seo_slug": "rainy-neon-paper-boat-slow-push",
+  "model": "minimax-h3",
+  "author": "PixelDojoAI",
+  "author_url": "https://x.com/PixelDojoAI",
+  "post_url": "https://x.com/PixelDojoAI/status/2114140603789549961",
+  "title": "Rainy Neon Paper Boat Slow Push In",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "The paper boat drifts slowly forward on the rippling water, rain falling, neon reflections shimmering, the girl in the yellow raincoat leans out of the doorway and smiles as she watches it, slow cinematic push-in",
+  "prompt_partial": false,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "tony-worldmodel-805257",
+  "seo_slug": "red-ball-projectile-trajectory-study",
+  "model": "minimax-h3",
+  "author": "tony_worldmodel",
+  "author_url": "https://x.com/tony_worldmodel",
+  "post_url": "https://x.com/tony_worldmodel/status/2114186434030805257",
+  "title": "Red Ball Projectile Trajectory Study",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "dofi-combo-435645",
+  "seo_slug": "bilingual-start-end-frame-continuity-test",
+  "model": "minimax-h3",
+  "author": "dofi_combo",
+  "author_url": "https://x.com/dofi_combo",
+  "post_url": "https://x.com/dofi_combo/status/2113941122565435645",
+  "title": "Bilingual Start and End Frame Continuity Test",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "image-to-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "iancu-ai-456163",
+  "seo_slug": "anime-evening-seven-shot-star-direction",
+  "model": "minimax-h3",
+  "author": "Iancu_ai",
+  "author_url": "https://x.com/Iancu_ai",
+  "post_url": "https://x.com/Iancu_ai/status/2113988692570456163",
+  "title": "Anime Evening Seven Shot Star Direction",
+  "category": "anime",
+  "tech_tags": [
+   "ai-video",
+   "multi-shot"
+  ],
+  "prompt": "STYLE FIRST: a real Japanese TV anime, like a scene from a seasonal anime opening. Hand-drawn character animation on twos and threes, hand-inked lines that change weight, flat cel color with one hard-edged shadow tone, painted anime background art with soft brush texture. Anime compositing only: gentle backlight bloom, light leaks at sunset, depth-of-field blur on painted layers, rain drawn as thin streaks. No 3D, no CG, no glossy skin or hair, no AI polish. This applies to every shot.\n\nCHARACTER: use @[image1] as the character design sheet and match its hand-drawn look. Keep her face, violet eyes, very long straight pink hair with blunt bangs, white cropped high-neck top with black collar, oversized off-shoulder white techwear jacket with orange panels, black harness belt with white hip pouch, orange baggy cargo pants, one orange fingerless glove, white and orange sneakers. Her face stays on-model in every shot.\n\nMAIN GOAL: a 30-second calm slice-of-life showcase, no fighting. One evening in a Japanese city from golden hour to the first star. 7 shots, each about 4 seconds, each a different classic anime shot type with one slow camera move. Hard cuts. Let every shot breathe, no rushing. Her hair and jacket always move in the wind.\n\n(0–4.5s) SHOT 1, extreme wide: a city rooftop at golden hour, she sits on the railing edge, skyline and long orange sky behind her, wind lifting her hair. Slow push-in from far away.\n(4.5–8.5s) SHOT 2, extreme close-up of her violet eyes, the sunset reflected in them, a strand of pink hair crossing her face. Rack focus from the hair strand to her eyes, then she blinks once.\n(8.5–13s) SHOT 3, inside a commuter train: she stands by the window holding a strap, orange sunlight strobing across her face through passing poles. The camera tracks sideways with the train.\n(13–17s) SHOT 4, insert close-up: her gloved hand on the train window as the first raindrops hit the glass, city lights blurring behind. Slow push-in on the hand.\n(17–21.5s) SHOT 5, medium wide at a rainy bus stop at dusk: she is large in frame under the shelter beside a glowing vending machine, rain falling past the streetlight. She shakes rain off her sleeve and looks down the street. Slow pan toward her.\n(21.5–25.5s) SHOT 6, low side angle from the ground: her reflection in a puddle, her sneaker steps in and sends ripples. The camera tilts up from the side and stops on her face.\n(25.5–30s) SHOT 7, the rain stops. Side profile: she slowly tilts her head back and looks up, her chin lifting, as the clouds part and the first star appears in a deep blue sky. Slow crane up from her face to the sky and hold on the single star until the end.\n\nSound: city ambience only, wind, train, rain, the rain fading to quiet in the last shot. No music, no voice, no text, no subtitles, no watermark, no other characters.",
+  "prompt_partial": false,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "ankitkumar65837-399095",
+  "seo_slug": "arctic-pink-pebble-six-shot-dialogue",
+  "model": "minimax-h3",
+  "author": "AnkitKumar65837",
+  "author_url": "https://x.com/AnkitKumar65837",
+  "post_url": "https://x.com/AnkitKumar65837/status/2114060085039399095",
+  "title": "Arctic Pink Pebble Six Shot Dialogue",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "native-audio",
+   "multi-shot"
+  ],
+  "prompt": "Cinematic, hyper-realistic 15-second film, 16:9, 24fps, shot on ARRI Alexa with 35mm and 85mm anamorphic lenses, natural film grain, shallow depth of field, smooth professional camera work.\n\nCHARACTER (keep identical to reference, do not change the face): young woman, early 20s, fair skin with natural freckles across nose and cheeks, soft grey-green eyes, auburn copper-red hair in a loose low ponytail with wavy strands framing her face, forest-green cable-knit crew-neck sweater, dark charcoal straight-leg jeans, brown leather belt with brass buckle, tall knee-high brown leather riding boots. Same face, same facial structure, same freckles, same hairstyle and same outfit in every shot. Natural skin texture, no makeup look.\n\nENVIRONMENT (match scene reference): a magical arctic shoreline covered in smooth polished pink, rose, cream and white pebbles, a small clear tide pool in the pebbles, crystal turquoise water with gentle foaming waves, a huge blue-white glacier wall across the bay, snow-covered jagged mountains, dark rock spires draped in golden kelp, small floating icebergs. Soft champagne-gold sunlight, warm golden-hour glow mixed with cool glacier blue, high clouds glowing champagne color, a beautiful blend of pink, turquoise, gold and white, sparkling light on water and wet stones, light sea breeze moving her hair. Vibrant, colorful, dreamy but fully photorealistic.\n\nSHOT 1 (0–4s) — Wide establishing shot, [Tracking shot, slow push in]: she walks in from the left side of frame onto the pink pebble beach with relaxed, natural steps, pebbles shifting and clicking under her boots, hair gently moving in the breeze. She slows down and stops, slowly turns her head from the mountains to the glacier, eyes wide with wonder, lips parting into a soft amazed smile.\n\nSHOT 2 (4–5.5s) — Cut to medium close-up from the front, [Static]: golden light on her freckled face, she exhales in amazement and says clearly with natural lip sync: \"Wow, it's very beautiful.\"\n\nSHOT 3 (5.5–8s) — Cut to medium shot, side angle, [Slight tilt down]: she walks two steps to the edge of the tide pool, bends her knees and crouches down naturally, balancing on her boots. She reaches out and gently touches a glossy wet pink stone with her fingertips, then carefully picks it up and looks at it with curiosity.\n\nSHOT 4 (8–10s) — Cut to extreme close-up, [Slow push in]: the smooth wet pink stone resting in her freckled fingers, tiny water droplets sliding off, marble-like rose and cream veins, champagne sunlight glinting on its polished surface. Her thumb slowly rubs across the stone. Background softly blurred into turquoise and gold bokeh.\n\nSHOT 5 (10–12.5s) — Cut to medium-wide shot from behind at a three-quarter angle, [Tracking shot]: she stands up holding the stone, walks toward the sea and steps slowly into the shallow crystal-clear water up to her ankles, small ripples and gentle splashes around her boots, ponytail swaying, glacier glowing ahead, sunlight sparkling across the water.\n\nSHOT 6 (12.5–15s) — Cut to medium close-up from the front, [Slow pull out]: standing in the shimmering water with the glacier and snowy mountains behind her, holding the pink stone close to her chest, she looks up at the view with a joyful, emotional smile and says with natural lip sync: \"Wow, I really love this place.\" The camera keeps pulling back to show her small in the vast colorful landscape.\n\nRealistic human movement, natural weight shifts, correct balance when crouching and standing, realistic hand and finger anatomy, realistic water physics, smooth cinematic cuts, consistent lighting and the same character in every shot.",
+  "prompt_partial": false,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "maell55-849871",
+  "seo_slug": "halloween-ghost-train-boarding-prompt",
+  "model": "minimax-h3",
+  "author": "maell55",
+  "author_url": "https://x.com/maell55",
+  "post_url": "https://x.com/maell55/status/2114107763567849871",
+  "title": "Halloween Ghost Train Boarding Prompt",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "Anime girl waits at an empty station. A ghostly train arrives, doors open. Conductor (skeleton in uniform) tips his hat. She steps in — the train vanishes into fog. 14 seconds exactly.",
+  "prompt_partial": false,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "adamwwen-507657",
+  "seo_slug": "dance-reference-accessory-leakage-comparison",
+  "model": "minimax-h3",
+  "author": "adamwwen",
+  "author_url": "https://x.com/adamwwen",
+  "post_url": "https://x.com/adamwwen/status/2113249705807507657",
+  "title": "Dance Reference Accessory Leakage Comparison",
+  "category": "music-videos",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "nyxelarm-869555",
+  "seo_slug": "distant-face-bf16-int8-refinement-test",
+  "model": "minimax-h3",
+  "author": "Nyxelarm",
+  "author_url": "https://x.com/Nyxelarm",
+  "post_url": "https://x.com/Nyxelarm/status/2113331990434869555",
+  "title": "Distant Face BF16 and INT8 Refinement Test",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "uraha-namikaze-285946",
+  "seo_slug": "physical-disguise-neck-failure-lower-resolution",
+  "model": "minimax-h3",
+  "author": "uraha_namikaze",
+  "author_url": "https://x.com/uraha_namikaze",
+  "post_url": "https://x.com/uraha_namikaze/status/2113905470935285946",
+  "title": "Physical Disguise Neck Failure at Lower Resolution",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "seirahisada-590365",
+  "seo_slug": "fifteen-years-pet-memorial-music-film",
+  "model": "minimax-h3",
+  "author": "SeiraHisada",
+  "author_url": "https://x.com/SeiraHisada",
+  "post_url": "https://x.com/SeiraHisada/status/2114136962332590365",
+  "title": "Fifteen Years Pet Memorial Music Film",
+  "category": "music-videos",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25"
+ },
+ {
+  "slug": "theeakiraxx-367698",
+  "seo_slug": "japanese-dialogue-rephrasing-pronunciation",
+  "model": "minimax-h3",
+  "author": "theeakiraxx",
+  "author_url": "https://x.com/theeakiraxx",
+  "post_url": "https://x.com/theeakiraxx/status/2113925967974367698",
+  "title": "Japanese Dialogue Rephrasing for Pronunciation",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "native-audio"
+  ],
+  "prompt": "〇〇の前を走らないようにしてます",
+  "prompt_partial": false,
+  "added": "2026-10-25"
  }
 ]
