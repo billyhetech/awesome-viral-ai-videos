@@ -142951,6 +142951,18 @@
   "stats_snapshot": {
    "views": 244183,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/botcreates-874715/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/botcreates-874715/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/botcreates-874715/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/botcreates-874715/poster.jpg",
+   "width": 960,
+   "height": 720,
+   "duration_ms": 72800,
+   "bytes": 9280469,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -142971,6 +142983,18 @@
   "stats_snapshot": {
    "views": 143429,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/kling-ai-002731/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/kling-ai-002731/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/kling-ai-002731/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/kling-ai-002731/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 88600,
+   "bytes": 9612882,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -142991,6 +143015,18 @@
   "stats_snapshot": {
    "views": 66982,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 10000,
+   "bytes": 977193,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -143011,6 +143047,18 @@
   "stats_snapshot": {
    "views": 54168,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/fable-5.5/luccacerf-194391/poster.jpg",
+   "width": 1256,
+   "height": 720,
+   "duration_ms": 60000,
+   "bytes": 10192266,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -143031,6 +143079,18 @@
   "stats_snapshot": {
    "views": 23438,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/emmanuel-2m-241966/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 27850,
+   "bytes": 3100895,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -143051,6 +143111,18 @@
   "stats_snapshot": {
    "views": 12024,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/chetanankola-877485/poster.jpg",
+   "width": 870,
+   "height": 720,
+   "duration_ms": 17950,
+   "bytes": 2685789,
+   "synced_at": "2026-10-25"
   }
  },
  {
@@ -143067,7 +143139,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-283710/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-283710/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-283710/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mireilledartois-283710/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 8000,
+   "bytes": 2268215,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "mtarakawa-783418",
@@ -143083,7 +143167,19 @@
   ],
   "prompt": "completely motionless",
   "prompt_partial": false,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mtarakawa-783418/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mtarakawa-783418/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mtarakawa-783418/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/mtarakawa-783418/poster.jpg",
+   "width": 720,
+   "height": 960,
+   "duration_ms": 10125,
+   "bytes": 846691,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "itotaiga-778603",
@@ -143099,7 +143195,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itotaiga-778603/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itotaiga-778603/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itotaiga-778603/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/itotaiga-778603/poster.jpg",
+   "width": 1290,
+   "height": 720,
+   "duration_ms": 25000,
+   "bytes": 5392767,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "pixeldojoai-549961",
@@ -143115,7 +143223,19 @@
   ],
   "prompt": "The paper boat drifts slowly forward on the rippling water, rain falling, neon reflections shimmering, the girl in the yellow raincoat leans out of the doorway and smiles as she watches it, slow cinematic push-in",
   "prompt_partial": false,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pixeldojoai-549961/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pixeldojoai-549961/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pixeldojoai-549961/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/pixeldojoai-549961/poster.jpg",
+   "width": 704,
+   "height": 1280,
+   "duration_ms": 5184,
+   "bytes": 776953,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "tony-worldmodel-805257",
@@ -143131,7 +143251,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tony-worldmodel-805257/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tony-worldmodel-805257/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tony-worldmodel-805257/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/tony-worldmodel-805257/poster.jpg",
+   "width": 640,
+   "height": 640,
+   "duration_ms": 5166,
+   "bytes": 205738,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "dofi-combo-435645",
@@ -143148,7 +143280,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dofi-combo-435645/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dofi-combo-435645/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dofi-combo-435645/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/dofi-combo-435645/poster.jpg",
+   "width": 1260,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 5508292,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "iancu-ai-456163",
@@ -143165,7 +143309,19 @@
   ],
   "prompt": "STYLE FIRST: a real Japanese TV anime, like a scene from a seasonal anime opening. Hand-drawn character animation on twos and threes, hand-inked lines that change weight, flat cel color with one hard-edged shadow tone, painted anime background art with soft brush texture. Anime compositing only: gentle backlight bloom, light leaks at sunset, depth-of-field blur on painted layers, rain drawn as thin streaks. No 3D, no CG, no glossy skin or hair, no AI polish. This applies to every shot.\n\nCHARACTER: use @[image1] as the character design sheet and match its hand-drawn look. Keep her face, violet eyes, very long straight pink hair with blunt bangs, white cropped high-neck top with black collar, oversized off-shoulder white techwear jacket with orange panels, black harness belt with white hip pouch, orange baggy cargo pants, one orange fingerless glove, white and orange sneakers. Her face stays on-model in every shot.\n\nMAIN GOAL: a 30-second calm slice-of-life showcase, no fighting. One evening in a Japanese city from golden hour to the first star. 7 shots, each about 4 seconds, each a different classic anime shot type with one slow camera move. Hard cuts. Let every shot breathe, no rushing. Her hair and jacket always move in the wind.\n\n(0–4.5s) SHOT 1, extreme wide: a city rooftop at golden hour, she sits on the railing edge, skyline and long orange sky behind her, wind lifting her hair. Slow push-in from far away.\n(4.5–8.5s) SHOT 2, extreme close-up of her violet eyes, the sunset reflected in them, a strand of pink hair crossing her face. Rack focus from the hair strand to her eyes, then she blinks once.\n(8.5–13s) SHOT 3, inside a commuter train: she stands by the window holding a strap, orange sunlight strobing across her face through passing poles. The camera tracks sideways with the train.\n(13–17s) SHOT 4, insert close-up: her gloved hand on the train window as the first raindrops hit the glass, city lights blurring behind. Slow push-in on the hand.\n(17–21.5s) SHOT 5, medium wide at a rainy bus stop at dusk: she is large in frame under the shelter beside a glowing vending machine, rain falling past the streetlight. She shakes rain off her sleeve and looks down the street. Slow pan toward her.\n(21.5–25.5s) SHOT 6, low side angle from the ground: her reflection in a puddle, her sneaker steps in and sends ripples. The camera tilts up from the side and stops on her face.\n(25.5–30s) SHOT 7, the rain stops. Side profile: she slowly tilts her head back and looks up, her chin lifting, as the clouds part and the first star appears in a deep blue sky. Slow crane up from her face to the sky and hold on the single star until the end.\n\nSound: city ambience only, wind, train, rain, the rain fading to quiet in the last shot. No music, no voice, no text, no subtitles, no watermark, no other characters.",
   "prompt_partial": false,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/iancu-ai-456163/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/iancu-ai-456163/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/iancu-ai-456163/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/iancu-ai-456163/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 15083,
+   "bytes": 1439428,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "ankitkumar65837-399095",
@@ -143183,7 +143339,19 @@
   ],
   "prompt": "Cinematic, hyper-realistic 15-second film, 16:9, 24fps, shot on ARRI Alexa with 35mm and 85mm anamorphic lenses, natural film grain, shallow depth of field, smooth professional camera work.\n\nCHARACTER (keep identical to reference, do not change the face): young woman, early 20s, fair skin with natural freckles across nose and cheeks, soft grey-green eyes, auburn copper-red hair in a loose low ponytail with wavy strands framing her face, forest-green cable-knit crew-neck sweater, dark charcoal straight-leg jeans, brown leather belt with brass buckle, tall knee-high brown leather riding boots. Same face, same facial structure, same freckles, same hairstyle and same outfit in every shot. Natural skin texture, no makeup look.\n\nENVIRONMENT (match scene reference): a magical arctic shoreline covered in smooth polished pink, rose, cream and white pebbles, a small clear tide pool in the pebbles, crystal turquoise water with gentle foaming waves, a huge blue-white glacier wall across the bay, snow-covered jagged mountains, dark rock spires draped in golden kelp, small floating icebergs. Soft champagne-gold sunlight, warm golden-hour glow mixed with cool glacier blue, high clouds glowing champagne color, a beautiful blend of pink, turquoise, gold and white, sparkling light on water and wet stones, light sea breeze moving her hair. Vibrant, colorful, dreamy but fully photorealistic.\n\nSHOT 1 (0–4s) — Wide establishing shot, [Tracking shot, slow push in]: she walks in from the left side of frame onto the pink pebble beach with relaxed, natural steps, pebbles shifting and clicking under her boots, hair gently moving in the breeze. She slows down and stops, slowly turns her head from the mountains to the glacier, eyes wide with wonder, lips parting into a soft amazed smile.\n\nSHOT 2 (4–5.5s) — Cut to medium close-up from the front, [Static]: golden light on her freckled face, she exhales in amazement and says clearly with natural lip sync: \"Wow, it's very beautiful.\"\n\nSHOT 3 (5.5–8s) — Cut to medium shot, side angle, [Slight tilt down]: she walks two steps to the edge of the tide pool, bends her knees and crouches down naturally, balancing on her boots. She reaches out and gently touches a glossy wet pink stone with her fingertips, then carefully picks it up and looks at it with curiosity.\n\nSHOT 4 (8–10s) — Cut to extreme close-up, [Slow push in]: the smooth wet pink stone resting in her freckled fingers, tiny water droplets sliding off, marble-like rose and cream veins, champagne sunlight glinting on its polished surface. Her thumb slowly rubs across the stone. Background softly blurred into turquoise and gold bokeh.\n\nSHOT 5 (10–12.5s) — Cut to medium-wide shot from behind at a three-quarter angle, [Tracking shot]: she stands up holding the stone, walks toward the sea and steps slowly into the shallow crystal-clear water up to her ankles, small ripples and gentle splashes around her boots, ponytail swaying, glacier glowing ahead, sunlight sparkling across the water.\n\nSHOT 6 (12.5–15s) — Cut to medium close-up from the front, [Slow pull out]: standing in the shimmering water with the glacier and snowy mountains behind her, holding the pink stone close to her chest, she looks up at the view with a joyful, emotional smile and says with natural lip sync: \"Wow, I really love this place.\" The camera keeps pulling back to show her small in the vast colorful landscape.\n\nRealistic human movement, natural weight shifts, correct balance when crouching and standing, realistic hand and finger anatomy, realistic water physics, smooth cinematic cuts, consistent lighting and the same character in every shot.",
   "prompt_partial": false,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ankitkumar65837-399095/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ankitkumar65837-399095/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ankitkumar65837-399095/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/ankitkumar65837-399095/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 15083,
+   "bytes": 3405067,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "maell55-849871",
@@ -143199,7 +143367,19 @@
   ],
   "prompt": "Anime girl waits at an empty station. A ghostly train arrives, doors open. Conductor (skeleton in uniform) tips his hat. She steps in — the train vanishes into fog. 14 seconds exactly.",
   "prompt_partial": false,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maell55-849871/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maell55-849871/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maell55-849871/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/maell55-849871/poster.jpg",
+   "width": 720,
+   "height": 1260,
+   "duration_ms": 15104,
+   "bytes": 1610917,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "adamwwen-507657",
@@ -143215,7 +143395,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adamwwen-507657/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adamwwen-507657/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adamwwen-507657/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/adamwwen-507657/poster.jpg",
+   "width": 720,
+   "height": 810,
+   "duration_ms": 5061,
+   "bytes": 539515,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "nyxelarm-869555",
@@ -143231,7 +143423,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyxelarm-869555/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyxelarm-869555/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyxelarm-869555/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/nyxelarm-869555/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 6656,
+   "bytes": 564334,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "uraha-namikaze-285946",
@@ -143247,7 +143451,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uraha-namikaze-285946/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uraha-namikaze-285946/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uraha-namikaze-285946/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/uraha-namikaze-285946/poster.jpg",
+   "width": 576,
+   "height": 736,
+   "duration_ms": 10125,
+   "bytes": 722131,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "seirahisada-590365",
@@ -143263,7 +143479,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-590365/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-590365/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-590365/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/minimax-h3/seirahisada-590365/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 218000,
+   "bytes": 25537322,
+   "synced_at": "2026-10-25"
+  }
  },
  {
   "slug": "theeakiraxx-367698",
@@ -143280,6 +143508,10 @@
   ],
   "prompt": "〇〇の前を走らないようにしてます",
   "prompt_partial": false,
-  "added": "2026-10-25"
+  "added": "2026-10-25",
+  "media": {
+   "status": "no_video",
+   "checked_at": "2026-10-25"
+  }
  }
 ]
