@@ -145117,5 +145117,45 @@
    "bytes": 25736617,
    "synced_at": "2026-10-25"
   }
+ },
+ {
+  "slug": "elvar-official-281265",
+  "seo_slug": "becoming-f-cking-dangerous-when-moonshot",
+  "model": "gpt-6-astra",
+  "author": "elvar_official",
+  "author_url": "https://x.com/elvar_official",
+  "post_url": "https://x.com/elvar_official/status/2114325660248281265",
+  "title": "It's becoming f*cking dangerous: when Moonshot released Kimi K3.1 Pro, they did…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 256662,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "khazix0918-460341",
+  "seo_slug": "5-agent",
+  "model": "gpt-6-astra",
+  "author": "Khazix0918",
+  "author_url": "https://x.com/Khazix0918",
+  "post_url": "https://x.com/Khazix0918/status/2114343004471460341",
+  "title": "花了5天的时间，终于把我的Agent自动化流水线做完啦哈哈。",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 47624,
+   "captured_at": "2026-10-26"
+  }
  }
 ]
