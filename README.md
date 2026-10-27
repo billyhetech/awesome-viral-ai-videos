@@ -17,6 +17,7 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 
 - Latest update (2026-10-27): 4853 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 
 ## Contents
 
