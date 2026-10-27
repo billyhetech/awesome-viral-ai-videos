@@ -146592,5 +146592,126 @@
    "bytes": 3957954,
    "synced_at": "2026-10-26"
   }
+ },
+ {
+  "slug": "derwinprieto-420358",
+  "seo_slug": "tested-same-desert-chase-prompt-across",
+  "model": "kling-4",
+  "author": "DerwinPrieto",
+  "author_url": "https://x.com/DerwinPrieto",
+  "post_url": "https://x.com/DerwinPrieto/status/2114619690798420358",
+  "title": "🚙 I tested the same desert-chase prompt across Seedance 2.0, Seedance 2.5, and…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 115534,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "raul-ia-prod-676858",
+  "seo_slug": "1992-spielberg-busca-al-dinosaurio-perfecto",
+  "model": "kling-4",
+  "author": "Raul_IA_Prod",
+  "author_url": "https://x.com/Raul_IA_Prod",
+  "post_url": "https://x.com/Raul_IA_Prod/status/2114747198235676858",
+  "title": "🎬 1992. Spielberg busca al dinosaurio perfecto para Jurassic Park",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 90629,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "mirku21-644974",
+  "seo_slug": "boris-cherny-head-claude-code-anthropic",
+  "model": "fable-5.5",
+  "author": "mirku21",
+  "author_url": "https://x.com/mirku21",
+  "post_url": "https://x.com/mirku21/status/2114462105512644974",
+  "title": "Boris Cherny, Head of Claude Code at Anthropic, just shared an official tip bef…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 71324,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "renoiseaijp-028606",
+  "seo_slug": "cinematic-shorts-by-renoiseaijp",
+  "model": "kling-4",
+  "author": "renoiseaijp",
+  "author_url": "https://x.com/renoiseaijp",
+  "post_url": "https://x.com/renoiseaijp/status/2114748892445028606",
+  "title": "ハロウィンの7日間、Renoiseで動画生成が使い放題です🎃",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 69468,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "googledevs-225731",
+  "seo_slug": "automating-asset-pipeline-gemini-4-argon",
+  "model": "gemini-4-argon",
+  "author": "googledevs",
+  "author_url": "https://x.com/googledevs",
+  "post_url": "https://x.com/googledevs/status/2114839491349225731",
+  "title": "Automating the asset pipeline with Gemini 4 Argon 🐬",
+  "category": "games-interactive",
+  "tech_tags": [
+   "glsl",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 29618,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "ai-for-success-806208",
+  "seo_slug": "gemini-4-argon-performing-extremely-well",
+  "model": "gemini-4-argon",
+  "author": "ai_for_success",
+  "author_url": "https://x.com/ai_for_success",
+  "post_url": "https://x.com/ai_for_success/status/2114584610562806208",
+  "title": "Gemini 4 Argon is performing extremely well with Antigravity. For the first tim…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 16522,
+   "captured_at": "2026-10-27"
+  }
  }
 ]

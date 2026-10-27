@@ -7,26 +7,26 @@
 
 AI 爆款视频合集 —— 覆盖 **Opus 5.5、Seedance 2.5、MiniMax H3、Gemini 4 Argon、Fable 5.5、Grok Imagine、GPT-6 Astra、Kling 4.0** 及下一个出圈的模型。代码渲染动画、3D 场景、游戏、短片:每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 4847 条视频](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
+**[▶ 在 clawshelf.com 观看全部 4853 条视频](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
 
-模型:[Opus 5.5 (2656)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Seedance 2.5 (1017)](https://clawshelf.com/ai-videos/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [MiniMax H3 (496)](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (330)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (174)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Grok Imagine (113)](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (38)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Kling 4.0 (23)](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+模型:[Opus 5.5 (2656)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Seedance 2.5 (1017)](https://clawshelf.com/ai-videos/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [MiniMax H3 (496)](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (332)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (175)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Grok Imagine (113)](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (38)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Kling 4.0 (26)](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos)
 
-共 **4847 条视频**、8 个模型 · [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **2032 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
+共 **4853 条视频**、8 个模型 · [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **2032 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-26):共 4847 条
+- 最近更新(2026-10-27):共 4853 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (1688)
+- [动态图形](#动态图形) (1690)
 - [讲解动画](#讲解动画) (216)
 - [3D 场景](#3d-场景) (544)
-- [游戏与交互](#游戏与交互) (599)
+- [游戏与交互](#游戏与交互) (600)
 - [长片](#长片) (129)
 - [音乐视频](#音乐视频) (229)
-- [电影感短片](#电影感短片) (1216)
+- [电影感短片](#电影感短片) (1219)
 - [广告与品牌片](#广告与品牌片) (135)
 - [动漫与动画](#动漫与动画) (91)
 - [最新收录](#最新收录)
@@ -40,7 +40,7 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Seedance 2.5、MiniMax H3、Gem
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/alexandr-wang?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/kirillk-web3-651211/preview.webp" alt="GPT-6 Astra video by @kirillk_web3" width="100%"></a><br><a href="https://x.com/kirillk_web3/status/2109994814649651211"><b>@kirillk_web3</b></a> · GPT-6 Astra · <a href="prompts/kirillk-web3-651211.md">详情</a><br><sub>Canvas · 1.7M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/buildable-life-size-lego-duck-design?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/victormustar-631120/preview.webp" alt="Opus 5.5 video by @victormustar" width="100%"></a><br><a href="https://x.com/victormustar/status/2103110908444631120"><b>@victormustar</b></a> · Opus 5.5 · <a href="prompts/victormustar-631120.md">详情</a><br><sub>Canvas · 1.4M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/tts-comparison-explainer-video-production?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/nakazakifam-906110/preview.webp" alt="Opus 5.5 video by @nakazakifam" width="100%"></a><br><a href="https://x.com/nakazakifam/status/2104803180877906110"><b>@nakazakifam</b></a> · Opus 5.5 · <a href="prompts/nakazakifam-906110.md">详情</a><br><sub>ElevenLabs · HyperFrames · 1.3M views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 1688 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+[▶ 在 clawshelf.com 查看全部 1690 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 ## 讲解动画
 
@@ -73,7 +73,7 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Seedance 2.5、MiniMax H3、Gem
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/league-legends-x-dragon-ball-fighterz?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/gamefxai-738010/preview.webp" alt="Opus 5.5 video by @GamefxAI" width="100%"></a><br><a href="https://x.com/GamefxAI/status/2106387548486738010"><b>@GamefxAI</b></a> · Opus 5.5 · <a href="prompts/gamefxai-738010.md">详情</a><br><sub>Canvas · 894K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/valorants-breach-playable-league-style-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/gamefxai-625563/preview.webp" alt="Opus 5.5 video by @GamefxAI" width="100%"></a><br><a href="https://x.com/GamefxAI/status/2108236934971625563"><b>@GamefxAI</b></a> · Opus 5.5 · <a href="prompts/gamefxai-625563.md">详情</a><br><sub>Canvas · 848K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/splatoon-style-browser-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/jaydendavisnc-036304/preview.webp" alt="Opus 5.5 video by @JaydenDavisNC" width="100%"></a><br><a href="https://x.com/JaydenDavisNC/status/2103357848961036304"><b>@JaydenDavisNC</b></a> · Opus 5.5 · <a href="prompts/jaydendavisnc-036304.md">详情</a><br><sub>Canvas · 814K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 599 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+[▶ 在 clawshelf.com 查看全部 600 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 ## 长片
 
@@ -106,7 +106,7 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Seedance 2.5、MiniMax H3、Gem
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/tesla-roadster-cars-future?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/yapayzekaserisi-155607/preview.webp" alt="Kling 4.0 video by @YapayZekaSerisi" width="100%"></a><br><a href="https://x.com/YapayZekaSerisi/status/2111104253817155607"><b>@YapayZekaSerisi</b></a> · Kling 4.0 · <a href="prompts/yapayzekaserisi-155607.md">详情</a><br><sub>AI video · 185K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/seedance-2-5/absurd-comedy-hotel-pool?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/seedance-2.5/youralphamom-410403/preview.webp" alt="Seedance 2.5 video by @YourAlphaMom" width="100%"></a><br><a href="https://x.com/YourAlphaMom/status/2088749172543410403"><b>@YourAlphaMom</b></a> · Seedance 2.5 · <a href="prompts/youralphamom-410403.md">提示词</a><br><sub>AI video · 181K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/seedance-2-5/no-routine-ai-video-iteration-one?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/seedance-2.5/sanibulaai-272693/preview.webp" alt="Seedance 2.5 video by @SaniBulaAI" width="100%"></a><br><a href="https://x.com/SaniBulaAI/status/2085195093863272693"><b>@SaniBulaAI</b></a> · Seedance 2.5 · <a href="prompts/sanibulaai-272693.md">提示词</a><br><sub>AI video · 175K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 1216 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+[▶ 在 clawshelf.com 查看全部 1219 条](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 ## 广告与品牌片
 
@@ -132,6 +132,12 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Seedance 2.5、MiniMax H3、Gem
 
 ## 最新收录
 
+- [🚙 I tested the same desert-chase prompt across Seedance 2.0, Seedance 2.5, and…](https://clawshelf.com/ai-videos/kling-4/tested-same-desert-chase-prompt-across?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@DerwinPrieto](https://x.com/DerwinPrieto/status/2114619690798420358) · Kling 4.0 · [详情](prompts/derwinprieto-420358.md)
+- [🎬 1992. Spielberg busca al dinosaurio perfecto para Jurassic Park](https://clawshelf.com/ai-videos/kling-4/1992-spielberg-busca-al-dinosaurio-perfecto?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@Raul_IA_Prod](https://x.com/Raul_IA_Prod/status/2114747198235676858) · Kling 4.0 · [详情](prompts/raul-ia-prod-676858.md)
+- [Boris Cherny, Head of Claude Code at Anthropic, just shared an official tip bef…](https://clawshelf.com/ai-videos/fable-5-5/boris-cherny-head-claude-code-anthropic?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@mirku21](https://x.com/mirku21/status/2114462105512644974) · Fable 5.5 · [详情](prompts/mirku21-644974.md)
+- [ハロウィンの7日間、Renoiseで動画生成が使い放題です🎃](https://clawshelf.com/ai-videos/kling-4/cinematic-shorts-by-renoiseaijp?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@renoiseaijp](https://x.com/renoiseaijp/status/2114748892445028606) · Kling 4.0 · [详情](prompts/renoiseaijp-028606.md)
+- [Automating the asset pipeline with Gemini 4 Argon 🐬](https://clawshelf.com/ai-videos/gemini-4-argon/automating-asset-pipeline-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@googledevs](https://x.com/googledevs/status/2114839491349225731) · Gemini 4 Argon · [详情](prompts/googledevs-225731.md)
+- [Gemini 4 Argon is performing extremely well with Antigravity. For the first tim…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-performing-extremely-well?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2114584610562806208) · Gemini 4 Argon · [详情](prompts/ai-for-success-806208.md)
 - [Water pump mechanism built by four models](https://clawshelf.com/ai-videos/opus-5-5/water-pump-mechanism-four-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@kinderlayer](https://x.com/kinderlayer/status/2113937338938150958) · Opus 5.5 · [详情](prompts/kinderlayer-150958.md)
 - [It's becoming f*cking dangerous: when Moonshot released Kimi K3.1 Pro, they did…](https://clawshelf.com/ai-videos/gpt-6-astra/becoming-f-cking-dangerous-when-moonshot?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@elvar_official](https://x.com/elvar_official/status/2114325660248281265) · GPT-6 Astra · [详情](prompts/elvar-official-281265.md)
 - [Code-built explainer animation](https://clawshelf.com/ai-videos/opus-5-5/code-explainer-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@finnardley](https://x.com/finnardley/status/2114188068500508998) · Opus 5.5 · [详情](prompts/finnardley-508998.md)
@@ -156,12 +162,6 @@ AI 爆款视频合集 —— 覆盖 **Opus 5.5、Seedance 2.5、MiniMax H3、Gem
 - [PDF-based motion graphic](https://clawshelf.com/ai-videos/opus-5-5/pdf-based-motion-graphic?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@seeconvm](https://x.com/seeconvm/status/2114063937109131638) · Opus 5.5 · [详情](prompts/seeconvm-131638.md)
 - [Recreation of the Food Forest animated short](https://clawshelf.com/ai-videos/opus-5-5/recreation-food-forest-animated-short?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@scottstts](https://x.com/scottstts/status/2113955828021563857) · Opus 5.5 · [详情](prompts/scottstts-563857.md)
 - [3D helicopter build side-by-side comparison](https://clawshelf.com/ai-videos/opus-5-5/3d-helicopter-side-side-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@LuminaBench](https://x.com/LuminaBench/status/2113963313591705768) · Opus 5.5 · [详情](prompts/luminabench-705768.md)
-- [Rainbow jelly model comparison](https://clawshelf.com/ai-videos/opus-5-5/rainbow-jelly-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@0xRhinoX](https://x.com/0xRhinoX/status/2114059647233495351) · Opus 5.5 · [详情](prompts/0xrhinox-495351.md)
-- [Three poster-grid music video variations](https://clawshelf.com/ai-videos/opus-5-5/three-poster-grid-music-video-variations?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@aimikoda](https://x.com/aimikoda/status/2114167098284839305) · Opus 5.5 · [详情](prompts/aimikoda-839305.md)
-- [Summer festival pond line 3D scene](https://clawshelf.com/ai-videos/opus-5-5/summer-festival-pond-line-3d-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@scottstts](https://x.com/scottstts/status/2114035230113984749) · Opus 5.5 · [详情](prompts/scottstts-984749.md)
-- [Gummy bear model comparison](https://clawshelf.com/ai-videos/opus-5-5/gummy-bear-model-comparison?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@MiaAI_lab](https://x.com/MiaAI_lab/status/2114103699148800152) · Opus 5.5 · [详情](prompts/miaai-lab-800152.md)
-- [Gunslinger slow-motion Sandevistan effect edit](https://clawshelf.com/ai-videos/opus-5-5/gunslinger-slow-motion-sandevistan-effect-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@aimikoda](https://x.com/aimikoda/status/2114007429146964169) · Opus 5.5 · [详情](prompts/aimikoda-964169.md)
-- [Pizza making simulator game](https://clawshelf.com/ai-videos/opus-5-5/pizza-making-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@MrTacticalX](https://x.com/MrTacticalX/status/2113987724260872333) · Opus 5.5 · [详情](prompts/mrtacticalx-872333.md)
 
 ## 如何使用 prompt
 
