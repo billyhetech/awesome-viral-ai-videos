@@ -148259,5 +148259,85 @@
    "bytes": 2465919,
    "synced_at": "2026-10-27"
   }
+ },
+ {
+  "slug": "renoiseai-258842",
+  "seo_slug": "halloween-unlimited-live-renoise",
+  "model": "kling-4",
+  "author": "renoiseai",
+  "author_url": "https://x.com/renoiseai",
+  "post_url": "https://x.com/renoiseai/status/2114748894563258842",
+  "title": "Halloween Unlimited is live on Renoise 🎃",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 122402,
+   "captured_at": "2026-10-28"
+  }
+ },
+ {
+  "slug": "vibeeverything-982110",
+  "seo_slug": "ai-4",
+  "model": "kling-4",
+  "author": "VibeEverything",
+  "author_url": "https://x.com/VibeEverything",
+  "post_url": "https://x.com/VibeEverything/status/2114693404361982110",
+  "title": "최신 AI 영상 모델 4종 브이로그 인물 표현 비교",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 32990,
+   "captured_at": "2026-10-28"
+  }
+ },
+ {
+  "slug": "kimmonismus-334230",
+  "seo_slug": "long-awaited-genie-4",
+  "model": "gemini-4-argon",
+  "author": "kimmonismus",
+  "author_url": "https://x.com/kimmonismus",
+  "post_url": "https://x.com/kimmonismus/status/2115124818165334230",
+  "title": "The long awaited Genie 4 is here!",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 25388,
+   "captured_at": "2026-10-28"
+  }
+ },
+ {
+  "slug": "cdgalpha-737879",
+  "seo_slug": "deepseek-v4-1-flash-free",
+  "model": "gemini-4-argon",
+  "author": "CDGalpha",
+  "author_url": "https://x.com/CDGalpha",
+  "post_url": "https://x.com/CDGalpha/status/2114966726584737879",
+  "title": "DeepSeek V4.1 Flash for FREE 😉",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 20322,
+   "captured_at": "2026-10-28"
+  }
  }
 ]
