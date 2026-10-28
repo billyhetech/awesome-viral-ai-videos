@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-viral-ai-videos/mosaic.28e276f80e.webp" alt="A wall of viral videos made with AI: games, 3D scenes, explainers and motion graphics" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-viral-ai-videos/mosaic.b1a98b0a8d.webp" alt="A wall of viral videos made with AI: games, 3D scenes, explainers and motion graphics" width="100%"></a>
 
 Viral videos made with AI — **Opus 5.5, Seedance 2.5, MiniMax H3, Gemini 4 Argon, Fable 5.5, Grok Imagine, GPT-6 Astra, Kling 4.0** and whatever breaks out next. Code-rendered animations, 3D scenes, games, short films: every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 

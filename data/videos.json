@@ -88354,8 +88354,16 @@
    "captured_at": "2026-10-21"
   },
   "media": {
-   "status": "unavailable",
-   "checked_at": "2026-10-21"
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/opus-5.5/sorenxet-490380/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 27456,
+   "bytes": 4878246,
+   "synced_at": "2026-10-28"
   }
  },
  {
@@ -148278,6 +148286,18 @@
   "stats_snapshot": {
    "views": 122402,
    "captured_at": "2026-10-28"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/renoiseai-258842/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/renoiseai-258842/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/renoiseai-258842/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/renoiseai-258842/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 46875,
+   "bytes": 12970334,
+   "synced_at": "2026-10-28"
   }
  },
  {
@@ -148298,6 +148318,18 @@
   "stats_snapshot": {
    "views": 32990,
    "captured_at": "2026-10-28"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/vibeeverything-982110/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/vibeeverything-982110/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/vibeeverything-982110/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/vibeeverything-982110/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40200,
+   "bytes": 4120625,
+   "synced_at": "2026-10-28"
   }
  },
  {
@@ -148318,6 +148350,18 @@
   "stats_snapshot": {
    "views": 25388,
    "captured_at": "2026-10-28"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/kimmonismus-334230/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/kimmonismus-334230/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/kimmonismus-334230/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/kimmonismus-334230/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 29000,
+   "bytes": 3749532,
+   "synced_at": "2026-10-28"
   }
  },
  {
@@ -148338,6 +148382,18 @@
   "stats_snapshot": {
    "views": 20322,
    "captured_at": "2026-10-28"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/cdgalpha-737879/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/cdgalpha-737879/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/cdgalpha-737879/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/cdgalpha-737879/poster.jpg",
+   "width": 1152,
+   "height": 720,
+   "duration_ms": 27000,
+   "bytes": 554194,
+   "synced_at": "2026-10-28"
   }
  }
 ]
