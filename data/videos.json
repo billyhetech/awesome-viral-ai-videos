@@ -149855,6 +149855,18 @@
   "stats_snapshot": {
    "views": 35980,
    "captured_at": "2026-10-29"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thebuggeddev-550344/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thebuggeddev-550344/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thebuggeddev-550344/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thebuggeddev-550344/poster.jpg",
+   "width": 1102,
+   "height": 720,
+   "duration_ms": 50893,
+   "bytes": 5565820,
+   "synced_at": "2026-10-29"
   }
  },
  {
@@ -149875,6 +149887,18 @@
   "stats_snapshot": {
    "views": 23433,
    "captured_at": "2026-10-29"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-screening-859992/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-screening-859992/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-screening-859992/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-screening-859992/poster.jpg",
+   "width": 720,
+   "height": 724,
+   "duration_ms": 14600,
+   "bytes": 2069140,
+   "synced_at": "2026-10-29"
   }
  }
 ]
