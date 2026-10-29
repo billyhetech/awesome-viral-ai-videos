@@ -149836,5 +149836,45 @@
    "bytes": 2444923,
    "synced_at": "2026-10-28"
   }
+ },
+ {
+  "slug": "thebuggeddev-550344",
+  "seo_slug": "might-one-wildest-use-cases-gemini",
+  "model": "gemini-4-argon",
+  "author": "thebuggeddev",
+  "author_url": "https://x.com/thebuggeddev",
+  "post_url": "https://x.com/thebuggeddev/status/2115425928503550344",
+  "title": "This might be one of the wildest use cases for Gemini 4 Argon ☠️",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 35980,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "ai-screening-859992",
+  "seo_slug": "gemini-4-carbon-checkpoint-arena-vs-by-ai-screening",
+  "model": "gemini-4-argon",
+  "author": "AI_Screening",
+  "author_url": "https://x.com/AI_Screening",
+  "post_url": "https://x.com/AI_Screening/status/2115501232634859992",
+  "title": "Gemini 4 Carbon checkpoint in Arena vs. Gemini 4 Argon: Bentley convertible dri…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 23433,
+   "captured_at": "2026-10-29"
+  }
  }
 ]
