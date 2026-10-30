@@ -7,20 +7,20 @@
 
 Viral videos made with AI — **Opus 5.5, Seedance 2.5, MiniMax H3, Gemini 4 Argon, Fable 5.5, Grok Imagine, GPT-6 Astra, Kling 4.0** and whatever breaks out next. Code-rendered animations, 3D scenes, games, short films: every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 4987 videos on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
+**[▶ Watch all 4988 videos on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)**
 
-Models: [Opus 5.5 (2766)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Seedance 2.5 (1017)](https://clawshelf.com/ai-videos/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [MiniMax H3 (496)](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (339)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (179)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Grok Imagine (113)](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (40)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Kling 4.0 (37)](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+Models: [Opus 5.5 (2766)](https://clawshelf.com/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Seedance 2.5 (1017)](https://clawshelf.com/ai-videos/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [MiniMax H3 (496)](https://clawshelf.com/ai-videos/minimax-h3?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Gemini 4 Argon (340)](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Fable 5.5 (179)](https://clawshelf.com/ai-videos/fable-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Grok Imagine (113)](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [GPT-6 Astra (40)](https://clawshelf.com/ai-videos/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) · [Kling 4.0 (37)](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos)
 
-**4987 videos** across 8 models · **2033 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
+**4988 videos** across 8 models · **2034 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-viral-ai-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-29): 4987 videos total
+- Latest update (2026-10-30): 4988 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (1747)
+- [Motion graphics](#motion-graphics) (1748)
 - [Explainers](#explainers) (225)
 - [3D scenes](#3d-scenes) (572)
 - [Games & interactive](#games--interactive) (620)
@@ -40,7 +40,7 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gpt-6-astra/alexandr-wang?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/gpt-6-astra/kirillk-web3-651211/preview.webp" alt="GPT-6 Astra video by @kirillk_web3" width="100%"></a><br><a href="https://x.com/kirillk_web3/status/2109994814649651211"><b>@kirillk_web3</b></a> · GPT-6 Astra · <a href="prompts/kirillk-web3-651211.md">Details</a><br><sub>Canvas · 1.7M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/buildable-life-size-lego-duck-design?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/victormustar-631120/preview.webp" alt="Opus 5.5 video by @victormustar" width="100%"></a><br><a href="https://x.com/victormustar/status/2103110908444631120"><b>@victormustar</b></a> · Opus 5.5 · <a href="prompts/victormustar-631120.md">Details</a><br><sub>Canvas · 1.4M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/opus-5-5/tts-comparison-explainer-video-production?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos"><img src="https://media.clawshelf.com/ai-videos/opus-5.5/nakazakifam-906110/preview.webp" alt="Opus 5.5 video by @nakazakifam" width="100%"></a><br><a href="https://x.com/nakazakifam/status/2104803180877906110"><b>@nakazakifam</b></a> · Opus 5.5 · <a href="prompts/nakazakifam-906110.md">Details</a><br><sub>ElevenLabs · HyperFrames · 1.3M views</sub></td></tr>
 </table>
 
-[▶ See all 1747 on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
+[▶ See all 1748 on clawshelf.com](https://clawshelf.com/ai-videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos)
 
 ## Explainers
 
@@ -132,6 +132,7 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 
 ## Latest videos
 
+- [😤 全体起立！我找到了让闲鱼 5 块买的 Gemini AI Pro 也能在命令行用 Gemini 4 Argon 模型的办法！](https://clawshelf.com/ai-videos/gemini-4-argon/5-gemini-ai-pro-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@cgnot996](https://x.com/cgnot996/status/2115647822087544957) · Gemini 4 Argon · [Prompt](prompts/cgnot996-544957.md)
 - [Mario 64 mixed reality game](https://clawshelf.com/ai-videos/opus-5-5/mario-64-mixed-reality-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@lucas_martinic](https://x.com/lucas_martinic/status/2115027510492561477) · Opus 5.5 · [Details](prompts/lucas-martinic-561477.md)
 - [PDF-driven motion design](https://clawshelf.com/ai-videos/opus-5-5/pdf-driven-motion-design?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@seeconvm](https://x.com/seeconvm/status/2115056349235052776) · Opus 5.5 · [Details](prompts/seeconvm-052776.md)
 - [Claude Opus 5.5 + la API de Sunra es una locura…](https://clawshelf.com/ai-videos/kling-4/claude-opus-5-5-la-api-de?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@igus_ai](https://x.com/igus_ai/status/2115523166814834933) · Kling 4.0 · [Details](prompts/igus-ai-834933.md)
@@ -161,7 +162,6 @@ Single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-vi
 - [Shiokaze sea breeze 3D scene](https://clawshelf.com/ai-videos/opus-5-5/shiokaze-sea-breeze-3d-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@scottstts](https://x.com/scottstts/status/2115228485304152146) · Opus 5.5 · [Details](prompts/scottstts-152146.md)
 - [ChatGPT plugin installation guide website](https://clawshelf.com/ai-videos/opus-5-5/chatgpt-plugin-installation-guide-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@mmmiyama_D](https://x.com/mmmiyama_D/status/2115203917277716899) · Opus 5.5 · [Details](prompts/mmmiyama-d-716899.md)
 - [Godot plugin that pops 2D tilemaps into 3D dioramas](https://clawshelf.com/ai-videos/opus-5-5/godot-plugin-pops-2d-tilemaps-into?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@KanaWorks_AI](https://x.com/KanaWorks_AI/status/2115011274023325950) · Opus 5.5 · [Details](prompts/kanaworks-ai-325950.md)
-- [Tesla Roadster motion design](https://clawshelf.com/ai-videos/fable-5-5/tesla-roadster-motion-design?utm_source=github&utm_medium=readme&utm_campaign=awesome-viral-ai-videos) — [@chetaslua](https://x.com/chetaslua/status/2115145163542790170) · Fable 5.5 · [Details](prompts/chetaslua-790170.md)
 
 ## How to use a prompt
 

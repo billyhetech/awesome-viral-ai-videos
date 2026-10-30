@@ -151076,5 +151076,25 @@
    "bytes": 2351616,
    "synced_at": "2026-10-29"
   }
+ },
+ {
+  "slug": "cgnot996-544957",
+  "seo_slug": "5-gemini-ai-pro-gemini-4",
+  "model": "gemini-4-argon",
+  "author": "cgnot996",
+  "author_url": "https://x.com/cgnot996",
+  "post_url": "https://x.com/cgnot996/status/2115647822087544957",
+  "title": "😤 全体起立！我找到了让闲鱼 5 块买的 Gemini AI Pro 也能在命令行用 Gemini 4 Argon 模型的办法！",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "发给 Bot：这是我的 Google AI Studio Key：xxxxx，不要直接配 agy 上，帮我配置到 pi agent 上，没有的话下载一个，帮我测试 argon 模型是否可用\n\n我测试用 Argon 跑了一个鹈鹕骑自行车测试，效果还挺不错的\n\n不要再浪费这笔钱了，蹬起来！",
+  "prompt_partial": false,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 44562,
+   "captured_at": "2026-10-30"
+  }
  }
 ]
