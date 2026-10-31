@@ -142917,7 +142917,7 @@
   "added": "2026-10-24",
   "media": {
    "status": "no_video",
-   "checked_at": "2026-10-24"
+   "checked_at": "2026-10-31"
   }
  },
  {
@@ -152143,6 +152143,18 @@
   "stats_snapshot": {
    "views": 93528,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/noclipepe-550313/poster.jpg",
+   "width": 720,
+   "height": 900,
+   "duration_ms": 27366,
+   "bytes": 2566948,
+   "synced_at": "2026-10-31"
   }
  },
  {
@@ -152163,6 +152175,18 @@
   "stats_snapshot": {
    "views": 78073,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 36715,
+   "bytes": 2419994,
+   "synced_at": "2026-10-31"
   }
  },
  {
@@ -152183,6 +152207,18 @@
   "stats_snapshot": {
    "views": 50045,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gpt-6-astra/openaidevs-453386/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 85001,
+   "bytes": 8799827,
+   "synced_at": "2026-10-31"
   }
  },
  {
@@ -152203,6 +152239,18 @@
   "stats_snapshot": {
    "views": 20635,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/poster.jpg",
+   "width": 1574,
+   "height": 720,
+   "duration_ms": 40149,
+   "bytes": 6502373,
+   "synced_at": "2026-10-31"
   }
  }
 ]
