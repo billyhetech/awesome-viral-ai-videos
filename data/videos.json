@@ -152124,5 +152124,85 @@
    "bytes": 910287,
    "synced_at": "2026-10-30"
   }
+ },
+ {
+  "slug": "noclipepe-550313",
+  "seo_slug": "gemini-4-carbon-gave-chrome-dino",
+  "model": "gpt-6-astra",
+  "author": "noclipepe",
+  "author_url": "https://x.com/noclipepe",
+  "post_url": "https://x.com/noclipepe/status/2115953941808550313",
+  "title": "GEMINI 4 CARBON GAVE THE CHROME DINO LEG DAY. GPT-6.1 TERRA GAVE IT A BBL 🍑",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 93528,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "micro1-ai-314116",
+  "seo_slug": "gave-10-frontier-ai-models-control",
+  "model": "gemini-4-argon",
+  "author": "micro1_ai",
+  "author_url": "https://x.com/micro1_ai",
+  "post_url": "https://x.com/micro1_ai/status/2116236718957314116",
+  "title": "We gave 10 frontier AI models control of a surgical robot in a simulated operat…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 78073,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "openaidevs-453386",
+  "seo_slug": "meet-who-brings-builders-together-shared",
+  "model": "gpt-6-astra",
+  "author": "OpenAIDevs",
+  "author_url": "https://x.com/OpenAIDevs",
+  "post_url": "https://x.com/OpenAIDevs/status/2116236188319453386",
+  "title": "Meet who brings builders together in a shared robotics community where they pus…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 50045,
+   "captured_at": "2026-10-31"
+  }
+ },
+ {
+  "slug": "xiaoying-eth-975178",
+  "seo_slug": "motion-graphics-by-xiaoying-eth",
+  "model": "gemini-4-argon",
+  "author": "xiaoying_eth",
+  "author_url": "https://x.com/xiaoying_eth",
+  "post_url": "https://x.com/xiaoying_eth/status/2116089284658975178",
+  "title": "有人发现了一份《越狱提示词大全》，不知道分享出来是否违规。",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "大全》，不知道分享出来是否违规。\n\n支持越狱的模型包括： Gemini-4-Argon、 deepseek-4-1、 glm-5-3-flash、 grok-4.7、 kimik3.1 等众多模型。\n\n完整教程如下：\n\n1. 新建一个文件夹\n2. 访问 https://t.co/VC1JoeKyYl\n3. 下载相应文件（根据要测试的模型选择）\n4. 重命名文件（如将 grok-4.7.md 改为 AGENTS.md）\n5. 用 opencode 打开文件，开始对话测试",
+  "prompt_partial": false,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 20635,
+   "captured_at": "2026-10-31"
+  }
  }
 ]
